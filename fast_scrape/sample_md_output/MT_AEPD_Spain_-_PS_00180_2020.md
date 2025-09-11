@@ -1,0 +1,238 @@
+ AEPD (Spain) - PS/00180/2020 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"ba53b7ef7f6484386189e0b1","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"AEPD\_(Spain)\_-\_PS/00180/2020","wgTitle":"AEPD (Spain) - PS/00180/2020","wgCurRevisionId":38213,"wgRevisionId":38213,"wgArticleId":2774,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["AEPD (Spain)","Spain","Article 13 GDPR","2020","Spanish"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"AEPD\_(Spain)\_-\_PS/00180/2020","wgRelevantArticleId":2774,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:AEPD_\(Spain\)_-_PS/00180/2020&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=AEPD_\(Spain\)_-_PS/00180/2020&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=AEPD_\(Spain\)_-_PS/00180/2020&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=AEPD+%28Spain%29+-+PS%2F00180%2F2020&returntoquery=oldid%3D38213 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# AEPD (Spain) - PS/00180/2020
+
+From GDPRhub
+
+Revision as of 14:07, 13 December 2023 by [Ar](/index.php?title=User:Ar&action=edit&redlink=1 "User:Ar (page does not exist)") ([talk](/index.php?title=User_talk:Ar&action=edit&redlink=1 "User talk:Ar (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Ar "Special:Contributions/Ar")) (Ar moved page [AEPD - PS/00180/2020](/index.php?title=AEPD_-_PS/00180/2020 "AEPD - PS/00180/2020") to [AEPD (Spain) - PS/00180/2020](/index.php?title=AEPD_\(Spain\)_-_PS/00180/2020 "AEPD (Spain) - PS/00180/2020"))
+
+([diff](/index.php?title=AEPD_\(Spain\)_-_PS/00180/2020&diff=prev&oldid=38213 "AEPD (Spain) - PS/00180/2020")) [← Older revision](/index.php?title=AEPD_\(Spain\)_-_PS/00180/2020&direction=prev&oldid=38213 "AEPD (Spain) - PS/00180/2020") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+AEPD - PS/00180/2020
+
+[![LogoES.jpg](/images/thumb/5/59/LogoES.jpg/250px-LogoES.jpg)](/index.php?title=File:LogoES.jpg)
+
+Authority:
+
+[AEPD (Spain)](/index.php?title=AEPD_\(Spain\) "AEPD (Spain)")
+
+Jurisdiction:
+
+[Spain](/index.php?title=Category:Spain "Category:Spain")
+
+Relevant Law:
+
+[Article 13 GDPR](/index.php?title=Article_13_GDPR "Article 13 GDPR")  
+[Article 22(2) of the Spanish Law on Information Society Services (LSSI)](https://www.boe.es/buscar/act.php?id=BOE-A-2002-13758)
+
+Type:
+
+Complaint
+
+Outcome:
+
+Upheld
+
+Started:
+
+Decided:
+
+Published:
+
+24.09.2020 Fine:
+
+1600 EUR
+
+Parties:
+
+Bodegas Dinastía, S.L.
+
+National Case Number/Name:
+
+PS/00180/2020
+
+European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+Unknown  
+
+Original Language(s):
+
+[Spanish](/index.php?title=Category:Spanish "Category:Spanish")
+
+Original Source:
+
+[AEPD decision (in ES)](https://www.aepd.es/es/documento/ps-00180-2020.pdf)
+
+Initial Contributor:
+
+Miguel Garrido de Vega
+
+The Spanish DPA (AEPD) decided to early finish the sanction procedure against the company Bodegas Dinastía, S.L. (the defendant) for the infringement of its information duties related to cookies, as per Article 22(2) of the Spanish Law on Information Society Services (LSSI) — amongst others, the Spanish law regulating cookies — and Article 13 of the GDPR. The defendant agreed to an early settlement of the case by paying a reduced fine (1,600 €) out of the total envisaged by the AEPD in case of ascertained violation (2,000 €).
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Dispute](#Dispute)
+    *   [1.3 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+The decision is the consequence of a sanction procedure started by the AEPD against the defendant due to a complaint submitted by a Spanish citizen (the claimant), stating that two websites of the defendant did not comply with the data protection legislation.
+
+### Dispute
+
+After the pleadings by the defendant in order to declare that, as soon as it received the claim, it proceeded to amend the situation, the AEPD carried out the corresponding investigation over the websites and proved that: (i) as per first website, the cookies banner at the first layer provides unprecise information, and the second layer only provides generic information on cookies, but not specific information on the identity or time of the own cookies., (ii) as per the second website, the cookies banner at the first layer provides unprecise information, it does not allow the possibility to access the cookies policy without accepting such cookies, and (once the banner disappears) there is no direct link to the cookies policy anywhere, except from two slight mentions at the privacy policy and legal warning. The AEPD started the corresponding sanction procedure.
+
+### Holding
+
+Without prejudice to the results of the final investigations corresponding to the sanction procedure, the AEPD understood that the defendant could have breached Article 22(2) LSSI: there is no identification of the data controller, there is no possibility to give a separate consent for each purpose, and there is not enough information on cookies. Consequently, after considering some aggravating and mitigating circumstances \[(i) culpability by the defendant, (ii) period of time in which the infringements have been happening, (iii) collaboration by the defendant, that has almost amended the situation (at least, regarding the privacy policy)\], the AEPD understood that, in case the sanction procedure resulted in a successful decision, this infringement would be fined with 2,000 € to the defendant. In this sense, the AEPD offered the defendant the possibility to settle the issue before the decision takes place by agreeing to a voluntary payment of part of the fine with two possible discounts: (i) acknowledging of its liability (1,600 €) and early voluntary payment (1,200 €). The defendant agreed to the early voluntary payment (but it did not acknowledge its liability), so it paid 1,600 € and the sanction procedure was closed by the AEPD.
+
+## Comment
+
+_Share your comments here!_
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the Spanish original. Please refer to the Spanish original for more details.
+
+Page 1
+1/13937-240719 Procedure No.: PS / 00180/2020RESOLUTION R / 00430/2020 OF TERMINATION OF THE PROCEDURE BY PAYMENTVOLUNTARYIn the sanctioning procedure PS / 00180/2020, instructed by the AgencySpanish Data Protection Agency to BODEGAS DINASTIA, SL , after the complaintsubmitted by AAA , and based on the following,BACKGROUNDFIRST: On July 10, 2020, the Director of the Spanish Agency forData Protection agreed to initiate a sanctioning procedure against BODEGASDINASTIA, SL (hereinafter, the claimed), through the Agreement that is transcribed:<<Procedure Nº: PS / 00180/2020935-240719AGREEMENT TO INITIATE THE SANCTIONING PROCEDUREOf the actions carried out by the Spanish Data Protection Agency beforethe entity, BODEGAS DINASTIA, SL, with CIF .: B13598214, owner of the pagesweb www.bodegasdinastia.com and www.tiendabodegasdinastia.com , (hereinafter, “theclaimed entity ”), by virtue of a complaint filed by Ms. AAA , (hereinafter,“The claimant”), and based on the following:ACTSFIRST: On 10/03/19, you entered this Agency, complaint filedby the claimant in which it indicated, among others, the following:"The websites, www.bodegasdinastia.com and www.tiendabodegasdinastia.com do not complycurrent regulations on data protection with its privacy policy,cookies, contact form, etc. Which I bring to your attention so thatcarry out the actions they deem appropriate and pertinent in this regard ”.SECOND: In view of the facts set forth in the claim and the documentsprovided by the claimant, the Subdirectorate General for Data Inspection proceededto carry out actions for its clarification, under the powers ofinvestigation granted to the control authorities in article 57.1 of the Regulation(EU) 2016/679 (RGPD). Thus, dated 02/17/20, an informative request is addressed tothe claimed entity.THIRD: On 06/11/20, the claimed entity presents, through its representativerepresentative, written in this Agency, in which, among others, it indicates:C / Jorge Juan, 6www.aepd.es28001 - Madridsedeagpd.gob.es
+Page 2
+2/13“This claim was brought to my knowledge on 03/09/20, to which effectcough, we proceeded to activate our own action protocol to correct the incidencein the fastest way possible.Legal texts were drawn up to introduce them as soon as possible inthe website of “Bodegas Dinastía”, since, after the prior risk analysis carried out,made by this lawyer, it was observed how, effectively in line with the claimtion carried out, said website did not meet the requirements established both in theRGPD. That, barely two days later, and in view of the health alert situationgenerated by COVID-19, since it had been decreed by the Government of Es-panes the state of alarm, through Royal Decree 463/2020, of March 14, with theconsequent paralysis, not only of administrative deadlines, but of societycivil in general.However, to the extent of the possibilities that teleworking allowed, he proceeded totry to solve the incident that occurred, communicating to Bode's IT serviceGas Dinastía the necessary instructions to comply with what is required, beingThe new legal texts were published on April 26 of this year, asyou can warn on the website itself. It is for this reason and no other that I askedWe sincerely apologize to this Agency for the delay in responding to theformulated requirement.At no time has the personal data provided to be used toother purposes that have not been the attention of requests for information or the resolutionof queries raised, without this person in charge having transferred data to third partiesmuch less, carried out treatments related to the sending of communicationsmarketing and advertising. On the contrary, at all times, in the short timeby the time elapsed since the launch of these online contact channels, until theauthorization and publication of our Privacy Policy, we have proceeded to the su-pressure and elimination of data once the requests had been satisfied and attendednes arrived through the web portal.BODEGAS DINASTIA SL as data controller for the purposes of the legislationapplication, and as the owner of the web domain https://bodegasdinastia.com, hasassigned to implement in it the privacy policies developed in response tosaber, adapting to the treatments carried out on personal data of theusers, in accordance with the provisions of art 13 of the RGP. Thus, from the dateindicated, on the web it can be found in a totally visible way, in the lower partabove, both from the «home», and from any of the available sections, link tonamed «Privacy Policy», in which the user, when he clicks, is taken to thedocument that develops it, complying with all the required formalitiesfor your presentation. That is, the wording is revealed clearly and concisely, sizeoptimal letter year, using language that is intelligible and understandable to the average reader.gave, as well as structuring of the information by clearly delimited paragraphs andwith title highlighted as a question to indicate the content being reportedin each one of them. On the other hand, regarding the content of the Privacy Policyrefers, the user will be able to find the mandatory information on Protection ofPersonal data in accordance with the provisions of the applicable regulations.tion as the European regulation itself, Organic Law 3/2018 of December 5,data protection and guarantee of digital rights, and Law 34/2002 of Services ofC / Jorge Juan, 6www.aepd.es28001 - Madridsedeagpd.gob.es
+Page 3
+3/13Information Society and Electronic Mail, compartmentalized and drawn up of theFollowing way:A- Identifying data of the person in charge: «Bodegas Dinastía SL»,B- Identification of the data collected.C- Purposes of the treatment.D- Legitimation of the treatments.E- On the time of conservation of the data.F- Recipients of the data.G- Rights of the interested parties.«BODEGAS DINASTÍA» has been diligent and consistent with the claim madetowards this entity, a circumstance that can be accredited according to the above pointspreviously exposed. That it is not the intention of «BODEGAS DINASTÍA» to transgressdir any legal normal, much less that of violating the rights of any userthat may be affected. That «BODEGAS DINASTÍA», becoming aware of the si-situation, has adopted a totally proactive policy, hiring the services ofprofessionals in the field, as previously accredited, to avoid any-whatever kind of incident. That «BODEGAS DINASTÍA» has not obtained any profit oreconomic or of any kind, with their actions through the website ”.FOURTH: On 06/15/20, consulted the website www.bodegasdinastia.com ,the following characteristics could be verified with respect to its "privacy policy"and its "cookie policy":a) Regarding the "Privacy Policy":At the bottom of the home page of the web, through the link to "Politics and Privacydad ”, you access the page http://bodegasdinastia.com/index.php/politica-de-privaci-dad , which is provided, inter alia, information on:- The person responsible for the treatment, collection, purpose and legitimacy.- The legal basis that is applied.- The rights of the users and the revocability of the consent.- The treatment of personal data and its conservation.- The right to file a claim.- The security applied to personal data.- The recipients of personal datab) Regarding the "Cookies Policy":b.1.) When accessing the web page (first layer), there is a banner at the bottomof the page with the following information about cookies:“We use cookies to improve your experience on the web.By continuing to browse, we understand that you accept its use."More info" - "ACCEPT"b.2.) If you access the "Cookies Policy", (second layer), through the link: "moreinfo ” , it provides, among others, information on:C / Jorge Juan, 6www.aepd.es28001 - Madridsedeagpd.gob.es
+Page 4
+4/13- What are cookies.- Types of existing cookies.- The authorization for the use of cookies, indicating that:"In accordance with the cookie notice that appears on the website, the user canexpressly consent to the use of cookies that require consent; however-go, the use of technical or necessary cookies does not require consent. Without prejudiceAfter all of this, the user can modify the configuration of their browser toreject the use of cookies ”.- How to modify the cookie settings, indicating that:“You can restrict, block or delete the cookies of BODEGAS DINASTIA or any-want another web page using your browser. In each browser the operation is di-front, you can find how to do it in the help menu of your browser wherethe procedure for its elimination is established ”.- About the cookies used on the web, it is indicated that:"In the web portal different types of cookies are used for different purposes, toThe cookies used are listed below: Google analytics and own ofJoomla ”.FIFTH: On 06/15/20, consulted the website, www.tiendabodegasdinastia.-com , the following characteristics can be verified with respect to its "Policy ofPrivacy ”and regarding its“ Cookies Policy ”:a) Regarding the Privacy Policy:At the bottom of the home page of the web, through the link to "Politics and Privacydad ”, you access the page: https://tiendabodegasdinastia.com/es/content/7-politica-de-privacy , in which, among others, information about:- The person responsible for the treatment, collection, purpose and legitimacy.- The legal basis that is applied.- The rights of the users and the revocability of the consent.- The treatment of personal data and its conservation.- The right to file a claim.- The security applied to personal data.- The recipients of personal datab) About the Cookies Policy of the website:b.1.) When accessing the web page (first layer), there is an information banner aboutcookies at the bottom of the page, with the following legend:“This store uses cookies and other technologies so that we can improve your experience.experience on our sites ”."To accept"C / Jorge Juan, 6www.aepd.es28001 - Madridsedeagpd.gob.es
+Page 5
+5/13The banner is designed in such a way that your "Privacy Policy" cannot be accessed.Vacity ”, or its“ Legal Notice ”or its“ Shipping Policy ”, if the installation is not accepted beforelation of cookies, since the banner is superimposed on these links making their access impossibleand it is not withdrawn until this "accept" operation is performed.Once the "cookies" banner has been removed by accepting these, it is verified that in thisinitial page, there is no link to its "Cookies Policy". However, there are tworeferences to cookies:a) .- On the "Legal Notice" page https://tiendabodegasdinastia.com/es/con-tent / 2-legal-notice , there is the following reference:“Cookies: BODEGAS DINASTIA uses cookies, in order to optimize and personalizecontrol your browsing of the website. Cookies are physical files of information thatare housed in the user's own terminal, the information collected through theCookies serve to facilitate user navigation through the portal and optimize the experiencenavigation experience. The data collected through cookies can be sharedparties with their creators, but in no case will the information obtainedgiven by them will be associated with personal data or data that can identifyto user.However, if the user does not want cookies to be installed on their hard drive, they have thepossibility of configuring the browser in such a way as to prevent the installation of thesefiles. For more information see our Cookies Policyhttps://bodegasdinastia.com/cookies policy ”.b) .- On the "Privacy Policy" page, https: //tiendabodegasdinastia.-com / en / content / 7-privacy-policy , there is the following reference to thecookies:"How do we use cookies? The website and RRSS of BODEGAS DINASTIA usezan cookies, in order to optimize and personalize your navigation through it.Cookies are physical files of information that are housed in the terminal itselfof the user, the information collected through cookies serves to facilitate navigation-tion of the user through the portal and optimize the browsing experience. The data collectedstored by cookies can be shared with the creators of the samemore, but in no case will the information obtained by them be associated withpersonal data or data that can identify the user.However, if the user does not want cookies to be installed on their hard drive, they have thepossibility of configuring the browser in such a way as to prevent the installation of thesefiles. For more information see our Cookies Policyhttps://bodegasdinastia.com/Cookies policy ”.SIXTH: In view of the facts denounced, in accordance with the evidence ofthat is available, the Data Inspection of this Spanish Agency for the Protection ofData considers the above, does not comply with current regulations, thereforethat the opening of this sanctioning procedure proceeds.C / Jorge Juan, 6www.aepd.es28001 - Madridsedeagpd.gob.es
+Page 6
+6/13FOUNDATIONS OF LAWICompetition:- About the Privacy Policy:By virtue of the powers that article 58.2 of Regulation (EU) 2016/679, of the ParliamentCouncil and European Council, of 04/27/16, regarding the Protection of Natural PersonsRegarding the Processing of Personal Data and the Free Circulation of es-The Data (RGPD) recognizes each Control Authority and, as established in thearts. 47, 64.2 and 68.1 of Organic Law 3/2018, of December 5, on the Protection ofPersonal Data and Guarantee of Digital Rights (LOPDGDD), the Director of theSpanish Data Protection Agency is competent to initiate this procedureI lie.Sections 1) and 2) of article 58 of the RGPD, list, respectively, theinvestigative and corrective powers that the supervisory authority may have at the disposal of theeffect, mentioning in point 1.d), that of: “ notify the person in charge or commission of thetreatment of alleged infringements of this Regulation ” and in 2.i), that of:“ Impose an administrative fine in accordance with article 83, in addition to or instead of themeasures mentioned in this section, according to the circumstances of eachcase.".- About the Cookies Policy:In accordance with the provisions of art. 43.1, second paragraph, of the Law34/2002, of July 11, on Services of the Information Society and CommerceElectronic (LSSI), is competent to initiate and resolve this ProcedureSanctioner, the Director of the Spanish Agency for Data Protection.IIOf the actions carried out, in relation to the "Privacy Policy" of the pagesclaimed website, the following is verified:In the present case, it has been verified that the web pages,www.bodegasdinastia.comand www.tiendabodegasdinastia.com have a sectionspecific "privacy policy", http://bodegasdinastia.com/index.php/politica-de-privacy and https://tiendabodegasdinastia.com/es/content/7-politica-de-privacidadrespectively, making mention of compliance with current regulations indata protection matters, it is informed about: the person responsible for the treatment, thecollection, purpose, legitimation of personal data; On the baselegal that applies; on the rights of users and the revocability of theconsent; on the purpose of the processing of personal data; about himright to file a claim; on the security applied to the data ofpersonal nature and about the recipients of personal data.In this sense, article 13 of the RGPD establishes the information that must beprovide the interested party at the time of collection of their personal data. Inparticular it is indicated that:C / Jorge Juan, 6www.aepd.es28001 - Madridsedeagpd.gob.es
+Page 7
+7/131.When personal data relating to him are obtained from an interested party, theresponsible for the treatment, at the time these are obtained, will provideall the information indicated below: a) the identity and contact details of theresponsible and, where appropriate, their representative; b) the delegate's contact detailsdata protection, if applicable; c) the purposes of the treatment for which thepersonal data and the legal basis of the treatment; d) when the treatment is basedin article 6, paragraph 1, letter f), the legitimate interests of the controller or athird; e) the recipients or categories of recipients of personal data,in your case; f) where appropriate, the intention of the person in charge of transferring personal data toa third country or international organization and the existence or absence of a decisionof adequacy of the Commission, or, in the case of transfers indicated in thearticles 46 or 47 or article 49.1, second paragraph, reference to guaranteesappropriate or appropriate and the means of obtaining a copy of these or the fact thatthat have been borrowed.2.In addition to the information mentioned in section 1, the person responsible for thetreatment will facilitate the interested party, at the time the data is obtainedpersonal information, the following information necessary to guarantee data processingloyal and transparent: a) the period during which the personal data will be kept or,when this is not possible, the criteria used to determine this period; b) theexistence of the right to request the data controller for access to the datapersonal data relating to the interested party, and their rectification or deletion, or the limitation of theirtreatment, or to oppose the treatment, as well as the right to the portability of thedata; c) when the treatment is based on article 6, paragraph 1, letter a), or theArticle 9, paragraph 2, letter a), the existence of the right to withdraw consent inat any time, without affecting the legality of the treatment based on theconsent prior to its withdrawal; d) the right to file a claim witha supervisory authority; e) if the communication of personal data is a requirementlegal or contractual, or a necessary requirement to enter into a contract, and if theinterested party is obliged to provide personal data and is informed of thepossible consequences of not providing such data; f) the existence of decisionsautomated, including profiling, referred to in article 22,paragraphs 1 and 4, and, at least in such cases, significant information on the logicapplied, as well as the importance and expected consequences of such treatmentfor the interested party.In the present case, according to the evidence available at this timeAccording to the agreement to initiate the sanctioning procedure, it is considered that the "Policy ofPrivacy ”of the denounced web pages does not contradict what is stipulated in theArticle 13 of the RGPD.IIIOf the actions carried out, in relation to the "Cookies Policy", of the pagesweb complaints and applying the recommendations set out in the "User Guide forCookies ”, published by this AEPD, in November 2019, the following is stated:1º.- Regarding the “Privacy Policy” of the page, www.bodegasdinastia.com :- In the first Layer, (initial page):C / Jorge Juan, 6www.aepd.es28001 - Madridsedeagpd.gob.es
+Page 8
+8/13The banner about cookies that is displayed when accessing the page, providesinformation that is not very concise or intelligible. By using the expression: “We use cookies tobe able to improve your experience on the web ” , induce confusion, distorting clarityof the message (point 3.1.2.1 of the guide). According to point 3.1.2.2. of the guide, theinformation to be provided in this layer is a generic identification ofthe purposes of the cookies that will be used, for example: “we use cookies tomake profiles based on user navigation " or, " know theUser behavior by analyzing their browsing for purposesadvertising ”.- In the second Layer, "Cookies Policy", through the link: "more info",notes the following:a) .- Generic information is provided about what cookies are or the types thatexist, but no information is provided on the identity and characteristics ofown cookies that are installed, nor the time they remain active on the computerterminal. Nor on the third-party cookies that are installed, indicating onlythat: "In the web portal different types of cookies are used for different purposes,The cookies used are listed below: Google analytics and own ofJoomla ”.b) .- In this second layer there is NO possibility of granular configuration ofcookies and / or the ability to reject all cookies.2º.- Regarding the “Privacy Policy” of the page,www.tiendabodegasdinastia.com :- In the first Layer, (initial page):a) .- The banner about cookies that is displayed when accessing the page, providesinformation that is not very concise or intelligible. By using the expression: “ This store usescookies and other technologies so that we can improve your experience on oursites ”, induce confusion, distorting the clarity of the message (point 3.1.2.1 of theguide). According to point 3.1.2.2. of the guide, the information to be provided inThis layer is a generic identification of the purposes of the cookies that arewill use, for example: “We use cookies to make profiles based on thenavigation of users "or," know the behavior of the user through theanalysis of your browsing for advertising purposes ”.b) .- The banner is designed in such a way that it is not possible to access the "policy ofprivacy "," legal notice "or" shipping policy ", if the installation ofcookies, since the banner is superimposed on these links and is not removed untilperform this operation.c) .- Once the "cookies" banner has been removed, it is verified that, on this initial page,there is no link to the "cookie policy".d) .- However, there are two references to the cookie policy, both on the"Legal notice": https://tiendabodegasdinastia.com/es/content/2-aviso-legal as in the"privacy policy" page, https://tiendabodegasdinastia.com/es/content/7-C / Jorge Juan, 6www.aepd.es28001 - Madridsedeagpd.gob.es
+Page 9
+9/13privacy-policy , where after informing in a generic way about thecookies, refer to the "Cookies Policy", https://bodegasdinastia.com/política forget more information.IVThe facts set forth in section III could imply on the part of the entityclaimed the commission of the violation of article 22.2 of the LSSI, according to which:“Service providers may use storage devices anddata recovery on recipient terminal equipment, provided thatthey have given their consent after they have been providedclear and complete information on its use, in particular, on the purposes of thedata processing, in accordance with the provisions of Organic Law 15/1999, of 13December, protection of personal data.When technically possible and effective, the consent of the recipient toaccept the data processing may be facilitated by using the parametersfrom the browser or other applications.The foregoing will not prevent possible storage or access of a technical nature to onlyin order to carry out the transmission of a communication over a communication networkelectronic or, to the extent strictly necessary, for the provision ofa service of the information society expressly requested by theaddressee".This offense is classified as "slight" in article 38.4 g), of the aforementioned Law, whichconsiders as such: “ Use data storage and recovery deviceswhen the information has not been provided or the consent of therecipient of the service in the terms required by article 22.2. ”, which may besanctioned with a fine of up to € 30,000, in accordance with article 39 of the aforementionedLSSI.After the evidence obtained in the preliminary investigation phase, and without prejudice towhat results from the instruction, it is considered that the sanction should beimpose in accordance with the following aggravating criteria, established in art. 40 ofthe LSSI:- The existence of intentionality, an expression that must be interpreted asequivalent to degree of guilt according to the Judgment of theNational Court of 11/12/07 relapse in Appeal no. 351/2006,corresponding to the entity denounced the determination of a system ofobtaining the informed consent that conforms to the mandate of the LSSI.- Period of time during which the offense has been committed, as theclaim for the month of October 2019, (section b). a) When it is appreciateda qualified reduction of the guilt of the accused or of theunlawfulness of the fact as a consequence of the significant concurrence ofseveral of the criteria set forth in article 40.However, as mitigating criteria, it should be taken into account that the entityviolator has diligently regularized the irregular situation, with regard to theC / Jorge Juan, 6www.aepd.es28001 - Madridsedeagpd.gob.es
+Page 10
+10/13"Privacy Policy" of its web pages, not the "Cookies Policy" thatit must be adapted to current regulations.Based on these criteria, it is deemed appropriate to impose on the claimed entitya penalty of:- 1,000 euros (one thousand euros), for the violation of article 22.2 of the LSSI by theCookies policy carried out on the website, www.bodegasdinastia.com .- 1,000 euros (one thousand euros), for the violation of article 22.2 of the LSSI by thecookie policy made on the website,www.tiendabodegasdinastia.com .Therefore, it is considered appropriate to impose on the claimed entity a total sanction of2,000 euros (two thousand euros). Therefore, based on the foregoing, by theDirector of the Spanish Agency for Data Protection,HE REMEMBERS:START: SANCTIONING PROCEDURE against the entity, BODEGAS DINASTIA,SL, with CIF .: B13598214, owner of the web pages: www.bodegasdinastia.com andwww.tiendabodegasdinastia.com , for Violation of article 22.2) of the LSSI, sanction-nable in accordance with the provisions of art. 39) and 40) of the aforementioned Law, regarding its Po-Cookies policy.APPOINT: as Instructor to DRRR, and Secretary, where appropriate, to Ms. SSS , indi-Whereas any of them may be challenged, if applicable, in accordance with the provisionscido in articles 23 and 24 of Law 40/2015, of October 1, on the Legal Regime of thePublic Sector (LRJSP).INCORPORATE: to the sanctioning file, for evidentiary purposes, the inter-put by the claimant and its documentation, the documents obtained and generatedby the Subdirectorate General for Data Inspection during the investigation phasenes, all of them part of the present administrative file.WHAT: for the purposes provided for in art. 64.2 b) of Law 39/2015, of October 1, onCommon Administrative Procedure of Public Administrations, the sanction thatcould correspond would be 2,000 euros (two thousand euros = 1,000 euros + 1,000 euros-ros), for the violation of article 22.2) of the LSSI, regarding the "Cookies Policy",on their web pages, without prejudice to what results from the instruction of this expe-tooth.WHAT: in accordance with article 58.2 of the RGPD, in relation to article 43.1of the LSSI, the corrective measure that could be imposed on the entity BODEGAS DINAS-TIA, SL would consist of ORDERING YOU, under the provisions of section d) ofprecept, to adopt the necessary measures to adapt the banner on cookies fromthe web pages of their ownership and include in the second layer, a mechanism that allowsmita manage cookies, for which, you can follow the recommendations indicatedin the "Guide on Cookies" edited by the Spanish Agency for Data Protection,in November 2019. Measures to be taken within one monthC / Jorge Juan, 6www.aepd.es28001 - Madridsedeagpd.gob.es
+Page 11
+11/13computed from the date on which, in your case, you are notified of the sanction resolutionnadora.NOTIFY: this agreement to initiate the sanctioning file to the entity BO-DEGAS DINASTIA, SL, granting a hearing period of ten business days toto make the allegations and present the evidence it deems appropriate.If within the stipulated period it does not make allegations to this initiation agreement, the sameIt may be considered a resolution proposal, as established in article64.2.f) of Law 39/2015, of October 1, on the Common Administrative Procedure ofthe Public Administrations (hereinafter, LPACAP).In accordance with the provisions of article 85 of the LPACAP, in the event that thepenalty to be imposed would be a fine, you may recognize your responsibility within thezo granted for the formulation of allegations to this initiation agreement; whatwill entail a reduction of 20% of the penalty to be imposed in thepresent procedure, equivalent in this case to 400 euros. With the application ofthis reduction, the penalty would be set at 1,600 euros, resolving theyield with the imposition of this sanction.In the same way, you may, at any time prior to the resolution of thisprocedure, carry out the voluntary payment of the proposed sanction, whichwill give a reduction of 20% of the amount thereof, equivalent in this case to 400euros. With the application of this reduction, the penalty would be set at 1,600euros and its payment will imply the termination of the procedure.The reduction for the voluntary payment of the penalty is cumulative to the correspondingapply for the recognition of responsibility, provided that this recognitionof responsibility is made manifest within the period granted to formulateallegations at the opening of the procedure. The voluntary payment of the referred amountin the previous paragraph it may be done at any time prior to the resolution. InIn this case, if both reductions should be applied, the amount of the penalty would beset at 1,200 euros (one thousand two hundred euros).In any case, the effectiveness of either of the two mentioned reductions will beconditioned to the withdrawal or resignation of any action or remedy in the administrationtrative against the sanction.If you choose to proceed to the voluntary payment of any of the amounts indicatedpreviously, you must make it effective by entering account number ES000000 0000 0000 0000 0000 opened in the name of the Spanish Agency for the Protection ofData in Banco CAIXABANK, SA, indicating in the concept the reference numbercia of the procedure that appears in the heading of this document and the causereduction of the amount to which it is accepted.Likewise, you must send proof of admission to the Subdirectorate General of Ins-to continue with the procedure in accordance with the amount entered.gives.The procedure will have a maximum duration of nine months from the date of theC / Jorge Juan, 6www.aepd.es28001 - Madridsedeagpd.gob.es
+Page 12
+12/13cha of the initiation agreement or, where appropriate, the draft initiation agreement. Elapsedthat period will expire and, consequently, the file of actions; ofin accordance with the provisions of article 64 of the LOPDGDD. Finally, it is pointed outwhich according to the provisions of article 112.1 of the LPACAP, against the presentAct there is no administrative appeal.Mar Spain MartíDirector of the Spanish Agency for Data Protection.>>SECOND: On September 11, 2020, the defendant has made the paymentof the sanction in the amount of 1600 euros making use of one of the tworeductions provided for in the Inception Agreement transcribed above. Therefore, it has notThe acknowledgment of responsibility has been accredited.THIRD : The payment made entails the waiver of any action or remedy in progressadministrative against the sanction, in relation to the facts to which theInitiation Agreement.FOUNDATIONS OF LAWIBy virtue of the powers that article 58.2 of the RGPD recognizes to each authority ofcontrol, and as established in art. 47 of Organic Law 3/2018, of 5December, Protection of Personal Data and guarantee of digital rights (inhereinafter LOPDGDD), the Director of the Spanish Agency for Data Protectionis competent to sanction the infractions that are committed against saidRegulation; infractions of article 48 of Law 9/2014, of May 9, Generalof Telecommunications (hereinafter LGT), in accordance with the provisions of thearticle 84.3 of the LGT, and the offenses typified in articles 38.3 c), d) and i) and38.4 d), g) and h) of Law 34/2002, of July 11, on services of the company of theinformation and electronic commerce (hereinafter LSSI), as provided in article43.1 of said Law.IIArticle 85 of Law 39/2015, of October 1, on Administrative ProcedureCommon of Public Administrations (hereinafter LPACAP), under the rubric" Termination of sanctioning procedures " provides the following:"one. Initiated a sanctioning procedure, if the offender acknowledges hisresponsibility, the procedure may be resolved with the imposition of the sanctionthat proceeds.C / Jorge Juan, 6www.aepd.es28001 - Madridsedeagpd.gob.es
+Page 13
+13/132. When the sanction is solely of a pecuniary nature or it fitsimpose a pecuniary and a non-pecuniary sanction but it has been justifiedthe inadmissibility of the second, the voluntary payment by the presumed responsible, inany time prior to the resolution, will imply the termination of the procedure,Except for the replacement of the altered situation or the determination of thecompensation for damages caused by the commission of the offense.3. In both cases, when the penalty is solely of a pecuniary nature,the competent body to resolve the procedure will apply reductions of, atless, 20% on the amount of the proposed penalty, these being cumulativeeach. The aforementioned reductions must be determined in the notification ofinitiation of the procedure and its effectiveness will be conditional on the withdrawal orwaiver of any action or appeal in administrative proceedings against the sanction.The percentage of reduction foreseen in this section may be increasedregulations. "In accordance with the above,the Director of the Spanish Agency for Data Protection RESOLVES:FIRST: DECLARE the termination of procedure PS / 00180/2020 , ofin accordance with the provisions of article 85 of the LPACAP.SECOND: NOTIFY this resolution to BODEGAS DINASTIA, SL .In accordance with the provisions of article 50 of the LOPDGDD, theThis Resolution will be made public once it has been notified to the interested parties.Against this resolution, which puts an end to the administrative procedure as prescribed bythe art. 114.1.c) of Law 39/2015, of October 1, on Administrative ProcedureCommon of Public Administrations, interested parties may file an appealadministrative litigation before the Contentious-Administrative Chamber of theNational High Court, in accordance with the provisions of article 25 and section 5 ofthe fourth additional provision of Law 29/1998, of July 13, regulating theContentious-Administrative Jurisdiction, within a period of two months from theday following notification of this act, as provided in article 46.1 of thereferred Law.
+Mar España Martí
+Director of the Spanish Agency for Data Protection
+
+Retrieved from "[https://gdprhub.eu/index.php?title=AEPD\_(Spain)\_-\_PS/00180/2020&oldid=38213](https://gdprhub.eu/index.php?title=AEPD_\(Spain\)_-_PS/00180/2020&oldid=38213)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [AEPD (Spain)](/index.php?title=Category:AEPD_\(Spain\) "Category:AEPD (Spain)")
+*   [Spain](/index.php?title=Category:Spain "Category:Spain")
+*   [Article 13 GDPR](/index.php?title=Category:Article_13_GDPR "Category:Article 13 GDPR")
+*   [2020](/index.php?title=Category:2020 "Category:2020")
+*   [Spanish](/index.php?title=Category:Spanish "Category:Spanish")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/AEPD_\(Spain\)_-_PS/00180/2020 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/AEPD_\(Spain\)_-_PS/00180/2020 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=AEPD_\(Spain\)_-_PS/00180/2020&oldid=38213 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=AEPD_\(Spain\)_-_PS/00180/2020&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=AEPD_%28Spain%29_-_PS%2F00180%2F2020&id=38213&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 13 December 2023, at 14:07.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.037","walltime":"0.057","ppvisitednodes":{"value":412,"limit":1000000},"postexpandincludesize":{"value":1578,"limit":2097152},"templateargumentsize":{"value":665,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":34448,"limit":5000000},"timingprofile":\["100.00% 5.802 1 Template:DPAdecisionBOX","100.00% 5.802 1 -total"\]},"cachereport":{"timestamp":"20250829195240","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":870});});

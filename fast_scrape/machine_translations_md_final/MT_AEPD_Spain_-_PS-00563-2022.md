@@ -1,0 +1,1 @@
+The campaign, launched by the Spanish Data Protection Authority and the Spanish Association of Pediatrics, promotes the digital health of minors through the awareness of their parents, reducing the risks posed at a physical, mental and social level by intensive and uncontrolled use of digital screens.

@@ -1,0 +1,25 @@
+Inquiry into City of Dublin Education and Training Board (CDETB)
+
+The Data Protection Commission (DPC) has today announced its final decision (Decision) following an inquiry into a personal data breach at the City of Dublin Education and Training Board (CDETB). The DPC commenced this inquiry on an own-volition basis in July 2019. The inquiry related to a personal data breach notified by CDETB in November 2018, following CDETB’s discovery that its webserver was retaining the personal data of student grant applicants who had uploaded information related to their grant applications through CDETB’s website, as well as the discovery of malware on the webserver.
+
+The data processed included approximately 13,000 data subjects, identifiable by email address, who had submitted supplementary forms through the CDETB website during 2017 and 2018. The personal data at risk due to the security incident included data subject identity (name, surname, and birth date), PPSN, contact details, identification data and special categories of data such as data revealing racial or ethnic origin and health data.
+
+The DPC assessed CDETB’s technical and organisational measures for ensuring the security of personal data that it processed on its website in light of the risks presented. Those risks included the risk of unauthorised access or disclosure of personal data to third parties. They also included risks of accidental or unlawful destruction, alteration or loss of availability of the personal data processed on the website.
+
+The DPC also examined CDETB’s compliance with its obligation to notify breaches to the DPC promptly, as well as CDETB’s obligation to notify data subjects of the breach. In this matter, the DPC specifically requested CDETB to notify affected data subjects, but it declined to do so.
+
+The DPC’s Decision finds that CDETB:
+
+Infringed Articles 5(1)(f), 32(1) and 32(2) GDPR by failing to implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk presented by its processing of personal data on its website, and by failing to assess the appropriate level of security, Infringed Article 33(1) GDPR by failing to notify the DPC of the breach without undue delay, Infringed Article 34(1) GDPR by failing to notify the affected data subjects of the breach without undue delay, and Infringed Article 34(4) GDPR by failing to communicate the breach to data subjects when required to do so by the DPC.
+
+The DPC reprimanded CDETB, imposed administrative fines totalling €125,000 and ordered CDETB to bring its processing into compliance with the security requirements of the GDPR.
+
+The DPC will publish the Decision and a summary in due course.
+
+Notice to Organisations
+
+This Decision represents the second time in approximately six months that the DPC has sanctioned a public sector body for infringements related to a failure to ensure risk-appropriate security measures are implemented, as a well as a failure to notify the DPC of a data breach without undue delay. The DPC therefore again emphasises that it is vitally important that organisations ensure that the risks related to processing personal data are assessed and that processing is carried out in a manner that ensures appropriate security, through the implementation of the necessary technical and organisational measures required under the GDPR. In addition, data controllers must also ensure that they comply with their statutory obligation to notify the DPC of a breach without undue delay where that breach is likely to result in a risk to the rights and freedoms of data subjects.
+
+Where the risk to the rights and freedoms of data subjects is likely to be high (and where none of the conditions set out under Article 34(3) are met), data controllers must ensure that the data breach is communicated to data subjects without undue delay. Data controllers should also be aware that the DPC is empowered to direct a data controller to communicate a breach to data subjects in accordance with Article 34(4) GDPR. Where, as in this case, the DPC issues a data controller with such a direction, it is vitally important for that data controller to act without delay in doing so.
+
+Notwithstanding the infringements identified in its Decision, the DPC commends the tenor and tone of CDETB’s engagement with the DPC since being presented with the DPC’s proposed findings in a draft version of its Decision. The fines set out above, totalling €125,000, are substantially lower than the fining range proposed in the draft Decision, the maximum of which was €210,000. The final fines reflect the mitigation occasioned by CDETB accepting each of the findings of infringements set out in the draft Decision, acknowledging full responsibility for the breach, apologising to both the data subjects affected and the DPC and in proactively taking steps, without having specifically been directed to do so by the DPC, to reduce the likelihood of similar breaches occurring in future.

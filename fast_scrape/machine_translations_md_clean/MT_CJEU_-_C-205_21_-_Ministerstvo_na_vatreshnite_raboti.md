@@ -1,0 +1,652 @@
+# CJEU - C-205/21 - Ministerstvo na vatreshnite raboti
+
+## Case Information
+
+**Court:** CJEU
+
+**Jurisdiction:** European Union
+
+**Relevant Law:** Article 9 GDPRArticle 10 Directive 2016/680Article 4(1) Directive (EU) 2016/680Article 52 Directive 2016/680Article 6(a) Directive 2016/680Article 63 Directive 2016/680Article 8 Directive 2016/680Article 9 Directive 2016/680Nakazatelen kodeks (Bulgarian Criminal Code)Nakazatelno-protsesualen kodeks (Code of Criminal Procedure)zakon sa Ministerstvo na vatreshnite raboti (Law on the Ministry of the Interior)zakon za zashtita na lichnite danni (Law on the protection of personal data)
+
+**Decided:** 26.01.2023
+
+**Parties:** Spetsializiran nakazatelen sad (Specialised Criminal Court, Bulgaria)
+
+**Case Number/Name:** C-205/21
+
+**European Case Law Identifier:** ECLI:EU:C:2023:49
+
+**Language:** 24 EU Languages
+
+**Initial Contributor:** xameliaa.a
+
+  
+
+The CJEU ruled that member states had to provide clarity on the matter which legal instrument was applicable, in a situation where both the GDPR and EU Directive 2016/680 applied to the processing of genetic and biometric data for law enforcement purposes.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+A data subject was accused of a criminal offence and refused to consent to the collection of her genetic and biometric data (Photographs and fingerprints), which the Bulgarian Police required to create a record. The data subject also refused to let the police take a sample for the purpose of creating a DNA profile. In the end, the police did not collect this data.
+
+The police went to a Bulgarian Criminal court (Spetsializiran nakazatelen sad), which was also the referring court in this case. Here, the police asked the court to authorise the forced collection of the genetic and biometric data, considering there was enough evidence to convict the data subject of the crime. The police position was mostly based on Bulgatian law (ZMVR, Law of the ministry of Home affairs) authorising the collection of biometric and genetic data for, among the others, law and order purposes. However, the referring court had doubts whether the such law was actually compliant with EU law.
+
+This Bulgarian law did refer to [Article 9 GDPR](/index.php?title=Article_9_GDPR "Article 9 GDPR"), but did not refer to [EU directive 2016/680](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016L0680&from=DE#d1e1816-89-1). The latter is an EU directive which concerns the protection of personal data regarding processing of competent authorities for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties. This directive states that the processing of certain special category data, including genetic and biometric data, can be lawful if this is compliant with EU law or national law. The Bulgarian law had even taken over some of the wording from Article 10(a) of this directive for its national provision.
+
+The court determined that there were two problems resulting from the fact that this national law contained a reference to the GDPR, but did not mention the aforementioned directive. The first problem was the fact that the GDPR was not applicable to the processing of personal data with regard to criminal investigations, pursuant to [Article 2(2)(d) GDPR](/index.php?title=Article_2_GDPR "Article 2 GDPR"). The second problem was the fact that [Article 9 GDPR](/index.php?title=Article_9_GDPR "Article 9 GDPR") prohibited the processing of genetic and biometric data. The court also reiterated that a law enforcement purpose could not fall under one of the exceptions under [Article 9(2) GDPR](/index.php?title=Article_9_GDPR "Article 9 GDPR").
+
+The referring court referred several questions to the CJEU. The main issue was to know whether the processing of genetic and biometric data for purposes of criminal investigations in this case was permissible under the national law, despite the mention of [Article 9 GDPR](/index.php?title=Article_9_GDPR "Article 9 GDPR"), and despite the fact that [EU directive 2016/680](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016L0680&from=DE#d1e1816-89-1) was not mentioned in the national law.
+
+### Holding
+
+_First_, The CJEU determined that both [Article 9 GDPR](/index.php?title=Article_9_GDPR "Article 9 GDPR") and Article 10 of the directive contain provisions regarding the processing of special categories of personal data, including biometric en genetic data.
+
+_Second_, The CJEU determined that processing of biometric and genetic data by the police authorities _could_ be permissible, as long as this processing fell under Article 10(a) of the directive. This meant that the processing had to be strictly necessary, with adequate safeguards and was provided for in national / EU law, pursuant to Article 52 CFR. However, it could still be unlawful to process this data, when this processing also fell within the scope of the GDPR.
+
+_Third,_ The court stated that the requirement of _''authorised by Union or Member State' law'_ in Article 10a of the directive must be interpreted pursuant to Article 52(1) CFR, which states that any limitation on the exercise of a fundamental right _"must be ‘provided for by law_". The legal basis which is used for this limitation (in this case, the legal basis was the Bulgarian law), must define the scope of the limitation sufficiently clearly and precisely. This meant that there should not be any uncertainty about the laws concerning - or the conditions of the processing of genetic and biometric data.
+
+However, The CJEU also noted that these conditions of processing could vary between the GDPR and the directive. In this context, The CJEU determined that the member states were free to organise their processing operations under either the GDPR or the aforementioned directive. However, member states would have to make sure that there would be no uncertainty about the fact which law would be applicable to different kinds of processing of biometric/genetic data.
+
+_Fourth_, The court also determined that member states were not obligated to cite the directive in the national law itself when they were transposing this directive into national law. It was therefore not necessary for the Bulgarian legislature to mention directive 2016/680 in its transposed national provisions.
+
+_Fifth_, the CJEU noted that national courts had the obligation to explain the national law. For this explanation, the national court had to consider the wording of the directive and the context of the directive. This was an obligation pursuant to Article 288 TFEU, which was applicable to all public bodies of a member state, including national courts. In the present case, where there was an obvious conflict between the GDPR and the directive, the national court had to provide an explanation which would keep the useful working of the directive intact. The CJEU stated that it was up to the national court to determine if the reference to [Article 9 GDPR](/index.php?title=Article_9_GDPR "Article 9 GDPR") in the Bulgarian law was even correct.
+
+The court concluded that it was up to the national court to assess the case. In summary, the Court noted that the processing of the biometric and genetic data by the police could be lawful in this case if it fell under Article 10(a) of the directive. Also, the national implementation of the directive needed to have a sufficiently clear and precise legal basis for the processing of biometric/genetic data by the Bulgarian police. The fact that [Article 9 GDPR](/index.php?title=Article_9_GDPR "Article 9 GDPR") was mentioned in this law was of no consequence for the legality of this processing, nor was the fact that the directive was not mentioned in the national implementation. However, the explanation by the national court of this Bulgarian law had to be sufficiently precise and clear. Also, this explanation of the national court should state in an unequivocal manner whether certain processing of biometric and genetic data would fall under the directive, or would fall under the GDPR.
+
+## Comment
+
+This summary only focusses on the first and second preliminary questions, since the third and the fourth question do not relate to the GDPR but solely to directive 2016/680 and the CFR.
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the English original. Please refer to the English original for more details.
+
+```
+text
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+
+26 January 2023 (\*)
+
+(Reference for a preliminary ruling – Protection of natural persons with regard to the processing of personal data – Directive (EU) 2016/680 – Article 4(1)(a) to (c) – Principles relating to processing of personal data – Purpose limitation – Data minimisation – Article 6(a) – Clear distinction between personal data of different categories of data subjects – Article 8 – Lawfulness of processing – Article 10 – Transposition – Processing of biometric data and genetic data – Concept of ‘processing authorised by Member State law’ – Concept of ‘strictly necessary’ – Discretion – Charter of Fundamental Rights of the European Union – Articles 7, 8, 47, 48 and 52 – Right to effective judicial protection – Presumption of innocence – Limitation – Intentional criminal offence subject to public prosecution – Accused persons – Collection of photographic and dactyloscopic data in order for them to be entered in a record and taking of a biological sample for the purpose of creating a DNA profile – Procedure for enforcement of collection – Systematic nature of the collection)
+
+In Case C‑205/21,
+
+REQUEST for a preliminary ruling under Article 267 TFEU from the Spetsializiran nakazatelen sad (Specialised Criminal Court, Bulgaria), made by decision of 31 March 2021, received at the Court on 31 March 2021, in the criminal proceedings against
+
+V.S.,
+
+third party:
+
+Ministerstvo na vatreshnite raboti, Glavna direktsia za borba s organiziranata prestapnost,
+
+THE COURT (Fifth Chamber),
+
+composed of E. Regan, President of the Chamber, D. Gratsias (Rapporteur), M. Ilešič, I. Jarukaitis and Z. Csehi, Judges,
+
+Advocate General: G. Pitruzzella,
+
+Registrar: A. Calot Escobar,
+
+having regard to the written procedure,
+
+after considering the observations submitted on behalf of:
+
+–        the Bulgarian Government, by M. Georgieva and T. Mitova, acting as Agents,
+
+–        the French Government, by R. Bénard, A.-L. Desjonquères, D. Dubois and T. Stéhelin, acting as Agents,
+
+–        the European Commission, by H. Kranenborg, M. Wasmeier and I. Zaloguin, acting as Agents,
+
+after hearing the Opinion of the Advocate General at the sitting on 30 June 2022,
+
+gives the following
+
+Judgment
+
+1        This request for a preliminary ruling concerns the interpretation of Article 4(1)(a) and (c), Article 6(a) and Articles 8 and 10 of Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA (OJ 2016 L 119, p. 89), and of Articles 3, 8, 48 and 52 of the Charter of Fundamental Rights of the European Union (‘the Charter’).
+
+2        The request has been made in criminal proceedings instituted against V.S., who, after being accused, refused to consent to collection by the police of her biometric and genetic data in order for them to be entered in a record.
+
+ Legal context
+
+ European Union law
+
+ The GDPR
+
+3        Recital 19 of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ 2016 L 119, p. 1; ‘the GDPR’), states:
+
+‘The protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security and the free movement of such data, is the subject of a specific Union legal act. This Regulation should not, therefore, apply to processing activities for those purposes. …’
+
+4        Article 2 of the GDPR, headed ‘Material scope’, provides in paragraphs 1 and 2:
+
+‘1.      This Regulation applies to the processing of personal data wholly or partly by automated means and to the processing other than by automated means of personal data which form part of a filing system or are intended to form part of a filing system.
+
+2.      This Regulation does not apply to the processing of personal data:
+
+(a)      in the course of an activity which falls outside the scope of Union law;
+
+…
+
+(d)      by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security.’
+
+5        Article 9 of the GDPR, headed ‘Processing of special categories of personal data’, provides in paragraphs 1, 2 and 4:
+
+‘1.      Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation shall be prohibited.
+
+2.      Paragraph 1 shall not apply if one of the following applies:
+
+(a)      the data subject has given explicit consent to the processing of those personal data for one or more specified purposes, …
+
+(b)      processing is necessary for the purposes of carrying out the obligations and exercising specific rights of the controller or of the data subject in the field of employment and social security and social protection law …
+
+(c)      processing is necessary to protect the vital interests of the data subject or of another natural person …
+
+(d)      processing is carried out in the course of its legitimate activities with appropriate safeguards by a foundation, association or any other not-for-profit body with a political, philosophical, religious or trade union aim …
+
+(e)      processing relates to personal data which are manifestly made public by the data subject;
+
+(f)      processing is necessary for the establishment, exercise or defence of legal claims or whenever courts are acting in their judicial capacity;
+
+(g)      processing is necessary for reasons of substantial public interest, on the basis of Union or Member State law which shall be proportionate to the aim pursued, respect the essence of the right to data protection and provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject;
+
+(h)      processing is necessary for the purposes of preventive or occupational medicine, for the assessment of the working capacity of the employee, medical diagnosis, the provision of health or social care or treatment or the management of health or social care systems and services …
+
+(i)      processing is necessary for reasons of public interest in the area of public health, such as protecting against serious cross-border threats to health or ensuring high standards of quality and safety of health care and of medicinal products or medical devices, on the basis of Union or Member State law which provides for suitable and specific measures to safeguard the rights and freedoms of the data subject, in particular professional secrecy;
+
+(j)      processing is necessary for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes …
+
+…
+
+4.      Member States may maintain or introduce further conditions, including limitations, with regard to the processing of genetic data, biometric data or data concerning health.’
+
+ Directive 2016/680
+
+6        Recitals 9 to 12, 14, 26, 27, 31 and 37 of Directive 2016/680 state:
+
+‘(9)      … \[the GDPR\] lays down general rules to protect natural persons in relation to the processing of personal data and to ensure the free movement of personal data within the Union.
+
+(10)      In Declaration No 21 on the protection of personal data in the fields of judicial cooperation in criminal matters and police cooperation, annexed to the final act of the intergovernmental conference which adopted the Treaty of Lisbon, the conference acknowledged that specific rules on the protection of personal data and the free movement of personal data in the fields of judicial cooperation in criminal matters and police cooperation based on Article 16 TFEU may prove necessary because of the specific nature of those fields.
+
+(11)      It is therefore appropriate for those fields to be addressed by a directive that lays down the specific rules relating to the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security, respecting the specific nature of those activities. …
+
+(12)      The activities carried out by the police or other law-enforcement authorities are focused mainly on the prevention, investigation, detection or prosecution of criminal offences, including police activities without prior knowledge if an incident is a criminal offence or not. … Member States may entrust competent authorities with other tasks which are not necessarily carried out for the purposes of the prevention, investigation, detection or prosecution of criminal offences, including the safeguarding against and the prevention of threats to public security, so that the processing of personal data for those other purposes, in so far as it is within the scope of Union law, falls within the scope of \[the GDPR\].
+
+…
+
+(14)      Since this Directive should not apply to the processing of personal data in the course of an activity which falls outside the scope of Union law, activities concerning national security, activities of agencies or units dealing with national security issues and the processing of personal data by the Member States when carrying out activities which fall within the scope of Chapter 2 of Title V of the \[EU Treaty\] should not be considered to be activities falling within the scope of this Directive.
+
+…
+
+(26)      … The personal data should be adequate and relevant for the purposes for which they are processed. It should, in particular, be ensured that the personal data collected are not excessive and not kept longer than is necessary for the purpose for which they are processed. Personal data should be processed only if the purpose of the processing could not reasonably be fulfilled by other means. …
+
+(27)      For the prevention, investigation and prosecution of criminal offences, it is necessary for competent authorities to process personal data collected in the context of the prevention, investigation, detection or prosecution of specific criminal offences beyond that context in order to develop an understanding of criminal activities and to make links between different criminal offences detected.
+
+…
+
+(31)      It is inherent to the processing of personal data in the areas of judicial cooperation in criminal matters and police cooperation that personal data relating to different categories of data subjects are processed. Therefore, a clear distinction should, where applicable and as far as possible, be made between personal data of different categories of data subjects such as: suspects; persons convicted of a criminal offence; victims and other parties, such as witnesses; persons possessing relevant information or contacts; and associates of suspects and convicted criminals. This should not prevent the application of the right of presumption of innocence as guaranteed by the Charter and by the \[Convention for the Protection of Human Rights and Fundamental Freedoms, signed in Rome on 4 November 1950 (the ECHR)\], as interpreted in the case-law of the Court of Justice and by the European Court of Human Rights respectively.
+
+…
+
+(37)      Personal data which are, by their nature, particularly sensitive in relation to fundamental rights and freedoms merit specific protection as the context of their processing could create significant risks to the fundamental rights and freedoms. …’
+
+7        Article 1 of Directive 2016/680, headed ‘Subject matter and objectives’, provides in paragraphs 1 and 2:
+
+‘1.      This Directive lays down the rules relating to the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security.
+
+2.      In accordance with this Directive, Member States shall:
+
+(a)      protect the fundamental rights and freedoms of natural persons and in particular their right to the protection of personal data; …
+
+(b)      ensure that the exchange of personal data by competent authorities within the Union, where such exchange is required by Union or Member State law, is neither restricted nor prohibited for reasons connected with the protection of natural persons with regard to the processing of personal data.’
+
+8        Article 2 of Directive 2016/680, headed ‘Scope’, provides in paragraphs 1 and 3:
+
+‘1.      This Directive applies to the processing of personal data by competent authorities for the purposes set out in Article 1(1).
+
+…
+
+3.      This Directive does not apply to the processing of personal data:
+
+(a)      in the course of an activity which falls outside the scope of Union law;
+
+…’
+
+9        As set out in Article 3 of Directive 2016/680:
+
+‘For the purposes of this Directive:
+
+(1)      “personal data” means any information relating to an identified or identifiable natural person (“data subject”); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
+
+(2)      “processing” means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction;
+
+…
+
+(7)      “competent authority” means:
+
+(a)      any public authority competent for the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security; …
+
+…
+
+(12)      “genetic data” means personal data, relating to the inherited or acquired genetic characteristics of a natural person which give unique information about the physiology or the health of that natural person and which result, in particular, from an analysis of a biological sample from the natural person in question;
+
+(13)      “biometric data” means personal data resulting from specific technical processing relating to the physical, physiological or behavioural characteristics of a natural person, which allow or confirm the unique identification of that natural person, such as facial images or dactyloscopic data;
+
+…’
+
+10      Article 4 of Directive 2016/680, headed ‘Principles relating to processing of personal data’, provides in paragraph 1:
+
+‘Member States shall provide for personal data to be:
+
+(a)      processed lawfully and fairly;
+
+(b)      collected for specified, explicit and legitimate purposes and not processed in a manner that is incompatible with those purposes;
+
+(c)      adequate, relevant and not excessive in relation to the purposes for which they are processed;
+
+…’
+
+11      Article 6 of Directive 2016/680, headed ‘Distinction between different categories of data subject’, provides:
+
+‘Member States shall provide for the controller, where applicable and as far as possible, to make a clear distinction between personal data of different categories of data subjects, such as:
+
+(a)      persons with regard to whom there are serious grounds for believing that they have committed or are about to commit a criminal offence;
+
+(b)      persons convicted of a criminal offence;
+
+(c)      victims of a criminal offence or persons with regard to whom certain facts give rise to reasons for believing that he or she could be the victim of a criminal offence; and
+
+(d)      other parties to a criminal offence, such as persons who might be called on to testify in investigations in connection with criminal offences or subsequent criminal proceedings, persons who can provide information on criminal offences, or contacts or associates of one of the persons referred to in points (a) and (b).’
+
+12      Article 8 of Directive 2016/680, headed ‘Lawfulness of processing’, states:
+
+‘1.      Member States shall provide for processing to be lawful only if and to the extent that processing is necessary for the performance of a task carried out by a competent authority for the purposes set out in Article 1(1) and that it is based on Union or Member State law.
+
+2.      Member State law regulating processing within the scope of this Directive shall specify at least the objectives of processing, the personal data to be processed and the purposes of the processing.’
+
+13      Article 9 of Directive 2016/680, headed ‘Specific processing conditions’, provides in paragraphs 1 and 2:
+
+‘1.      Personal data collected by competent authorities for the purposes set out in Article 1(1) shall not be processed for purposes other than those set out in Article 1(1) unless such processing is authorised by Union or Member State law. Where personal data are processed for such other purposes, \[the GDPR\] shall apply unless the processing is carried out in an activity which falls outside the scope of Union law.
+
+2.      Where competent authorities are entrusted by Member State law with the performance of tasks other than those performed for the purposes set out in Article 1(1), \[the GDPR\] shall apply to processing for such purposes …, unless the processing is carried out in an activity which falls outside the scope of Union law.’
+
+14      As set out in Article 10 of Directive 2016/680:
+
+‘Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation shall be allowed only where strictly necessary, subject to appropriate safeguards for the rights and freedoms of the data subject, and only:
+
+(a)      where authorised by Union or Member State law;
+
+(b)      to protect the vital interests of the data subject or of another natural person; or
+
+(c)      where such processing relates to data which are manifestly made public by the data subject.’
+
+15      Article 52 of Directive 2016/680, headed ‘Right to lodge a complaint with a supervisory authority’, states in paragraph 1:
+
+‘Without prejudice to any other administrative or judicial remedy, Member States shall provide for every data subject to have the right to lodge a complaint with a single supervisory authority, if the data subject considers that the processing of personal data relating to him or her infringes provisions adopted pursuant to this Directive.’
+
+16      Article 53 of Directive 2016/680, headed ‘Right to an effective judicial remedy against a supervisory authority’, provides in paragraph 1:
+
+‘Without prejudice to any other administrative or non-judicial remedy, Member States shall provide for the right of a natural or legal person to an effective judicial remedy against a legally binding decision of a supervisory authority concerning them.’
+
+17      As set out in Article 54 of Directive 2016/680, headed ‘Right to an effective judicial remedy against a controller or processor’:
+
+‘Without prejudice to any available administrative or non-judicial remedy, including the right to lodge a complaint with a supervisory authority pursuant to Article 52, Member States shall provide for the right of a data subject to an effective judicial remedy where he or she considers that his or her rights laid down in provisions adopted pursuant to this Directive have been infringed as a result of the processing of his or her personal data in non-compliance with those provisions.’
+
+18      Article 63 of Directive 2016/680, headed ‘Transposition’, provides in paragraphs 1 and 4:
+
+‘1.      Member States shall adopt and publish, by 6 May 2018, the laws, regulations and administrative provisions necessary to comply with this Directive. …
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+…
+
+4.      Member States shall communicate to the \[European\] Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.’
+
+ Bulgarian law
+
+ The NK
+
+19      By virtue of Article 11(2) of the Nakazatelen kodeks (Criminal Code), in the version applicable to the main proceedings (‘the NK’), offences are intentional where the perpetrator is aware of the nature of his or her act or has intended or allowed the occurrence of the consequence of the offence. The vast majority of the offences provided for in the NK are intentional.
+
+20      Under Article 255 of the NK, ‘a person who evades the setting or payment of tax obligations of a significant amount’ in accordance with the detailed statutory rules expressly laid down is liable to a custodial sentence of one to six years and a fine of 2 000 leva (BGN) (approximately EUR 1000).
+
+21      Under Article 321(2) and (3) in conjunction with Article 94(20) of the NK, a person who participates in a criminal organisation formed with the aim of enrichment in order to commit offences punishable by a ‘custodial sentence’ exceeding 3 years is liable to a ‘custodial sentence’ of 3 to 10 years. It is also stated there that that is an intentional offence and that it is prosecuted under the ordinary law.
+
+ The NPK
+
+22      Article 46(1) and Article 80 of the Nakazatelno-protsesualen kodeks (Code of Criminal Procedure), in the version applicable to the main proceedings (‘the NPK’), provide that criminal offences involve either public prosecution, that is to say, charges are brought by the prosecutor, or prosecution by the civil party. Almost all the offences under the NK involve public prosecution.
+
+23      Pursuant to Article 219(1) of the NPK, ‘where sufficient evidence that a particular person is guilty of a criminal offence subject to public prosecution is gathered’, that person is to be accused and informed thereof. He or she may be subject to various procedural coercive measures, while being able to defend himself or herself by providing explanation or adducing evidence.
+
+ The ZZLD
+
+24      Under Article 51 of the zakon za zashtita na lichnite danni (Law on the protection of personal data) (DV No 1 of 4 January 2002; ‘the ZZLD’), the processing of genetic data and of biometric data for the purpose of uniquely identifying a natural person is to be allowed only where absolutely necessary and if the rights and freedoms of the data subject are appropriately safeguarded and the processing has been provided for by EU or Bulgarian law. If the processing is not provided for by EU or Bulgarian law, there must be vital interests allowing it or the data must have been made public by the data subject.
+
+ The ZMVR
+
+25      Pursuant to Article 6 of the zakon sa Ministerstvo na vatreshnite raboti (Law on the Ministry of the Interior) (DV No 53 of 27 June 2014; ‘the ZMVR’), the Ministry of the Interior carries out a number of main activities, including operational research and surveillance activity, investigative activities relating to offences and intelligence activity.
+
+26      Pursuant to Article 18(1) of the ZMVR, the intelligence activity consists in gathering, processing, classifying, storing and using information. Pursuant to Article 20(1) thereof, the intelligence activity is based on information that is reproduced or is liable to be reproduced on recording media prepared by the authorities of the Ministry of the Interior.
+
+27      Article 25(1) of the ZMVR empowers the Ministry of the Interior to process personal data for the purpose of carrying out its activities. In view of Article 6 of the ZMVR, it follows that the Ministry of the Interior processes personal data in order to carry out its main activities, that is to say, its operational research activity, surveillance activity and investigative activity relating to offences.
+
+28      Article 25(3) of the ZMVR provides that the processing of personal data is to be carried out under that law, in accordance with the GDPR and the ZZLD.
+
+29      Under Article 25a(1) of the ZMVR, the processing of personal data involving genetic data and biometric data for the purpose of uniquely identifying a natural person is to be allowed only as provided for in Article 9 of the GDPR or Article 51 of the ZZLD.
+
+30      Under Article 27 of the ZMVR, data recorded by the police pursuant to Article 68 of that law are to be used only in connection with safeguarding national security, combating crime and maintaining law and order.
+
+31      Article 68 of the ZMVR is worded as follows:
+
+‘1.      The police authorities shall create a police record of persons who are accused of an intentional criminal offence subject to public prosecution. …
+
+2.      The creation of the police record is a form of processing of personal data of the persons referred to in paragraph 1, which shall be carried out in accordance with the requirements of this Law.
+
+3.      For the purposes of creating a police record, the police authorities shall:
+
+(1)      collect the personal data set out in Article 18 of the \[zakon za balgaskite lichni dokumenti (Law on Bulgarian identity documents)\];
+
+(2)      take a person’s fingerprints and photograph him or her;
+
+(3)      take samples to create a person’s DNA profile.
+
+4.      The consent of the person is not required to carry out the activities referred to in paragraph 3(1).
+
+5.      Persons shall be obliged to cooperate and not to hinder or obstruct the police authorities in carrying out the activities referred to in paragraph 3. In the event of a person’s refusal, the activities referred to in paragraph 3(2) and (3) shall be carried out by compulsion subject to authorisation from the judge of the court of first instance having jurisdiction over the offence subject to public prosecution of which the person has been accused.
+
+…’
+
+ The NRISPR
+
+32      The naredba za reda za izvarshvane i snemane na politseyska registratsia (Regulation laying down detailed rules for the implementation of police records) (DV No 90 of 31 October 2014), in the version applicable to the main proceedings (‘the NRISPR’), which was adopted on the basis of Article 68(7) of the ZMVR, defines detailed rules for implementation of the police records provided for in Article 68 thereof.
+
+33      Pursuant to Article 2 of the NRISPR, the objectives of creating a police record are safeguarding national security, combating crime and maintaining law and order.
+
+34      Under Article 11(2) of the NRISPR, the person in respect of whom a police record must be created is to be given a declaration to be completed, in which he or she may express agreement or disagreement regarding the measures for the taking of photographs, fingerprints and DNA samples. Under Article 11(4) of the NRISPR, in the event of disagreement on the part of that person, the police are to submit an application to the court having jurisdiction in order for enforcement of those measures to be authorised.
+
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+
+35      The Bulgarian authorities instituted criminal proceedings against two commercial companies for fraud concerning the setting and payment of tax obligations, on the basis of Article 255 of the NK.
+
+36      V.S. was accused by an order adopted on 1 March 2021, pursuant to Article 219 of the NPK, and served on her on 15 March 2021. She was accused, on the basis of Article 321(3)(2) of the NK, read in conjunction with Article 321(2) thereof, of participation with three other persons in a criminal organisation, formed with the aim of enrichment, with a view to committing offences under Article 255 of the NK in concert on Bulgarian territory.
+
+37      Following service of that order accusing her, V.S. was requested to cooperate in the creation of a police record. She completed a declaration form in which she stated that she had been informed of the existence of a statutory basis for the creation of the police record and that she refused to consent to the collection of the dactyloscopic and photographic data concerning her in order for them to be entered in the record and to the taking of a sample for the purpose of creating her DNA profile. The police did not collect the data and brought the matter before the referring court.
+
+38      The application by the police authorities to the referring court states that sufficient evidence of the guilt of the persons prosecuted in the criminal proceedings concerned, including of V.S., has been gathered. It is explained in the application that V.S. has been formally accused of an offence referred to in Article 321(3)(2) of the NK, read in conjunction with Article 321(2) thereof, and that she refused to consent to the collection of dactyloscopic and photographic data concerning her in order for them to be entered in the record and to the taking of a sample for the purpose of creating her DNA profile; the legal basis for the collection of those data is cited. Finally, the referring court is requested in the application to authorise enforcement of collection of the data. Only copies of the order accusing V.S. and of the declaration in which she refuses to give her consent to the creation of the police record were annexed to the application.
+
+39      The referring court has doubts as to whether the legislative and regulatory provisions of Bulgarian law that are applicable to the creation of a police record are compatible with EU law.
+
+40      In the first place, the referring court points out that Article 25(3) and Article 25a of the ZMVR refer to the GDPR and not to Directive 2016/680. It points out that, whilst the GDPR, by virtue of Article 2(2)(d) thereof, does not apply to the processing of personal data by competent bodies for the purposes of the prevention, investigation, detection or prosecution of criminal offences, Article 1(1) of Directive 2016/680 governs such processing. In addition, it observes that Article 9 of the GDPR expressly prohibits the processing of genetic and biometric data and that combating crime is not among the exceptions to that prohibition that are laid down in Article 9(2). Finally it adds that Article 51 of the ZZLD cannot by itself form the basis for the permissibility of processing of biometric and genetic data, as its permissibility must be provided for by EU or national law.
+
+41      In the light of those factors, the referring court wonders whether the view may be taken that, despite the reference to Article 9 of the GDPR, the processing of genetic and biometric data for purposes in the criminal field is permissible under national law, having regard to the fact that it is clearly authorised by Article 10 of Directive 2016/680, even though that directive is not referred to by the applicable provisions of the ZMVR.
+
+42      In the second place, if it should be held that Article 10 of Directive 2016/680 has been correctly transposed into national law or that there is a valid legal basis in national law for processing biometric and genetic data, the referring court is uncertain whether the requirement referred to in Article 10(a) of that directive, that such processing must be authorised by EU or Member State law, is satisfied where there is a contradiction between the applicable provisions of national law.
+
+43      The referring court takes the view that there is a contradiction between Article 25a of the ZMVR, which, by referring to Article 9 of the GDPR, appears not to authorise the collection of biometric and genetic data, and Article 68 of the ZMVR, which undoubtedly authorises it.
+
+44      In the third place, the referring court points out that, under Article 219(1) of the NPK, it is necessary to gather sufficient evidence that a particular person may be guilty in order for that person to be accused. It is unsure whether the criterion laid down in that provision corresponds to the criterion referred to in Article 6(a) of Directive 2016/680, which concerns persons with regard to whom there are ‘serious grounds for believing that they have committed \[an\] offence’. It is rather of the view that, in order to process biometric and genetic data, it is necessary to gather evidence that is more convincing than that which is required under the NPK in order to accuse a person, since the purpose of accusation is to inform that person of the grounds for suspecting him or her and of the possibility of defending himself or herself.
+
+45      In addition, the referring court states that Article 68 of the ZMVR does not provide that, in the context of the procedure for the mandatory creation of a police record, it must carry out any review as to the existence of serious grounds within the meaning of Article 6(a) of Directive 2016/680. On the contrary, under Article 68 of the ZMVR, it is sufficient for it to find that the person has been accused of an intentional offence subject to public prosecution. It thus has no jurisdiction to assess whether sufficient or solid evidence exists in support of such accusation, nor is it able, in practice, to carry out such an assessment since it has access not to the file but only to copies of the order accusing the person and of the declaration refusing consent to the collection of data by the police. Therefore, it is unsure whether, in those circumstances, the person who has refused to make available to the police the photographic, dactyloscopic and genetic data concerning him or her will enjoy effective judicial protection and observance of the right to be presumed innocent, guaranteed in Articles 47 and 48 of the Charter respectively.
+
+46      In the fourth place, the referring court infers from Article 4(1)(b) and (c), Article 8(1) and (2) and Article 10 of Directive 2016/680 that national law must confer on the competent authorities a certain degree of discretion when they collect biometric and genetic data by taking photographs, fingerprints and DNA samples. According to the referring court, that discretion should relate both to whether such collection must take place and to whether it must cover all the aforementioned categories of data. Finally, it takes the view that it must be inferred from the requirement, laid down in Article 10 of that directive, that the processing be ‘strictly necessary’ that the collection of such data can be authorised only where adequate reasons for its necessity are given.
+
+47      The referring court observes that the creation of a police record applies, however, mandatorily to all persons accused of intentional offences subject to public prosecution and to the three categories of personal data covered by that article, namely photographs, fingerprints and DNA samples.
+
+48      It observes, furthermore, that only the objectives of such processing of personal data are referred to by the ZMVR, namely the carrying out of investigative activity, including for the purpose of safeguarding national security, combating crime and maintaining law and order. On the other hand, national legislation does not require the specific necessity for the collection of biometric and genetic data to be established and it to be determined whether all of those data, or only a part thereof, suffice.
+
+49      The referring court is therefore uncertain whether the condition laid down by national law for authorising the creation of a police record, under which the person concerned must have been accused of an intentional offence subject to public prosecution, is sufficient to satisfy the requirements of Article 4(1)(a) and (c), Article 8(1) and (2) and Article 10 of Directive 2016/680.
+
+50      It was in those circumstances that the Spetsializiran nakazatelen sad (Specialised Criminal Court, Bulgaria) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+
+‘(1)      Is Article 10 of Directive 2016/680 effectively transposed into national law – Article 25(3) and Article 25a of the \[ZMVR\] – by the inclusion of a reference to the similar provision in Article 9 of \[the GDPR\]?
+
+(2)      Is the requirement set in Article 10(a) of Directive 2016/680 in conjunction with Article 52 and with Articles 3 and 8 of the Charter, that any limitation on integrity and protection of personal data must be provided for by law, fulfilled if contradictory national provisions exist in relation to the permissibility of processing of genetic and biometric data for the purposes of creating a police record?
+
+(3)      Is a national law, namely Article 68(4) of the \[ZMVR\], which provides for the obligation of the court of first instance to order the forced collection of personal data (taking photographs for the file, taking fingerprints, and taking samples in order to create a DNA profile), compatible with Article 6(a) of Directive 2016/680 in conjunction with Article 48 of the Charter, if a person who is accused of an intentional criminal offence requiring public prosecution refuses to voluntarily cooperate in the collection of these personal data, without the court being able to assess whether there are serious grounds for believing that the person has committed the criminal offence of which he or she is accused?
+
+(4)      Is a national law, namely Article 68(1) to (3) of \[the ZMVR\], which provides, as a general rule, for the taking of photographs for the file, the taking of fingerprints, and the taking of samples in order to create a DNA profile for all persons who are accused of an intentional criminal offence requiring public prosecution compatible with Article 10, Article 4(1)(a) and (c), and Article 8(1) and (2) of Directive 2016/680?’
+
+51      By letter of 5 August 2022, the Sofiyski gradski sad (Sofia City Court, Bulgaria) informed the Court that, following a legislative amendment that entered into force on 27 July 2022, the Spetsializiran nakazatelen sad (Specialised Criminal Court) was dissolved and that certain criminal cases brought before it, including the case in the main proceedings, were transferred from that date to the Sofiyski gradski sad (Sofia City Court).
+
+ Consideration of the questions referred
+
+ The first and second questions
+
+52      By its first and second questions, which it is appropriate to examine together, the referring court seeks, in essence, to ascertain whether Article 10(a) of Directive 2016/680, read in the light of Articles 3, 8 and 52 of the Charter, must be interpreted as meaning that the collection of biometric and genetic data by the police authorities with a view to their investigative activities for purposes of combating crime and maintaining law and order is authorised by Member State law, within the meaning of Article 10(a) of Directive 2016/680, where, first, the national provisions forming the legal basis for that authorisation refer to Article 9 of the GDPR, while reproducing the content of Article 10 of Directive 2016/680, and, second, those national provisions appear to lay down contradictory requirements so far as concerns the permissibility of such collection.
+
+ Admissibility
+
+53      In its written observations, the Commission calls into question the admissibility of the first and second questions, submitting that the referring court, first, seeks solely to ascertain whether national law has in fact transposed Article 10 of Directive 2016/680, without expressing any doubts or raising any issues as to the precise meaning of that article, and second, does not state the reasons that prompted it to inquire about the interpretation or validity of the provisions of EU law at issue, in breach of Article 94 of the Rules of Procedure of the Court of Justice.
+
+54      In that regard, it should be recalled that, according to the Court’s settled case-law, it is solely for the national court before which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine, in the light of the particular circumstances of the case, both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions referred concern the interpretation or the validity of a rule of EU law, the Court is in principle bound to give a ruling. It follows that questions referred by national courts enjoy a presumption of relevance. The Court may refuse to rule on a question referred by a national court only where it is apparent that the interpretation sought bears no relation to the actual facts of the main action or its object, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of 20 October 2022, Digi, C‑77/21, EU:C:2022:805, paragraph 17 and the case-law cited).
+
+55      To that end, in order to enable the Court to give an interpretation of EU law that is useful to the national court, the request for a preliminary ruling must, under Article 94(c) of the Rules of Procedure, contain a statement of the reasons which prompted the referring court to inquire about the interpretation or validity of certain provisions of EU law, and the relationship between those provisions and the national legislation applicable to the main proceedings (see, to that effect, judgment of 2 July 2015, Gullotta and Farmacia di Gullotta Davide & C., C‑497/12, EU:C:2015:436, paragraph 17 and the case-law cited).
+
+56      As regards the first and second questions, it is apparent from the order for reference that, in the case in the main proceedings, the referring court is uncertain whether the condition laid down in Article 10(a) of Directive 2016/680, under which processing of genetic and biometric data as covered by that article must be authorised by EU or Member State law, is satisfied so far as concerns the creation of a police record, which is at issue in that case.
+
+57      As the referring court states, in essence, in the request for a preliminary ruling, it is in that context that it seeks guidance from the Court regarding the interpretation of that condition. By its first question, it seeks to ascertain whether Article 10 of Directive 2016/680 may be regarded as having been correctly transposed by a provision of national law which refers only to Article 9 of the GDPR, but the content of which correspond to that of Article 10 of the directive. If the answer is in the affirmative, it also seeks to ascertain, by its second question, whether the collection of genetic and biometric data for the purpose of being entered in a record by the police may be regarded as being ‘authorised by Member State law’, within the meaning of Article 10(a) of the directive, that is to say, ‘provided for by law’, within the meaning of Article 52(1) of the Charter, where the provisions of national law which constitute the legal basis for that processing seem to lay down contradictory rules as to the permissibility of such processing.
+
+58      Consequently, the referring court identified clearly, in the request for a preliminary ruling, the applicable provisions of EU law, its queries concerning the interpretation of that law and the reasons which led it to submit the first and second questions to the Court. Furthermore, it is clear from that request that the interpretation of those provisions is connected to the object of the main proceedings, given that any finding by the referring court, in the light of the guidance provided by the Court of Justice, that the provisions of national law at issue do not satisfy the condition laid down in Article 10(a) of Directive 2016/680 is liable to result in the dismissal of the police authorities’ application before it seeking the compulsory collection of V.S.’s biometric and genetic data for the purpose of being entered in a record.
+
+59      It follows that the first and second questions are admissible.
+
+ Substance
+
+60      As a preliminary point, it should be observed that, whilst the second question refers to Articles 3, 8 and 52 of the Charter, it is clear from the request for a preliminary ruling that the referring court’s queries relate only to whether the national legislation at issue in the main proceedings complies with the requirement, in Article 52(1), that any limitation on the exercise of the rights and freedoms recognised by the Charter must be provided for by law. Consequently, the first and second questions must be examined in the light of only Article 52 of the Charter.
+
+61      First, it should be noted that, in the light of recital 19 of the GDPR and recitals 9 to 12 of Directive 2016/680 and by virtue of Article 2(1) and Article 9(1) and (2) of that directive, processing of personal data by a ‘competent authority’, within the meaning of Article 3(7) of that directive, may fall – depending on whether it is for the purposes, referred to in Article 1(1) thereof, of the prevention, investigation, detection or prosecution of criminal offences, including the safeguarding against and the prevention of threats to public security, or for purposes other than those – either within the scope of the specific rules of that directive or within the scope of the general rules of that regulation, apart from where the exceptions to their respective scope, exhaustively listed in Article 2(3) of that directive and Article 2(2) of that regulation, apply.
+
+62      In particular, it should be noted that Article 9 of the GDPR and Article 10 of Directive 2016/680 both contain provisions governing the processing of special categories of personal data, which are regarded as sensitive data, including genetic and biometric data.
+
+63      In that regard, Article 10 of Directive 2016/680 provides that the processing of those sensitive data is to be allowed ‘only where strictly necessary, subject to appropriate safeguards for the rights and freedoms of the data subject’ and only in three cases, including, by virtue of Article 10(a), where that processing is authorised by EU or Member State law. On the other hand, Article 9(1) of the GDPR lays down a general prohibition of the processing of those sensitive data, coupled with a list of situations, set out in Article 9(2), in which an exception to that prohibition may be made, a list which does not refer to any situation corresponding to that of data processing for purposes such as those specified in Article 1(1) of Directive 2016/680 and which would satisfy the requirement set out in Article 10(a) thereof. It follows that, whilst processing of biometric and genetic data by the competent authorities for purposes covered by Directive 2016/680 may be allowed provided that, in accordance with the requirements laid down in Article 10 thereof, it is strictly necessary, is subject to appropriate safeguards and is provided for by EU or Member State law, that will not necessarily be true of processing of such data that falls within the scope of the GDPR.
+
+64      Second, the scope of the requirement laid down in Article 10(a) of Directive 2016/680 that the processing of the personal data must have been ‘authorised by Union or Member State law’ must be determined in the light of the requirement enshrined in Article 52(1) of the Charter that any limitation on the exercise of a fundamental right must be ‘provided for by law’.
+
+65      In that regard, it is clear from the Court’s case-law that that requirement means that the legal basis authorising such a limitation must define the scope of that limitation sufficiently clearly and precisely (see, to that effect, judgment of 6 October 2020, État luxembourgeois (Right to bring an action against a request for information in tax matters), C‑245/19 and C‑246/19, EU:C:2020:795, paragraph 76  and the case-law cited).
+
+66      Furthermore, it follows from the case-law recalled in the previous paragraph of the present judgment that there can be no uncertainty as to the provisions of EU law pursuant to which national law may authorise processing of biometric and genetic data, such as the processing at issue in the main proceedings, or as to the applicable conditions governing that authorisation. Data subjects and the courts having jurisdiction must be in a position to be able to determine precisely, in particular, the conditions under which that processing may take place and the purposes which it may lawfully pursue. However, the rules of the GDPR and those of the directive that are applicable to those requirements may differ.
+
+67      Accordingly, whilst the national legislature has the option to provide, in the same legislative instrument, for the processing of personal data for purposes covered by Directive 2016/680 and for other purposes covered by the GDPR, it has, on the other hand, the obligation, in accordance with the requirements set out in the previous paragraph of the present judgment, to make sure that there is no ambiguity as to the applicability of one or other of those two EU acts to the collection of biometric and genetic data.
+
+68      Third, as to the referring court’s queries regarding the possible incorrect transposition of Directive 2016/680, the provisions of national law transposing that directive, in particular Article 10, must be distinguished from those pursuant to which processing of data belonging to the special categories referred to in that article, inter alia biometric and genetic data, may be authorised, within the meaning of Article 10(a).
+
+69      Whilst, as is apparent from the second subparagraph of Article 63(1) thereof, Directive 2016/680 expressly requires the Member States to ensure that the necessary measures transposing the directive contain a reference to it or are accompanied by such a reference on the occasion of their official publication, which means, in any event, that a specific act transposing the directive must be adopted (see, to that effect, judgment of 25 February 2021, Commission v Spain (Personal Data Directive – Criminal law), C‑658/19, EU:C:2021:138, paragraph 16 and the case-law cited), it does not require the measures of national law that authorise processing of data falling within its scope to contain such a reference. Thus, Article 63(4) of Directive 2016/680 merely provides that the Member States are to communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by the directive.
+
+70      Finally, it should be pointed out that, where a directive has been properly transposed, its effects reach individuals through the implementing measures adopted by the Member States concerned (see, to that effect, judgment of 15 May 1986, Johnston, 222/84, EU:C:1986:206, paragraph 51), unlike a regulation, the provisions of which generally have immediate effect in the national legal systems without it being necessary for the national authorities to adopt measures of application (see, to that effect, judgment of 7 April 2022, IFAP, C‑447/20 and C‑448/20, EU:C:2022:265, paragraph 88 and the case-law cited). It follows that, where the national legislature provides for the processing of biometric and genetic data by competent authorities, within the meaning of Article 3(7) of Directive 2016/680, which are capable of falling either within the scope of that directive or within the scope of the GDPR, it is open to it, for reasons of clarity and precision, to refer explicitly, on the one hand, to the provisions of national law transposing Article 10 of that directive and, on the other, to Article 9 of that regulation. However, that requirement of clarity and precision cannot demand, furthermore, that that directive be mentioned.
+
+71      Fourth, it should be noted that the obligation on a Member State, imposed by the third paragraph of Article 288 TFEU, to take all the measures necessary to achieve the result prescribed by a directive is binding on all the authorities of Member States including, for matters within their jurisdiction, the courts. It follows that, when national courts apply domestic law, they are bound to interpret it, so far as possible, in the light of the wording and the purpose of the relevant directive in order to achieve the result sought by the directive (see, to that effect, judgment of 7 November 2019, Profi Credit Polska, C‑419/18 and C‑483/18, EU:C:2019:930, paragraphs 73 and 75 and the case-law cited).
+
+72      Consequently, when faced with an apparent conflict, such as that described by it in the context of the second question, between, on the one hand, provisions of national legislation which seem to preclude the processing of genetic and biometric data by the competent authorities for purposes covered by Directive 2016/680 and, on the other hand, other provisions of that legislation which authorise such processing, the referring court is required to give those provisions an interpretation which safeguards that directive’s effectiveness. In particular, where it finds that provisions such as to satisfy the requirement referred to in Article 10(a) of the directive exist, it is for it to determine whether they do not in actual fact have a field of application different from that of the provisions with which they seem to conflict.
+
+73      In that regard, it should, in particular, be noted that Article 9(2) of Directive 2016/680 does not preclude the processing of biometric and genetic data by competent authorities, within the meaning of Article 3(7) of that directive, in connection with tasks other than those performed for the purposes set out in Article 1(1) of the directive. Also, as is apparent from paragraph 63 of the present judgment, Article 9 of the GDPR, which applies to the processing of such data, as long as the processing is not covered by the exceptions exhaustively listed in Article 2(2) thereof, does not prohibit such processing absolutely, provided that it corresponds to one of the situations set out in Article 9(2) of that regulation. That being so, it is for the referring court to determine whether the reference to the GDPR in those national provisions does not in actual fact relate to data processing by the competent authorities for purposes other than those covered by Directive 2016/680, with the result that those provisions do not conflict with the provisions which, in accordance with Article 10(a) of that directive, provide for the processing of such data for purposes which are covered by that directive.
+
+74      In the present instance, it is apparent from the order for reference that the provisions of national law giving rise to the questions submitted by the referring court are provisions of substantive law governing the activities of the Ministry of the Interior. The first of those provisions lays down that the processing of personal data by that ministry is to be carried out under the law in question, in accordance with the GDPR and the act of national law which transposes Directive 2016/680, and the second of those provisions states that the processing of personal data involving genetic data and biometric data for the purpose of uniquely identifying a natural person is to be allowed only as provided for in Article 9 of that regulation or in the provision of national law which transposes Article 10 of that directive. It is also apparent from the order for reference that the provision of substantive law which furnishes an express legal basis for the collection of biometric and genetic data, in the context of creation of a police record, pursues solely purposes of safeguarding national security, combating crime and maintaining law and order.
+
+75      Consequently, it is for the referring court to review whether the dual reference to Article 9 of the GDPR and to the provision of national law which transposes Article 10 of Directive 2016/680 may be justified by the fact that the scope of the provision of substantive law containing such a dual reference covers all the activities of the departments of the Ministry of the Interior, which, according to the information provided by the Bulgarian Government, include both the activities set out in Article 1(1) of that directive and other activities liable to fall within that regulation. Furthermore, it is for the referring court to satisfy itself that, in particular so far as concerns the provision of substantive law which furnishes a legal basis for the collection of biometric and genetic data in the context of creation of a police record, the set of relevant provisions of national law may be interpreted, in accordance with EU law, as making apparent, in a sufficiently clear, precise and unequivocal manner, in which cases the rules of national law transposing the directive at issue apply and in which cases it is the rules of the GDPR that are relevant.
+
+76      In the light of the foregoing, the answer to the first and second questions is that Article 10(a) of Directive 2016/680, read in the light of Article 52 of the Charter, must be interpreted as meaning that the processing of biometric and genetic data by the police authorities with a view to their investigative activities, for purposes of combating crime and maintaining law and order, is authorised by Member State law, within the meaning of Article 10(a) of Directive 2016/680, provided that the law of that Member State contains a sufficiently clear and precise legal basis to authorise that processing. The fact that the national legislative act containing such a legal basis refers, furthermore, to the GDPR, and not to Directive 2016/680, is not capable, in itself, of calling the existence of such authorisation into question, provided that it is apparent, in a sufficiently clear, precise and unequivocal manner, from the interpretation of the set of applicable provisions of national law that the processing of biometric and genetic data at issue falls within the scope of that directive, and not of that regulation.
+
+ The third question
+
+77      By its third question, the referring court asks, in essence, whether Article 6(a) of Directive 2016/680 and Articles 47 and 48 of the Charter must be interpreted as precluding national legislation which provides that, if the person accused of an intentional offence subject to public prosecution refuses to cooperate voluntarily in the collection of the biometric and genetic data concerning him or her in order for them to be entered in a record, the criminal court having jurisdiction must authorise enforcement of their collection, without having the power to assess whether there are serious grounds for believing that the person concerned has committed the offence of which he or she is accused.
+
+78      It should be noted at the outset that this question is asked by the referring court in relation to criminal proceedings in which a provision of national law is applicable that lays down that, if the person concerned refuses to cooperate in the collection of the biometric and genetic data concerning him or her in order for them to be entered in a record for purposes covered by Article 1(1) of Directive 2016/680, the court having jurisdiction to rule on that person’s criminal liability is empowered to authorise their collection. Furthermore, that provision of national law applies to the data concerning persons accused of intentional offences subject to public prosecution. According to the information provided by the referring court, the vast majority of the offences provided for by the NK are intentional and almost all involve public prosecution. Under the rules of Bulgarian criminal procedure, a person is accused when sufficient evidence that he or she is guilty of an offence subject to public prosecution is gathered.
+
+79      In addition, according to the explanation provided by the Bulgarian Government in the written answers to the questions asked by the Court, the rules relating to Bulgarian criminal procedure provide that accusation may occur at any time in the preliminary procedure – which constitutes the first stage of the criminal procedure, during which investigation is carried out and evidence is gathered – and, in any event, before the investigation is closed. As is apparent from the order for reference, and as the Bulgarian Government also explains, the person concerned may, after being so accused, present evidence in his or her defence, in particular in the course of the stage of disclosure of the investigative material, which takes place after closure of the investigation.
+
+80      However, the referring court states that the national legislation at issue does not confer on the court which authorises collection of the biometric and genetic data concerning the accused person in order for them to be entered in a record jurisdiction to assess the evidence on which that accusation is founded, a power which lies with the authorities handling the investigation. In addition, it explains that that court rules on the application for authorisation solely on the basis of a copy of the order accusing the person concerned and of the declaration by which he or she refuses to consent to the collection of those data.
+
+81      Against that background, the referring court’s third question should, as the Bulgarian Government and the Commission suggest, be regarded as divided into three parts. First, the referring court is uncertain whether Article 6(a) of Directive 2016/680, which refers to the category consisting of persons with regard to whom there are serious grounds for believing that they have committed or are about to commit a criminal offence, precludes national legislation which provides for the compulsory collection, in order to be entered in a record, of biometric and genetic data concerning a natural person in respect of whom sufficient evidence is gathered that he or she is guilty of an intentional offence subject to public prosecution, enabling, under national law, him or her to be accused. Second, it raises the question whether, having regard to the limits on the discretion of the court called upon to rule on the enforcement of such collection, that court is in a position to ensure the person concerned effective judicial protection, in accordance with Article 47 of the Charter. Third, it is uncertain whether, despite those limits, observance of the right to be presumed innocent which is referred to in Article 48 of the Charter can be ensured.
+
+ The scope of Article 6(a) of Directive 2016/680
+
+82      Article 6 of Directive 2016/680 obliges the Member States to provide for the controller, ‘where applicable and as far as possible’, to make a clear distinction between personal data of different categories of data subjects, such as those referred to in Article 6(a) to (d), namely, respectively; persons with regard to whom there are serious grounds for believing that they have committed or are about to commit a criminal offence; persons convicted of a criminal offence; victims of a criminal offence or persons with regard to whom certain facts give rise to reasons for believing that he or she could be the victim of a criminal offence; and, finally, other parties to a criminal offence, such as persons who might be called on to testify in investigations in connection with criminal offences or subsequent criminal proceedings, persons who can provide information on criminal offences, or contacts or associates of one of the persons referred to in Article 6(a) and (b).
+
+83      Thus, the Member States must ensure that a clear distinction is made between the data of the different categories of data subjects in such a way that, as the Advocate General has stated in point 27 of his Opinion, they are not subject without distinction – whatever the category to which they belong – to same degree of interference with their fundamental right to the protection of their personal data. In that regard, as may be inferred from recital 31 of Directive 2016/680, the category of persons defined in Article 6(a) of that directive corresponds to that of persons suspected of having committed a criminal offence.
+
+84      However, it follows from the wording of Article 6 of Directive 2016/680 that the obligation which that provision imposes on the Member States is not absolute. First, the phrase ‘where applicable and as far as possible’, which it contains, indicates that it is for the controller to determine, in each individual case, whether a clear distinction between the personal data of the different categories of data subjects may be made. Second, the words ‘such as’ which that article contains indicates that the categories of persons listed there are not exhaustive.
+
+85      Furthermore, the existence of sufficient items of evidence pointing to a person’s guilt constitutes, in principle, a serious ground for believing that he or she has committed the offence at issue. Thus, national legislation which provides for the compulsory collection of biometric and genetic data of natural persons in order for them to be entered in a record, where sufficient evidence is gathered that the person concerned is guilty of a criminal offence, appears consistent with the objective of Article 6(a) of Directive 2016/680.
+
+86      It follows from all the foregoing that Article 6(a) of Directive 2016/680 does not preclude national legislation which provides for the compulsory collection, in order to be entered in a record, of biometric and genetic data concerning persons in respect of whom sufficient evidence is gathered that they are guilty of an intentional offence subject to public prosecution and who have been accused for that reason.
+
+ Observance of the right to effective judicial protection
+
+87      First, it should be noted that the right to effective judicial protection, enshrined in Article 47 of the Charter, must be accorded to any person relying on rights or freedoms guaranteed by EU law against a decision adversely affecting him or her which is such as to undermine those rights or freedoms (see, to that effect, judgment of 6 October 2020, État luxembourgeois (Right to bring an action against a request for information in tax matters), C‑245/19 and  C‑246/19, EU:C:2020:795, paragraphs 55, 57 and 58 and the case-law cited).
+
+88      Consequently, any accused person who has opposed the collection of photographic, dactyloscopic and genetic data concerning him or her in the context of a procedure such as the creation of a police record, a procedure which has to comply with the requirements of Article 10 of Directive 2016/680, must, as Article 47 of the Charter requires, be able to enjoy the right to an effective remedy before a tribunal against the decision to authorise enforcement of their collection, for the purpose of relying on the rights which he or she derives from the safeguards laid down by that provision and, in particular, from the safeguard under Article 10(a) of the directive that collection of the biometric and genetic data must be carried out in compliance with the national legislation that authorises collection. In particular, that safeguard entails the court with jurisdiction having the ability to verify that the measure accusing the person concerned that constitutes the legal basis for the creation of the police record has been adopted – in accordance with the rules of national criminal procedure – in the light of sufficient evidence that he or she is guilty of an intentional offence subject to public prosecution.
+
+89      In that regard, it must be borne in mind that the right to effective judicial protection is not an absolute right and that, in accordance with Article 52(1) of the Charter, limitations may be placed upon it, on condition that (i) those limitations are provided for by law, (ii) they respect the essence of the rights and freedoms at issue, and (iii) in compliance with the principle of proportionality, they are necessary and genuinely meet objectives of general interest recognised by the European Union or the need to protect the rights and freedoms of others (see, to that effect, judgment of 6 October 2020, État luxembourgeois (Right to bring an action against a request for information in tax matters), C‑245/19 and  C‑246/19, EU:C:2020:795, paragraphs 49 and 51 and the case-law cited).
+
+90      In addition, it should be noted that Article 54 of Directive 2016/680 imposes an obligation on the Member States to provide that a person who considers that his or her rights laid down in provisions adopted pursuant to that directive have been infringed as a result of the processing of his or her personal data in non-compliance with those provisions has the right to an effective judicial remedy. It follows that the EU legislature did not itself limit the exercise of the right to an effective remedy enshrined in Article 47 of the Charter and that it is open to the Member States to limit its exercise, provided that they meet the requirements laid down in Article 52(1) of the Charter (see, to that effect, judgment of 6 October 2020, État luxembourgeois (Right to bring an action against a request for information in tax matters), C‑245/19 and C‑246/19, EU:C:2020:795, paragraphs 63 and 64).
+
+91      Consequently, it should be determined whether, without prejudice to the judicial remedy provided for by national law pursuant to Article 54 of Directive 2016/680, the fact that the court having jurisdiction, with a view to authorising a measure enforcing the collection of biometric and genetic data concerning accused persons, cannot review, on the merits, the conditions for the accusation on which that enforcement measure is founded constitutes a permitted limitation of the right to effective judicial protection enshrined in Article 47 of the Charter.
+
+92      As regards the first condition referred to in paragraph 89 of the present judgment, in accordance with the case-law recalled in paragraph 65 of the present judgment, it is for the referring court to ascertain whether the limits placed on its discretion by national law, in the context of an application requesting it to authorise enforcement of the collection of biometric and genetic data concerning an accused person in order for them to be entered in a record, are laid down by national law sufficiently clearly and precisely.
+
+93      As regards the second condition, it follows from the case-law that the essence of the right to an effective remedy includes, among other aspects, the possibility, for the person who holds that right, of accessing a court or tribunal with the power to ensure respect for the rights guaranteed to that person by EU law and, to that end, to consider all the issues of fact and of law that are relevant for resolving the case before it (judgment of 6 October 2020, État luxembourgeois (Right to bring an action against a request for information in tax matters), C‑245/19 and  C‑246/19, EU:C:2020:795, paragraph 66  and the case-law cited).
+
+94      However, it also follows from the case-law of the Court that that condition does not mean, as such, that the holder of the right to effective judicial protection must have a direct remedy the primary object of which is to call into question a given measure, provided that one or more legal remedies also exist, before the various national courts having jurisdiction, enabling that rightholder to obtain, indirectly, judicial review of that measure ensuring respect for the rights and freedoms guaranteed to that rightholder by EU law (see, to that effect, judgment of 6 October 2020, État luxembourgeois (Right to bring an action against a request for information in tax matters), C‑245/19 and  C‑246/19, EU:C:2020:795, paragraph 79  and the case-law cited).
+
+95      In particular, as the Advocate General has noted, in essence, in point 36 of his Opinion, the third question is based on the hypothesis that the preliminary stage of the criminal procedure, during which enforcement of collection of the biometric and genetic data concerning an accused person in order for them to be entered in a record takes place, will be followed by a judicial stage. If the existence of sufficient items of incriminating evidence, a necessary condition in order for the person concerned to be capable of being compelled to consent to the collection of his or her biometric and genetic data, cannot be verified at the time of the application for authorisation of enforcement, it will necessarily have to be capable of being verified in that judicial stage, during which the court hearing the case must have the ability to consider all the relevant issues of fact and of law, in particular in order to verify whether those biometric and genetic data have been obtained in breach of the rights guaranteed by EU law to the person concerned (see, to that effect, judgment of 6 October 2020, État luxembourgeois (Right to bring an action against a request for information in tax matters), C‑245/19 and  C‑246/19, EU:C:2020:795, paragraphs 81  to 83 and the case-law cited).
+
+96      In any event, in accordance with Article 54 of Directive 2016/680, national law must provide the person concerned with the opportunity to effectively challenge the compulsory collection of his or her biometric and genetic data in judicial proceedings, founded on the alleged infringement, on account of collection of the data, of the rights conferred on him or her by that directive, without prejudice to any available administrative or non-judicial remedy, including the right to lodge a complaint with a supervisory authority. Consequently, even if the preliminary stage of the criminal procedure is not followed by a judicial stage, in particular if there is no prosecution, the person concernedmust be able to obtain full judicial review of the legality of the processing of the data in question. Accordingly, where, in order to comply with the obligation in Article 54, national law provides such safeguards, a matter which is for the referring court to ascertain, respect for the essence of the right to effective judicial protection must be presumed, even if the court which authorises enforcement of the collection at issue does not itself have, at the time when it rules on it, the discretion necessary in order to grant such protection.
+
+97      As regards the third condition, it should be pointed out, first of all, that the collection of genetic and biometric data concerning persons accused in a criminal procedure, in order for them to be entered in a record, pursues purposes set out in Article 1(1) of Directive 2016/680, in particular those relating to the prevention, investigation, detection and prosecution of criminal offences, which constitute objectives of general interest recognised by the European Union.
+
+98      Such collection may contribute to the objective set out in recital 27 of Directive 2016/680, which states that, for the prevention, investigation and prosecution of criminal offences, it is necessary for competent authorities to process personal data collected in the context of the prevention, investigation, detection or prosecution of specific criminal offences beyond that context in order to develop an understanding of criminal activities and to make links between different criminal offences detected.
+
+99      In the present instance, as the Bulgarian Government stated in its written observations and further explained in a written reply to a question asked by the Court, the creation of police records that is established by national law pursues two fundamental purposes. First, the data are gathered and processed in order to be compared with other data collected during investigations relating to other offences. That purpose, according to the Bulgarian Government, also concerns comparison with data collected in other Member States. Second, the data may also be processed for the purposes of the criminal procedure in which the person concerned has been accused.
+
+100    It may prove justified, during the preliminary stage of the criminal procedure, to shield temporarily from judicial review the assessment of the evidence on which accusation of the person concerned, and therefore the collection of his or her biometric and genetic data, is founded. Such review, at that stage, might impede the conduct of the criminal investigation in the course of which those data are being collected and excessively limit the investigators’ ability to clear up other offences on the basis of a comparison of those data with data gathered during other investigations. That limitation of effective judicial protection is therefore not disproportionate, provided that national law subsequently guarantees effective judicial review.
+
+101    It follows from all the foregoing that Article 47 of the Charter does not preclude a national court, when it rules on an application for authorisation of enforcement of the collection of biometric and genetic data of an accused person in order for them to be entered in a record, from being unable to assess the evidence on which the accusation of that person is based, provided that national law subsequently guarantees effective judicial review of the conditions for that accusation, from which the authorisation to collect those data arises.
+
+ Observance of the presumption of innocence
+
+102    First of all, it should be noted that, under Article 48(1) of the Charter, the content of which corresponds to that of Article 6(2) of the Convention for the Protection of Human Rights and Fundamental Freedoms, everyone who has been charged is to be presumed innocent until proved guilty according to law.
+
+103    In particular, the Court has acknowledged that it follows from the case-law of the European Court of Human Rights inter alia that the presumption of innocence is infringed if a judicial decision concerning an accused person reflects the feeling that he or she is guilty, although his or her guilt has not previously been lawfully established (see, to that effect, judgment of 25 February 2021, Dalli v Commission, C‑615/19 P, EU:C:2021:133, paragraph 224 and the case-law cited).
+
+104    In addition, as is apparent from recital 31 of Directive 2016/680, the establishment of different categories of persons, the processing of whose personal data is to differ correspondingly, pursuant to Article 6 of that directive, should not prevent the application of the right of presumption of innocence as guaranteed by the Charter and by the Convention for the Protection of Human Rights and Fundamental Freedoms.
+
+105    As regards the referring court’s queries as to whether the right to be presumed innocent is observed by a judicial decision authorising the collection of biometric and genetic data concerning accused persons in order for them to be entered in a record, it must be stated, first, that, in so far as national law provides that their collection is limited to the category of persons who are accused, that is to say, a category of persons whose criminal liability has not yet been established, their collection cannot be regarded, in itself, as being such as to reflect the feeling of the authorities that those persons are guilty, within the meaning of the case-law cited in paragraph 103 of the present judgment.
+
+106    Second, where a judicial decision authorising the collection of biometric and genetic data concerning accused persons in order for them to be entered in a record merely takes note of the accusation of the person concerned and of his or her refusal to consent to such collection, it cannot be interpreted as defining a position on that person’s guilt or, therefore, as undermining the presumption that he or she is innocent.
+
+107    The fact that the court which must make such a judicial decision cannot assess, at that stage of the criminal procedure, whether the evidence on which the accusation of the person concerned is based is sufficient constitutes a guarantee for the latter of observance of the right to be presumed innocent.
+
+108    Such a guarantee is all the more necessary where national law, such as the provision at issue in the main proceedings, provides that the court having jurisdiction to rule on enforcement of collection of the biometric and genetic data concerning accused persons in order for them to be entered in a record is the court which, at the judicial stage of the criminal procedure, will have to rule on the criminal liability of such a person. Observance of the right to be presumed innocent requires that court to be free of any bias and any prejudice when it carries out that examination (see, to that effect, judgment of 16 November 2021, Prokuratura Rejonowa w Mińsku Mazowieckim and Others, C‑748/19 to C‑754/19, EU:C:2021:931, paragraph 88).
+
+109    It follows from the foregoing that the right to be presumed innocent, enshrined in Article 48 of the Charter, does not preclude accused persons, at the preliminary stage of the criminal procedure, from being the subject of a measure by which the biometric and genetic data concerning them are collected in order to be entered in a record and which is authorised by a court that does not have the power to assess, at that stage, the evidence upon which such accusation is based.
+
+110    It follows from all the foregoing that the answer to the third question is that Article 6(a) of Directive 2016/680 and Articles 47 and 48 of the Charter must be interpreted as not precluding national legislation which provides that, if the person accused of an intentional offence subject to public prosecution refuses to cooperate voluntarily in the collection of the biometric and genetic data concerning him or her in order for them to be entered in a record, the criminal court having jurisdiction must authorise a measure enforcing their collection, without having the power to assess whether there are serious grounds for believing that the person concerned has committed the offence of which he or she is accused, provided that national law subsequently guarantees effective judicial review of the conditions for that accusation, from which the authorisation to collect those data arises.
+
+ The fourth question
+
+111    First of all, it should be recalled that, according to settled case-law, in the procedure laid down by Article 267 TFEU, providing for cooperation between national courts and the Court, it is for the latter to provide the national court with an answer which will be of use to it and enable it to determine the case before it. To that end, the Court may have to reformulate the questions referred to it (judgment of 15 July 2021, The Department for Communities in Northern Ireland, C‑709/20, EU:C:2021:602, paragraph 61 and the case-law cited).
+
+112    As is clear from the order for reference and as has been observed in paragraphs 46 and 49 of the present judgment, in the context of the fourth question the referring court is uncertain as to the implications of the requirements set out in Article 4(1)(a) to (c), Article 8(1) and (2) and Article 10 of Directive 2016/680.
+
+113    Furthermore, as has been observed in paragraphs 46 to 48 of the present judgment, the referring court states that, although those provisions appear to it to require that the competent authorities have a discretion for the purpose of determining whether collection of biometric and genetic data is necessary and that they state adequate reasons for collecting them, the creation of a police record, as provided for by the legislation applicable in the main proceedings, applies mandatorily to all persons accused of intentional offences subject to public prosecution and to the three categories of biometric and genetic data covered by the provision of national law at issue in the main proceedings, without that legislation requiring the specific necessity to collect all those categories of data to be established.
+
+114    It follows that the fourth question should be understood as seeking to establish, in essence, whether Article 10 of Directive 2016/680, read in conjunction with Article 4(1)(a) to (c) and Article 8(1) and (2) thereof, must be interpreted as precluding national legislation which provides for the systematic collection of biometric and genetic data of any person accused of an intentional offence subject to public prosecution in order for them to be entered in a record, without laying down an obligation on the competent authority to determine and to demonstrate, first, that their collection is necessary for achieving the specific objectives pursued and, second, that those objectives cannot be achieved by collecting only a part of the data concerned.
+
+115    More specifically, the referring court’s queries concern the requirement set out in Article 10 of Directive 2016/680 that processing of the special categories of data referred to in that article is to be allowed ‘only where strictly necessary’.
+
+116    In that regard, in the first place, it should be noted that, as has been stated in paragraphs 62 and 63 of the present judgment, Article 10 of Directive 2016/680 constitutes a specific provision governing processing of the special categories of personal data, including biometric and genetic data. As is clear from the case-law, the purpose of that article is to ensure enhanced protection with regard to that processing, which, because of the particular sensitivity of the data at issue and the context in which they are processed, is liable, as is apparent from recital 37 of the directive, to create significant risks to fundamental rights and freedoms, such as the right to respect for private life and the right to the protection of personal data, guaranteed by Articles 7 and 8 of the Charter (see, by analogy, judgment of 24 September 2019, GC and Others (De-referencing of sensitive data), C‑136/17, EU:C:2019:773, paragraph 44).
+
+117    In the second place, as follows from the very terms in which it is set out in Article 10 of Directive 2016/680, the requirement that the processing of such data be allowed ‘only where strictly necessary’ \[(‘uniquement en cas de nécessité absolue’ in the French-language version)\] must be interpreted as establishing strengthened conditions for lawful processing of sensitive data, compared with those which follow from Article 4(1)(b) and (c) and Article 8(1) of that directive and refer only to the ‘necessity’ of data processing that falls generally, within the directive’s scope.
+
+118    Thus, first, the use of the adverb ‘only’ before the words ‘where strictly necessary’ underlines that the processing of special categories of data, within the meaning of Article 10 of Directive 2016/680, will be capable of being regarded as necessary solely in a limited number of cases. Second, the fact that the necessity for processing of such data is an ‘absolute’ one \[(‘absolue’)\] signifies that that necessity is to be assessed with particular rigour.
+
+119    The fact pleaded by the French Government that, in certain language versions of Article 10 of Directive 2016/680, that article refers to cases where the data processing is ‘strictly necessary’ is not decisive in that regard. That terminological variation does not alter the nature of the criterion thereby referred to and the requisite standard, since those language versions also establish a strengthened condition in order for the processing of sensitive data to be allowed, entailing a more rigorous assessment of its necessity than where the data processed do not fall within the scope of that article.
+
+120    Furthermore, as the Commission also notes, the requirement that processing of data falling within Article 10 of Directive 2016/680 is to be allowed only where strictly necessary did not appear in the proposal for a directive (COM(2012) 10 final) giving rise to that directive, but was introduced subsequently by the EU legislature, which thus clearly sought to impose a strengthened condition governing the necessity of data processing, in line with the objective pursued by that article of giving greater protection to persons in respect of the processing of sensitive data.
+
+121    In the third place, as regards what is entailed by the requirement that the processing of sensitive data is to be allowed ‘only where strictly necessary’, it should be pointed out that the specific requirements of Article 10 of Directive 2016/680 constitute a special form of implementation, applicable to certain categories of data, of the principles set out in Articles 4 and 8 of that directive, which must be observed by any data processing falling within the directive’s scope. Consequently, the scope of those various requirements must be determined in the light of those principles.
+
+122    In particular, first, the question whether collection of the biometric and genetic data of accused persons in order for them to be entered in a record is ‘strictly necessary’, within the meaning of Article 10 of Directive 2016/680, must be determined in the light of the purposes of their collection. In accordance with the purpose limitation principle set out in Article 4(1)(b) of that directive, those purposes must be ‘specified, explicit and legitimate’. Second, although the requirement that processing of the biometric and genetic data is to be allowed ‘only where strictly necessary’ corresponds, as has been observed in paragraphs 117 to 119 of the present judgment, to a requirement for enhanced protection of certain categories of data, it nonetheless constitutes a specific application to the categories of data referred to in Article 10 of the directive of the principle of data minimisation, set out in Article 4(1)(c) of the directive, under which personal data must be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed.
+
+123    Furthermore, in the light of Article 4(1)(a) of Directive 2016/680, the scope of that requirement must also be determined having regard to Article 8(1) thereof, according to which Member States must provide, in particular, for processing to be lawful only if and to the extent that processing is necessary for the performance of a task carried out by a competent authority for the purposes set out in Article 1(1) of the directive, and to Article 8(2), which requires Member State law regulating processing within the scope of the directive to specify at least the objectives of processing, the personal data to be processed and the purposes of the processing.
+
+124    In that regard, the purposes of processing biometric and genetic data cannot be indicated in terms that are too general, but have to be defined sufficiently precisely and specifically to enable assessment of whether that processing is ‘strictly necessary’.
+
+125    Furthermore, the requirement that processing of sensitive data be ‘strictly necessary’ entails particularly strict checking, in that context, as to whether the principle of data minimisation is observed.
+
+126    In that regard, first, it must be borne in mind, as is apparent from recital 26 of Directive 2016/680, that the requirement of necessity is met where the objective pursued by the data processing at issue cannot reasonably be achieved just as effectively by other means less restrictive of the fundamental rights of data subjects, in particular the rights to respect for private life and to the protection of personal data guaranteed by Articles 7 and 8 of the Charter (see, to that effect, judgment of 1 August 2022, Vyriausioji tarnybinės etikos komisija, C‑184/20, EU:C:2022:601, paragraph 85 and the case-law cited). In particular, in the light of the enhanced protection of persons with regard to the processing of sensitive data, the controller in respect of that processing should satisfy itself that that objective cannot be met by having recourse to categories of data other than those listed in Article 10 of Directive 2016/680.
+
+127    Second, having regard to the significant risks posed by the processing of sensitive data to the rights and freedoms of data subjects, in particular in the context of the tasks of the competent authorities for the purposes set out in Article 1(1) of Directive 2016/680, the ‘strictly necessary’ requirement means that account is to be taken of the specific importance of the objective that such processing is intended to achieve. Such importance may be assessed, inter alia, on the basis of the very nature of the objective pursued – in particular of the fact that the processing serves a specific objective connected with the prevention of criminal offences or threats to public security displaying a certain degree of seriousness, the punishment of such offences or protection against such threats – and in the light of the specific circumstances in which that processing is carried out.
+
+128    In view of the foregoing, it must be held that national legislation which provides for the systematic collection of the biometric and genetic data of any person accused of an intentional offence subject to public prosecution is, in principle, contrary to the requirement laid down in Article 10 of Directive 2016/680 that processing of the special categories of data referred to in that article is to be allowed ‘only where strictly necessary’.
+
+129    Such legislation is liable to lead, in an indiscriminate and generalised manner, to collection of the biometric and genetic data of most accused persons since the concept of ‘intentional criminal offence subject to public prosecution’ is particularly general and is liable to apply to a large number of criminal offences, irrespective of their nature and gravity.
+
+130    It is true that such legislation restricts the scope of the collection of biometric and genetic data to persons accused at the investigation stage of a criminal procedure, that is to say, to persons with regard to whom there are serious grounds for believing that they have committed a criminal offence, within the meaning of Article 6(a) of Directive 2016/680. However, the mere fact that a person is accused of an intentional criminal offence subject to public prosecution cannot be regarded as a factor that in itself enables it to be presumed that the collection of his or her biometric and genetic data is strictly necessary in the light of the purposes that it pursues and given the resulting interference with fundamental rights, in particular the rights to respect for private life and to the protection of personal data guaranteed by Articles 7 and 8 of the Charter.
+
+131    Thus, first, where there are serious grounds for believing that the person in issue has committed a criminal offence, justifying his or her being accused, a situation which presupposes that sufficient evidence of that person’s involvement in the offence has already been gathered, it is possible that the collection both of the biometric data and of the genetic data will not reflect any specific necessity for the purposes of the criminal procedure in progress.
+
+132    Second, the likelihood of the biometric and genetic data of an accused person being strictly necessary in connection with procedures other than the procedure in which that accusation has taken place can be determined only in the light of all the relevant factors, such as, in particular, the nature and gravity of the presumed offence of which he or she is accused, the particular circumstances of that offence, any link between that offence and other procedures in progress, and the criminal record or individual profile of the person in issue.
+
+133    That being so, it is for the referring court to verify whether, in order to ensure the effectiveness of Article 10 of Directive 2016/680, it is possible to interpret the national legislation providing for the enforcement in question in a manner consistent with EU law. In particular, it is for the referring court to verify whether national law enables it to be assessed whether it is ‘strictly necessary’ to collect both the biometric data and the genetic data of the data subject in order for them to be entered in a record. For that purpose, it should, inter alia, be possible to verify whether the nature and gravity of the offence of which the data subject in the main proceedings is suspected or whether other relevant factors, such as those referred to in paragraph 132 of the present judgment, may constitute circumstances capable of establishing that collection is ‘strictly necessary’. Furthermore, it should be checked whether the collection of civil status data, which is also provided for in the context of the creation of a police record, as the Bulgarian Government confirmed in a written reply to a question asked by the Court, does not in itself enable the objectives pursued to be met.
+
+134    If national law does not guarantee such review of the measure whereby biometric and genetic data are collected, it is for the referring court to ensure that Article 10 of Directive 2016/680 is given full effect by dismissing the police authorities’ application requesting it to authorise enforcement of their collection.
+
+135    It follows from all the foregoing that Article 10 of Directive 2016/680, read in conjunction with Article 4(1)(a) to (c) and Article 8(1) and (2) thereof, must be interpreted as precluding national legislation which provides for the systematic collection of biometric and genetic data of any person accused of an intentional offence subject to public prosecution in order for them to be entered in a record, without laying down an obligation on the competent authority to verify whether and demonstrate that, first, their collection is strictly necessary for achieving the specific objectives pursued and, second, those objectives cannot be achieved by measures constituting a less serious interference with the rights and freedoms of the person concerned.
+
+ Costs
+
+136    Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+
+On those grounds, the Court (Fifth Chamber) hereby rules:
+
+1.      Article 10(a) of Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA, read in the light of Article 52 of the Charter of Fundamental Rights of the European Union,
+
+must be interpreted as meaning that the processing of biometric and genetic data by the police authorities with a view to their investigative activities, for purposes of combating crime and maintaining law and order, is authorised by Member State law, within the meaning of Article 10(a) of Directive 2016/680, provided that the law of that Member State contains a sufficiently clear and precise legal basis to authorise that processing. The fact that the national legislative act containing such a legal basis refers, furthermore, to Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation), and not to Directive 2016/680, is not capable, in itself, of calling the existence of such authorisation into question, provided that it is apparent, in a sufficiently clear, precise and unequivocal manner, from the interpretation of the set of applicable provisions of national law that the processing of biometric and genetic data at issue falls within the scope of that directive, and not of that regulation.
+
+2.      Article 6(a) of Directive 2016/680 and Articles 47 and 48 of the Charter of Fundamental Rights of the European Union
+
+must be interpreted as not precluding national legislation which provides that, if the person accused of an intentional offence subject to public prosecution refuses to cooperate voluntarily in the collection of the biometric and genetic data concerning him or her in order for them to be entered in a record, the criminal court having jurisdiction must authorise a measure enforcing their collection, without having the power to assess whether there are serious grounds for believing that the person concerned has committed the offence of which he or she is accused, provided that national law subsequently guarantees effective judicial review of the conditions for that accusation, from which the authorisation to collect those data arises.
+
+3.      Article 10 of Directive 2016/680, read in conjunction with Article 4(1)(a) to (c) and Article 8(1) and (2) thereof,
+
+must be interpreted as precluding national legislation which provides for the systematic collection of biometric and genetic data of any person accused of an intentional offence subject to public prosecution in order for them to be entered in a record, without laying down an obligation on the competent authority to verify whether and demonstrate that, first, their collection is strictly necessary for achieving the specific objectives pursued and, second, those objectives cannot be achieved by measures constituting a less serious interference with the rights and freedoms of the person concerned.
+
+```
+
+Retrieved from "[https://gdprhub.eu/index.php?title=CJEU\_-\_C-205/21\_-\_Ministerstvo\_na\_vatreshnite\_raboti&oldid=33165](https://gdprhub.eu/index.php?title=CJEU_-_C-205/21_-_Ministerstvo_na_vatreshnite_raboti&oldid=33165)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [References to the CJEU](/index.php?title=Category:References_to_the_CJEU "Category:References to the CJEU")
+*   [European Union](/index.php?title=Category:European_Union "Category:European Union")
+*   [Article 9 GDPR](/index.php?title=Category:Article_9_GDPR "Category:Article 9 GDPR")
+*   [2023](/index.php?title=Category:2023 "Category:2023")
+
+This page was last edited on 5 June 2023, at 08:01.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)

@@ -1,0 +1,292 @@
+ Persónuvernd - 2020010602 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"a7eb7426d89fc7740027082b","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Persónuvernd\_-\_2020010602","wgTitle":"Persónuvernd - 2020010602","wgCurRevisionId":10579,"wgRevisionId":10579,"wgArticleId":2439,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["Persónuvernd (Iceland)","Iceland","Article 5(1)(c) GDPR","Article 6(1)(f) GDPR","2020","Icelandic"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Persónuvernd\_-\_2020010602","wgRelevantArticleId":2439,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:Pers%C3%B3nuvernd_-_2020010602&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=Pers%C3%B3nuvernd_-_2020010602&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=Pers%C3%B3nuvernd_-_2020010602&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=Pers%C3%B3nuvernd+-+2020010602&returntoquery=oldid%3D10579 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# Persónuvernd - 2020010602
+
+From GDPRhub
+
+Revision as of 15:00, 17 June 2020 by [AN](/index.php?title=User:AN "User:AN") ([talk](/index.php?title=User_talk:AN&action=edit&redlink=1 "User talk:AN (page does not exist)") | [contribs](/index.php?title=Special:Contributions/AN "Special:Contributions/AN")) (Created page with "{{DPAdecisionBOX |Jurisdiction=Iceland |DPA-BG-Color= |DPAlogo=LogoIS.png |DPA\_Abbrevation=Persónuvernd |DPA\_With\_Country=Persónuvernd (Iceland) |Case\_Number\_Name=20200106...")
+
+(diff) ← Older revision | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+Persónuvernd - 2020010602
+
+[![LogoIS.png](/images/thumb/7/7d/LogoIS.png/250px-LogoIS.png)](/index.php?title=File:LogoIS.png)
+
+Authority:
+
+[Persónuvernd (Iceland)](/index.php?title=Pers%C3%B3nuvernd_\(Iceland\) "Persónuvernd (Iceland)")
+
+Jurisdiction:
+
+[Iceland](/index.php?title=Category:Iceland "Category:Iceland")
+
+Relevant Law:
+
+[Article 5(1)(c) GDPR](/index.php?title=Article_5_GDPR#1c "Article 5 GDPR")  
+[Article 6(1)(f) GDPR](/index.php?title=Article_6_GDPR#1f "Article 6 GDPR")  
+[Iceland Data Protection Act 90/2018](https://www.personuvernd.is/information-in-english/greinar/nr/438)
+
+Type:
+
+Complaint
+
+Outcome:
+
+Rejected
+
+Started:
+
+Decided:
+
+28.05.2020 Published:
+
+15.06.2020 Fine:
+
+None
+
+Parties:
+
+Miðlun Arion banka hf.  
+Íslandsbanka  
+Landsbankans hf.
+
+National Case Number/Name:
+
+2020010602 European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+n/a
+
+Original Language(s):
+
+[Icelandic](/index.php?title=Category:Icelandic "Category:Icelandic")
+
+Original Source:
+
+[Persónuvernd (in IS)](https://www.personuvernd.is/urlausnir/midlun-arion-banka-hf.-islandsbanka-og-landsbankans-hf.-a-upplysingum-um-logheimili-ur-thjodskra-gegnum-netbanka#)
+
+Initial Contributor:
+
+n/a
+
+The Icelandic DPA (Persónuvernd) held that banks are entitled to have access to information on a data subjects' domicile, on the basis that the banks have a legitimate interest to process such personal data.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Dispute](#Dispute)
+    *   [1.3 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+Information on the complainant's legal domicile, contained in the Icelandic National Registry, was disclosed to three banks without the complainant's consent. The complainant argued that she did not want her address to be made available to third parties on her behalf. The banks argued that they had a legitimate interest to process this information, because it was necessary for the carrying out of certain activities by the bank, such as transferring money securely online or creating claims via online banking, and and that the data minimisation principle was upheld, i.e. that the personal data processed was adequate, relevant and limited to what was necessary for the purposes of the processing.
+
+### Dispute
+
+Did the banks have a legitimate interest to process the personal data, within the meaning of Article 6(1)(f) GDPR? Did the banks respect the data minimisation principle within the 5(1)(c) GDPR requirements?
+
+### Holding
+
+The Persónuvernd held that the banks had a legitimate interest to process the domicile information, because the security of the bank's operations online were "urgently needed" in light of the financial interest at stake. The Persónuvernd then concluded that the complainant's interests did not override the banks' legitimate interests because data minimisation had been ensured by the banks' restrictions on who could access the domicile information.
+
+## Comment
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the Icelandic original. Please refer to the Icelandic original for more details.
+
+Brokerage of Arion Bank hf., Íslandsbanki and Landsbankinn hf. on information on legal domains from the National Register through online banking
+Case no. 2020010602
+
+06/15/2020
+
+Privacy Protection has ruled that Arion bank hf., Íslandsbanki and Landsbankinn hf. is permitted to make information about the legal domicile of a complainant as registered in the National Register accessible through online banking. With Article 12 Act no. 140/2019, on registration of individuals, the National Registry of Iceland is authorized to disseminate information from the National Registry and to authorize other dissemination of such information. Then Article 14 the same Act as in Article 7. Act no. 80/2018, on legal domicile and domicile, specifically discusses when the National Registry of Iceland may accept a person's request for a hidden legal domicile. With reference to the above legal provisions, it is concluded that the legislature's assessment is that the interests of the dissemination of information about legal domicile outweigh the interests of individuals because they will not be disseminated. The processing can i.a. based on item 6. Article 9 Act no. 90/2018 and therefore complies with the provisions of the Act.
+
+Ruling
+
+At a meeting of the Board of Privacy on May 28, 2020, a clear ruling was made in case no. 2020010602 (previously 2019030755):
+I. procedures
+
+1. Case recommendations
+
+On March 25, 2019, Privacy Protection received a complaint from \[A\] (hereinafter referred to as the complainant) over the disclosure of Arion Bank hf., Íslandsbanki and Landsbankinn hf. on information on legal domicile from the National Register to third parties without the complainant's consent.
+
+With letters, date. On May 2, 2019, the three banks were invited to provide explanations for the complaint. Received response from Arion bank hf. by letter, date. 16 May 2019 and Íslandsbanki's replies on the one hand and Landsbankinn hf. however, with letters, dated. May 15, 2019. By letter, dated On August 9, 2019, the complainant was invited to comment on the views of the banks. The complainant confirmed by telephone to the Data Protection Authority on 27 August 2019 that she did not intend to make any further comments but requested that the matter be resolved on the basis of the available data.
+
+2. Complainant's point of view
+
+The complaint is based on the fact that a bank's disclosure of information on its domicile from the National Registry is not permitted without special consent. The complainant does not comment that the National Registry of Iceland disseminates information about its domicile to banks and other institutions that need to be able to process such information or that the banks provide access to key figures for banking transactions. However, the complainant does not wish, on her behalf, for her address to be made available to third parties.
+3. The view of Arion Bank hf.
+
+Arion bank hf. is based on the fact that the Bank's customers need to have access to the minimum information available in the National Register through online banking in order to process themselves, such as by bank transfer or the creation of claims. This leads, among other things, to reducing the likelihood that a claim that a customer needs to make will be established by the wrong debtor. Access to the right information when creating a claim or transferring funds is therefore a security issue. Then an address is used for differentiation for individuals bearing the same name. Another method of differentiation probably involves more extensive processing of personal information. It is only possible to look up by name or complete identification number and not by address.
+
+It is stated that Arion Bank hf. has used the National Registry's nomenclature in a closed reference system on the basis of an agreement with the National Registry of Iceland. The agreement stipulates that the Bank only provides its customers with access to the information in a closed lookup system which is "specially designed to provide access to the above national data." do not enter it except by entering your username and password.
+Finally, the letter states that it can be seen from the foregoing that the Bank has legitimate interests in the processing of personal information that is inherent in the Bank's customers' access to basic information from the National Register, cf. Item 6 Article 9 Act no. 90/2018. The Bank also considers the processing to be in accordance with the principles of Article 8. the same Act on the processing of personal data where it is authorized under an agreement with the National Registry of Iceland to provide its customers with access to the said personal information and no further information is required than is necessary.
+
+4. Íslandsbanki's point of view
+
+On behalf of Íslandsbanki, it is stated that the National Registry of Iceland and Íslandsbanki have concluded an agreement on the use of the bank by the National Register of National Registers. The Bank is thus able to provide its customers with access to the national register of national registers in a closed lookup system. According to the above agreement, all 10 digits must be entered in order to search for a social security number. When browsing, a person's name, social security number, address, postal code and post office will be displayed, but not marital status, health status, nationality, religion or similar information. This processing is designed to increase security for transactions through online banking and thus protect the interests of the registered and / or other person. It is imperative that the Bank's customers have access to a lookup system like this, e.g. to be able to verify that the recipient is correct before transferring.
+
+5. Landsbankinn hf.
+
+Landsbankinn hf. refers to the fact that processing of personal data is permissible if it is necessary for legitimate interests which the guarantor or third party may preserve unless the interests or fundamental rights and freedoms of the data subject demanding protection of personal data outweighs, cf. Item 6 Paragraph 1 Article 9 Act no. 90/2018. The information involved in the complaint is considered to be general personal information. At the same time, information on legal domicile is considered public information that is generally provided to third parties upon request. Therefore, the parties responsible for processing personal information may be permitted to process such information, as long as the processing complies with the provisions of the Privacy Act in other respects.
+
+It is stated that the Bank's customers have access to specific information on names, addresses, postal codes, location and identification number of parties from the National Register of National Registers through online banking. The information is only provided to those customers who have access to Landsbankinn hf. In addition, proportionality is taken care of as it is only possible to view certain basic information despite the fact that multifaceted personal information is recorded in the national register outside, ie. on m. sensitive personal information. Furthermore, it is stated that the complainant has not demonstrated that her fundamental rights and freedoms outweigh the interests of Landsbankinn hf. and the Bank's customers by processing information about the complainant's address.
+
+II. Assumptions and conclusion
+
+1. Scope - Guarantors
+
+Scope of Act no. 90/2018, on privacy and processing of personal information, and Regulation (EU) 2016/679, cf. Paragraph 1 Article 4 of the Act, and thus the authority of the Data Protection Authority, cf. Paragraph 1 Article 39 of the Act, covers the processing of personal data that is partially or fully automated and the processing of methods other than automatic processing of personal data that is or should be part of a file.
+
+Personal information includes information about a person or person who is personally identifiable and can be considered as personally identifiable if he or she can be directly or indirectly identified by reference to his or her identity or one or more of the characteristics characteristic of him, cf. Item 2 Article 3 of the Act and Paragraph 1. Article 4 Regulation. Processing means an action or series of actions in which personal information is processed, whether the processing is automatic or not, cf. Item 4 Article 3 of the Act and Paragraph 2. Article 4 Regulation.
+
+This case relates to the dissemination of information on the legal domicile of a complainant from the National Register to users of Arion Bank hf., Íslandsbanki and Landsbankinn hf. Respectfully, and with due regard to the foregoing provisions, this matter concerns the processing of personal information that falls under the sphere of privacy. The dissemination of the identification number will not be taken in the same way, as the complaint relates solely to the dissemination of information on legal domicile.
+
+The person responsible for processing personal data complies with Act no. 90/2018 is named as the guarantor. According to paragraph 6. Article 3 the Act refers to an individual, legal entity, governmental authority or other party who decides alone or in collaboration with other purposes and methods for the processing of personal information, cf. Item 7 Article 4 Regulation. Arion Bank hf., Íslandsbanki and Landsbankinn hf. be responsible for the process of providing access to information retrieved from the National Register through the online banking of the relevant bank. However, according to the nature of the case, they will not be considered joint guarantors. However, this is the same type of processing of personal data, based on similar agreements with the National Registry of Iceland, regardless of which banks are involved. This ruling will deal with the said processing on behalf of all three banks at once.
+
+2. regulatory environment
+
+All processing of personal data must be subject to any of the provisions of Article 9. Act no. 90/2018. It may be mentioned that personal data may be processed if it is necessary for legitimate interests that the guarantor or third party may hold unless the interests or fundamental rights and freedoms of the data subject require greater protection of personal data, cf. Item 6 that article.
+
+When assessing the authorization for processing, we must also consider the provisions of other laws that we currently apply. In the second paragraph. Article 3 Act no. 140/2019, on the registration of individuals, states that the National Registry of Iceland manages the national registry and related files, manages the operation and development of databases and information systems of national registers and handles the registration of individuals in the register. The provision of information from the National Registry is also dealt with in Article 12. the same law but according to par. the provision is all disclosure from the National Register of license. It also states that the National Registry of Iceland can disseminate or grant mediators permission to conduct dissemination of national registries on the basis of contracts and terms that the agency sets in accordance with the provisions of the Privacy Act and the processing of personal data. Conditions for permits shall be laid down in a regulation issued by the Minister, but no such regulation has been adopted at the time of this ruling. Finally, Article 14 The Act enshrines the protection of registered persons against the provision of information, but the Article shall enter into force on 1 January 2022. Furthermore, a concealed legal domicile in Article 7 is provided for. Act no. 80/2018, on legal domicile and domicile, which entered into force on 1 January 2020. Further conditions for the National Registry of Iceland permitting an individual and his or her family to have their domicile concealed in the National Registry and that this will not be disclosed can be found in Article 12. Regulation no. 1277/2018, which is based on Article 18 Act no. 80/2018.
+
+In addition to the authorization according to the above, the processing of personal data must comply with all the principles of paragraph 1. Article 8 Act no. 90/2018, cf. Article 5 Regulation (EU) 2016/679. Provisions include, inter alia, that personal data should be processed in a legitimate, fair and transparent manner towards the data subject (point 1); that they should be derived for clearly stated, legitimate and objective purposes and not further processed for other and incompatible purposes (para. 2); and that they should be sufficient, appropriate and not in excess of what is necessary for the purpose of the processing (point 3).
+
+This case concerns whether the guarantors of Arion bank hf., Íslandsbanki and Landsbankinn hf. is authorized to provide its customers with access through online banking to information obtained from the National Register of the complainant's legal domicile. It is clear that on the basis of the agreement of the National Registry of Iceland with the guarantors, the latter may not allow their clients to look up other than a complete identification number or name. Thus, it is not possible to enter a specific address and thus get information about everyone registered there for the home or enter only part of the identification number.
+
+It will not be seen that the processing which involves the above-mentioned dissemination of personal data can rely on sources other than point 6. Paragraph 1 Article 9 Act no. 90/2018. In particular, the interests outweigh the importance; the interests of the guarantor by enabling their clients to access information on the addresses of individuals from the National Register through online banking on the one hand, or on the other hand, the interests of registered persons because third parties cannot access the said information about them in this way. In this connection, it is considered, among other things, whether the processing in question is necessary to ensure the proper identification of individuals and the reliability of personal data when transacting through an online bank.
+
+3. Conclusion
+
+The three banks are all based on the fact that their customers' access to information from the National Register through online banking is designed to increase business security. Thus, it can be verified that the right recipients of the transfer or the right debtor claim. Access to addresses is necessary in cases where many people carry the same name. Furthermore, the National Registry of Iceland provides those who so wish generally with information on the legal domicile of individuals as it is registered in the National Registry.
+
+It is not disputed that security of business is urgently needed, not least online banking, as there are often great financial interests at stake. These interests are in line with the interests of the complainant because information on her legal domicile is not accessible to all who have access to Arion Bank hf., Íslandsbanki or Landsbankinn hf. In order for the processing to be based on the authority of item 6. Article 9 Act no. 90/2018 it must be necessary to safeguard their interests.
+
+As discussed above, in Act no. 140/2019, on the registration of individuals, provides for authorizations of the National Registry of Iceland to disseminate information from the National Registry and to authorize other dissemination of such information on the basis of contracts and terms set by the Agency in accordance with the provisions of the Privacy Act and the processing of personal data. Particular consideration is given to when the National Registry of Iceland may accept a person's request that information on his domicile not be disseminated from the National Registry in Article 14. the same Act as in Article 7. Act no. 80/2018, on legal domicile and domicile.
+
+In the opinion of the Data Protection Authority, the abovementioned legislative provisions reflect the opinion of the legislator that, in general, the interests of the dissemination of information on the legal domicile of individuals outweigh the interests of the individuals concerned because they are not shared. Furthermore, provisions on hidden legal domicile and the protection of registered persons against the transmission of information will be regarded as an exception to the principle that dissemination of information on legal domicile is otherwise authorized on the basis of agreements with the National Registry of Iceland or the terms it sets. Then it will not be considered that the processing violates the principles of the first paragraph. Article 8 Act no. 90/2018.
+
+In the above, the conclusion of the Data Protection Authority is that the processing of Arion bank hf., Íslandsbanki and Landsbankinn hf. on personal information about the complainant complies with Act no. 90/2018, on privacy and processing of personal information.
+
+You can do this:
+
+Arion Bank hf., Íslandsbanki and Landsbankinn hf. on information on legal domicile \[A\] when searching the National Register through online banking is in compliance with Act no. 90/2018, on privacy and processing of personal information.
+
+In Privacy, May 28, 2020
+
+Björg Thorarensen
+chairman
+
+Retrieved from "[https://gdprhub.eu/index.php?title=Persónuvernd\_-\_2020010602&oldid=10579](https://gdprhub.eu/index.php?title=Persónuvernd_-_2020010602&oldid=10579)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [Persónuvernd (Iceland)](/index.php?title=Category:Pers%C3%B3nuvernd_\(Iceland\) "Category:Persónuvernd (Iceland)")
+*   [Iceland](/index.php?title=Category:Iceland "Category:Iceland")
+*   [Article 5(1)(c) GDPR](/index.php?title=Category:Article_5\(1\)\(c\)_GDPR "Category:Article 5(1)(c) GDPR")
+*   [Article 6(1)(f) GDPR](/index.php?title=Category:Article_6\(1\)\(f\)_GDPR "Category:Article 6(1)(f) GDPR")
+*   [2020](/index.php?title=Category:2020 "Category:2020")
+*   [Icelandic](/index.php?title=Category:Icelandic "Category:Icelandic")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/Pers%C3%B3nuvernd_-_2020010602 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/Pers%C3%B3nuvernd_-_2020010602 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=Pers%C3%B3nuvernd_-_2020010602&oldid=10579 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=Pers%C3%B3nuvernd_-_2020010602&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=Pers%C3%B3nuvernd_-_2020010602&id=10579&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 17 June 2020, at 15:00.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.030","walltime":"0.044","ppvisitednodes":{"value":419,"limit":1000000},"postexpandincludesize":{"value":1873,"limit":2097152},"templateargumentsize":{"value":842,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":17226,"limit":5000000},"timingprofile":\["100.00% 5.604 1 Template:DPAdecisionBOX","100.00% 5.604 1 -total"\]},"cachereport":{"timestamp":"20250829190632","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":483});});

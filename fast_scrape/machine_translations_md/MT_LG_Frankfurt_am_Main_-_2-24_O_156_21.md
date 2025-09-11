@@ -1,0 +1,407 @@
+ LG Frankfurt am Main - 2-24 O 156/21 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"002a07c3a5988ce5f3fee826","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"LG\_Frankfurt\_am\_Main\_-\_2-24\_O\_156/21","wgTitle":"LG Frankfurt am Main - 2-24 O 156/21","wgCurRevisionId":38870,"wgRevisionId":38870,"wgArticleId":7430,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["LG Frankfurt (Germany)","Germany","Article 6(1)(b) GDPR","Article 6(1)(f) GDPR","Article 80(1) GDPR","Article 80(2) GDPR","2023","German"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"LG\_Frankfurt\_am\_Main\_-\_2-24\_O\_156/21","wgRelevantArticleId":7430,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:LG_Frankfurt_am_Main_-_2-24_O_156/21&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=LG_Frankfurt_am_Main_-_2-24_O_156/21&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=LG_Frankfurt_am_Main_-_2-24_O_156/21&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=LG+Frankfurt+am+Main+-+2-24+O+156%2F21&returntoquery=oldid%3D38870 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# LG Frankfurt am Main - 2-24 O 156/21
+
+From GDPRhub
+
+Revision as of 14:37, 21 December 2023 by [Ar](/index.php?title=User:Ar&action=edit&redlink=1 "User:Ar (page does not exist)") ([talk](/index.php?title=User_talk:Ar&action=edit&redlink=1 "User talk:Ar (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Ar "Special:Contributions/Ar"))
+
+([diff](/index.php?title=LG_Frankfurt_am_Main_-_2-24_O_156/21&diff=prev&oldid=38870 "LG Frankfurt am Main - 2-24 O 156/21")) [← Older revision](/index.php?title=LG_Frankfurt_am_Main_-_2-24_O_156/21&direction=prev&oldid=38870 "LG Frankfurt am Main - 2-24 O 156/21") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+LG Frankfurt am Main - 2-24 O 156/21
+
+[![Courts logo1.png](/images/thumb/4/4c/Courts_logo1.png/250px-Courts_logo1.png)](/index.php?title=File:Courts_logo1.png)
+
+Court:
+
+[LG Frankfurt (Germany)](/index.php?title=Category:LG_Frankfurt_\(Germany\) "Category:LG Frankfurt (Germany)")
+
+Jurisdiction:
+
+[Germany](/index.php?title=Category:Germany "Category:Germany")
+
+Relevant Law:
+
+[Article 6(1)(b) GDPR](/index.php?title=Article_6_GDPR#1b "Article 6 GDPR")  
+[Article 6(1)(f) GDPR](/index.php?title=Article_6_GDPR#1f "Article 6 GDPR")  
+[Article 80(1) GDPR](/index.php?title=Article_80_GDPR#1 "Article 80 GDPR")  
+[Article 80(2) GDPR](/index.php?title=Article_80_GDPR#2 "Article 80 GDPR")
+
+Decided:
+
+26.05.2023 Published:
+
+Parties:
+
+National Case Number/Name:
+
+2-24 O 156/21
+
+European Case Law Identifier:
+
+Appeal from:
+
+Appeal to:
+
+Unknown
+
+Original Language(s):
+
+[German](/index.php?title=Category:German "Category:German")
+
+Original Source:
+
+[Bürgerservice Hessenrecht (in German)](https://www.lareda.hessenrecht.hessen.de/bshe/document/LARE230005222/part/L)
+
+Initial Contributor:
+
+co
+
+A German Court ordered an energy provider to cease and desist from using two unlawful clauses in its general terms and conditions in violation of [Article 6(1)(b) GDPR](/index.php?title=Article_6_GDPR#1b "Article 6 GDPR") and [Article 6(1)(f) GDPR](/index.php?title=Article_6_GDPR#1f "Article 6 GDPR").
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+The plaintiff in this case is a consumer protection organization under German law. The defendant is a German energy and gas provider, which, with a view to lowering the risk of payment defaults, is in a contractual relationship with SCHUFA Holding AG and another credit rating agency, hereinafter the credit agencies. This contract foresees that whenever an interested individual submits a request for conclusion of an energy provision contract on the online form of the defendant, the latter sends the basic information about the interested persons to the credit agencies, that calculate a credit score about them, and receives information on the economic risks related to those individuals.
+
+The plaintiff read the general terms and conditions on the webpage of the defendant and under “Data Protection, Creditworthiness information” – “Data Transmission to SCHUFA and other agency” which stated that the defendant transmits data collected in the request for conclusion, the implementation and termination of a contract and data about non-contractual behavior to the credit agencies, on the basis of [Article 6(1)(b) GDPR](/index.php?title=Article_6_GDPR#1b "Article 6 GDPR") and [Article 6(1)(f) GDPR](/index.php?title=Article_6_GDPR#1f "Article 6 GDPR").
+
+The plaintiff considered that the transmission of so-called “positive data” on the implementation and termination of a contract to be unlawful and directed this in a letter to the defendant in December 2020, asking the plaintiff to cease using those clauses. In its view, the transmission of such data was not justified by any of the legal bases of [Article 6(1) GDPR](/index.php?title=Article_6_GDPR#1 "Article 6 GDPR"). The plaintiff first filed a lawsuit with the Regional Court of Darmstadt, which concluded that it was not competent to deal with the case and referred it to the Regional Court of Frankfurt am Main (_Landgericht Frankfurt am Main, LG)_. The plaintiff asked the court to order the defendant to cease and desist from any further violations and to refrain from using the contested clauses in its terms and conditions in consumer contracts for energy supply.
+
+In its submissions, the defendant argued that the claim should be dismissed, already because the plaintiff was not authorized to bring an action before a court and because the claim was unfounded. Further, the defendant argued that the content of the terms constituted a mere privacy notice, whose content is not binding.
+
+### Holding
+
+First of all, the court held, against the view of the defendant, that the plaintiff did have standing before the court as a consumer protection organization under [§3(1)(1) the German UklaG](https://www.gesetze-im-internet.de/uklag/), to bring a claim under [Article 80(1) GDPR](/index.php?title=Article_80_GDPR#1 "Article 80 GDPR") and [Article 80(2) GDPR](/index.php?title=Article_80_GDPR#2 "Article 80 GDPR"). Also, the court clarified, making reference to [CJEU case C-319/20](/index.php?title=CJEU_-_C-319/20_-_Meta_Platforms_Ireland_Limited "CJEU - C-319/20 - Meta Platforms Ireland Limited"), that [Article 80(2) GDPR](/index.php?title=Article_80_GDPR#2 "Article 80 GDPR") does not presuppose the existence of a concrete violation of a data protection right, but it is sufficient that the processing in question could violate the rights of identified or identifiable data subjects - in this case, all those who concluded an energy contract with the defendant after 2019 by accepting the contested terms. Also, the court held that it suffices for the personal scope of [Article 80(2) GDPR](/index.php?title=Article_80_GDPR#2 "Article 80 GDPR") to be open, that a violation of consumer protection law, in this case the terms and conditions of the defendant, goes hand in hand with a violation of the GDPR. Hence, the court considered that all the requirements of [Article 80(1) GDPR](/index.php?title=Article_80_GDPR#1 "Article 80 GDPR") and [Article 80(2) GDPR](/index.php?title=Article_80_GDPR#2 "Article 80 GDPR") were met.
+
+As regards the content of the terms, the court first considered that the clauses in question constituted a concretization of the object of the contract, as clarified in another clause of the terms, so that the average consumer understood such clauses as a privacy policy and not as a mere notice, as submitted by the defendant.
+
+The court went on to ascertain whether the content of the clauses constituted a disproportionate disadvantage for consumers under the German Civil Code (_Bürgerliches Gesetzbuch, BGB_), which is given when a party deviates from a norm, protecting a consumer, in a significant way. In this, the court assessed whether the defendant had deviated from the obligation under [Article 6(1) GDPR](/index.php?title=Article_6_GDPR#1 "Article 6 GDPR") in a significant way, that is, whether the transmission of “positive” data to the credit agencies by the defendant could be based on [Article 6(1)(b) GDPR](/index.php?title=Article_6_GDPR#1b "Article 6 GDPR") or on [Article 6(1)(f) GDPR](/index.php?title=Article_6_GDPR#1f "Article 6 GDPR").
+
+After clarifying that data regarding the implementation and termination of a contract cannot be considered “negative” data, thus not credit-relevant data, the court considered that the transmission of such data cannot be based on [Article 6(1)(b) GDPR](/index.php?title=Article_6_GDPR#1b "Article 6 GDPR"). As a matter of fact, the court could not ascertain how the transmission of such data to credit ranking agency would be necessary for the performance of an already concluded contract between the energy provider and a consumer.
+
+Further, the court considered whether processing for other purposes could be based on [Article 6(1)(f) GDPR](/index.php?title=Article_6_GDPR#1f "Article 6 GDPR"). To this end, the transmission of positive data would have to be necessary for the protection of a legitimate interest of the controller or a third party, insofar as the rights and interests of the data subject do not override them. In the case at hand, the court held that it cannot be excluded _a priori_ that positive data about a person might be used for credit scoring purposes. However, the court clarified that it is up to the credit agency to prove to what extent such data are necessary for credit scoring, as per [§ 31 BDSG](https://www.gesetze-im-internet.de/bdsg_2018/). In the case at hand, the court held that first, the defendant failed to clearly define which data about the implementation and termination of a contract would be transmitted and also failed to provide reasons for the transmission of such data which also suggests that they might not even be used for calculating a credit score; secondly, the court observed that in any case, the interests and rights of the data subjects prevail over those of the defendant. This occurs when, for instance, the data subject cannot expect further processing of his or her data, as suggested in [Recital 47 GDPR](/index.php?title=Recitals_GDPR "Recitals GDPR"). Effectively, not knowing exactly which data is transmitted constitutes a significant interference in the right to informational self-determination of individuals and leaves them confused as to whether their data are going to be further processed or not.
+
+Thus, the court considered the contested clauses in the general terms and conditions of the defendant to be in violation of [Article 6(1)(f) GDPR](/index.php?title=Article_6_GDPR#1f "Article 6 GDPR") and unreasonable under the BGB. The court thus ordered the defendant to cease and desist from using the clauses in its terms and conditions in the context of consumer contracts.
+
+## Comment
+
+This decision is not final.
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the German original. Please refer to the German original for more details.
+
+tenor
+
+    1. The defendant is sentenced to avoid paying a fine of up to EUR 250,000.00 for each case of violation, or alternatively, imprisonment, or imprisonment for up to six months, the latter to be carried out by its management, the following not in square brackets to use provisions in data protection notices for electricity supply contracts that are or have the same content as these, unless the contract is concluded with a person who is acting in the exercise of their commercial or independent professional activity (entrepreneur), as well as the provisions for the processing of such contracts April 1, 1977, to appoint:
+
+    “\[14.3. Data transmission to SCHUFA\]
+
+    \[... is entitled to obtain credit information about you.\] ... transmits personal data collected as part of this contractual relationship about \[the application\], the implementation and termination of this business relationship \[as well as data about non-contractual behavior or fraudulent behavior\] to SCHUFA Holding AG, Kormoranweg 5, 65201 Wiesbaden. \[…\] The legal basis for these transfers is Article 6 Paragraph 1 Letter b and Article 6 Paragraph 1 Letter f of the General Data Protection Regulation (GDPR). \[…\].
+
+    14.4. The authorization of ... to pass on the information in section 14.3. The data and information named there for the purposes named there also exists for the following other company: ...
+
+    2. The defendant is ordered to pay the plaintiff EUR 210.00 plus interest of 5 percentage points above the base interest rate since July 20, 2021.
+
+    3. Otherwise the lawsuit is dismissed.
+
+    4. The plaintiff must bear 20% of the costs of the legal dispute and the defendant must bear 80%. This does not affect the additional costs of the referral to the Frankfurt am Main regional court; The plaintiff has to bear this.
+
+    4. The judgment is provisionally enforceable for the plaintiff against security in the amount of 5,000.00 euros. The plaintiff may prevent enforcement by the defendant by providing security in the amount of 110% of the amount enforceable based on the judgment, unless the defendant provides security in the amount of 110% of the amount to be enforced before enforcement.
+
+    5. The amount in dispute is set at 5,000.00 euros.
+
+Facts of the case
+
+    The parties dispute the admissibility of formulations in the defendant's general terms and conditions.
+
+    The plaintiff, who is entered in the list kept by the Federal Justice Office in accordance with Section 4 UKlaG, is the nationwide umbrella organization of all 16 consumer centers in the federal states and a further 26 consumer and socially oriented organizations in Germany. According to Section 2 of its statutes, the plaintiff's purpose is to represent consumer interests, promote consumer protection, strengthen the position of the consumer in the social market economy and contribute to the achievement of sustainable development. As part of its statutory duties, it asserts, among other things, claims for injunctive relief within the meaning of Section 1 UKlaG. The defendant is a nationwide provider of green electricity and gas, including for private households. It enables the conclusion of electricity and gas supply contracts via its website. Since the defendant, who is obliged to pay in advance, wants to reduce the risk of non-payment, it uses so-called credit reporting agencies such as SCHUFA Holding AG (hereinafter just SCHUFA) and the company ... (hereinafter referred to as credit agencies) on a contractual basis, which offer credit information about the respective interested parties . If the interested customer places an order online for an electricity or gas supply contract, the defendant transmits the master data of the respective interested party to the credit reporting agencies as part of the pre-contractual credit check and in return receives information about any stored economic risks. If the check is positive, the defendant concludes the supply contract. SCHUFA, for example, is entitled to store all types of secure information that suggest that the person poses a threat to the economy. This includes so-called “negative data” such as data on payment delays or defaults. However, data about customer behavior that does not violate the contract are not relevant to creditworthiness.
+
+    With the version dated May 15, 2019, the defendant made available on its homepage... General Terms and Conditions for Electricity, which stated, among other things, after paragraph 13 (contract changes) and before paragraph 15 (contract term):
+
+    “14 Data protection, credit information
+
+    14.3. Data transmission to SCHUFA
+
+    ... is entitled to obtain credit information about you. ... transmits personal data collected as part of this contractual relationship about the application, implementation and termination of this business relationship as well as data about non-contractual behavior or fraudulent behavior to SCHUFA Holding AG, Kormoranweg 5, 65201 Wiesbaden. The legal basis for these transfers is Article 6 paragraph 1 letter b and Article 6 paragraph 1 letter f of the General Data Protection Regulation (GDPR). Transfers based on Article 6 Paragraph 1 Letter f GDPR may only take place to the extent that this is necessary to protect the legitimate interests of ... or third parties and does not outweigh the interests or fundamental rights and freedoms of the data subject that require the protection of personal data. The data exchange with SCHUFA also serves to fulfill legal obligations to carry out creditworthiness checks on customers (Sections 505a and 506 of the Civil Code).
+
+    SCHUFA processes the data received and also uses it for the purpose of profiling (scoring) to provide its contractual partners in the European Economic Area and Switzerland and, if applicable, other third countries (if there is an adequacy decision for these by the European Commission) with information, among other things, to assess the to give creditworthiness to natural persons. Further information on SCHUFA's activities can be found in the SCHUFA information sheet in accordance with Art. 14 GDPR or can be viewed online at www.schufa.de/datenschutz.
+
+    14.4. The authorization of … to pass on the data and information named in Section 14.3 for the purposes named there also exists for the following other companies: …
+
+    In this respect, reference is made to Appendix K1, page 131 ff. d. A. Referenced. The implementation of a contractual relationship with a consumer can take place without the transmission of data about the implementation and termination of the business relationship with the defendant. If, as part of the execution of the contract between the end customer and the defendant, the end customer does not fulfill the contractual obligation to pay under the electricity supply contract, the defendant reports this back to the credit reporting agencies. As a rule, this occurs at the earliest when the legal dunning procedure is initiated, generally only in relation to titled claims. This can occur during an existing contractual relationship, at or after the termination of a contract. When registering such “negative characteristics”, data on the contract status is also transmitted for the purpose of assigning or ensuring the completeness of the response from the credit agency.
+
+    The plaintiff complained about clauses 14.3 to the defendant. and 14.4. with regard to what he believes to be a transfer of so-called “positive data” about “implementation” and “termination” to SCHUFA in a warning letter dated December 8, 2020, and demanded that the defendant submit a cease-and-desist declaration that is subject to a penalty and the payment of 210.00 euros until January 5th, 2021. The defendant rejected the alleged claims in a letter dated February 5, 2021.
+
+    The plaintiff claims that the defendant also transmits data to SCHUFA about contracts that are running undisturbed and in which the customer has no cause for complaint.
+
+    The plaintiff was of the opinion that he was entitled to bring an action and had legal standing in accordance with Sections 1 and 3 of the UKlaG. For the standing to bring an action and the requested injunction, it is irrelevant whether the defendant actually transmits positive data to credit agencies, since the subject of the content control is the objective content of the clauses, which can be determined through interpretation. The defendant's general terms and conditions within the meaning of paragraphs 14.3. and 14.4., which, according to the recipient horizon, represented general terms and conditions regulations in particular through the use of the phrase “... is entitled” in accordance with Section 305 Paragraph 1 Sentence 1 BGB, would contradict Section 307 Paragraph 1 Sentence 1, Paragraph 2 No. 1 BGB in conjunction with Article 5 Paragraph 1 Letter a), Article 6 of Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016 on the protection of natural persons with regard to the processing of personal data, on the free movement of data and to repeal Directive 95/46/EC (hereinafter General Data Protection Regulation or GDPR), so that the defendant is obliged to refrain from using the clauses. The data processing regulated therein in the form of the data transfer of personal data about the implementation and termination of the business relationship to SCHUFA or the company..., which is not related to negative payment experiences or other non-contractual behavior on the part of the consumer (so-called positive data) , the defendant cannot rely on any legal basis under the GDPR. First of all, the term “as well as” should not be interpreted as “together with”, but rather to the effect that positive data can (can) be transmitted regardless of negative entries. The transmission of such data can neither be justified within the meaning of Article 6 Paragraph 1 Letter b) GDPR, nor do the interests of the defendant or SCHUFA prevail within the meaning of Article 6 Paragraph 1 Letter f) GDPR. The data protection conference also saw the latter in its decision of June 11, 2018 for companies that are not credit institutions. The legitimate interest of the data subjects in deciding for themselves how the data is used outweighs this. Customers would also not reasonably have to expect positive data to be passed on to SCHUFA as data that is not credit-relevant. It is also not clear that the defendant complies with the requirements of Section 31 BDSG.
+
+    The plaintiff initially filed a lawsuit with the Darmstadt Regional Court. In response to a reference from the Darmstadt Regional Court on September 29, 2021 (page 92 of the file), the plaintiff applied for a referral to the Frankfurt am Main Regional Court on September 30, 2021 (see page 96 of the file). The Darmstadt Regional Court then declared itself incompetent by decision of October 1, 2021 and referred the legal dispute to the Frankfurt am Main Regional Court (see page 99 of the A.). In the statement of claim, the plaintiff requested that the two disputed clauses in energy supply contracts be omitted. In response to a reference from the court on December 27, 2022, he changed his application in a letter dated January 9, 2023 in such a way that he only requested an omission of the disputed clauses in electricity supply contracts (see p. 289 of the A.), whereby the application was in his The wording should not contain the contents of the square brackets.
+
+    The plaintiff now requests
+
+    1. to sentence the defendant, in order to avoid an administrative fine of up to EUR 250,000.00 to be set for each case of infringement, or alternatively to administrative detention, or administrative detention for up to six months, the latter to be carried out by its management, to refrain from subsequent or identical contents To use provisions in data protection notices for electricity supply contracts, unless the contract is concluded with a person who is acting in the exercise of their commercial or independent professional activity (entrepreneur), as well as to the provisions for the execution of such contracts concluded after April 1, 1977 , to call:
+
+    1. \[14 Data protection, credit information\]
+
+    \[14.3 Data transmission to SCHUFA\]
+
+    ... is entitled to obtain credit information about you.\] ... transmits personal data collected as part of this contractual relationship about \[the application,\] the implementation and termination of this business relationship \[as well as data about non-contractual behavior or fraudulent behavior\] to SCHUFA Holding AG, Kormoranweg 5, 65201 Wiesbaden and ... ... \[…\] The legal basis for these transfers is Article 6 Paragraph 1 Letter b and Article 6 Paragraph 1 Letter f of the General Data Protection Regulation (GDPR). \[…\].
+
+    2. 14.4 The authorization of ... to pass on the data and information specified in Section 14.3 for the purposes specified there also exists for the following other companies: ...
+
+    3. order the defendant to pay the plaintiff EUR 210.00 plus interest of 5 percentage points above the base interest rate since the litigation was brought.
+
+    The defendant requests
+
+    reject the complaint.
+
+    The defendant took the view that the lawsuit was already inadmissible due to the plaintiff's lack of standing. Claims due to alleged violations of the GDPR could not be based by the plaintiff on the UKlaG because the fully harmonizing GDPR in Articles 77 - 84 contains final and differentiated regulations for uniform legal enforcement only for supervisory authorities and data subjects, but does not contain a popular lawsuit like this §§ 1, 3 UKlaG provide. This principle can only be deviated from on the basis of a legal opening clause, which again does not exist. Art. 84 GDPR only makes it possible to establish other criminal and administrative sanctions for violations. Art. 80 Para. 2 GDPR does not apply in favor of the plaintiff because it must be linked to the alleged actual violation of the rights of a specific person (principle of the plaintiff behind the plaintiff). Furthermore, as a consumer protection association, the plaintiff is not a data protection association within the meaning of Article 80 (1) GDPR. Sections 1 and 3 of the UKlaG are also inapplicable because they were already issued before the GDPR came into force and (therefore) were not communicated to the Commission in accordance with Article 85 (3) of the GDPR. It cannot be assumed that the national legislature viewed Sections 1 and 3 UKlaG as an implementation of Article 80 (2) GDPR. The enforcement of rights under the GDPR in accordance with Section 1 UKlaG in conjunction with Section 307 Paragraph 1 Sentence 1 of the German Civil Code (BGB) also stands in the way of the fact that this would only allow legal violations based on contractually regulated and not extra-contractual processing operations. If you allow this, it would represent an inadmissible partial implementation of the GDPR. If you see this differently, the wording in paragraphs 14.3. as a pure reference or information is not subject to the regulation of § 1 UKlaG (in conjunction with § 307 Para. 1 BGB). In this respect, these are not general terms and conditions, but rather, what is known to and recognizable to the customer several years after the GDPR came into force, is simply data protection information for the sole purpose of informing those affected about processing operations permitted under data protection law, which are beyond content control. The mandatory information within the meaning of Articles 13 and 14 of the GDPR clearly does not constitute an agreement or a determination of the content of a contractual legal relationship, even in the most anti-customer interpretation, taking into account the impression it conveys to the person concerned. As can also be seen from the title, the defendant does not claim any legal power to make legal arrangements with them, also because data protection law is essentially not available. Even without the information, data processing as described would be possible and permitted. The lawsuit is also unfounded because paragraphs 14.3. and 14.4. not unreasonably disadvantage a person affected. The wording in the paragraphs using the term “as well as” makes it clear that data about the implementation and termination will only be transmitted together with the negative features - which are undisputedly permissible to be forwarded. The understanding that the terms “implementation and termination” refer to positive data is also arbitrary. Even if the plaintiff wanted to see it that way, the forwarding of positive data as data processing, which the plaintiff did not even substantiate, would be permissible under the GDPR. In the case of positive data transmission, the legitimate interest of the person responsible would lie in improving the data sets of the credit reporting agencies and the associated future receipt of more accurate data sets, especially in the case of an agreed advance payment obligation. The interests or fundamental rights and freedoms of the person concerned do not prevail, also because one's own assessment is improved, the amount of data is limited, data processing is less invasive and there is a purpose limitation.
+
+    The lawsuit was served on the defendant on July 19, 2021.
+
+Reasons for the decision
+
+    The lawsuit is admissible and justified to the extent stated.
+
+    The Frankfurt am Main Regional Court has local and factual jurisdiction due to the binding effect of the Darmstadt Regional Court's decision of October 1, 2021 (Section 281 Paragraph 2 Sentence 4 ZPO). The local and subject-matter jurisdiction of the Frankfurt am Main Regional Court also results from Section 6 Paragraph 1, Paragraph 2 Sentence 1 UKlaG in conjunction with Section 43 HessJuZuV.
+
+    The plaintiff who has permissibly limited the application for action within the meaning of Section 264 No. 2 ZPO is entitled to bring an action within the meaning of Section 3 Paragraph 1 Sentence 2 No. 1 UKlaG, which is in accordance with Union law within the scope of application of the GDPR with regard to the provisions in Art. 80 Paragraph 2 GDPR must be interpreted in accordance with the requirements regulated.
+
+    The requirements of Section 3 Paragraph 1 Sentence 1 No. 1 UKlaG are met because the plaintiff is a qualified institution registered in the list according to Section 4 UKlaG, which - in the legal proceedings exclusively - has a claim for injunctive relief in the sense of Section 1 UKlaG asserts. It is not clear that the exceptions in Section 3 Paragraph 2 UKlaG would come into consideration and the plaintiff has even included a corresponding restriction to actions towards consumers in his application.
+
+    The requirements of Article 80 Paragraph 2 of the GDPR that must be taken into account within the framework of an interpretation of Section 3 Paragraph 1 Sentence 1 No. 1 of the UKlaG in accordance with European law are also present or do Article 80 Paragraph 2 of the GDPR fall within the scope of application of Section 3 Paragraph 1 S. 1 No. 1 UKlaG does not contradict.
+
+    Before the GDPR came into force, it was recognized in the scope of application of the BDSG (former version) that qualified institutions such as the plaintiff could take action in accordance with Section 1 UKlaG by way of an injunction against a user of a general terms and conditions that were ineffective due to the violation of a data protection provision (cf. BGH, Decision of May 28, 2020 - I ZR 186/17 = GRUR 2020, 896 Rn. 28; BGH GRUR 2018, 96 Rn. 1, 12 - Cookie consent I). However, it was controversial whether this right to bring an action still exists under the General Data Protection Regulation or whether Article 77 ff. GDPR and in particular Article 80 Paragraph 2 GDPR preclude an assertion on the basis of a national regulation that has already come into force. For this reason, the Federal Court of Justice (BGH) suspended proceedings (Az. I ZR 186/17 = GRUR 2020, 896 - App-Zentrum I) by decision of May 28, 2020 and referred this question of interpretation, in particular, to the Court of Justice of the European Union (ECJ). Art. 80 Paragraph 2 GDPR, submitted for a preliminary ruling. In its judgment of April 28, 2022 (ref.: C-319/20 = GRUR 2022, 920 - Meta Platforms Ireland), the ECJ decided that Article 80 (2) of the GDPR does not conflict with a national regulation under which an association can... Safeguarding consumer interests can bring an action against the alleged violator of the protection of personal data without a corresponding order and regardless of the violation of the specific rights of data subjects on the grounds that the ban on the use of ineffective general terms and conditions has been violated, provided that the data processing in question violates the rights of identified persons or identifiable natural persons from this regulation (cf. ECJ, judgment of April 28, 2022, C-319/20 = GRUR-RS 2022, 8637, Ls.). However, the national regulation must correspond to the content and objectives of the GDPR and must not violate it (ECJ, judgment of April 28, 2022, C-319/20 = GRUR-RS 2022, 8637, para. 60).
+
+    This is the case with Section 3 Paragraph 1 UKlaG because, when interpreted in accordance with European law, both the personal and the factual requirements of Article 80 Paragraph 2 GDPR are present. In the opinion of the court, contrary to the defendant's opinion, there is no need to submit the case again to the ECJ or wait for a decision from the BGH, despite the BGH's decision of November 10, 2022.
+
+    Contrary to the defendant's opinion, the requirements for the personal scope of application (within the meaning of Art. 80 Para. 1 GDPR) of Art. 80 Para. 2 GDPR for an action by a consumer association such as the plaintiff are within the meaning of Section 3 Para. 1 Sentence. 1 No. 1 UKlaG (see also without further justification: BGH, decision of November 10, 2022, I ZR 186/17, p. 8, submitted by the plaintiff, page 256 of the A). A consumer protection association may also assert violations of a regulation of the GDPR within the framework of national regulations aimed at consumer protection.
+
+    To the extent that the defendant takes the view that the plaintiff is, as is correct, not a primary data protection association within the meaning of Article 80 (1) GDPR according to its statutes and is therefore not authorized to punish data protection violations at all, the ECJ does not follow this argument. In its judgment of April 28, 2022, the ECJ expressly stated that an association for the protection of consumer interests such as the plaintiff falls under the requirements of Article 80 Paragraphs 1 and 2 GDPR because it pursues an objective in the public interest is to ensure the rights and freedoms of data subjects in their capacity as consumers and this may be related to the objective of protecting the personal data of those consumers. It is therefore sufficient for the personal scope of Art. 80 Para. 2 GDPR if the violation of consumer regulations, as claimed here by the plaintiff within the framework of Sections 1, 3 Para. 1 UKlaG, can be accompanied by a violation of data protection regulations ( ECJ, judgment of April 28, 2022, C-319/20 = GRUR-RS 2022, 8637 Rz. 65, 66). In this case, the plaintiff is specifically seeking the omission of a wording with the claim that it violates the consumer protection regulations of Section 1 UKlaG in conjunction with Section 307 Paragraph 1 Sentence 1 BGB.
+
+    Art. 80 Paragraph 2 GDPR does not conflict with Section 3 Paragraph 1 Sentence 1 No. 1 UKlaG, even with regard to the requirements of the material scope of application regulated therein and present here (cf. ECJ, judgment of April 28, 2022, C-319/20 = GRUR-RS 2022, 8637 Rz. 68 ff.; BGH, decision of November 10, 2022, I ZR 186/17, p. 8, submitted by the plaintiff, page 257 of the document. ).
+
+    The subject of the plaintiff's claim is solely the abstract review of the defendant's wording within its general terms and conditions against the objective legal standard of data protection law in the sense of a kind of "popular lawsuit". However, the ECJ has expressly decided in this context that an institution within the meaning of Article 80 (2) GDPR, such as the plaintiff, cannot be required to individually identify in advance the person who is specifically affected by data processing , which allegedly violates the provisions of the GDPR (ECJ ibid., para. 68). The term “data subject” within the meaning of Article 4 No. 1 GDPR includes not only an “identified natural person”, but also an “identifiable natural person”, i.e. a natural person who, directly or indirectly, by means of assignment to an identifier such as in particular a name, an identification number, location data or an online identifier. Under these circumstances, naming a category or group of persons affected by such processing may be sufficient for bringing such a representative action (cf. ECJ, judgment of April 28, 2022, C-319/20 = GRUR-RS 2022, 8637 para. 68 f.; BGH, decision of November 10, 2022, I ZR 186/17, p. 9 f., submitted by the plaintiff, page 257 f. of the A.). In any case, the ECJ has thus restricted the principle of the “plaintiff behind the plaintiff” mentioned by the defendant. The ECJ did not respond at all to the defendant's accusation of inadmissible partial implementation for contractual injunctive relief or Article 85 (3) GDPR and therefore considered the corresponding arguments to be ineffective.
+
+    Applied to the case, all those people who have agreed an electricity supply contract with the defendant on and after May 15, 2019, specifically agreeing to the defendant's general terms and conditions and stating their name, address and point of consumption, are specifically affected by the data processing alleged by the plaintiff or had agreed. This is sufficient for the data subjects to be sufficiently identifiable within the meaning of Article 4 No. 1 GDPR.
+
+    Contrary to the defendant's opinion, it is still not necessary within the framework of Article 80 (2) GDPR that there is a specific violation of a person's rights under the data protection regulations. It is sufficient for standing to bring an action if the qualified institution “in its opinion” assumes that the rights of a data subject have been violated as a result of the processing of that person's personal data, and therefore alleges data processing that violates the GDPR (ECJ, judgment . dated April 28, 2022, C-319/20 = GRUR-RS 2022, 8637 Rz. 71). In the context of a preventative representative action aimed at injunctive relief, as provided for in Section 3 Paragraph 1 Sentence 1 No. 1 UKlaG, according to the case law of the ECJ, the protection of a large number of affected persons can be achieved more effectively than with a lawsuit filed by one person against a violator. It is therefore sufficient for the plaintiff to conclusively allege data processing of personal data, at least of identifiable persons, and its violation of the GDPR.
+
+    Contrary to the defendant's opinion, the plaintiff's statement of facts meets these requirements in connection with standing to bring an action. The plaintiff claims with sufficient specificity that from paragraphs 14.3. and 14.4. the defendant's general terms and conditions show that the defendant not only registers or forwards negative data from its contractual partners to the credit agencies, but also so-called "positive data"; Data that is unrelated to violations of contractual obligations. Whether the General Terms and Conditions actually enable data processing that violates the requirements of the GDPR and whether there are General Terms and Conditions at all is a question of merit and not of standing to bring an action (within the limits of admissibility).
+
+    According to the judgment of the ECJ, contrary to the legal opinion of the defendants, the right to bring proceedings resulting from Section 3 Paragraph 1 Sentence 1 UKlaG does not conflict with the fact that the national regulation came into force before the GDPR, and is equally irrelevant whether the national legislature one wanted to take advantage of an opening clause in the GDPR. The ECJ correctly stated this in the referenced judgment of April 28, 2022, but contrary to the legal opinion of the defendant here, it did not draw the conclusion that the standard would have become inapplicable for this reason alone. According to paragraph 62 of the judgment, he only considered it necessary that the national provision fits within the scope of the discretion granted to each member state in Article 80 (2) GDPR. With the assumption stated above that Article 80 Paragraph 2 GDPR does not conflict with the application of Section 3 Paragraph 1 Sentence 1 UKlaG in an interpretation that conforms to European law, the ECJ affirmed this.
+
+    The lawsuit is justified to the extent stated.
+
+    The plaintiff, who has been actively legitimized by what has been said (see for the dual function of Section 3 Paragraph 1 UKlaG only: BGH, decision of May 28, 2020, I ZR 186/17 = GRUR 2020, 896; MüKoZPO/Micklitz/Rott, 6th ed . 2022, UKlaG, § 3 Rz. 7; Nomos-BR/Walker, UKlaG, 1st edition 2016, § 3 Rn. 1) can demand that the defendant omit the General Terms and Conditions to the specified extent due to the unrefuted risk of repetition (see 1 .) and also has a claim against the defendant for the warning costs claimed (see 2.). Furthermore, the lawsuit is with regard to part of Section 14.3. unfounded (see 3.).
+
+1. According to Section 1 UklaG, the plaintiff has a claim against the defendant to stop the use of the general terms and conditions at issue because they are invalid according to Section 307 Paragraph 1 Sentence 1, Paragraph 2 No. 1, insofar as the defendant stipulates therein, within the framework to transmit the personal data collected during the contractual relationship regarding the implementation and termination of this business relationship to SCHUFA Holding AG (see Section 14.3.) and to ... (see Section 14.4.) and to this extent refer to Article 6 Paragraph 1 Letter b ) and f) GDPR is invoked.
+
+    The plaintiff does not object to the right to obtain credit information (section 14.3, sentence 1) as well as the right to transmit personal data regarding the application for this business relationship as well as data about non-contractual behavior or fraudulent behavior (sections 14.3 and 14.4). were expressly excluded from the application and therefore remain expressly unaffected despite the partial inclusion in the tenor (see the square brackets).
+
+    Numbers 14.3. and 14.4. are initially general terms and conditions within the meaning of Section 305 Paragraph 1 Sentence 1 of the German Civil Code (BGB) and not mere notes or information, as the defendant believes.
+
+    Not expressly provided for in the wording of Section 305 Paragraph 1 Sentence 1 of the German Civil Code (BGB), but a prerequisite for the acceptance of a general terms and conditions is that they should regulate the content of the contract (BGH ruling of April 9, 2014 - VIII ZR 404/12 = BeckRS 2014 , 9743 Rn. 23 m.w.N.; Grüneberg/Grünberg, BGB commentary, 81st edition 2022, § 305 Rz. 4). In contrast, mere non-binding requests, recommendations, information, declarations of knowledge or advertising statements would not constitute regulations shaping the content of the contract. The parties rightly agree that the decisive factor for the distinction between non-binding and binding is the recipient horizon of an average customer who has no legal background. It depends on whether this creates the impression that the user wants to establish contractual rights and obligations, whereby the typical circumstances are to be assumed (cf. BGH ibid., para. 24).
+
+    Based on this scale shown, numbers 14.3. and 14.4. no non-binding information. According to the defendant's opinion, the heading "Data protection, credit information" may not initially speak for a regulation and, according to the GDPR, the person responsible for data processing is even legally obliged to inform the person concerned about the existence of a processing operation and its purposes (see recital 60 the GDPR). However, the only decisive impression of a regulation for the average customer is due to both the systematic position of the numbers and their understanding of the wording:
+
+    Paragraph 14 initially stands between the undisputed contractual provisions regarding contractual changes and the contractual term. The average customer who is not legally trained can assume that a wording between these undisputed regulations also defines the contractual rights and obligations. This impression is confirmed by point 2.1. the terms and conditions are further strengthened. In it, the defendant expresses that the general terms and conditions specify the subject matter of the contract. If, on the other hand, the defendant takes the view that the average customer, after several years of the GDPR being in force, knows positively that “data protection notices” represent mere non-binding information, it has, as already indicated, itself refuted this impression. For the court, this also follows from the fact that, in addition to the content in Section 14 of its General Terms and Conditions, it itself provided a data protection declaration (see Section 14.1.). In this way, from the perspective of the average customer, it expresses or gives them the impression that there is a need for wording in their general terms and conditions compared to the data protection declaration.
+
+    Furthermore, the concrete understanding of the wording differs from that in paragraphs 14.1. and 14.2., not just to find an objective description of the “whether” of data processing as mere information. Section 14.3. begins after the subheading “Data transfer to SCHUFA” with the terms “… is authorized…”. This conveys to the average customer that this involves an agreement in which the defendant is positively granted and permitted to act within the scope of the contract. The customer assumes that the defendant is permitted to act in this respect within the scope of its creative power. The same applies to the term “… transmitted…” immediately following the first sentence. Whether the GDPR allows the defendant to take the corresponding action or whether it is even available is irrelevant to the impression made by the contractual partner of the user of the General Terms and Conditions. The same introduction, “… is entitled…” can also be found in Section 16.3, which deals with the right to termination, and also in Section 12.1. Sentence 1, which deals with the justified interruption of delivery. The defendant does not doubt that these clauses each represent a regulation that determines the content of the contract. It cannot therefore seriously claim that the exact same wording in paragraph 14.3. The impression created or the paragraph introduced contains mere non-binding information. In any case, the distinction in favor of a regulatory effect must also be reinforced by the fact that, as required by the GDPR, the defendant points out the legal basis for data processing. Contrary to the defendant's opinion, a lack of graphic highlighting results in a lack of regulatory effect, in particular as this would otherwise open up possibilities for circumvention. Also paragraph 14.4. contains a regulation, in particular because the use of the term “authorization” makes a reference to the regulation in Section 14.3. will be produced.
+
+    The general terms and conditions used by the defendant in the form of paragraphs 14.3. and 14.4. are invalid to the extent specified because they unreasonably disadvantage the user's contractual partner contrary to the requirements of good faith, Section 307 Paragraph 1 Sentence 1 BGB, insofar as this gave the defendant the opportunity to collect personal data relating to the implementation and termination of the contractual relationship to forward it to SCHUFA and in this respect rely on Article 6 Paragraph 1 Letters b) and f) GDPR.
+
+    An unreasonable disadvantage within the meaning of Section 307 Paragraph 1 Sentence 1 of the German Civil Code (BGB) is to be assumed according to Section 307 Paragraph 2 No. 1 of the German Civil Code (BGB) if a provision cannot be reconciled with essential basic principles of the legal regulation from which the deviation is made. According to its interpretation, a legal regulation must correspond to an essential need for protection of a contracting party, and this need for protection must be deviated from in a significant way in order to justify ineffectiveness (Grüneberg/Grüneberg, BGB-Kommentar, 82nd ed. 2023, § 307 Rz. 30 f.).
+
+    Numbers 14.3. and 14.4. deviate significantly and therefore inappropriately from the need for protection in Art. 6 Para. 1 GDPR as a legal regulation because, according to their most anti-customer interpretation, customer data that is not relevant to creditworthiness may be forwarded to credit agencies in an unjustifiable and isolated manner.
+
+    Art. 6 Para. 1 GDPR is initially a legal regulation within the meaning of Section 307 Para. 2 No. 1 BGB (see Grüneberg/Grüneberg, BGB Commentary, 82nd edition 2023, Section 307 Rz. 29; MüKoBGB/Wurmnest , 8th edition 2019, BGB § 307 Rn. 71). The essential basic idea and protective purpose of Article 6 Para. 1 GDPR is the limitation or need for justification of any data processing, so that a deviation from this restriction or a lack of a justification based on the interpretation of paragraphs 14.3. and 14.4. must always be understood as significant within the meaning of Section 307 Paragraph 2 No. 1 BGB. In particular, the effective effectiveness of Union law (effet utile) is at issue here. The ECJ also made this implicitly clear in its judgment of April 28, 20222, in which it emphasized the preventive effects of a representative action on the abstract, general verifiability of general terms and conditions, which, as shown here, contain data protection regulations.
+
+    In interpretation of paragraphs 14.3. and 14.4. According to the defendant's general terms and conditions, contrary to its legal opinion, it also reports positive data to the credit reporting agencies or, according to the most customer-hostile interpretation, the general terms and conditions are to be understood in such a way that it could do this on the basis of the general terms and conditions regardless of the permitted reporting of negative data to the credit reporting agencies.
+
+    General terms and conditions are to be interpreted uniformly, based on the understanding of - again - an average customer who is not legally trained, in the way their wording is understood by reasonable and honest contractual partners, taking into account the interests of the parties normally involved (BGH, judgment of April 19, 2018 - III ZR 255 /17 = NJW 2018, 2117, 2118 m.w.N.). External circumstances that led to the conclusion of the contract and that gave a reasonable and honest contractual partner evidence for a particular interpretation of the contract may be taken into account. In this respect, however, only general circumstances that indicate a generalizable intention of the user come into consideration (BGH ibid). It also follows from Section 306 Paragraph 2 of the German Civil Code (BGB) that doubts regarding the interpretation are to the detriment of the user of the contractual conditions (principle of the most anti-customer interpretation).
+
+    Based on this, Section 14.3. The defendant's general terms and conditions contain a list in such a way that the defendant, in addition to the data on the application and on non-contractual and fraudulent behavior - which were not objected to by the plaintiff - also, and isolated from this, data on the execution and termination of the contract with the customer Registers or can register with credit agencies that have no relevance to creditworthiness. If the defendant takes the view that the terms “implementation” and “termination” do not mean the forwarding of positive data, this objection is incomprehensible. The term “implementation” is first of all to be distinguished in terms of time from the status of the application, in the context of which the defendant requests a query from the credit agency in order to reduce its contractual and advance payment risk or to be able to decide on the basis of appropriate data whether it should accepts the contract offer from the customer or not. By using the term application, it is sufficiently clear to the customer that before the contract is concluded, the defendant will first forward personal data such as his name or address, which is not negative data. However, this data processing is not the issue here. The contract is logically “implemented” when the defendant supplies the customer with electricity in return for payment of the agreed fee. Section 14.3. In the opinion of the court, according to the most anti-customer interpretation, it can now also be understood as meaning that the defendant also forwards data to the credit agencies as part of this contractual status, which is initially generally free of complaints. The defendant restricts the term implementation within the scope of Section 14.3. not at all or only on the “collected” data, although it remains unclear which data is actually collected. The same applies to the term termination. The defendant describes the term in particular without specifying or limiting the reasons for termination, for example in the form of a breach of contract by the contractual partner.
+
+    Insofar as the defendant, on the other hand, believes that it is clear from the terms and conditions through the use of the term “as well as” that the data about the implementation and termination are exclusively and necessarily forwarded to the credit agencies together with the negative data in order to make the feedback from the credit agencies understandable, is not to be followed. With the plaintiff's legal opinion, the term "as well as" rather, as stated, creates the understanding that data about the implementation and termination is also or parallel or independent of this, separate from any negative data entries and thus possibly mandatory co-transmission of contractual data. and customer data could be done.
+
+    In the opinion of the plaintiff and contrary to the opinion of the defendant, in addition to the statements regarding the right to bring an action, it does not matter whether the defendant actually forwards such “positive data” to the credit reporting agencies in accordance with the presented understanding of the general terms and conditions clauses or not. The standard of the present abstract-general general terms and conditions control according to the UKlaG is not a concrete, individual violation, but, as the ECJ has allowed, to be sufficient within the framework of Article 80 Paragraph 2 GDPR or Sections 1 and 3 UKlaG abstract-general possibility of proceeding, due to the wording of the regulation chosen by the defendant in paragraphs 14.3. and 14.4. If it were otherwise, the scope of application of Sections 1 and 3 UKlaG would be empty, especially in the case of suspected data protection violations, as would Article 80 (2) GDPR within the scope of the ECJ's case law of April 28, 2022. The formulation of general terms and conditions that violate data protection law would be beyond preventive control.
+
+    By abstractly formulating a forwarding of personal data that is not relevant to creditworthiness, which is made possible by the General Terms and Conditions in their most anti-customer interpretation, the defendant deviates from the essential basic ideas presented in Article 6 Paragraph 1 Letters b) and f) in conjunction with Article 6 Paragraph 4 GDPR because there is no justification for this data processing enabled by the General Terms and Conditions.
+
+    Contrary to what the plaintiff states in her General Terms and Conditions, a justification for this abstract, general danger or enablement of data processing expressed in the General Terms and Conditions, here in the form of the transmission of positive data, does not arise from Article 6 Paragraph 1 Letter b) GDPR .
+
+    Art. 6 Paragraph 1 Letter b) GDPR, which the defendant refers to in Section 14.3. the General Terms and Conditions are to be interpreted narrowly as an exception to the consent requirement. According to Art which takes place at the request of the data subject. Alt. 2 BGB is not relevant in this case. The term “fulfillment”, which is to be interpreted autonomously, refers to the performance canon of the contracting parties and additional obligations (Gola, DS-GVO/Schulz, 2nd edition 2018, DS-GVO Art. 6 Rn. 28; BeckOK Data ProtectionR/Albers/Veit, 38 . Ed. November 1, 2021, GDPR Art. 6 Rn. 43) and should enable or not impair the natural exchange of services (BeckOK DatenschutzR/Albers/Veit, 38th Ed. November 1, 2021, GDPR Art. 6 Rn. 41, 43). For this purpose, the processing and termination of the contract are also covered (BeckOK Data ProtectionR/Albers/Veit, 38th Ed. November 1, 2021, GDPR Art. 6 Rn. 43). The processing is limited by the concept of necessity. What is relevant in this respect is that there is a direct connection between the processing and the specific purpose of the contractual relationship, although not every useful processing meets the standards of necessity, but rather there must be a necessity (Paal/Pauly/Frenzel, 3rd ed. 2021, DS -GVO Art. 6 Rn. 13). In other words, a necessity exists if the contract could not be carried out without the processing (cf. Paal/Pauly/Frenzel, 3rd edition 2021, GDPR Art. 6 Rn. 14).
+
+    In the present case, the defendant does not present anything in fact or it is clear why a transfer of personal data that is not relevant to creditworthiness would be necessary for the fulfillment of an already concluded mutual contract for the supply of electricity for a fee. As I said, this is not about the pre-contractual obtaining of information from one of the credit agencies, which was not objected to by the plaintiff.
+
+    In the court's opinion, the data processing for secondary purposes made possible by the General Terms and Conditions cannot be justified under Article 6 Paragraph 1 Letter f) (in conjunction with Article 6 Paragraph 4) GDPR because the interests of those affected in non-transfer are the result of a considerations prevail.
+
+    According to Article 6 Paragraph 1 Letter f) GDPR, data processing is lawful if it is necessary to safeguard the legitimate interests of the controller or a third party, unless the interests or fundamental rights and freedoms of the data subject require the protection of personal data , predominate (…).
+
+    A legitimate interest of the defendant or the credit agencies, which requires the forwarding of the positive data about the implementation and termination of a contractual relationship between the customer and the defendant, has not been substantiated by the defendant - i.e. neither the requirements of Section 31 Paragraph 1 BDSG n.F. , nor any other legitimate interest of the defendant or third parties.
+
+    The defendant has not comprehensibly explained that or to what extent any positive data is even included in the “scoring” of the person concerned by the credit agencies referred to (Section 31 Para. 1 BDSG) and is therefore reported back to them in the event of a query.
+
+    According to Section 31 Para. 1 BDSG new version, the use of a probability value about a certain future behavior of a natural person for the purpose of deciding on the establishment, implementation or termination of a contractual relationship with this person (scoring) is permitted if - among other things - for the calculation The data used to determine the probability value can be proven to be significant for the calculation of the probability of the specific behavior on the basis of a scientifically recognized mathematical-statistical procedure (Section 31 Para. 1 No. 2 BDSG n.F.). As in the context of Section 28b BDSG old version (in the version until the GDPR came into force), the concept of the law does not appear to rule out from the outset that positive data can also be included in a scoring (see also BT-Drs. 18/11325 , p. 101). This follows, for example, from Section 31 Paragraph 1 BDSG itself, which only sets an express restriction on the exclusive use of address data. However, the responsible body is obliged to plausibly and comprehensibly explain and, if necessary, prove the direct relevance of all the data it uses for calculating the probability values (Gola/Heckmann/Lapp, 3rd ed. 2022, BDSG § 31 Rn. 31). The responsible body that forwards such data must also provide proof of the legality of the forwarding (BT-Drs. 18/11325, p. 101; BeckOK DatenschutzR/Krämer, 43rd Ed. February 1, 2023, BDSG § 31 Rn. 8a). The requirements of Section 31 BDSG n.F. can represent an indication of the legality of the respective data processing or in any case form a framework for examining the legality (cf. LG Lüneburg, judgment of July 14, 2020, 9 O 145/19 = ZD 2021, 275, paragraphs 25, 27, 29).
+
+    It is basically undisputed that, regardless of negative reports or inquiries before the establishment of a contractual relationship, positive data about the implementation or termination of a contractual relationship has no direct relevance for the scoring. Even if one sees this differently, the defendant has in any case not substantiatedly explained whether and which data it forwards. In the court's opinion, it remained completely unclear to what extent positive data about the implementation or termination are even taken into account by the credit agencies and the result is "more accurate data sets", as the defendant only hinted at. From the last paragraph of paragraph 14.3. It only becomes clear in an undifferentiated manner that SCHUFA processes the data received for scoring. The court therefore assumes that the positive data about the execution or termination of contractual relationships between the defendant and customers will not be included in the credit agencies' scoring at all. Then the forwarding to the credit agencies is unlawful within the meaning of Art P. 1 BGB.
+
+    Regardless of this and the indicative effect of the non-existence of the requirements of Section 31 Paragraph 1 (No. 1) BDSG, even if one were to assume that the positive data about the implementation or termination was included in the scoring as true, the legitimate and constitutionally protected interests of the BDSG outweigh At least in the present case, the forwarding of the positive data is unlawful, Art. 6 Para. 1 lit. f) GDPR. The legislature of Section 31 Paragraph 1 No. 1 BDSG assumed, as with Sections 28b, 29a BDSG old version, that the provisions of data protection law must always be adhered to when using and also collecting the scoring-relevant data (cf . in addition to the wording expressly: BT-Drs. 18/11325, p. 101), in particular also Art. 6 Para. 1 lit. f) GDPR.
+
+    As a result, in this case the interests of those affected outweigh the interests of the defendants and the credit agencies.
+
+    In principle, there are legitimate interests that speak in favor of forwarding positive data from those responsible to credit agencies:
+
+    If one assumes that the receipt of positive data about the execution or termination of contracts in the scoring within the meaning of Section 31 Para. 1 BDSG new version is true, the defendant and also the credit agencies have an economic interest in making the data sets more precise or become “more accurate,” as the defendant states. The credit agencies have an interest in receiving this personal data, given their business model. The defendant would also have an economic interest in this, because this would allow the behavior of a customer during the duration of a contractual relationship or at its later end to be estimated before a contract is concluded, for example to avoid fraud scenarios through an identity check on the basis of positive data or even during a contractual relationship.
+
+    Furthermore, a macroeconomic general and special preventive interest in the accuracy of scoring for better financial inclusion of consumers and for simplified contract conclusion can be assumed (cf. LG Munich I, judgment of April 25, 2023, 33 O 5976/22, available at https ://www.verbraucherzentrale.nrw/sites/default/files/2023-05/2023-04-25\_lg-munchen-i\_dict\_geschw.pdf, p. 33, last accessed on May 26, 2023), which could be achieved with further data .
+
+    In principle, the person concerned should also have an interest in taking non-negative data into account if, for example, negative reports from the past could be “balanced out” by current positive reports or if improved service conditions can be achieved through positive data (also LG München I, ibid.). , p. 33).
+
+    In the present case, however, it remains to be seen whether the defendant can actually achieve the interests listed by registering positive data as expressed in the formulation of its general terms and conditions, i.e. whether they are suitable for this purpose, and whether the registration is necessary for this purpose, i.e. represents the mildest means ( already denying this: LG Munich I, a.a.O.). In any case, other interests of the person concerned or his position, which is protected by fundamental rights under Article 1 Paragraph 1 in conjunction with Article 2 Paragraph 1 GG, outweigh the following for the non-registration of the positive data for several reasons:
+
+    With the specific wording in the defendant's general terms and conditions, the defendant has a wide scope for assessing which data will actually be forwarded. In terms of the depth of the intervention, this represents a significant interference with the fundamental right to informational self-determination within the meaning of Articles 1 Paragraph 1 and 2 Paragraph 1 of the Basic Law, because from the point of view of the person affected there is a risk that a comprehensive and not from him an image to be controlled can be created about his personality (also: BeckOK DatenschutzR/Krämer, 43rd Ed. February 1, 2023, BDSG § 31 Rn. 8f). This far-reaching interference with a fundamental right, on the basis of which the holder of the fundamental right has the right to decide for himself about the transfer of data, is not proportionate. The fact that the defendant describes the procedure as “little invasive” is incomprehensible.
+
+    As already explained above in the context of the interpretation, it is completely unclear from the use of the terms “implementation” and “termination” of the contractual relationship due to a lack of specific content as to which data is used for the - assumed - purposes of creating the scoring or the resulting The desired interests of the defendant, the credit agencies or the economy as such could be forwarded to the credit agencies, so that a determination of a possible interest of the person concerned cannot be concretized at all through the abstract description of possible legitimate interests, but can only be speculated on. Rather, the terms used by the defendant are so broad that in principle all personal data collected by them about their contractual partner or even people living in the same household as them (via electricity consumption) could be forwarded in the sense of a “retention data collection” for no reason , including the amount of electricity used, the contract terms, etc. Furthermore, the defendant has not even begun to demonstrate that any “negative” scoring of a data subject is offset by the presence of positive data or whether these personal data actually result in improved service conditions are ultimately possible in the defendant's business model.
+
+    Ultimately, it remains completely unclear whether any positive data can have an indirect negative impact on the customer's "scoring" or whether the absence of positive data can have a negative impact on the "scoring".
+
+    An example is the forwarding of contract terms to the credit agencies without any reason. The defendant states in its defense that electricity customers are regularly willing to change. If an electricity provider learns from SCHUFA or another credit agency that a customer regularly terminates contracts with electricity or other service companies unilaterally, as is his right, at the end of an agreed contract term or due to granted termination options, the company could do so The defendant refrains from concluding a contract with the customer because she is solely interested in a long-term commitment. The forwarding of initially neutral personal data such as the contract term would still have negative effects on the customer's conclusion of contract in the future. He has no interest in this and the credit agencies or the credit agencies' customers also have no legitimate interest (see also: LG Munich I, a.a.O., p. 34 f. for negative conclusions from positive data).
+
+    The considerations of EC 47 GDPR also speak against the legality of forwarding personal data about the execution or termination of a contractual relationship to credit agencies without cause.
+
+    According to recital 47, the interests and fundamental rights of the data subject may outweigh the interests of the controller, in particular when personal data are processed in situations where a data subject cannot reasonably expect further processing. This would be the case here. The customer is aware of the wording in paragraphs 14.3. and 14.4. On the one hand, as already stated, the defendant's general terms and conditions are aware that the defendant asks the credit agencies for information about his person before any contract is concluded or inquires about the absence of a negative score that speaks against the conclusion of the contract. According to the wording of the General Terms and Conditions, he or she is also aware that in the event of breaches of contractual obligations, registrations with credit agencies can or will be made if the requirements of Section 31 Paragraph 2 BDSG are met. However, in the court's opinion, he or she does not expect this or, as stated, can determine from the terms "implementation" and "termination" whether and, if so, what other personal data will be passed on to third parties. In addition, he or she does not expect that, regardless of his or her own misconduct, personal data will be passed on to third parties in order to improve the economic interests of third parties or his or her contractual partner, without receiving immediate compensation in the form of immediately improved service conditions after the conclusion of the contract ( see also LG Munich I, a.a.O., p. 37). Only the defendant would receive direct compensation in the form of “more accurate” data sets – at the expense of the person concerned and without him having given any reason for this. The Munich Regional Court rightly speaks of a “hollowing economization” of data (LG Munich I. loc. cit., p. 38).
+
+    Ultimately, there is also the necessary risk of recurrence as an unwritten further requirement for the injunctive relief claim according to Section 1 UKlaG (see BGH, judgment of December 6, 2012 - III ZR 173/12 = NJW 2013, 593, para. 17). The use or recommendation of ineffective general terms and conditions creates an actual presumption of the risk of repetition (Köhler/Bornkamm/Feddersen/Köhler, 41st edition 2023, UKlaG § 1 Rn. 10). It is not sufficient for refutation if the user changes the clause in question, as claimed here by the defendant, or if he announces that he will no longer use the clause. Rather, it is generally necessary to submit a cease-and-desist declaration that is subject to penalty, which the defendant did not submit.
+
+2. The plaintiff can demand reimbursement of warning costs from the defendant in the amount of the costs not disputed by the defendant under Section 5 UKlaG, Section 13 Paragraph 3 UWG in the amount of 210.00 euros, since the warning was justified according to what was said. Furthermore, there is no evidence or evidence that the requirements of Section 13 (2) UWG were not met.
+
+    The asserted interest claim arises from Section 291 of the German Civil Code (BGB) from the day following service of the lawsuit, i.e. July 20, 2021.
+
+3. However, the lawsuit is partly based on paragraph 14.3. unfounded insofar as the plaintiff also requested in his application for a cease and desist from using the General Terms and Conditions in such a way that data processing or forwarding to... should be regulated therein. It is not clear from the Annex K1 presented that the General Terms and Conditions in version May 15, 2019 also provided for forwarding to this registered association.
+
+III. The cost decision is based on Sections 92 Paragraph 1 Sentence 1 ZPO, 269 Paragraph 3 Sentence 2, 281 Paragraph 3 Sentence 2 ZPO. The plaintiff's partial withdrawal of the lawsuit with regard to the formulation of the application for energy supply to electricity supply contracts was to be assessed at 15%, the defeat with regard to the overly extensive injunction request regarding the forwarding to... at 5%.
+
+    The decision on provisional enforceability follows Section 709 S. 1 ZPO or Sections 708 No. 11, 711 ZPO.
+
+    The amount in dispute for the two clauses in dispute is to be set at 5,000.00 euros in accordance with Section 48 Paragraph 1 GKG in conjunction with Section 3 ZPO (see BGH decision of February 22, 2023 - IV ZR 216/21 = BeckRS 2023, 4885). No actual basis for a higher amount in dispute was presented. The warning costs were not taken into account as additional claims when determining the value (see BGH decision of March 12, 2015 - I ZR 99/14 = BeckRS 2015, 6520 Rn. 1)
+
+Retrieved from "[https://gdprhub.eu/index.php?title=LG\_Frankfurt\_am\_Main\_-\_2-24\_O\_156/21&oldid=38870](https://gdprhub.eu/index.php?title=LG_Frankfurt_am_Main_-_2-24_O_156/21&oldid=38870)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [LG Frankfurt (Germany)](/index.php?title=Category:LG_Frankfurt_\(Germany\) "Category:LG Frankfurt (Germany)")
+*   [Germany](/index.php?title=Category:Germany "Category:Germany")
+*   [Article 6(1)(b) GDPR](/index.php?title=Category:Article_6\(1\)\(b\)_GDPR "Category:Article 6(1)(b) GDPR")
+*   [Article 6(1)(f) GDPR](/index.php?title=Category:Article_6\(1\)\(f\)_GDPR "Category:Article 6(1)(f) GDPR")
+*   [Article 80(1) GDPR](/index.php?title=Category:Article_80\(1\)_GDPR "Category:Article 80(1) GDPR")
+*   [Article 80(2) GDPR](/index.php?title=Category:Article_80\(2\)_GDPR "Category:Article 80(2) GDPR")
+*   [2023](/index.php?title=Category:2023 "Category:2023")
+*   [German](/index.php?title=Category:German "Category:German")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/LG_Frankfurt_am_Main_-_2-24_O_156/21 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/LG_Frankfurt_am_Main_-_2-24_O_156/21 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=LG_Frankfurt_am_Main_-_2-24_O_156/21&oldid=38870 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=LG_Frankfurt_am_Main_-_2-24_O_156/21&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=LG_Frankfurt_am_Main_-_2-24_O_156%2F21&id=38870&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 21 December 2023, at 14:37.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.036","walltime":"0.049","ppvisitednodes":{"value":426,"limit":1000000},"postexpandincludesize":{"value":1576,"limit":2097152},"templateargumentsize":{"value":598,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":62242,"limit":5000000},"timingprofile":\["100.00% 5.334 1 Template:COURTdecisionBOX","100.00% 5.334 1 -total"\]},"cachereport":{"timestamp":"20250829191901","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":770});});

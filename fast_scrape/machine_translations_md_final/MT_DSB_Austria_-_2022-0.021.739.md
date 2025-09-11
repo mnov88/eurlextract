@@ -1,0 +1,197 @@
+text
+
+GZ: 2022-0.021.739 from March 1, 2022 (Procedure number: DSB-D213.971)
+
+\[Editor's note: Names and companies, legal forms and product names, addresses (including URLs, IP and email addresses), file numbers (and the like), etc., as well as their initials and abbreviations may be abbreviated for pseudonymization reasons and/ or be changed. Obvious spelling, grammar and punctuation errors have been corrected.
+
+NOTICE
+
+SAYING
+
+The data protection authority decides on the basis of the N\*\*\* Österreich GmbH (responsible person), \*\*\*\* K\*\*\*stadt, O\*\*\*gasse \*3, commercial register number: \*4\*8\*2r, represented by A\*\*\* , B\*\*\* & Partner Rechtsanwälte, \*\*\*\* Vienna, \*\*\*\*platz 4\*/3, carried out ex officio examination proceedings, as follows:
+
+-    The person responsible is violating the GDPR by processing personal data of employees using the GPS system “L\*\*Track” installed in fifteen company vehicles without the necessary requirements being met. With immediate effect, the person responsible is prohibited from processing personal data that can be determined using the GPS system “L\*\*Track”.
+
+Legal basis: Art. 6, Art. 51 Para. 1, Art. 57 Para. 1 lit. h, Art. 58 Para. 2 lit. f GDPR of Regulation (EU) 2016/679 (General Data Protection Regulation, hereinafter: GDPR) , OJ No. L 119, 4.5.2016, p. 1; §§ 1, 18 paragraph 1 of the Data Protection Act (DSG), Federal Law Gazette I No. 165/1999 as amended, §§ 17 ff of the Working Hours Act (AZG), Federal Law Gazette No. 461/1969 as amended. : Article 6, Article 51, paragraph one, Article 57, paragraph one, letter h, Article 58, paragraph 2, letter f, GDPR of Regulation (EU) 2016/679 (General Data Protection Regulation, hereinafter: GDPR) , OJ No. L 119, 4.5.2016, p. 1; Paragraph one, 18 paragraph one, of the Data Protection Act (DSG), Federal Law Gazette Part One, No. 165 from 1999, as amended, Paragraphs 17, ff of the Working Hours Act (AZG), Federal Law Gazette No. 461 from 1969, as amended.
+
+REASON
+
+A. Submissions of the parties and course of proceedings
+
+1. In a letter dated December 11, 2019 and the addition of January 5, 2020, the data protection authority was informed by an anonymous tip that GPS trackers had been installed in the company cars of those responsible. These would not only monitor business trips, but also private trips and a movement profile of the employees would also be created.
+
+2. On January 28, 2020, the data protection authority initiated a data protection review in accordance with Art. 57 Para. 1 lit. On January 28, 2020, initiated a data protection review in accordance with Article 57, paragraph one, letter h, GDPR (“ex officio review procedure”) against the person responsible for the monitoring of company vehicles by GPS trackers.
+
+3. In her statement dated March 4, 2020, the person responsible, represented by a lawyer, summarized that it corresponds to the facts that GPS/GSM devices with the name “L\*\*Track” are from the company C\*\*\*-IT GmbH were installed in the company vehicles and were also used. The company vehicles would be made available to their service employees by the person responsible. The device, which transmits the data to a server using GPS/GSM, is activated when the vehicle ignition is started and deactivated again when the ignition is switched off. In addition, there is a device (switch) in every vehicle with which the device can be deactivated by the respective driver/employee at any time, without first switching off the ignition.
+
+The system itself transmits the following data: the mileage, date and time, trip starting point and destination and the location data of the vehicle (and the route actually driven).
+
+The person responsible uses this to fulfill their legal obligations, in particular the keeping of a logbook, working time records and the associated payroll accounting. The purpose is not to create movement profiles of individual technicians or to record their private journeys. This is neither in the interests of those responsible nor possible through the system. With this approach, those responsible can simplify the administrative processes and also process them more reliably and in a more forgery-proof manner. Otherwise, she has to rely on the honesty and documentation work of the individual employees. In addition, the GPS system used can be deactivated at any time by individual employees, meaning that only the kilometers driven within a period in which the system is activated are recorded. It is also possible to deactivate the system during working hours at the push of a button. In the event of deactivation, only the mileage and the kilometers driven are recorded. However, this was already possible or recognizable from the previously kept logbooks.
+
+GPS data points where the kilometers are driven would not be set. If a private trip is recorded by mistake, a driver/employee can also subsequently remove it from the system view. It should also be mentioned that parts of the data are already known to those responsible because the employees are assigned to different tasks per day by the coordinators in the office. The built-in system would only confirm the data or record it more precisely.
+
+You can access the data via a software application and the corresponding log-in data, which are generated by L\*\*Track.
+
+In the company itself, only those employees who need it for their work, for example for payroll, financial management, coordinators, have access to the data. Externally, only C\*\*\*-IT GmbH has access as a processor because they provide and maintain the system.
+
+The system is used for the purpose of locating the vehicle in the event of theft, working records and keeping a logbook and other accounting. These records are therefore necessary in order to be able to comply with the legal obligations in connection with the Working Hours Act and proper billing (for example: travel compensation, calculation of benefits in kind, payment of overtime).
+
+The work performance itself is not monitored by the employees. The employees were sufficiently informed and trained about how the system works. Human dignity was not impaired by the system, which meant that it was not necessary to conclude an agreement with any works council that had not been set up by the person responsible.
+
+The statement included a screenshot of the data recorded in the system during working hours and activation as well as outside or when deactivated.
+
+The responsible party relies on both Article 6 Paragraph 1 Letter f of the GDPR and Section 17 and Section 17a AZG. The responsible party relies on both Article 6 Paragraph 1 Letter f of the GDPR as well as Paragraph 17 or . Paragraph 17a, AZG.
+
+4. The data protection authority asked the person responsible for a further statement on June 30, 2020. This remained unanswered by those responsible and they were therefore asked to comment again on January 25, 2021. In a letter dated February 9, 2021, the legally represented person responsible requested an extension of the deadline to March 15, 2021. In a letter dated March 15, 2021, the person responsible again requested that the deadline be extended to March 29, 2021.
+
+5. After extending the deadline to March 29, 2021, the person responsible referred to her previous submissions in her supplementary statement of March 24, 2021 and also stated that the GPS trackers had been installed in the vehicles at the beginning of 2020. Currently only a few functions are in use. The time recording of working hours is not done via the GPS tracker. However, activation or setup of this function is planned. The GPS trackers are currently installed in 15 vehicles and therefore affect just as many workers/drivers. The company vehicles would be used exclusively for technical deployment. Employees are allowed to use the vehicles privately. There is no works council established in the responsible company and therefore no works council agreement can be concluded or presented. The GPS tracker can be deactivated using a simple circuit. A data protection impact assessment was not carried out because the person responsible assumed that the data processing was subject to the DPIA-AV.
+
+The person responsible has concluded an order processing agreement with C\*\*\*-IT GmbH in accordance with Art. 28 GDPR. The company C\*\*\*-IT GmbH has taken all necessary measures to ensure security during processing. The data will be stored for as long as necessary. The person responsible has concluded an order processing agreement with C\*\*\*-IT GmbH in accordance with Article 28, GDPR. The company C\*\*\*-IT GmbH has taken all necessary measures to ensure security during processing. The data will be stored for as long as necessary.
+
+Screenshots have been included as attachments to the statement.
+
+6. In her supplementary statement dated November 29, 2021, the person responsible, represented by a lawyer, summarized that the GPS system installed at the end of 2019 or beginning of 2020 had not been actively used for the time being because the legal situation regarding its use as a logbook for time recording and diet accounting had to be clarified first. In January 2020, the system was only used to manage the fleet or to coordinate orders and to create customer invoices. It was only from July 2021 that the GPS system was used for time recording or diet accounting and as a logbook. Before that, data was recorded manually or via Excel lists. The built-in switch for activating and deactivating the system would light up red in private mode and not light up in work mode. All employees were trained before using the new system and informed about the function of the on and off switch. This was also pointed out to them again in June 2021 and it was explained to them again how the trip could be subsequently changed to private. The person responsible does not have any proof that the employees have ever actually stated incorrect working hours. The device also collects data in private mode, but this would not be forwarded to the software application and therefore cannot be transmitted to the employer. Only the respective employee has the opportunity to do this through direct entry. He could also subsequently identify a private trip as a business trip. However, this would be transmitted to the software application and would therefore also be visible to the employer. Conversely, this change is also possible, although only the number of kilometers is visible to the employer. The data would be stored for legal (accounting) reasons or for billing purposes for a total of 7 years from the year of collection.
+
+Pictures of the GPS activation switch have been submitted in the appendix to the statement.
+
+7. In her final statement dated January 11, 2022, the person responsible, represented by a lawyer, stated that no works council had been installed and that there was no consent from the individual employees in accordance with Section 10 AVRAG. Furthermore, this consent is not necessary because human dignity is not affected by this control measure. stated in its final statement dated January 11, 2022 that no works council had been installed and that there was no consent from individual employees in accordance with Paragraph 10, AVRAG. Furthermore, this consent is not necessary because human dignity is not affected by this control measure.
+
+The “L\*\*Track system” installed in the vehicles is objectively suitable for monitoring workers, but does not affect human dignity because no data from the workers’ privacy is recorded. Data transmission only takes place during operational use of the respective company car. The data determined, journey starting point and destination, location data of the vehicle, route traveled, mileage as well as date and time have no point of contact with the employees' privacy. The control system is to be assigned exclusively to the operational sphere of those responsible.
+
+The control intensity does not take place at an excessive intensity and neither does it exceed a typical level that seems necessary. The person responsible stated that there could be no question of excessive control intensity due to the use of an electronic logbook only during working hours. Human dignity is therefore not affected. Due to the changing locations of the customer service technician, the use requires special, modern control mechanisms anyway, because the trips have to be divided according to sensible business criteria.
+
+The person responsible has an interest in complying with existing legal regulations, such as compliance with working hours or employee protection regulations, in order to protect their ownership of the operating resources, but also in the interest in efficient operational management and compliance with the contractually agreed working conditions and compliance the duty of care (especially employee protection).
+
+The system used is not linked to constant monitoring of employees, especially since - as explained above - only the location of the vehicle can be determined. In comparison, an office employee is subject to much more intensive control with regard to their respective whereabouts, which would also mean that their work performance could be monitored much more easily and in a much more insistent manner.
+
+Consent in accordance with Article 6 Paragraph 1 Letter a GDPR does not exist because it is not necessary. When using the L\*\*Track system, the person responsible relies on the legitimate interest on the one hand and on the fulfillment of a legal obligation on the other. Consent in accordance with Article 6, paragraph one, letter a, GDPR does not exist because it is not necessary. When using the L\*\*Track system, the person responsible relies on the legitimate interest on the one hand and on the fulfillment of a legal obligation on the other.
+
+According to Section 17b AZG, those responsible are obliged to keep records of the hours worked by their employees/drivers, which can, if necessary, be presented to the labor inspector “completely”. There is the possibility of using a digital control device. According to paragraph 17 b, AZG, the person responsible is obliged to keep records of the hours worked by their employees/drivers, which can, if necessary, be presented to the labor inspector “completely”. There is the possibility of using a digital control device.
+
+Previously, recording was done using an Excel list. The working hours were therefore not entered immediately, but only afterwards. As a result, these are often inaccurate because the employees can no longer remember exactly from when to when they were where and so can only provide approximate information. Private trips were also occasionally undertaken during working hours and were also counted as working time. The L\*\*Track system avoids this.
+
+The person responsible has an interest in ensuring that the employees' records regarding work assignments, working hours, travel expense reports, etc. are kept correctly. In addition, there is an economic interest in using individual employees in an economically sensible manner and avoiding unnecessary standing times or detours. False records could also result in heavy penalties for those responsible. Responding quickly to inquiries is particularly important for customer loyalty and the system is also used for this, among other things. Likewise, the company vehicles that are made available to employees are leased vehicles and the system can also be used to locate the vehicle in the event of theft.
+
+B. Test item
+
+The subject of the present proceedings is whether the person responsible can rely on the legal bases specified by them with regard to data processing by GPS trackers in company vehicles.
+
+C. Findings of Fact
+
+1. The person responsible is a GmbH. The person responsible does not have a works council. She leased the company vehicles used by her employees from a leasing provider.
+
+Assessment of evidence: These findings result from the statement of those responsible, represented by lawyers, dated March 24, 2021 and the statement dated January 11, 2022.
+
+2. The person responsible had GPS trackers from C\*\*\*-IT GmbH installed in a total of fifteen company vehicles at the end of 2019 and the beginning of 2020. The service technicians are not only allowed to use the leased company vehicles for business purposes, but also for private use. The GPS tracker, which is a GPS/GSM device called “L\*\*Track”, is permanently installed in the individual vehicles and is therefore not a portable device. From the end of 2019 to July 2021, the GPS system was only used to specifically query the vehicle location. From July 2021, the system has been expanded for time recording and diet billing as well as a logbook. Before that, data was recorded manually or via Excel lists.
+
+Assessment of evidence: These findings result from the statement of those responsible, represented by lawyers, dated March 24, 2021 and the statement dated November 29, 2021.
+
+3. The device called “L\*\*Track” is activated when the vehicle ignition is started and deactivated when the ignition is switched off. In addition, there is a switch in every vehicle with which the device can be activated or deactivated, regardless of the ignition position. As soon as data is transmitted to the system, the light on the switch goes out. If the private mode is activated by the respective service technician, the switch lights up.
+
+\[Editor's note: The photograph reproduced here as a facsimile (graphic file) cannot be displayed in the RIS without any problems and has therefore been removed.\]
+
+Photo of the switched on switch. Formatting not 1:1.
+
+\[Editor's note: The photograph reproduced here as a facsimile (graphic file) cannot be displayed in the RIS without any problems and has therefore been removed.\]
+
+Photo of the permanently installed “switch” in the company car. Formatting not 1:1
+
+Assessment of evidence: As above.
+
+4. The system of the GPS/GSM device, which is hosted by the D\*\*\* billing center, transmits the data to a server. The following data is currently transmitted: mileage, trip starting point and destination, location data of the vehicle, the route traveled as well as the date and time. Telemetry data such as braking behavior, seat occupancy, payload, speed, switching points, speed are not transmitted. Parts of this data (address as well as arrival and departure from the customer) are known to those responsible due to the coordinators who divide or organize the orders in the office, even without using the installed device. The data is accessed via a software application and the corresponding log-in data, which are generated by L\*\*Track. Login data must be changed by the respective user when logging in for the first time, which results in personalization for the respective employee. Only those employees of the responsible party who need this data for their work have access to the system. These are employees who are responsible for payroll and financial management as well as the coordinators. Only C\*\*\*-IT GmbH has external access as a processor.
+
+Assessment of evidence: These findings result from the statements of those responsible, represented by lawyers, on March 4, 2020, March 23, 2020 and November 29, 2021.
+
+5. There is no company agreement or consent to use the “L\*\*Track system” in the company cars of the service technicians concerned.
+
+Assessment of evidence: This determination is made on the basis of the statement of those responsible on March 4, 2020 and the statement of January 11, 2022. In addition, due to a currently pending complaint procedure with the data protection authority under GZ: D124.3940, it is officially known that at least one employee did not consent has.
+
+6. The coordinators in the office assign the service employees who use the company leasing vehicle to different orders per day. Therefore, parts of the data transmitted by the GPS system are known to those responsible. The person responsible has internal service coordinators, a technical internal service and an in-house customer service. The service technicians are responsible for commissioning, servicing and servicing the products. The service technicians use the original spare parts of those responsible for maintenance and repair orders. Approximately 70% of the orders involved involve maintenance, for which specially assigned spare parts are required. If the operation ends prematurely, the service technicians must contact the coordinator by telephone and inform him of this. Neither are any significant valuables carried in the respondent's company vehicles, nor has any of the respondent's vehicles been stolen or stolen.
+
+Assessment of evidence: These findings are based on the statement of those responsible on March 4, 2020. The finding that missions that ended earlier must be reported to the coordinators by telephone and that 70% of the missions are maintenance missions arise from the statements of the complainant (employee of those responsible) of November 10, 2021 and November 17, 2021 as well as from the statement of the respondent (responsible person) of February 23, 2022 from the complaint procedure with the GZ: D124.3940 and from the ex officio research of January 14, 2022:
+
+\[Editor's note: The screenshot from the website of those responsible, reproduced here as a graphic file, cannot be pseudonymized with reasonable effort and has therefore been removed.\]
+
+Formatting not 1:1. Screenshot from the homepage: https://n\*\*\*.com/at/de/n\*\*\*-austria/Kontakt/Wir-\*\*\*\*-\*\*\*\*-zertiert
+
+\[Editor's note: The screenshot from the website of those responsible, reproduced here as a graphic file, cannot be pseudonymized with reasonable effort and has therefore been removed.\]
+
+Formatting not 1:1. Screenshot of the homepage with the address: https://n\*\*\*.com/at/de/n\*\*\* -austria/ (blue highlighting was done by the data protection authority).
+
+\[Editor's note: The screenshot from the website of those responsible, reproduced here as a graphic file, cannot be pseudonymized with reasonable effort and has therefore been removed.\]
+
+Formatting not 1:1. Screenshot of the homepage with the address: https://n\*\*\*.com/at/de/n\*\*\* -austria/. (Blue highlighting was done by the data protection authority)
+
+7. There is no concrete evidence or indication that a service technician stated incorrect working hours. It could not be determined that a car was stolen or damaged.
+
+Assessment of evidence: This determination is based on the statement of those responsible on November 29, 2021. The determination that no leased car was stolen or damaged results, on the one hand, from the fact that the responsible person did not report any specific case of theft or damage to property during the ongoing proceedings submitted to the data protection authority. On the other hand, the finding arises from the statements of the complainant (employee of the person responsible) from November 10, 2021 and November 17, 2021 from the complaint procedure with the GZ: D124.3940, which show that there has not yet been any theft.
+
+D. In legal terms it follows:
+
+According to Article 4, Paragraph 7 of the GDPR, a responsible person is the natural or legal person, authority, institution or other body that alone or jointly with others decides on the purposes and means of processing personal data. A responsible person is defined in Article 4, Paragraph 7 , GDPR means the natural or legal person, authority, institution or other body which, alone or jointly with others, decides on the purposes and means of processing personal data.
+
+In the present case, there is no doubt and has not been disputed by the person responsible that she is the person responsible for the data processing carried out under data protection law.
+
+According to Art. 4 Z 1 GDPR, personal data refers to all information that relates to an identified or identifiable natural person. In order to determine whether a natural person is identifiable, account must be taken of all means that are reasonably likely to be used by the controller or a third party to identify the person, directly or indirectly (“objective” theory). This broad definition of personal data means that it covers practically all information about a natural person, to the extent that it can be assigned to a specific person, at least in combination with other information. According to Article 4, paragraph one, GDPR, personal data includes all information to be understood as referring to an identified or identifiable natural person. In order to determine whether a natural person is identifiable, account must be taken of all means that are reasonably likely to be used by the controller or a third party to identify the person, directly or indirectly (“objective” theory). This broad definition of personal data means that it covers practically all information about a natural person, to the extent that it can be assigned to a specific person, at least in combination with other information.
+
+According to Article 4, Paragraph 2 of the GDPR, the term “processing” includes any “According to Article 4, Paragraph 2, of the GDPR, the term of processing includes any “process carried out with or without the help of automated procedures or any such series of processes in connection with personal data such as this “Collecting, recording, organizing, arranging, storing, adapting or changing, reading out, querying, using, \[...\]”.
+
+In the present case, the processing is not carried out in the vital interest of the service technicians concerned, and it is also undisputed - as stated under point 7 of the findings and put forward in the statement of January 11, 2022 by the person responsible, represented by a lawyer - that there is no consent for data processing. The person responsible based the processing of the personal data of the affected service technicians accordingly on Art. 6 Para. 1 lit. c and lit. f GDPR. in the vital interest of the affected service technicians, it is also undisputed - as stated under point 7 of the findings and put forward in the statement of January 11, 2022 by the person responsible, represented by a lawyer - that there is no consent to data processing. The person responsible based the processing of the personal data of the affected service technicians accordingly on Article 6, paragraph one, Litera c, and Litera f, GDPR.
+
+Consequently, it must be examined whether the reasons for justification mentioned exist.
+
+On the existence of a legitimate interest
+
+According to the established case law of the ECJ, three cumulative requirements are required for an appeal to Article 6 (1) (f) GDPR. Firstly, the controller or third party must exercise a legitimate interest; secondly, the processing of the personal data must be necessary to achieve the legitimate interest; thirdly, the interests or fundamental rights and freedoms of the person whose data is to be protected must not prevail. According to the established case law of the ECJ, three cumulative requirements are required for an appeal to Article 6, paragraph one, letter f, GDPR. Firstly, the controller or third party must exercise a legitimate interest; secondly, the processing of the personal data must be necessary to achieve the legitimate interest; thirdly, the interests or fundamental rights and freedoms of the person whose data is to be protected must not prevail.
+
+The balancing of the respective opposing rights requires an assessment on a case-by-case basis (see most recently the judgment of June 17, 2021, C -597/19). In a specific case, the stated interests of those responsible must be compared with the right of the affected service technicians to the protection of their personal data.
+
+The person responsible claims that, in addition to legal obligations, they have a legitimate interest in using the GPS system. It is of interest to them that the records regarding work deployment, working hours, travel expense reports, etc. are kept correctly because they have a responsibility towards their employees insofar as they adhere to their working hours and are paid accordingly. In addition, there is an economic interest in using individual employees in an economically sensible manner and in avoiding unnecessary standing times or detours. With regard to customers, the person responsible has an economic interest in ensuring that the service provided is billed correctly and that responding quickly to inquiries is important, especially for customer loyalty. In addition, those responsible have a legitimate interest in using the system so that, as a lessee, they can locate the company vehicles during working hours.
+
+On the other hand, there is the interest of the affected employees not to be controlled or monitored during their working hours through the use of the GPS tracker.
+
+In its judgment of December 11, 2019, C-708/18, the ECJ led to the second requirement of Art. 7 lit. f of Directive 95/46 (or now Art. 6 para. 1 lit. f GDPR), which In its judgment of December 11, 2019, C-708/18, the ECJ led to the second requirement of Article 7, letter f, of Directive 95/46 (or now Article 6, paragraph one, letter f, GDPR), which The necessity of processing personal data for the realization of the perceived legitimate interest means that the exceptions and restrictions with regard to the protection of personal data must be limited to what is absolutely necessary (see, for example, ECJ, May 4, 2017, C-13/16 or ECJ, November 9, 2010, C-92/09 and C-93/09). In other words, the question arises as to whether the same protective purpose can also be achieved through a more lenient means or whether the desired goal can be achieved with less intrusive data processing.
+
+If the person responsible claims that knowledge of the current location makes it possible to respond to a short-term need for deployment or a new order or emergency, the counter to this is that the location data of the respective employee is already known to the person responsible by the office coordinators and therefore a It is possible to assign a new order without the need for a GPS device.
+
+As credibly put forward by the complainant in the complaint procedure with the GZ: D124.3940 in his statements of November 10, 2021 and November 17, 2021 and as also emerges from the ex officio research of January 14, 2022, the service employees are for maintenance and repair orders responsible. These account for a high percentage (around 70%) of total orders. For these service calls, spare parts that are assigned to an order and a person are almost always required. This emerges from the official research from January 14, 2022 on the homepage of those responsible. Since the respective service technician does not logically carry all the necessary spare parts with him, he must first collect the order-related parts from another spare parts warehouse. As a result, spontaneous order acceptance in the traditional sense is not possible – at least in many cases.
+
+This argument therefore does not hold water.
+
+The argument of those responsible that the GPS system was installed to keep a digital logbook and to prevent incorrect working time records is incomprehensible. As the responsible party itself stated in the statement dated November 29, 2021, there is no concrete evidence that the employees have ever actually stated incorrect working hours.
+
+It is not clear to the data protection authority to what extent the “L\*\*Track” GPS system provides significant administrative relief for the respondent. The employees of those responsible had to independently enter their working hours and keep their logbook. Before installing the “L\*\*Track” system, the person responsible must have been able to see where which service technician had worked or was staying on the respective days based on the order distribution carried out by their internal coordinators to their service technicians. The person responsible also confirms this in her statement dated March 4, 2020, according to which the data is known to her even without a GPS system due to the daily distribution of orders by the coordinators in the office. There is no evidence of incorrect working time records. This emerges from the statement from those responsible on November 7, 2021.
+
+This argument therefore does not hold water.
+
+In addition, the billing to the employees (travel expense accounting, calculation of benefits in kind, overtime payments, etc.) was also possible without using the GPS tracker in question, because the person responsible carried out the billing via the coordinators or the one managed by the employees before using the GPS tracker kept records.
+
+It can be seen from the foregoing that the requirements for proportionality of the data processing in question were not met. It is clear that the measures originally taken (such as coordination of the fleet or orders by the coordinators as well as recording in a logbook, etc.) have proven to be sufficient to meet the legal obligations.
+
+Furthermore, it should be noted again that there is no evidence of incorrect working time records or theft.
+
+The data protection authority does not ignore the fact that data processing using a GPS tracker makes work easier and provides economic relief for those responsible. However, this alone cannot justify an appeal to Article 6 Paragraph 1 Letter f GDPR. for those responsible. However, this alone cannot justify an appeal to Article 6, paragraph one, letter f, GDPR.
+
+Based on the above-mentioned considerations, the data protection authority comes to the conclusion that there is a lack of necessity for data processing (second step of the examination), which is why an appeal to Art , that there is a lack of necessity of data processing (second step of the examination), which is why an appeal to Article 6, paragraph one, letter f, GDPR is ruled out.
+
+On the existence of a legal obligation
+
+If the controller further claims that it bases the use of the GPS system on the fulfillment of legal obligations, the following should be noted:
+
+According to Art is.
+
+A legal obligation pursuant to Article 6 Paragraph 1 Letter c of the GDPR is in any case an obligation based on objective law (cf. A legal obligation pursuant to Article 6 Paragraph 1, Letter c, GDPR is in any case an obligation based on objective law, see Frenzel in Paal /Pauly, General Data Protection Regulation Art. 6, paragraph 16), which can arise in particular from a legal basis under Member State or Union law and also relates directly to data processing (cf., General Data Protection Regulation Article 6, paragraph 16). understand, which can arise in particular from a legal basis under Member State or Union law and also relates directly to data processing see Kastelitz/Hötzendorfer/Tschohl in Knyrim (ed.), DatKomm Art. 6 GDPR para. 39). (Ed.), DatKomm Article 6, GDPR Rz 39).
+
+As the ECJ states in consistent case law, in addition to the existence of at least one offense under Article 6 of the GDPR, all requirements of Article 5 Para. 1 GDPR must be proven (judgment of June 22, 2021, C-439/19, paragraph 96). The requirements of Article 5, paragraph one, GDPR must be proven (judgment of June 22, 2021, C-439/19, paragraph 96).
+
+The requirement of necessity ensures that the person responsible does not use a given goal as an opportunity to process excessive personal data. The condition of necessity means that the controller must limit himself to the necessary extent required by the legal obligation and may not process the data beyond the required purpose and scope. If the legal obligation gives you the opportunity to refrain from processing and in particular from passing on personal data, it corresponds to the principle of data minimization (Art. 5 Para. 1 lit. c) to refrain from processing personal data in this respect (cf. ( Article 5, paragraph one, Litera c,), insofar as to refrain from processing personal data, see Heberlein in Ehmann/Selmayr (ed.), General Data Protection Regulation Art. GDPR and Buchner/Petri in Kühling/Buchner (ed.) Commentary on the General Data Protection Regulation Art. 6 GDPR). (Ed.) Commentary on the General Data Protection Regulation Article 6, GDPR).
+
+The person responsible essentially relies on the provisions of the AZG. It must therefore be examined whether the provisions of the AZG establish a legal obligation to process personal data in accordance with Article 6 Paragraph 1 Letter c GDPR through a GPS system. The controller essentially relies on the provisions of the AZG. It is therefore necessary to examine whether the provisions of the AZG create a legal obligation to process personal data in accordance with Article 6, paragraph one, Litera c, GDPR using a GPS system.
+
+According to Section 17b AZG, the employer must keep records of all hours worked by drivers and keep all driver records for at least 24 months. These records must be made available to the labor inspectorate in full and sorted by driver and date. In this context, Sections 17 and 17a AZG refer to the possibility of using a digital control device. According to Section 13 Paragraph 1 Item 5 AZG, a digital recording device is to be understood as a digital tachograph within the meaning of Article 2 Paragraph 2 Letter h of Regulation (EU) No. 165/2014. For the purpose of this Regulation, a digital tachograph is a tachograph using a tachograph card in accordance with this Regulation. According to paragraph 17 b, AZG, the employer must keep records of all hours worked by drivers and keep all driver records for at least 24 months. These records must be made available to the labor inspectorate in full and sorted by driver and date. In this context, paragraphs 17 and 17a AZG refer to the possibility of using a digital control device. According to paragraph 13, paragraph one, number 5, AZG, a digital recording device is to be understood as a digital tachograph within the meaning of Article 2, paragraph 2, letter h, of Regulation (EU) No. 165/2014. For the purpose of this Regulation, a digital tachograph is a tachograph using a tachograph card in accordance with this Regulation.
+
+The data protection authority also notes - as stated by those responsible themselves - that the tachograph function was not activated until July 2021. This means that up to this point in time, in accordance with Section 17 Paragraph 4 AZG, a logbook had to be kept independently of the L\*\*Track system and there were no signs that incorrect or incorrect records were kept. That until July 2021 The tachograph function was not activated. This means that up to this point in time, in accordance with paragraph 17, paragraph 4, AZG, a logbook had to be kept independently of the L\*\*Track system and there were no signs that incorrect or incorrect records were kept.
+
+Overall, data processing on the basis of Art. 6 Para. 1 lit. could be achieved. In summary, data processing based on Article 6, paragraph one, Litera c, GDPR proves to be inadmissible because the purpose can also be achieved through milder means that involve less data processing (Article 5, paragraph one, Litera c,), could be achieved.
+
+The decision therefore had to be made in accordance with the verdict.

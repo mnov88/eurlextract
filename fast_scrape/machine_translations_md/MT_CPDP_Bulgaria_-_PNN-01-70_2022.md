@@ -1,0 +1,252 @@
+ CPDP (Bulgaria) - PNN-01-70/2022 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"c6de602371536792ad2aac5e","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"CPDP\_(Bulgaria)\_-\_PNN-01-70/2022","wgTitle":"CPDP (Bulgaria) - PNN-01-70/2022","wgCurRevisionId":30986,"wgRevisionId":30986,"wgArticleId":5638,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["CPDP (Bulgaria)","Bulgaria","Article 24(1) GDPR","Bulgarian"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"CPDP\_(Bulgaria)\_-\_PNN-01-70/2022","wgRelevantArticleId":5638,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:CPDP_\(Bulgaria\)_-_PNN-01-70/2022&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=CPDP_\(Bulgaria\)_-_PNN-01-70/2022&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=CPDP_\(Bulgaria\)_-_PNN-01-70/2022&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=CPDP+%28Bulgaria%29+-+PNN-01-70%2F2022&returntoquery=oldid%3D30986 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# CPDP (Bulgaria) - PNN-01-70/2022
+
+From GDPRhub
+
+Revision as of 14:14, 6 February 2023 by [37.119.31.243](/index.php?title=Special:Contributions/37.119.31.243 "Special:Contributions/37.119.31.243") ([talk](/index.php?title=User_talk:37.119.31.243&action=edit&redlink=1 "User talk:37.119.31.243 (page does not exist)")) (I added the correct link to the decision - https://www.cpdp.bg/?p=element\_view&aid=2340 - as the original entry generically linked to the decision)
+
+([diff](/index.php?title=CPDP_\(Bulgaria\)_-_PNN-01-70/2022&diff=prev&oldid=30986 "CPDP (Bulgaria) - PNN-01-70/2022")) [← Older revision](/index.php?title=CPDP_\(Bulgaria\)_-_PNN-01-70/2022&direction=prev&oldid=30986 "CPDP (Bulgaria) - PNN-01-70/2022") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+CPDP - PNN-01-70/2022
+
+[![LogoBG.jpg](/images/thumb/e/ee/LogoBG.jpg/250px-LogoBG.jpg)](/index.php?title=File:LogoBG.jpg)
+
+Authority:
+
+[CPDP (Bulgaria)](/index.php?title=CPDP_\(Bulgaria\) "CPDP (Bulgaria)")
+
+Jurisdiction:
+
+[Bulgaria](/index.php?title=Category:Bulgaria "Category:Bulgaria")
+
+Relevant Law:
+
+[Article 24(1) GDPR](/index.php?title=Article_24_GDPR#1 "Article 24 GDPR")  
+[Правилник за прилагане на Закона за мерките срещу изпирането на пари (AMLA)](https://lex.bg/bg/laws/ldoc/2137189981)
+
+Type:
+
+Investigation
+
+Outcome:
+
+Violation Found
+
+Started:
+
+Decided:
+
+Published:
+
+Fine:
+
+n/a
+
+Parties:
+
+n/a
+
+National Case Number/Name:
+
+PNN-01-70/2022
+
+European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+Not appealed  
+
+Original Language(s):
+
+[Bulgarian](/index.php?title=Category:Bulgarian "Category:Bulgarian")
+
+Original Source:
+
+[CPDP (in BG)](https://www.cpdp.bg/?p=element_view&aid=2340)
+
+Initial Contributor:
+
+Vilma Margarit
+
+The Bulgarian DPA determined that a bank had violated [Article 24(1) GDPR](/index.php?title=Article_24_GDPR "Article 24 GDPR") by processing personal data of a former customer for a purpose (direct marketing) other than the original, lawful one (anti-money laundering).
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+On 21 September 2021, the data subject opened a bank account, which he closed again less than two months after, on 5 November 2021. On the same day, he also requested the deletion of his data. According to the data subject, this request was denied on 19 November 2021. On 7 December 2021, the data subject received an offer from the controller by e-mail for a consumer loan, despite the fact he was no longer a customer of the controller and did not use any of its services anymore. The data subject submitted a complaint at the Bulgarian DPA (DPA) because of the unlawful processing of his personal data for direct marketing purposes.
+
+During the proceedings, the controller confirmed that the marketing e-mail was sent but stated that this had been the result of an error, caused by an additional safety mechanism implemented by the controller. This mechanism was designed for customers who closed their accounts unusually quickly, which was in less than three months. The controller had to retain certain information of former clients in order to comply with the national Anti-Money Laundering Act. Since the data subject had only been a client for less than two months, his data was kept but subsequently included in the list for direct marketing e-mails. The controller emphasised that a minimal amount of personal data was processed as a result of this error (first name and e-mail address) and that the data subject had not been profiled.
+
+The controller also explained that for its commercial campaigns, it had several criteria to exclude e-mail addresses from its mailing list. The first criterion was to determine whether the status of the customer was 'active' or 'inactive'. If the status was 'inactive', the e-mail address belonged to a former customer and would not be included in the list. The second criterion was when a data subject had refused to receive direct marketing from the controller. In that case, the respective e-mail address would also not be included in the mailing list.
+
+Because of the safety mechanism, the status of the data subject was still 'active' despite the fact he was no longer a customer of the controller. Because he also did not object to personalised marketing when he had opened his bank account, his e-mail address was included in the mailing list.
+
+### Holding
+
+The Bulgarian DPA held that the data subject's e-mail address should have not been on the list for the marketing campaign in the first place, because the data subject had already terminated his contract with the bank. The DPA stated that the controller did not have a basis for processing the data subject's personal data for the purpose of this specific marketing campaign, especially because the data subject did not even meet the criteria explicitly set by the controller to be included in the mailing list.
+
+The fact that the data subject was wrongfully included in this list was caused by the additional safety mechanism to comply with national anti-money laundering purposes. The measures of the controller were therefore not appropriate and/or capable of ensuring and demonstrating that processing was carried out in compliance with the GDPR. Therefore, the DPA determined that the controller violated [Article 24(1) GDPR](/index.php?title=Article_24_GDPR#1 "Article 24 GDPR") by using this safety mechanism. The DPA also stated that the safety mechanism was inappropriate looking at the GDPR, because personal data of customers was processed regardless of the duration of the contractual relationship with the bank.
+
+The DPA warned the controller pursuant of [Article 58(2)(b) GDPR](/index.php?title=Article_58_GDPR#2b "Article 58 GDPR").
+
+## Comment
+
+It is not clear from the decision at what date the data subject submitted his complaint at the Bulgarian DPA.
+
+The Bulgarian DPA does not mention [Article 6 GDPR](/index.php?title=Article_6_GDPR "Article 6 GDPR"), despite the fact the DPA mentions that the controller does not have a basis (not legal basis) for its processing.
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the Bulgarian original. Please refer to the Bulgarian original for more details.
+
+Based on the above and based on Art. 38, para. 3 of the Personal Data Protection Act, the Commission for the Protection of Personal Data DECIDES: 1. Declares complaint ппН-01-487/24.06.2021 as groundless regarding the complainant's claims that she did not provide her personal data to "x .M.B.” EAD. 2. Announces the complaint in the remaining part, concerning the provision of the personal data of the complainant by "h.M.B." EAD in the National Agency for registration of an employment contract, for a foundation. 3. Based on Art. 58, § 2, letter "b" of the GDPR issues an official warning to "h.M.B." EAD for violation of Art. 6, § 1 of EU Regulation 2016/679. The decision is subject to appeal within 14 days of its delivery, through the Commission for the Protection of Personal Data before the Administrative Court of Sofia - city. CHAIRMAN: MEMBERS: Vencislav Karadzov /m/ Tsanko Tsolov /m/ Maria Mateva /m/ Veselin Tselkov /m/ DECISION No. ппН-01-70/2022 Sofia, 01.12.2022 Commission for the Protection of Personal Data (KPLD ) in composition: chairman: Ventsislav Karadjov and members: Tsanko Tsolov and Veselin Tselkov at a meeting held on 16.11.2022, on the basis of art. 10, para. 1 of the Personal Data Protection Act in connection with Art. 57, § 1, letter "f" of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons in connection with the processing of personal data and on the free movement of such data (Regulation , GDPR), examined the merits of complaint No. PPN-01-70/24.01.2022. The administrative proceedings are in accordance with Art. 38 of the Personal Data Protection Act (PAPA). The Commission for the Protection of Personal Data was referred to complaint No. PPN-01-70/24.01.2022, submitted by I.T. against a bank (B. AD), with allegations of unlawful processing of his personal data for the purposes of direct marketing, after contractual relations with the bank were terminated. The complainant informed that on 21.09.2021 he visited a branch of the company and opened a bank account in his own name, which he closed on 05.11.2021. He adds that on 05.11.2021, at a branch of the bank, he submitted an application for the deletion of his personal data, but in a reply received on 19.11.2021, he was informed that his request was disregarded. He claims that on 07.12.2021, after he is no longer a client of the bank and does not use its services, he received an offer from the company to grant a consumer loan to his e-mail. He asks the committee to investigate the case. In support of his claims, he attaches a copy of: contract for opening a customer account, confirmation of closed account dated 05.11.2021, application for deletion of personal data and response reg. No. \*\*\*\*\*/19.11.2021 In view of the principles of equality of the parties and truthfulness advocated in the administrative process, B. AD was informed about the administrative proceedings initiated in the case, and was given the opportunity to submit a written opinion on the allegations presented in the complaint. In response, an opinion PPN-01-70#3/03.06.2022 was filed, with relevant evidence attached to it. The company informs about a "mistake" when sending the message to the complainant, specifying that Mr. I.T. is "excluded from all future campaigns of B. AD. They confirm that on 06.12.2021, after the bank account of Mr. IT was closed on 05.11.2021, the latter received a marketing message from B. AD on his e-mail. They add that a "minimum amount of personal data (first name and e-mail address) was processed, as "no profiling was carried out". They inform that the sending of the message is a consequence of an additional control mechanism implemented, which later changes the statuses of customers who closed their accounts unusually quickly after performing several transactions on them, namely for those of them who were in a relationship with the bank for a period of less than three months. This mechanism is related to the possible need for subsequent monitoring of customer behavior immediately after the closing of the accounts and the termination of the relationship, in order to support the fulfillment of the Bank's anti-money laundering obligations. They point out that from the moment Mr. I.T. entered into relations with the Bank (17.09.2021) as its client, less than two months passed until the closure of his account (05.11.2021), therefore, upon regular application of the automatic functionality for changing customer statuses from "active" to "inactive" in the month of November 2021, his customer position has remained unchanged. This affected the compilation of the lists for the specific marketing campaign and was the reason for sending the message attached to the complaint to Mr. I.T. They point out that as of the date of expressing the opinion to the CPLD, Mr. I.T. has an "inactive" customer status and his data is processed only for limited purposes, as the person was notified in the response to the request for deletion of personal data submitted by him. For the sake of completeness, they state that regardless of the client's wish, B. AD cannot immediately delete the data received from Mr. I.T. personal data as there are legal requirements e.g. under the Anti-Money Laundering Act (AMLA), which require storage for a longer period of time and add that in case the customer does not wish his data to be processed for certain purposes, he is notified and has the opportunity to exercise your right to restrict processing. They claim to strictly comply with the requirements of the General Data Protection Regulation and local legislation, and the bank has provided the relevant mechanisms for preliminary verification of the basis for conducting its campaigns. For the legal organization of marketing campaigns, a combination of criteria and conditions is applied, with the cumulative presence of which the campaign can be conducted. After clarifying the subject and the scope of the campaign, sample lists of customers are prepared, to whom messages are to be sent through various channels with a specific subject. They share the understanding that, in general, for the purposes of direct marketing, the Regulation allows data processing to be carried out on the basis of consent or legitimate interest, and add that the application of the specific legal basis depends on the type of products, respectively the offers (personalized/non-personalized), which The bank intends to offer to its customers, but the first condition that should be fulfilled is to check whether a given customer, included in the prepared list, is an active customer of B. AD or not. They point out that, for this purpose, the Bank has introduced automatic functionality, which regularly changes the status of the respective client from "active" to "inactive" after closing accounts and products in the Bank. And they add that, in parallel with the check regarding the status of the client ("active" or "inactive"), when compiling the sample lists of clients for each individual campaign, all clients who, although they have an "active" status - are necessarily checked and excluded - have declared a refusal in the case of personalized direct marketing or an objection to the processing of their personal data for the purposes of direct marketing, in cases where customer data is processed on the basis of a legitimate interest. In this regard, they point out that when entering into relations with the Bank, Mr. I.T. has not signed a waiver of consent to the processing of his personal data for the purposes of personalized direct marketing, including has not objected to the processing of his data for the purposes of standard direct marketing. They claim that immediately after establishing the fact that Mr. I.T. should not be among the addressees of the specific marketing campaign due to the fact that he no longer uses bank products, he is excluded from the lists for upcoming campaigns of the Bank. They point out that the bank has introduced detailed procedures to establish the existence of valid legal grounds for processing the data, especially for the purposes of direct marketing, and in the specific case it did not aim to damage the rights and interests of its ex-client, on the contrary, the message sent is completely harmless and as a result of the operation of the additional mechanism for checking customers who have closed their accounts unusually quickly after opening them. They share that changing the status of a client who has opened and closed an account in the short term would make it difficult to carry out checks and additional controls that are applied in case of suspicious actions/transactions by such type of clients, because with the change of status from "active ”, on an “inactive” part of personal data that is not processed for the limited purposes after the termination of relations with the bank, are immediately archived. They point out that "unfortunately" the period of the inspections coincided with the preparation of the marketing campaign around the Christmas holidays and when applying the initial criteria for its organization (status in the system, or presence of a refusal/objection to the processing of personal data for the purposes of the direct marketing), Mr. I.T. has fallen into it. They claim that after the completion and reporting of the campaign, the mistake made was found, resp. ex-client is excluded from all future campaigns of B. AD. In addition, they point out that B. AD takes every customer complaint seriously and uses the feedback from its customers to continuously improve its processes. The Commission for the Protection of Personal Data is an independent state body that protects individuals in the processing of their personal data and access to such data, as well as monitoring compliance with the GDPR and the GDPR. In order to exercise its powers, the commission must be validly referred. The complaint contains the mandatory required details: data about the complainant, the nature of the request, date and signature, the passively legitimized party is indicated and the date of the alleged violation, in view of which the complaint is regular. The complaint is procedurally admissible - filed by a natural person with a legal interest against the proper party B.AD - administrator of personal data within the meaning of Art. 4, para. 7 of the General Regulation EU 2016/679.  The subject of the complaint is the unlawful processing of the complainant's personal data for the purposes of direct marketing, by means of a consumer credit proposal sent electronically on 06.12.2021 by the bank to the complainant, after he is no longer a client of the bank. The Commission was referred to the case on 24.01.2022, less than two months after the alleged violation was committed, which necessitates the conclusion that the complaint was submitted within the time limit under Art. 38, para. 1 of the Labor Code. Referred to is competent to rule - CPLD, which according to its powers under Art. 10, para. 1 of the Labor Code in connection with Art. 57, § 1, letter "f" of Regulation (EU) 2016/679, examines complaints submitted by a data subject against acts and actions of personal data controllers that violate the rights of natural persons related to personal data processing, as there are no exceptions under Art. 2, § 2, letter "c" and Art. 55, § 3 of Regulation (EU) 2016/679 given the fact that the case does not concern processing activities carried out by an individual in the course of purely personal or domestic activities and/or activities carried out by courts in the performance of their judicial functions. According to the stated reasons, at the meeting of the commission held on 14.09.2022, the complaint was accepted as admissible and the following parties were constituted as parties to the proceedings: complainant - I.T. and defendant – B. AD. An open hearing has been scheduled to consider the merits of the appeal on 16.11.2022, of which the parties are regularly notified. In order to clarify the case from a factual point of view, the defendant has requested information and evidence from where the company has data on the e-mail of the complainant, to which the message was sent; information on which persons are designated as addressees of the specific marketing campaign on the occasion of which the e-mail was sent to the complainant; whether and what additional technical and organizational measures were taken by the bank after the detected violation. In response, PPN-01-70#8/14.10.2022, B. AD informs that the e-mail of Mr. I.T. was provided personally by him when filling in a questionnaire for the identification of a natural person customer when opening an account for Mr. I.T. in B. AD, a certified copy of which is attached. They claim that "after the mistakenly sent email, no marketing message from the Bank was sent to his email again." They point out that the messages sent are standard direct marketing for which the Bank has justified its legitimate interest. The campaign was carried out for the period 02.12.2021 - 10.12.2021, and the included customers were 107,636. Messages with a proposal to grant a consumer loan under standard conditions and apply for a loan through the Bank's mobile application were sent to the customers by e-mail or Viber. They add that for the legal organization of marketing campaigns, a combination of criteria and conditions is applied, the cumulative presence of which the campaign can be carried out, namely: active customer (current customer of the Bank who uses a product/service of B. AD); not have provided a refusal/objection to the processing of his data for the purposes of direct marketing; to be a Bulgarian citizen; to fall within the age group of 23 to 63 years; not to use consumer credit. Political figures, clients with a high risk profile and clients who have participated in ongoing marketing campaigns in the past two months are excluded. They confirm that in the specific case with I.T. the message was sent after the account was closed and relations with the Bank were terminated, as the client's status was not changed from "active" to "inactive". Again, they state that the reason for the later change of status is that an additional control mechanism was introduced, which later changed the statuses of customers who closed their accounts unusually quickly after several transactions had been carried out on them, namely for those of them who were in relations with the Bank for a period shorter than three months. They inform that the message sent to the address indicated by Mr. I.T. e-mail and the signal received on this occasion motivated the company to review the procedures for selecting customers and conducting marketing campaigns in the Bank, respectively, to take additional technical and organizational measures to stop sending such messages to inactive customers, including customers who have terminated their relationship with the Bank in an extremely short period of time after opening the account. They claim that as of 12.10.2022, steps were taken to implement the technological solution, through which the status of customers who have terminated their relations with the Bank, will be marked from "active to "inactive" immediately after closing an account in B. AD, regardless of how long a person has continued to be a client of the Bank. They add that since this information is important for B. AD, they have provided another marker to signal how long the relationship with the Bank has lasted and that it is necessary to put a client under surveillance because he closed his accounts too soon B. AD. They inform that the Bank's IT specialists will develop this new technological solution, with which, on the one hand, they will maintain the necessary control mechanism, but on the other hand, they will mark customers who have closed their accounts unusually quickly as inactive immediately after terminating their relationship with the Bank , in order to prevent them from accidentally falling into the Bank's marketing campaign lists due to the operation of the additional control. At an open meeting of the CPLD held on 16.11.2022, the complaint was examined on its merits. The parties - regularly notified, do not appear, do not represent themselves. In its capacity as an administrative body and in connection with the need to establish the truth of the case, as a basic principle in administrative proceedings, according to Art. 7 of the APC, requiring the existence of established actual facts and in view of the evidence collected and the allegations made, the commission accepts that the substantively examined complaint No. PPN-01-70/24.01.2022 is well-founded. The subject of the complaint are allegations of unlawful processing of the complainant's personal data for the purposes of direct marketing, by means of a consumer credit proposal sent electronically on 06.12.2021 by B. AD to the complainant, since he is no longer a client of the bank . There is no dispute as to the facts. The complainant was a client of Bank B. AD for less than two months, in the period 17.09.2021. until 05.11.2021 On the initiative of Mr. I.T. an agreement was concluded between the parties on 17.09.2021 for the opening of a current account in B. AD in USD. The person has voluntarily provided his personal data for the purposes of the contract, including the email address specified in the completed by Mr. I.T. a questionnaire for the identification of a natural person client when opening the account. On 05.11.2021, the account was closed at the initiative of Mr. I.T. and after that date the same is not a client of the bank. Submitted by Mr. I.T. to B. AD an application for deletion of personal data dated 05.11.2021 was left without respect, as in response to the application - \*\*\*\*\*/19.11.2021, B. AD informed the applicant that his data " will be processed for limited purposes in fulfillment of legal requirements" with the clarification that the bank has adopted as a general term for processing - storage of personal data of its customers 10 years, counted from the date of termination of relations with the bank. In the answer, it is explicitly stated that "for the remaining period of time, B. AD will limit the processing of personal data only for the specified purpose and on the specified legal basis". However, it was undisputedly established that on 06.12.2021, a month after the termination of the relationship between the parties, closure of the bank account and after Mr. I.T. is no longer a client of the bank, the company has processed his personal data for direct marketing purposes, despite the response to the person 0t 19.11.2021 that the processing of his personal data will be limited. A proposal for a consumer loan offered by the company "entirely digital" was sent to the complainant's e-mail address by B. AD. The message is personified, although only with the indication of the person's first name, and it should be noted that the latter together with the person's e-mail data have the character of personal data within the meaning of Art. 4, § 1 of the GDPR. The message, evident from its content, has the character of direct marketing - offering of goods and services, in the specific case credit services offered by the bank. The message is part of a campaign of the bank conducted for the period 02.12.2021 - 10.12.2021, with 107,636 customers included according to the data of the defendant, under conditions expressly defined by the bank, one of which the addressees of the messages are customers of the bank. Despite the criteria introduced by the bank, as of the date of sending the message to Mr. IT, he is not a client of the bank, respectively he should not be the addressee of the offer, a fact which is also confirmed by the bank in a statement to the CPLD when made internal inspection. As of the date of data processing for the bank, there is no basis for processing his personal data for the purposes of the specific campaign, especially since the person does not meet the criteria explicitly set by the bank. The processing of the personal data of Mr. I.T. for the specific purpose is not carried out in accordance with the GDPR. The reason for the latter is the technical and organizational measures introduced by the bank - an additional control mechanism was implemented, which later changes the statuses of customers who closed their accounts unusually quickly after performing several transactions on them, namely for those of them who were in relations with the bank for a period shorter than three months. This mechanism, which, in the bank's opinion, was introduced and related to a possible need for subsequent monitoring of customer behavior immediately after the closing of the accounts and the termination of the relations, in order to support the fulfillment of the obligations of The bank's anti-money laundering measures, however, from the point of view of the GDPR, appear to be an inappropriate measure regarding the processing of personal data of persons who are not customers of the bank, regardless of the length of their contractual relationship with the bank.
+Due to the introduced functionality as a result of which the status of the client Mr. I.T. not changed by
+"active" to "inactive" more than a month after termination of legal relations with the personal bank
+his data were processed by the company for the purposes of direct marketing in violation of GDPR.
+The measures introduced by the administrator are not suitable and able to guarantee and prove that
+the processing is carried out in accordance with the GDPR, which is the obligation of the administrator under
+the meaning of Art. 24 of the GDPR. On the contrary, it was precisely as a result of the measures that what was found was allowed
+and by the bank a violation – an error was made when sending the message, respectively processing
+of the complainant's personal data for the purposes of direct marketing, without him being a client of the bank
+and the address of the campaign.
+After referring the case to the administrator's claims, the measures were revised and
+updated and as of 12.10.2022 steps were taken to implement the technological
+a decision by which the status of customers who have terminated their relationship with the Bank will be marked
+from "active to "inactive" immediately after closing an account in B. AD, regardless of how long
+a person continued to be a client of the Bank. In this regard, the commission considers it expedient
+issuing an official warning under Art. 58, § 2, letter "b" of the GDPR of the administrator.
+The remaining measures under Art. 58, § 1, letters "a", "c", "d", "e", "f", "g", "h" and "j" of the GDPR are inapplicable
+and inexpedient due to the nature of the offense and the fact that at the time of
+pronouncing the measures/functionality implemented by the administrator that led to the violation are
+changed. Imposing a pecuniary penalty on the administrator would be excessive and c
+violation of the principle of proportionality under Art. 6 of the APC, insofar as the processed data is in volume
+from the name and e-mail address of the applicant, and the same are not provided to third parties - the addressee
+of the message is the complainant.
+Based on the above and based on Art. 38, para. 3 of the Personal Data Protection Act, Commission
+to protect personal data,
+RESOLVE:
+1. Announces appeal ппН-01-70/24.01.2022 filed by I.T. against B. AD, for well-founded.
+2. Based on Art. 58, § 2, letter "b" of the GDPR issues an official warning to
+B. AD, in its capacity as a personal data administrator for violation of Art. 24, para. 1 of GDPR
+when processing the applicant's personal data on 06.12.2021 for the purposes of direct
+marketing.
+The decision is subject to appeal within 14 days of its delivery, through the Commission for
+protection of personal data before the Administrative Court Sofia - city.
+CHAIRMAN: MEMBERS:
+Vencislav Karadjov /p/ Tsanko Tsolov /p/
+Veselin Tselkov /p/
+
+Retrieved from "[https://gdprhub.eu/index.php?title=CPDP\_(Bulgaria)\_-\_PNN-01-70/2022&oldid=30986](https://gdprhub.eu/index.php?title=CPDP_\(Bulgaria\)_-_PNN-01-70/2022&oldid=30986)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [CPDP (Bulgaria)](/index.php?title=Category:CPDP_\(Bulgaria\) "Category:CPDP (Bulgaria)")
+*   [Bulgaria](/index.php?title=Category:Bulgaria "Category:Bulgaria")
+*   [Article 24(1) GDPR](/index.php?title=Category:Article_24\(1\)_GDPR "Category:Article 24(1) GDPR")
+*   [Bulgarian](/index.php?title=Category:Bulgarian "Category:Bulgarian")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/CPDP_\(Bulgaria\)_-_PNN-01-70/2022 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/CPDP_\(Bulgaria\)_-_PNN-01-70/2022 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=CPDP_\(Bulgaria\)_-_PNN-01-70/2022&oldid=30986 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=CPDP_\(Bulgaria\)_-_PNN-01-70/2022&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=CPDP_%28Bulgaria%29_-_PNN-01-70%2F2022&id=30986&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 6 February 2023, at 14:14.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.056","walltime":"0.077","ppvisitednodes":{"value":417,"limit":1000000},"postexpandincludesize":{"value":1629,"limit":2097152},"templateargumentsize":{"value":705,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":24115,"limit":5000000},"timingprofile":\["100.00% 11.781 1 Template:DPAdecisionBOX","100.00% 11.781 1 -total"\]},"cachereport":{"timestamp":"20250830132208","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":601});});

@@ -1,0 +1,683 @@
+ APD/GBA (Belgium) - 170/2023 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"f588f1476bfc387bf22ad34c","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"APD/GBA\_(Belgium)\_-\_170/2023","wgTitle":"APD/GBA (Belgium) - 170/2023","wgCurRevisionId":39443,"wgRevisionId":39443,"wgArticleId":7497,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["APD/GBA (Belgium)","Belgium","Article 24 GDPR","Article 32 GDPR","Article 33 GDPR","2023","French"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"APD/GBA\_(Belgium)\_-\_170/2023","wgRelevantArticleId":7497,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:APD/GBA_\(Belgium\)_-_170/2023&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=APD/GBA_\(Belgium\)_-_170/2023&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=APD/GBA_\(Belgium\)_-_170/2023&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=APD%2FGBA+%28Belgium%29+-+170%2F2023&returntoquery=oldid%3D39443 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# APD/GBA (Belgium) - 170/2023
+
+From GDPRhub
+
+Revision as of 15:29, 26 January 2024 by [Ar](/index.php?title=User:Ar&action=edit&redlink=1 "User:Ar (page does not exist)") ([talk](/index.php?title=User_talk:Ar&action=edit&redlink=1 "User talk:Ar (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Ar "Special:Contributions/Ar")) (Ar moved page [APD/GBA (Belgium) - DOS-2019-04346](/index.php?title=APD/GBA_\(Belgium\)_-_DOS-2019-04346 "APD/GBA (Belgium) - DOS-2019-04346") to [APD/GBA (Belgium) - 170/2023](/index.php?title=APD/GBA_\(Belgium\)_-_170/2023 "APD/GBA (Belgium) - 170/2023"))
+
+([diff](/index.php?title=APD/GBA_\(Belgium\)_-_170/2023&diff=prev&oldid=39443 "APD/GBA (Belgium) - 170/2023")) [← Older revision](/index.php?title=APD/GBA_\(Belgium\)_-_170/2023&direction=prev&oldid=39443 "APD/GBA (Belgium) - 170/2023") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+APD/GBA - DOS-2019-04346
+
+[![LogoBE.png](/images/thumb/4/44/LogoBE.png/250px-LogoBE.png)](/index.php?title=File:LogoBE.png)
+
+Authority:
+
+[APD/GBA (Belgium)](/index.php?title=APD/GBA_\(Belgium\) "APD/GBA (Belgium)")
+
+Jurisdiction:
+
+[Belgium](/index.php?title=Category:Belgium "Category:Belgium")
+
+Relevant Law:
+
+[Article 24 GDPR](/index.php?title=Article_24_GDPR "Article 24 GDPR")  
+[Article 32 GDPR](/index.php?title=Article_32_GDPR "Article 32 GDPR")  
+[Article 33 GDPR](/index.php?title=Article_33_GDPR "Article 33 GDPR")
+
+Type:
+
+Investigation
+
+Outcome:
+
+No Violation Found
+
+Started:
+
+Decided:
+
+20.12.2023 Published:
+
+Fine:
+
+n/a
+
+Parties:
+
+n/a
+
+National Case Number/Name:
+
+DOS-2019-04346
+
+European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+n/a
+
+Original Language(s):
+
+[French](/index.php?title=Category:French "Category:French")
+
+Original Source:
+
+[Autorité de protection des données (in FR)](https://www.gegevensbeschermingsautoriteit.be/publications/beslissing-ten-gronde-nr.-170-2023.pdf)
+
+Initial Contributor:
+
+ar
+
+The Belgian DPA investigated the controller’s practices following a data breach involving almost 90,000 data subjects. No violation was found since the data breach was an isolated incident and the controller complied with [Article 33 GDPR](/index.php?title=Article_33_GDPR "Article 33 GDPR").
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+An investigation was started on 20 December 2019 over the practices of the controller. The controller owned a platform which allowed data subjects to access their data and loyalty points and use them to benefit from promotions offered by different shops that posted their offers on the platform.
+
+The investigation was suggested after a data leak occurred on the platform of the processor, which was notified, in accordance with [Article 33 GDPR](/index.php?title=Article_33_GDPR "Article 33 GDPR") to the Belgian DPA. Nonetheless, there were suspicions that the controller did not comply with [Article 32 GDPR](/index.php?title=Article_32_GDPR "Article 32 GDPR"). Especially considering the high number of data subjects, 89,429 data subjects, and the nature of the data disclosed, including the card number, e-mail address and telephone number.
+
+The DPA held a hearing on the matter on 1 December 2023.
+
+### Holding
+
+The DPA commented that the information provided by the controller following the data leak indicated that the controller’s practices could have been not complying with the GDPR.
+
+In this context, the DPA affirmed that it was important to consider not only the impact of the data leak on the large number of people involved but also the nature of the data, which potentially consisted of financial data. According to the DPA, in fact, there could have been a risk for the payment details to have been leaked as well.
+
+However, based on the information provided by the controller, the DPA noted that in the circumstances of the data leak, the incident was limited and did not impact the payment details of the data subjects. Moreover, the DPA acknowledged that the controller had also, out of prudence, informed the data subjects concerned on 22 August 2019 of the data leak so that they could take possible precautionary measures, if necessary. Thus, the controller acted in accordance with [Article 33 GDPR](/index.php?title=Article_33_GDPR "Article 33 GDPR") and [Article 34 GDPR](/index.php?title=Article_34_GDPR "Article 34 GDPR"). In addition, considering that the controller did not present a history of repeated data breaches indicating systematic failures on the part of the controller, it also fulfilled its obligations under [Article 24 GDPR](/index.php?title=Article_24_GDPR "Article 24 GDPR") and [Article 32 GDPR](/index.php?title=Article_32_GDPR "Article 32 GDPR"). Furthermore, the documents provided by the controller allowed the DPA to understand the approach adopted by the controller to avoid future data breaches, such as its commitment to review and improve future data security measures and carry out audits.
+
+Therefore, the DPA found no breach of the GDPR.
+
+## Comment
+
+_Share your comments here!_
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the French original. Please refer to the French original for more details.
+
+1/9
+
+                                                                        Litigation Chamber
+
+                                  Decision on merits 170/2023 of December 20, 2023
+
+File number: DOS-2019-04346
+
+Subject: Data leak as part of a loyalty program
+
+The Litigation Chamber of the Data Protection Authority, made up of Mr.
+
+Hielke HIJMANS, president, and Mr. Dirk Van Der Kelen and Christophe Boeraeve, members;
+
+Having regard to Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016 relating to the
+
+protection of natural persons with regard to the processing of personal data and
+
+to the free movement of these data, and repealing Directive 95/46/EC (General Regulation on the
+
+data protection), hereinafter “the GDPR”;
+
+Having regard to the Law of December 3, 2017 establishing the Data Protection Authority (hereinafter
+
+“the LCA”);
+
+Considering the internal regulations as approved by the House of Representatives on
+
+December 20, 2018 and published in the Belgian Official Gazette on January 15, 2019;
+
+Considering the documents in the file;
+
+Has taken the following decision regarding:
+
+The defendant: Y, represented by Maître Cédric Burton and Maître Laura Brodahl, hereinafter "the
+
+                    defendant" Decision on the merits 170/2023 — 2/9
+
+I. Facts and procedure
+
+       A. Investigation by the Inspection Service
+
+    1. On December 20, 2019, the Board of Directors of the Data Protection Authority
+
+        (hereinafter "the APD") has decided to refer a case to the APD Inspection Service on the basis
+        of article 63, 1° of the LCA, considering that there seemed to be serious indications that the
+
+        defendant did not comply with the obligations arising from Article 32 of the GDPR.
+
+        The elements taken into consideration in this regard by the Steering Committee were the extent
+
+        of the data leak, the number of people affected amounting to 89,429, distributed
+
+        in 27 EU Member States, as well as the nature of the data that was disclosed,
+
+        know the card number, the name of the person concerned, their date of birth, their sex,
+
+        his address, his e-mail address, his telephone number, his mobile number and a
+        unique identification number.
+
+    2. Following the processing by the APD General Secretariat of the data leak that occurred
+
+        to the defendant on August 19, 2019 and to the complaints lodged with the Service of
+
+        Front Line of ODA by people in Germany in their capacity as individuals
+        concerned affected by the data leak, the file was examined by the Secretariat
+
+        General and transmitted to the Management Committee under Article 63, 1° of the LCA, with a view to
+
+        refer to the Inspection Service, and individual complaints from German citizens, after
+
+        having been declared admissible by the Front Line Service, were also
+
+        transmitted to the Inspection Service pursuant to article 96, §1 of the LCA in conjunction with article 63,
+
+        2° of the LCA.
+
+    3. The reason for the above-mentioned referral was a specific data leak at the level of a
+
+        subcontractor of the defendant. This subcontractor manages the program platform (..) on
+
+        which cardholders can enroll in a loyalty program based on
+
+        points they earn for using their card to make purchases. This platform
+
+        allowed cardholders to access their data, including their points balance,
+        and then use them to benefit from promotions offered by merchants
+
+        participants who posted their offers on the platform. The subcontractor did it himself
+
+        in turn calling on a subcontractor for external hosting/logging.
+
+    4. On July 20, 2023 the investigation by the Inspection Service is closed, the report is attached to the
+
+        file and it is transmitted by the Inspector General to the President of the Chamber
+        Contentious (art. 91, § 1 and § 2 of the LCA), which gave rise to referral to the Chamber
+
+        Litigation under article 92.3° of the LCA. In its report, the Inspection Service
+
+        had come to the conclusion that the large number of affected people affected by the
+
+        data leak and compliance with the obligation to notify the DPA were not sufficient in
+
+        itself to conclude that there is an indication of a practice likely to give rise to a Decision on the merits 170/2023 — 3/9
+
+    violation of the fundamental principles of personal data protection
+
+    within the meaning of article 63, 1° of the LCA. For the rest, the inspection report does not include
+
+    no finding of any violation of the GDPR on the part of the defendant.
+
+   B. Procedure before the Litigation Chamber
+
+                                                                                        er
+5. On September 27, 2023 the Litigation Chamber decides, under Article 95, § 1, 1° and
+
+    of article 98 of the LCA, that the case can be processed on its merits. The defendant is
+
+    informed by registered mail of the provisions as set out in article 95, § 2 as well as
+    than in section 98 of the LCA. It is also informed, under article 99 of the LCA,
+
+    of the deadline for transmitting the conclusion. The deadline for receipt of conclusions in
+
+    The defendant's response was initially set for October 30, 2023, but was
+
+    extended to November 15, 2023.
+
+6. On October 6, 2023, the defendant requested a copy of the file (art. 95, §2, 3° LCA),
+
+    which is sent to him on October 18, 2023, and completed on October 25, 2023. The
+
+    defendant also agrees to receive all communications relating to
+
+    the case by electronic means, in accordance with article 98 of the LCA.
+
+7. On November 10, 2023, the parties are informed that the hearing will take place on November 1, 2023.
+
+    December 2023.
+
+8. On November 15, 2023, the Litigation Chamber receives the conclusions in response from the
+
+    defendant. In addition to the defense on the merits which mainly concerns the report
+
+    technical aspects of the Inspection Service, these conclusions also include some
+    procedural defenses relating to the manner in which the Inspection Service was seized
+
+    and carried out the investigation.
+
+9. On December 1, 2023, the defendant was heard by the Litigation Chamber.
+
+    The defendant is therefore heard and has the opportunity to present its arguments.
+
+   Then, the case is deliberated by the Litigation Chamber.
+
+10. On December 8, 2023, the minutes of the hearing are submitted to the defendant,
+
+    in accordance with article 54 of the internal regulations. The defendant sees herself thus
+
+    offer the opportunity to add any comments in this regard as an annex to the
+
+    minutes, without this implying a reopening of the debates.
+
+11. On December 15, 2023, the Litigation Chamber received some remarks relating to the
+    minutes which it decides to include in its deliberations. Decision on merits 170/2023 — 4/9
+
+II. Motivation
+
+       A. Procedure
+
+    12. The defendant argues that an investigation by the Management Committee or the Service
+
+        Inspection can be opened on their own initiative only if there are serious indications
+
+        of lack of conformity. According to the defendant, neither of these two bodies established
+
+        the existence of such indices. They would therefore have both illegally conducted a
+
+        investigation relating to the processing activities of the defendant.
+
+    13. In this regard, the Litigation Chamber must point out that the note sent by
+
+        the General Secretariat to the Steering Committee following the notification of the data leak by
+
+        the defendant, which served as the basis for the decision of the Management Committee to transmit
+        the file to the Inspection Service, clearly mentions that sufficient elements in
+
+        the note indicate a practice which results in a violation of the fundamental principles of the
+
+        protection of personal data (article 63.1° of the ACL). The note in question
+
+        explicitly highlights the large number of people affected by this leak
+
+        data, distributed across 27 EU Member States. Lanote also points out that ODA
+
+        has already received seven complaints from German citizens and that the state supervisory authority
+        German state of Hesse itself received around three hundred complaints regarding this leak
+
+        of data that could still be transferred to the ODA.
+
+    14. The Litigation Chamber notes that on the basis of the note, there were indeed
+        serious indicators that may indicate a practice leading to violations of the protection of
+
+        data. In this context, it was a question of taking into account not only the impact of
+
+        data leak on the large number of people concerned, but also the nature of the
+
+        data, which potentially consisted of financial data. According to the Chamber
+
+        Contentious, these indices constituted at least sufficient justification to examine
+        if the defendant's statement, as mentioned in the note, that the
+
+        payments network is separated from the platform where the data is collected
+
+        personal character of clients within the framework of the program (..) was accurate.
+
+    15. Obviously, it is only after an investigation by the Inspection Service that it can be established
+        that, where applicable, there is no practice within the meaning of article 63, 1° of the LCA. This
+
+        finding of the Inspection Service does not prejudice the lawfulness of the decision of the
+
+        Management Committee according to which, on the basis of the elements available at that time and
+
+        therefore before the investigation by the Inspection Service, there were serious indications requiring an
+
+        investigation by the Inspection Service. The Litigation Chamber therefore considers that the
+        Inspection Service has been in compliance with article 63.1° of the LCA and validly
+
+        carried out his investigation. Decision on merits 170/2023 — 5/9
+
+16. The defendant further argues that the APD makes no allegation of failure to
+
+    compliance. The defendant refers for this to the inspection report in which
+
+    no violation was noted, as well as to the letter of the Litigation Chamber in
+
+    which the defendant is invited to comment on the measures it has taken, in accordance
+    in articles 24 et seq. of the GDPR.
+
+17. The Contentious Chamber explains that it has been established that a data leak occurred in
+
+    2019, but that in its decision, it wishes to take into account the evolution that has occurred between
+
+    time to obtain an overall view of the current situation to arrive at an opinion
+    balance. It is only from this perspective that the Litigation Chamber has
+
+    proceeded to examine this case as to its merits and that, within the framework of this procedure,
+
+    she asked the defendant to provide explanations on the technical measures and
+
+    organizational measures taken.
+
+   B. Technical and organizational measures
+
+18. According to the information submitted by the latter, upon becoming aware of the leak of
+
+    data, the defendant immediately suspended the program website (..) and
+    removed all access to data stored on the platform. The defendant assessed
+
+    the impact of the incident and concluded that it did not pose a high risk to people.
+
+    The incident was limited to the program and in no way impacted the payment network of
+
+    the defendant.Nevertheless, out of an abundance of caution, the defendant also informed
+
+    the persons concerned on August 22, 2019 so that they can take possible
+
+    precautionary measures, if these prove necessary.
+
+19. With regard to the data leak which gave rise to the present decision, the Chamber
+
+    Litigation must therefore note that the defendant notified this leak of
+
+    data to the APD within the framework prescribed by article 33 of the GDPR, despite the leak of
+
+    data has been assessed by the defendant as presenting little risk to the
+    persons concerned. With regard specifically to the notification of the leak of
+
+    data to the DPA, the defendant acted in compliance with the GDPR.
+
+20. Furthermore, the factual elements of the file show that there were no data leaks
+
+    repeated indicating systematic failures on the part of the defendant following
+    which she would have failed to fulfill the obligations imposed by article 24 juncton article 32 of
+
+    GDPR. On the contrary, the data leak constitutes a completely isolated event.
+
+21. Furthermore, the documents placed in the file by the defendant allowed the Chamber
+    Glad to understand in depth the defendant's prospective approach
+
+    in order to avoid a repetition of the facts as they occurred. These measures were subject to
+
+    of an evaluation by the Litigation Chamber, which reached the following conclusions. Decision on merits 170/2023 — 6/9
+
+22. The defendant continues to successfully develop its processes with regard to
+
+    suppliers. These developments include a number of initiatives that will
+
+    beyond legal requirements. In the context of its commitment to ensuring security
+
+    continues, the defendant reviews and improves its data security measures in
+    taking into account the technological progress available on the market, and following "the state
+
+    of art" which is constantly evolving. In particular, the defendant:
+
+   - updated its due diligence questionnaires with regard to suppliers as well as its
+
+       supplier risk assessment policies and processes;
+
+   - carried out audits of suppliers active in Europe;
+
+   - carried out a verification of the certifications of suppliers active in Europe;
+
+   - provided training to employees from different departments on the roles and
+
+       responsibilities for managing supplier risks;
+
+   - immediately integrated the supplier management program into the other
+
+       company processes;
+
+   - added a new risk level to its risk assessment model;
+
+   - updated its monitoring tools to make this control and monitoring of suppliers more
+
+       efficient and more flexible tools to manage;
+
+   - expanded its supplier evaluation team;
+
+   - updated its reassessment questionnaire;
+
+   - friends is implementing a new standardized list of security measures to which all
+
+       suppliers must comply;
+
+   - refined its risk assessment process in order to distribute resources between
+
+       departments more efficiently; And
+
+   - ensures ongoing awareness of the program towards suppliers, including
+       understood through the training of executives and the involvement of the highest level of management; and
+
+       widely communicating the email address to Business Owners so that they can
+
+       easily contact the team for help or in case of problems with the
+
+       suppliers.
+
+23. It appears from all of these elements that (i) the defendant quickly made the
+
+    necessary as soon as the data leak occurs; (ii) the Inspection Service did not
+
+    finding indicating that a violation had been committed on the part of the
+
+    defendant; (iii) the defendant demonstrated in a detailed manner that measures
+
+    thorough investigations had been taken and that these measures are subject to an update Decision on the merits 170/2023 — 7/9
+
+permanent in order to prevent such events in the future. This leads the Litigation Chamber to
+
+conclude that no violation of the GDPR was committed by the defendant. Decision on merits 170/2023 — 8/9
+
+III. Publication of the decision
+
+    24. Given the importance of transparency regarding the decision-making process of the Chamber
+
+        Contentious, this decision is published on the website of the Authority of
+
+        Data protection. In accordance with its Policy regarding the publication of its
+
+        decisions, the Litigation Chamber publishes each of its decisions with the aim of
+
+        administrative transparency, which transparency is required for emissions
+
+        as a data protection supervisory authority (article 57.1. b) and d) read
+
+        jointly with Article 51 of the GDPR) as well as its capacity as an administrative authority
+
+        subject to the principles of good administration. It is for this reason that this decision is
+
+        published.
+
+    25. However, it is not necessary for this purpose that the identification data of the parties
+
+        are directly communicated
+
+    26. In addition, in reaching the decision regarding publication, account was also taken of
+
+        due to the fact that seven complaints had been lodged by German citizens wishing
+        know what security measures had been taken by the defendant in order to prevent
+
+        data leaks. These complaints are directly linked to the data leak being the subject
+
+        of this decision. These complainants are not only entitled to a decision from the
+
+        Litigation Chamber which must necessarily take up the same considerations as
+
+        in this decision but furthermore, one cannot ignore the fact that by the nature of the
+
+        facts on which their complaint is based and which target the defendant in this decision, the
+
+        plaintiff is aware of the identity of the defendant. The Litigation Chamber has not
+
+        however, not the power to prohibit these complainants from making known the decision taken by
+
+        the Litigation Chamber nor to prohibit its publication. This is why the Chamber
+
+        Litigation considers that it is not possible to accede to the request of the defendant of
+        not proceed with publication due to the fact that publication of this decision
+
+        could potentially affect the defendant in its daily functioning by
+
+        an influx of questions from customers would have been wrongly alarmed.
+
+    27. The Litigation Chamber considers, however, that this decision demonstrates on the other hand
+
+        that the defendant has made every effort to carry out the processing of the data
+
+        personal character of customers in compliance with the GDPR, in particular with regard to
+        concerns data security, and constitutes an example for its sector of activity for
+
+        regarding data protection as well as continued attention and actions
+
+        taken to constantly adapt to developments in this area.
+
+1Data Protection Authority, Litigation Chamber, Publication policy of Chamber decisions
+litigation of December 23, 2020: https://www.autoriteprotectiondonnees.be/publications/politique-de-publication-des-
+decisions-de-la-chambre-contentieuse.pdf Decision on the merits 170/2023 — 9/9
+
+     FOR THESE REASONS      ,
+
+     the Litigation Chamber of the Data Protection Authority decides, after
+
+     deliberation, to classify this complaint without further action under article 100, § 1, 1° of the st
+
+     LCA, since no violation of the GDPR can be found in this regard.
+
+In accordance with article 108, § 1 of the LCA, an appeal against this decision may be lodged,
+
+within thirty days from its notification, to the Court of Markets
+
+(Brussels Court of Appeal), with the Data Protection Authority as defendant.
+
+Such an appeal may be introduced by means of an interlocutory request which must contain the
+2 information listed in article 1034ter of the Judicial Code. The interlocutory request must be
+
+filed with the registry of the Court of Markets in accordance with article 1034quinquies of the C. jud. , or 3
+
+via the e-Deposit information system of the Ministry of Justice (article 32ter of the C. judic.).
+
+(sé). Hielke H IJMANS
+
+President of the Litigation Chamber
+
+2The request contains barely any nullity:
+  1° indication of the day, month and year;
+
+  2° the surname, first name, domicile of the applicant, as well as, where applicable, his qualifications and his national register number or
+     Business Number;
+  3° the surname, first name, address and, where applicable, the status of the person to be summoned;
+  4° the object and summary of the grounds of the request;
+  5° indication of the judge who is seized of the request;
+  6° the signature of the applicant or his lawyer.
+
+3 The request, accompanied by its annex, is sent, in as many copies as there are parties involved, by letter
+recommended to the court clerk or filed with the court registry.
+
+Retrieved from "[https://gdprhub.eu/index.php?title=APD/GBA\_(Belgium)\_-\_170/2023&oldid=39443](https://gdprhub.eu/index.php?title=APD/GBA_\(Belgium\)_-_170/2023&oldid=39443)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [APD/GBA (Belgium)](/index.php?title=Category:APD/GBA_\(Belgium\) "Category:APD/GBA (Belgium)")
+*   [Belgium](/index.php?title=Category:Belgium "Category:Belgium")
+*   [Article 24 GDPR](/index.php?title=Category:Article_24_GDPR "Category:Article 24 GDPR")
+*   [Article 32 GDPR](/index.php?title=Category:Article_32_GDPR "Category:Article 32 GDPR")
+*   [Article 33 GDPR](/index.php?title=Category:Article_33_GDPR "Category:Article 33 GDPR")
+*   [2023](/index.php?title=Category:2023 "Category:2023")
+*   [French](/index.php?title=Category:French "Category:French")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/APD/GBA_\(Belgium\)_-_170/2023 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/APD/GBA_\(Belgium\)_-_170/2023 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=APD/GBA_\(Belgium\)_-_170/2023&oldid=39443 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=APD/GBA_\(Belgium\)_-_170/2023&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=APD%2FGBA_%28Belgium%29_-_170%2F2023&id=39443&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 26 January 2024, at 15:29.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.029","walltime":"0.042","ppvisitednodes":{"value":419,"limit":1000000},"postexpandincludesize":{"value":1420,"limit":2097152},"templateargumentsize":{"value":514,"limit":2097152},"expansiondepth":{"value":4,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":20594,"limit":5000000},"timingprofile":\["100.00% 5.408 1 Template:DPAdecisionBOX","100.00% 5.408 1 -total"\]},"cachereport":{"timestamp":"20250830124926","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":569});});

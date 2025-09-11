@@ -1,0 +1,98 @@
+{
+  "identifiers": {
+    "ecli": "//ECLI/VALUE | //SAMEAS[URI/TYPE='ecli']/URI/IDENTIFIER",
+    "celex": "//ID_CELEX/VALUE | //RESOURCE_LEGAL_ID_CELEX/VALUE | //SAMEAS[URI/TYPE='celex']/URI/IDENTIFIER",
+    "case_number": "//EXPRESSION_CASE-LAW_IDENTIFIER_CASE/VALUE",
+    "cellar_uri": "//URI[TYPE='cellar']/IDENTIFIER",
+    "national_ecli": "//ECLI[contains(text(), 'DE:') or contains(text(), 'FR:') or contains(text(), 'IT:')]/VALUE",
+    "description": "Extract primary case identifiers (ECLI, CELEX, case numbers)"
+  },
+  "title_and_parties": {
+    "title": "//EXPRESSION_TITLE/VALUE",
+    "title_language": "//EXPRESSION_TITLE/LANG | //TITLE/LANG",
+    "short_title": "//TITLE[not(contains(VALUE, '#'))]/VALUE",
+    "parties": "//EXPRESSION_CASE-LAW_PARTIES/VALUE | //PARTIES/VALUE",
+    "party_roles": "//EXPRESSION_CASE-LAW_PARTIES_ROLE",
+    "case_title_multilingual": "//TITLE[@type='data']",
+    "description": "Extract case titles and party information in all languages"
+  },
+  "dates": {
+    "judgment_date": "//WORK_DATE_DOCUMENT/VALUE | //DATE_DOCUMENT/VALUE",
+    "judgment_date_components": "//WORK_DATE_DOCUMENT/*[self::YEAR or self::MONTH or self::DAY] | //DATE_DOCUMENT/*[self::YEAR or self::MONTH or self::DAY]",
+    "request_date": "//RESOURCE_LEGAL_DATE_REQUEST_OPINION/VALUE | //DATE/VALUE",
+    "creation_date": "//CREATIONDATE/VALUE",
+    "last_modified": "//LASTMODIFICATIONDATE/VALUE",
+    "publication_date": "//DATE_CREATION_LEGACY/VALUE",
+    "description": "Extract all relevant dates for the case"
+  },
+  "court_info": {
+    "court": "//WORK_CREATED_BY_AGENT/PREFLABEL | //CREATED_BY/PREFLABEL",
+    "court_code": "//WORK_CREATED_BY_AGENT/IDENTIFIER | //CREATED_BY/IDENTIFIER",
+    "procedure_type": "//CASE-LAW_HAS_TYPE_PROCEDURE_CONCEPT_TYPE_PROCEDURE/PREFLABEL",
+    "procedure_type_code": "//CASE-LAW_HAS_TYPE_PROCEDURE_CONCEPT_TYPE_PROCEDURE/IDENTIFIER",
+    "procedure_language": "//CASE-LAW_USES_PROCEDURE_LANGUAGE/PREFLABEL",
+    "procedure_language_code": "//CASE-LAW_USES_PROCEDURE_LANGUAGE/IDENTIFIER",
+    "originates_country": "//CASE-LAW_ORIGINATES_IN_COUNTRY/PREFLABEL",
+    "originates_country_code": "//CASE-LAW_ORIGINATES_IN_COUNTRY/IDENTIFIER",
+    "resource_type": "//WORK_HAS_RESOURCE-TYPE/PREFLABEL",
+    "document_type": "//RESOURCE_LEGAL_TYPE/VALUE",
+    "description": "Extract court and procedure information"
+  },
+  "judges_and_ag": {
+    "delivered_by_judge": "//CASE-LAW_DELIVERED_BY_JUDGE",
+    "delivered_by_ag": "//CASE-LAW_DELIVERED_BY_ADVOCATE-GENERAL",
+    "judge_names": "//CASE-LAW_DELIVERED_BY_JUDGE/EMBEDDED_NOTICE/AGENT",
+    "ag_names": "//CASE-LAW_DELIVERED_BY_ADVOCATE-GENERAL/EMBEDDED_NOTICE/AGENT",
+    "created_by_agent": "//WORK_CREATED_BY_AGENT | //CREATED_BY",
+    "description": "Extract judge and Advocate General information"
+  },
+  "interpreted_legislation": {
+    "interpreted_acts": "//CASE-LAW_INTERPRETES_RESOURCE_LEGAL",
+    "interpreted_celex": "//CASE-LAW_INTERPRETES_RESOURCE_LEGAL/SAMEAS[URI/TYPE='celex']/URI/IDENTIFIER",
+    "interpreted_articles": "//CASE-LAW_INTERPRETES_RESOURCE_LEGAL/ANNOTATION/REFERENCE_TO_MODIFIED_LOCATION",
+    "legal_basis": "//BASED_ON/SAMEAS/URI/IDENTIFIER",
+    "description": "Extract interpreted legislation and article references"
+  },
+  "citations_and_sources": {
+    "cites_work": "//WORK_CITES_WORK/SAMEAS/URI/IDENTIFIER",
+    "cited_celex": "//WORK_CITES_WORK/SAMEAS[URI/TYPE='celex']/URI/IDENTIFIER",
+    "cited_ecli": "//WORK_CITES_WORK/SAMEAS[URI/TYPE='ecli']/URI/IDENTIFIER",
+    "citation_fragments": "//WORK_CITES_WORK/ANNOTATION/FRAGMENT_CITING_SOURCE",
+    "cited_fragments": "//WORK_CITES_WORK/ANNOTATION/FRAGMENT_CITED_TARGET",
+    "national_judgment": "//CASE-LAW_NATIONAL-JUDGEMENT/VALUE",
+    "description": "Extract citations to other cases and legal sources"
+  },
+  "subject_matter": {
+    "subject_matter_primary": "//RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1/PREFLABEL",
+    "subject_matter_code": "//RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1/IDENTIFIER",
+    "eurovoc_concepts": "//IS_ABOUT/PREFLABEL",
+    "eurovoc_codes": "//IS_ABOUT/IDENTIFIER",
+    "keywords": "//WORK_IS_ABOUT_CONCEPT_EUROVOC",
+    "description": "Extract subject matter and keyword classifications"
+  },
+  "academic_sources": {
+    "journal_articles": "//CASE-LAW_ARTICLE_JOURNAL_RELATED/VALUE",
+    "related_communications": "//CASE-LAW_COMMUNICATED_ON_BY_COMMUNICATION_CJEU",
+    "comments_by_agents": "//CASE-LAW_COMMENTED_BY_AGENT/PREFLABEL",
+    "summary_link": "//WORK_SUMMARIZED_BY_SUMMARY",
+    "description": "Extract academic articles and related commentary"
+  },
+  "procedural_info": {
+    "dossier_reference": "//WORK_PART_OF_DOSSIER/SAMEAS/URI/IDENTIFIER",
+    "part_of_collection": "//PART_OF/SAMEAS/URI/IDENTIFIER",
+    "complex_work_member": "//COMPLEX_WORK_HAS_MEMBER_WORK",
+    "published_in_erecueil": "//CASE-LAW_PUBLISHED_IN_ERECUEIL/VALUE",
+    "version": "//VERSION/VALUE",
+    "language_used": "//RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE/PREFLABEL",
+    "description": "Extract procedural and publication information"
+  },
+  "additional_metadata": {
+    "sector": "//ID_SECTOR/VALUE",
+    "year": "//YEAR/VALUE | //RESOURCE_LEGAL_YEAR/VALUE",
+    "natural_celex_number": "//RESOURCE_LEGAL_NUMBER_NATURAL_CELEX/VALUE",
+    "container_info": "//CONTAINER_CASE-LAW_COURT/VALUE | //CONTAINER_CASE-LAW_FASCICULE/VALUE",
+    "build_info": "//ANNOTATION/BUILD_INFO",
+    "document_languages": "//EXPRESSION_USES_LANGUAGE/PREFLABEL | //LANG/VALUE",
+    "description": "Extract additional technical and administrative metadata"
+  }
+}

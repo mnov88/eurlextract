@@ -1,0 +1,262 @@
+ Persónuvernd- nr. 2018/1779 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"4f6f1fac4dc6dd4945d5ab11","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Persónuvernd-\_nr.\_2018/1779","wgTitle":"Persónuvernd- nr. 2018/1779","wgCurRevisionId":24519,"wgRevisionId":24519,"wgArticleId":1575,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["Persónuvernd (Iceland)","Iceland","Article 5(1)(a) GDPR","Article 5(1)(b) GDPR","Article 5(1)(f) GDPR","Article 6(1)(a) GDPR","2019","Icelandic"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Persónuvernd-\_nr.\_2018/1779","wgRelevantArticleId":1575,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:Pers%C3%B3nuvernd-_nr._2018/1779&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=Pers%C3%B3nuvernd-_nr._2018/1779&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=Pers%C3%B3nuvernd-_nr._2018/1779&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=Pers%C3%B3nuvernd-+nr.+2018%2F1779&returntoquery=oldid%3D24519 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# Persónuvernd- nr. 2018/1779
+
+From GDPRhub
+
+Revision as of 16:06, 10 March 2022 by [Kc](/index.php?title=User:Kc&action=edit&redlink=1 "User:Kc (page does not exist)") ([talk](/index.php?title=User_talk:Kc&action=edit&redlink=1 "User talk:Kc (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Kc "Special:Contributions/Kc"))
+
+([diff](/index.php?title=Pers%C3%B3nuvernd-_nr._2018/1779&diff=prev&oldid=24519 "Persónuvernd- nr. 2018/1779")) [← Older revision](/index.php?title=Pers%C3%B3nuvernd-_nr._2018/1779&direction=prev&oldid=24519 "Persónuvernd- nr. 2018/1779") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+Persónuvernd (Iceland) - nr. 2018/1779
+
+[![LogoIS.png](/images/thumb/7/7d/LogoIS.png/250px-LogoIS.png)](/index.php?title=File:LogoIS.png)
+
+Authority:
+
+[Persónuvernd (Iceland)](/index.php?title=Pers%C3%B3nuvernd_\(Iceland\) "Persónuvernd (Iceland)")
+
+Jurisdiction:
+
+[Iceland](/index.php?title=Category:Iceland "Category:Iceland")
+
+Relevant Law:
+
+[Article 5(1)(a) GDPR](/index.php?title=Article_5_GDPR#1a "Article 5 GDPR")  
+[Article 5(1)(b) GDPR](/index.php?title=Article_5_GDPR#1b "Article 5 GDPR")  
+[Article 5(1)(f) GDPR](/index.php?title=Article_5_GDPR#1f "Article 5 GDPR")  
+[Article 6(1)(a) GDPR](/index.php?title=Article_6_GDPR#1a "Article 6 GDPR")  
+[Act no. 90/2018](https://www.althingi.is/lagas/nuna/2018090.html)
+
+Type:
+
+Complaint
+
+Outcome:
+
+Upheld
+
+Started:
+
+Decided:
+
+20.11.2019 Published:
+
+03.12.0209 Fine:
+
+None
+
+Parties:
+
+Anonymous
+
+National Case Number/Name:
+
+nr. 2018/1779
+
+European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+n/a
+
+Original Language(s):
+
+[Icelandic](/index.php?title=Category:Icelandic "Category:Icelandic")
+
+Original Source:
+
+[Persónuvernd (in IS)](https://www.personuvernd.is/urlausnir/midlun-simtalaskrar-og-medferd-tolvupostholfs-eftir-starfslok)
+
+Initial Contributor:
+
+n/a
+
+The Persónuvernd decided that the transmission of employee’s call record to his ex-wife violates the national act on electronic monitoring and processing of personal information generated by electronic monitoring.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Dispute](#Dispute)
+    *   [1.3 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+A citizen complained that his ex-wife received work call records containing personal data about him.
+
+### Dispute
+
+Is the dissemination of personal data to the data subject's ex-wife, without having obtained the data subject's consent, lawful?
+
+### Holding
+
+The Persónuvernd considered that the dissemination of personal data to a third party without having the data subject's consent unlawful. Especially, it found that the processing was contrary to several principles including the fairness and transparency principle, the purpose limitation principle and the integrety and confidentailty principles pursuant to the GDPR and its national act on electronic monitoring and processing of personal information generated by electronic monitoring.
+
+## Comment
+
+_Add your comments here!_
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the original. Please refer to the Icelandic original for more details.
+
+Disclosure of call records and e-mail handling after retirement
+Case no. 2018/1779
+3.12.2019 Privacy has ruled that the employer's communication of a call register from a complainant's work telephone to his ex-wife did not comply with Act no. 90/2018. The purpose of the disclosure was considered unclear and it was not considered capable of relying on any of the authorizations provided for in the first paragraph. Article 9 Act no. 90/2018 contains. Furthermore, the Company's Privacy Policy did not consider a complainant's e-mail in accordance with Rules no. 837/2006, on electronic monitoring and processing of personal information created by electronic monitoring or the provisions of Act no. 90/2018. Complainant education was considered incomplete and the complainant had neither been offered the option of deleting or copying personal e-mail, nor being present at the e-mail account. Finally, the complainant's email account was not closed within the required time.
+Ruling
+
+On November 20, 2019, the Data Protection Authority issued a clear ruling in case no. 2018/1779:
+I. Procedure
+
+1. Case recommendations
+On December 17, 2018, the Privacy Complaint received from \[A\] (hereinafter referred to as "the complainant") the submission of a call record from a complainant's work telephone during a specified period to his ex-wife, on the one hand, and the other. However, the
+complaint states that a former complainant's wife received a warrant dated November 9, 2018 from \[X\], which was opened at a lawyer's office on 14 November. December so The letter was found to contain 73 pages of telephone directory calls for a telephone number, which was the complainant's working telephone during his time at \[X\]. In the complainant's opinion, this activity included the processing of personal information that violates the provisions of Act no. 90/2018 on privacy and processing of personal information in a variety of ways. Furthermore, the \[X\] representative presented the complainant with a large number of emails from his work email on December 13 and 14, 2018. The complainant did not disclose that the \[X\] representative intended to view his email or was offered the opportunity to be present. The complainant was also not given the option of deleting or copying emails that were not related to activity \[X\]. Finally, the complainant's mailbox has not been closed in accordance with the rules thereon. Accordingly, \[X\] is of the opinion that the principles of Act no. 90/2018 on the processing of personal data and rules no. 837/2006 on electronic monitoring and processing of personal information generated by electronic monitoring.
+2. Correspondence
+By letter, date. On February 13, 2019, \[X\] was invited to provide explanations for the complaint. Answered by letter, dated. February 19 It states that the complainant was notified that data would be sent to his home, but since the complainant was not registered there according to Já.is, the letter in question was addressed "to his wife but because of \[A\] to ensure that the letter is carried \[A \] \[...\] “. Says that it was difficult for the \[X\] representative to realize that the complainant was not based on the \[address\] as the complainant had an independent obligation to notify the company of changes in household finances while he was working there. Then it says that the complainant has quit his job without notice and did not let up. In the day-to-day operations of the company, you have to respond to inquiries received every day as well as orders for products. Mail that was received on the complainant's work address was therefore forwarded to the company's general e-mail address. The complainant abused his work address by listing it in various places that had no business address. Such mails have been forwarded to the complainant for convenience. Finally, the sender of such an e-mail was responded to by requesting that the complainant's work address be removed from the mailing list of the person in question.
+By letter, date. On March 25, 2019, the complainant was given the opportunity to comment on the above explanations \[X\]. Answered by letter, dated. April 3, 2019. It states that the letter containing the call records in question was addressed to the ex-wife of the complainant and was traceable. Thus, it should only have been delivered to the registered recipient. Then \[X\] did not show that the call log communication was necessary. Reiterates the complainant's complaint regarding his e-mail handling at his retirement at \[X\] and also notes that the company's representative had been in the palm of his hand to activate an automated response that the complainant had resigned and should send a complaint to another email address instead. Finally, the \[X\] representative has continued to forward personal emails from a complainant's mailbox to the company, both to the complainant himself and to a third party. This way the mailbox is still open.
+Further information was received from \[X\] by email on May 28. It states that \[X\] uses centralized software that makes all customer emails go to a shared directory and accessible to all employees. Thus, five of the company's employees at the time in question were able to view each other's emails. All employees have been aware of this arrangement. Employees have also been encouraged to use personal email addresses for private affairs.
+Finally, the Data Protection Authority received an email from the representative \[X\] on June 13, 2019 reporting that a complaint had been filed against the complainant with the police in the metropolitan area, as the complainant had taken a wrong case in the privacy complaint. Furthermore, Privacy Complaint received an email from the complainant on August 28, 2019 stating that the company \[X\] had been bankrupted.
+II. Assumptions and conclusions
+
+1. Scope - Responsible
+Scope of Act no. 90/2018, on privacy and processing of personal information, and Regulation (EU) 2016/679, cf. Paragraph 1 Article 4 of the Act, and thus the powers of the Data Protection Authority, cf. Paragraph 1 Article 39 of the Act, covers the processing of personal data that is partially or fully automated and the processing of methods other than automatic processing of personal data that is or should be part of a file.
+Personal information includes information about a person or person who is personally identifiable and can be considered as personally identifiable if he or she can be directly or indirectly identified by reference to his or her identity or one or more of the characteristics characteristic of him, cf. Item 2 Article 3 of the Act and Paragraph 1. Article 4 Regulation. Processing means an action or series of actions in which personal information is processed, whether the processing is automatic or not, cf. Item 4 Article 3 of the Act and Paragraph 2. Article 4 Regulation.
+This case relates, on the one hand, to the transmission of call records from a complainant's work telephone to the former complainant's wife and, on the other hand, to the forwarding of emails from the complainant's working mailbox and the mailbox treatment in other respects after his retirement at \[X\]. With the complaint, the complainant submitted a copy of the aforementioned call records, ie. a detailed phone bill for a particular phone number, but the name of the phone number holder does not appear anywhere in the document. However, it is clear from the correspondence that the complainant had the telephone number in question for use as an employee \[X\]. It is therefore clear that \[X\] is or has been the holder of the said telephone number. It has also been stated that the company's employees were five at the time in question. It will therefore be considered possible to trace data on the use of the telephone number to the complainant, as is the case here. It is therefore personal information within the meaning of the above legal provisions.
+In this respect, and in light of the above provisions, this matter concerns the processing of personal information that falls under the sphere of privacy.
+The person responsible for processing personal data complies with Act no. 90/2018 is named as the guarantor. According to paragraph 6. Article 3 the Act refers to an individual, legal entity, governmental authority or other party who decides alone or in collaboration with other purposes and methods for the processing of personal information, cf. Item 7 Article 4 Regulation.
+As herein, \[X\] is considered to be the guarantor of the said work. The company \[X\] was declared bankrupt on \[date\], after the occurrence of this case. According to the third paragraph. Article 72 Act no. 21/1991 on bankruptcy proceedings etc. enjoys bankruptcy jurisdiction to own and acquire the rights and qualifications to carry and repay duties, preferably until its termination finally complies with the provisions of the Act. Bankruptcy proceedings in a bankruptcy estate \[X\] have not been completed at the time of this ruling. Therefore, the estate becomes insolvent upon membership of the company in the case for the Protection of Privacy, as it will not be seen that other legal provisions prevent such membership.
+2. Legality of processing
+All processing of personal data must be subject to any of the provisions of Article 9. Act no. 90/2018. It may be mentioned that personal information may be processed if consent has been obtained, cf. Item 1 Paragraph 1 that article, or if processing is necessary to protect legitimate interests, provided that the fundamental rights and freedoms of the data subject do not outweigh, cf. Item 6 same articles.
+In addition to the authorization according to the above, the processing of personal data must satisfy all the basic requirements of the first paragraph. Article 8 Act no. 90/2018, cf. Article 5 Regulation (EU) 2016/679. Provisions include, inter alia, that personal data should be processed in a legitimate, fair and transparent manner towards the data subject (point 1); that they are derived for clearly stated, legitimate and objective purposes and not further processed for other and incompatible purposes (point 2); and that they should be processed in such a way as to ensure the proper security of personal data (point 6).
+In addition to the above legal provisions, the provisions of Rules no. 837/2006, on electronic monitoring and processing of personal information generated by electronic monitoring, e-mail and internet use.
+2.1. Dissemination of call records
+It is undisputed that the guarantor sent a call register from a complainant's work telephone with a guarantee mail which had the following mailing address: "\[B\], bt \[A\], \[address\]". A photocopy of the envelope in question was accompanied by a complaint to the Data Protection Authority, which included the number of the consignment. If the number is entered into a field on the Iceland Post website, you can see the status of the shipment and its type. The above transmission is classified as "traceable letter delivered to registered recipient".
+In the fourth paragraph. Article 31 Act no. 19/2002 on postal services provides that a postal mail shall be distributed to or delivered to the party to whom it is addressed or authorized to receive it. From the evidence of the case it is clear that \[B\] was registered the recipient of the guarantee letter which contained the aforementioned call register. It was therefore a matter of dissemination of personal data within the meaning of Act no. 90/2018. It will not be seen that the disclosure can rely on any of the authorizations referred to in the first paragraph. Article 9 the law contains, but the explanatory notes do not determine why the call register was sent out. In view of the manner in which the mailing was done and the aforementioned provisions of the Postal Service Act, it is also the opinion of the Data Protection Authority that a signature on the letter that it should be received by the complainant is not sufficient to ensure that it is satisfactorily carried on by the complainant himself.
+With reference to the foregoing, it is the opinion of the Data Protection Authority that the communication of the call register to the ex-wife of the complainant did not comply with the provisions of Act no. 90/2018, on privacy and processing of personal information.
+2.2. Handling of e-mail accounts
+It is clear from the documentation of the case and correspondence that the representative of the guarantor forwarded e-mails from the complainant's e-mail account after the latter quit the job of the guarantor. There is no dispute that the emails in question were considered to be a complainant's personal email. The mail in question took place on December 13 and 14, 2018, or just over three months after the complainant left his post with the guarantor. Responsible respondents state that employees have been encouraged to use personal e-mail addresses for private affairs and that everyone has been aware that their e-mails were stored in a centralized system. The guarantor has not rejected the complainant's claims that he was not given the opportunity to be present at the e-mail inspection.
+In Article 9 rule no. 837/2006 provides, inter alia, that personal e-mails may not be examined unless clearly necessary, such as due to a computer virus or similar technical incident. Care must also be taken to inform the employee that it is necessary to check e-mail or internet use prior to the inspection, in addition to giving the employee the opportunity to attend such an inspection. Upon termination, the employee shall also be given the opportunity to delete or copy any e-mail that is not related to the employer's activities, but the mailbox shall be closed no later than two weeks after the termination of employment. Finally, the guarantor of electronic monitoring shall provide information to those undergoing electronic monitoring in accordance with Article 10. rule no. 837/2006. Amongst the information to be disclosed is how private and other e-mails are handled, but before applying such rules, they must be presented in a verifiable manner, such as when drawing up a contract of employment.
+From correspondence and documents of the case, it cannot be assumed that the guarantor has complied with the above provisions of Rules no. 837/2006, neither as regards the examination of the complainant's e-mail and the handling of the mailbox at retirement or the provisions of the rules on educational and disclosure requirements. Furthermore, the guarantor has not shown that there was a suspicion of a complainant's breach of confidentiality or work obligations or that the complainant could not have been present at the e-mail inspection, for example due to illness or other similar incidents.
+With reference to the above, it is the Privacy Policy's assessment that the treatment of a complainant's e-mail after his retirement at \[X\] did not comply with the provisions of Regulation no. 837/2006 on electronic monitoring and processing of personal information generated by electronic monitoring.
+In accordance with this conclusion, and with reference to points 6 and 7. Article 42 Act no. 90/2018, it is hereby submitted to the Estate \[X\] to close the complainant's mailbox. Confirmation of compliance with these instructions shall be received no later than December 14, 2019.
+
+Findings:
+Processing \[X\] of personal information about \[A\] when communicating call records on the one hand and processing of his e-mail after retirement, on the other. was not compliant with Act no. 90/2018, on privacy and processing of personal information, and rules no. 897/2006 on electronic monitoring and processing of personal information generated by electronic monitoring.
+The insolvency estate \[X\] shall close the complainant's mailbox and confirmation thereof shall be received no later than December 14, 2019.
+In Privacy, November 20, 2019
+
+Helga Þórisdóttir Helga Sigríður Þórhallsdóttir
+
+Retrieved from "[https://gdprhub.eu/index.php?title=Persónuvernd-\_nr.\_2018/1779&oldid=24519](https://gdprhub.eu/index.php?title=Persónuvernd-_nr._2018/1779&oldid=24519)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [Persónuvernd (Iceland)](/index.php?title=Category:Pers%C3%B3nuvernd_\(Iceland\) "Category:Persónuvernd (Iceland)")
+*   [Iceland](/index.php?title=Category:Iceland "Category:Iceland")
+*   [Article 5(1)(a) GDPR](/index.php?title=Category:Article_5\(1\)\(a\)_GDPR "Category:Article 5(1)(a) GDPR")
+*   [Article 5(1)(b) GDPR](/index.php?title=Category:Article_5\(1\)\(b\)_GDPR "Category:Article 5(1)(b) GDPR")
+*   [Article 5(1)(f) GDPR](/index.php?title=Category:Article_5\(1\)\(f\)_GDPR "Category:Article 5(1)(f) GDPR")
+*   [Article 6(1)(a) GDPR](/index.php?title=Category:Article_6\(1\)\(a\)_GDPR "Category:Article 6(1)(a) GDPR")
+*   [2019](/index.php?title=Category:2019 "Category:2019")
+*   [Icelandic](/index.php?title=Category:Icelandic "Category:Icelandic")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/Pers%C3%B3nuvernd-_nr._2018/1779 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/Pers%C3%B3nuvernd-_nr._2018/1779 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=Pers%C3%B3nuvernd-_nr._2018/1779&oldid=24519 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=Pers%C3%B3nuvernd-_nr._2018/1779&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=Pers%C3%B3nuvernd-_nr._2018%2F1779&id=24519&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 10 March 2022, at 16:06.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.047","walltime":"0.060","ppvisitednodes":{"value":442,"limit":1000000},"postexpandincludesize":{"value":1890,"limit":2097152},"templateargumentsize":{"value":782,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":15953,"limit":5000000},"timingprofile":\["100.00% 8.025 1 Template:DPAdecisionBOX","100.00% 8.025 1 -total"\]},"cachereport":{"timestamp":"20250830130615","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":571});});

@@ -1,0 +1,260 @@
+ ArbG Köln - 18 Ca 6830/21 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"671c004f798dc4d60469fd7a","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ArbG\_Köln\_-\_18\_Ca\_6830/21","wgTitle":"ArbG Köln - 18 Ca 6830/21","wgCurRevisionId":25995,"wgRevisionId":25995,"wgArticleId":4929,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["ArbG Köln (Germany)","Germany","Article 6(1)(c) GDPR","Article 6(1)(e) GDPR","2022","German"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"ArbG\_Köln\_-\_18\_Ca\_6830/21","wgRelevantArticleId":4929,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:ArbG_K%C3%B6ln_-_18_Ca_6830/21&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=ArbG_K%C3%B6ln_-_18_Ca_6830/21&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=ArbG_K%C3%B6ln_-_18_Ca_6830/21&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=ArbG+K%C3%B6ln+-+18+Ca+6830%2F21&returntoquery=oldid%3D25995 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# ArbG Köln - 18 Ca 6830/21
+
+From GDPRhub
+
+Revision as of 16:53, 18 May 2022 by [Hha](/index.php?title=User:Hha "User:Hha") ([talk](/index.php?title=User_talk:Hha&action=edit&redlink=1 "User talk:Hha (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Hha "Special:Contributions/Hha"))
+
+([diff](/index.php?title=ArbG_K%C3%B6ln_-_18_Ca_6830/21&diff=prev&oldid=25995 "ArbG Köln - 18 Ca 6830/21")) [← Older revision](/index.php?title=ArbG_K%C3%B6ln_-_18_Ca_6830/21&direction=prev&oldid=25995 "ArbG Köln - 18 Ca 6830/21") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+ArbG Köln - 18 Ca 6830/21
+
+[![Courts logo1.png](/images/thumb/4/4c/Courts_logo1.png/250px-Courts_logo1.png)](/index.php?title=File:Courts_logo1.png)
+
+Court:
+
+[ArbG Köln (Germany)](/index.php?title=Category:ArbG_K%C3%B6ln_\(Germany\) "Category:ArbG Köln (Germany)")
+
+Jurisdiction:
+
+[Germany](/index.php?title=Category:Germany "Category:Germany")
+
+Relevant Law:
+
+[Article 6(1)(c) GDPR](/index.php?title=Article_6_GDPR#1c "Article 6 GDPR")  
+[Article 6(1)(e) GDPR](/index.php?title=Article_6_GDPR#1e "Article 6 GDPR")  
+[§ 28b IfSG (German Infection Protection Act) old version](https://www.buzer.de/gesetz/2148/al162450-0.htm)
+
+Decided:
+
+23.03.2022 Published:
+
+Parties:
+
+National Case Number/Name:
+
+18 Ca 6830/21
+
+European Case Law Identifier:
+
+ECLI:DE:ARBGK:2022:0323.18CA6830.21.00
+
+Appeal from:
+
+Appeal to:
+
+Unknown
+
+Original Language(s):
+
+[German](/index.php?title=Category:German "Category:German")
+
+Original Source:
+
+[Rechtsprechungsdatenbank der Gerichte in Nordrhein-Westfalen (in German)](https://www.justiz.nrw.de/nrwe/arbgs/koeln/arbg_koeln/j2022/18_Ca_6830_21_Urteil_20220323.html)
+
+Initial Contributor:
+
+Fabian Dechent
+
+The Labour Court of Cologne held that a controller whose employees work in care facilities was allowed to make copies of its employees' vaccination cards and compare them with publicly available resources in order to validate their authenticity.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+The controller is a company providing workplace health promotion services by consulting other companies on this topic and developing tailored measures for them. Its main customer base are care facilities.
+
+The controller informed its employees that due to an amendment of the German Infection Protection Act, access to care facilities was only permitted to persons that are either vaccinated, recovered or tested negative against Covid-19. The controller asked their employees to prove their vaccination status by either handing over a screenshot of the digital vaccination certificate or by presenting the vaccination card. It also informed them that a copy will be made for documentation purposes.
+
+On 03 December 2021, the data subject, who was employed as a counselor, presented her vaccination card to the controller. When asked by the HR officer whether she also has a QR vaccination code, she explained that she only has a digital vaccination certificate stored on her private mobile phone, which she did not have with her at the moment. As it was not possible for the controller to check the validity of the vaccination certificate without the QR code, the controller carried out a batch query, which means that it compared the provided vaccination data with publicly available information on the availability of vaccination batches in order to determine irregularities. It found that the vaccination data provided by the data subject was inconclusive as the first vaccination allegedly took place at a time when only elderly people were vaccinated. During a conversation with the data subject, the suspicion of forgery could not be dispelled, as she then asserted to never have stored the QR code on her phone because of data protection reasons and that she did not know whether she still had the QR code in paper form. As the data subject was unable to provide proof that the vaccination had actually been carried out, the controller terminated the employment relationship.
+
+The data subject took legal action against the termination. During the court proceedings the data subject did not contest that it was not vaccinated but argued that the request to present the vaccination card as well as the subsequent processing of personal data had been unlawful and, therefore, the court was prohibited from considering the the fact that she was not vaccinated.
+
+### Holding
+
+The court held that the controller was entitled to terminate the employment relationship after the data subject had presented a forged vaccination card. It rejected the data subject's argument and found that it was procedurally allowed to consider the missing vaccination of the data subject. The court reasoned that a procedural prohibition to consider evidence or submissions of a party only exists if two requirements are met, which it found not to be met in the present case. The first requirement is that the controller must have obtained the information in violation of the GDPR. The second requirement is that the violation of the data subject's right to informational self-determination must outweigh the interest of the controller in using the information and its right to be heard as well as the public interest in a functioning administration of justice and any other interests at stake.
+
+The court held that already the first requirement was missing since the processing of the data was lawful under [Article 6(1)(c) GDPR](/index.php?title=Article_6_GDPR#1c "Article 6 GDPR") in conjunction with the [third and first sentence of § 28b(3) IfSG](https://www.buzer.de/gesetz/2148/al162450-0.htm) (German Infection Protection Act). According to the [first sentence of § 28b(3) IfSG](https://www.buzer.de/gesetz/2148/al162450-0.htm) the controller was legally obliged to check whether its employees were vaccinated, recovered or tested negative. According the [third sentence of § 28b(3) IfSG](https://www.buzer.de/gesetz/2148/al162450-0.htm) the controller was allowed to process personal data and data relating to the vaccination, recovery or test status insofar as it was necessary for the fulfillment of its obligations. The court concluded that - in the absence of a QR code - making a copy of the vaccination card and performing a batch query was the only way for the controller to ensure that the data subject was truly vaccinated.
+
+The court further assessed that, even if performing the batch query was not covered by the GDPR and consequently unlawful, it would still not lead to a procedural prohibition because the public's interest in accurate vaccination certificates overrides the data subject’s right to informational self-determination.
+
+## Comment
+
+§ 28b of the German Infection Protection Act has been amended in the meantime. The version relevant to the case at hand was the version which was valid from 24 November 2021 to 11 December 2021. Even though the court referred to the vaccination status as "health data", it did not assess the case under [Article 9 GDPR](/index.php?title=Article_9_GDPR "Article 9 GDPR") but only under Article 6(1)(c) GDPR. In particular, [Article 9(2)(g)](/index.php?title=Article_9_GDPR#2g "Article 9 GDPR") and [Article 9(2)(i)](/index.php?title=Article_9_GDPR#2i "Article 9 GDPR") in conjunction with § 28b(3) IfSG could have served as a possible legal basis for the processing.
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the German original. Please refer to the German original for more details.
+
+1fact:
+The parties dispute the effectiveness of a termination of their employment by the defendant without notice and the continued employment of the plaintiff.
+3The ….-year-old plaintiff had been employed as a specialist by the defendant since October 1st, 2016 for a gross monthly salary of EUR 5,074.86. The contractual notice period was six weeks to the end of the quarter. More than ten full-time employees were employed in the employment company. The defendant employer provides company health promotion services in the form of individual advice for companies and measures tailored to their needs. The plaintiff supervised such measures of workplace health promotion at customer companies, especially in nursing homes. To do this, she visited the companies and was in direct contact with their employees. She was assigned to a team of eight led by the team leader ……. As early as February 2020, the defendant was massively affected by the corona pandemic due to the infection of an employee and had to react with home office for the employees. Digital formats were developed with customers. Since mid-2021, their employees have been allowed to visit the facilities of the care sector again. The defendant made vaccination offers available to all employees and their family members at an early stage.
+4On October 4th, 2021, all employees - including the plaintiff - were informed at an institute conference that from November 1st, 2021 only fully vaccinated employees would be allowed to attend customer appointments on site. The defendant asked that the team leaders explore in a trusting exchange with their team members which employees meet the requirements. On October 4th or 5th, 2021, the plaintiff explained to her team leader, ,,,,,,, she was "meanwhile vaccinated" and on the subject of being present at the customer's premises literally: "Everything safe". The plaintiff then continued to visit the customer companies, including nursing homes for the elderly. After November 1, 2021, the plaintiff completed nine external appointments, four of them in retirement homes. After the publication of an amendment to the Infection Protection Act, according to which from November 24th, 2021 access to the company was only permitted with a valid 3-G certificate, the defendant informed the workforce by email dated November 22nd, 2021 (attachment …...). handle in operation. Any proof of vaccination can be provided by screenshot of the digital proof or by presenting the vaccination card. It was indicated that a copy would be made for documentation.
+5On December 3, 2021, the plaintiff submitted her vaccination card to the defendant's human resources department for a copy to be made. When asked by the personnel officer whether she also had a QR vaccination code, she explained that she had only saved a digital vaccination certificate on her private mobile phone, which she currently did not have with her. Since the defendant was unable to check the validity of the vaccination certificate using the CovPassCheck app due to the lack of a QR code, the personnel officer subjected the vaccination certificates of eight employees who (only) had presented their vaccination certificates to a batch query.
+6On December 9th, 2021, the defendant invited the plaintiff to a staff interview on December 10th, 2021 on the subject of "clarification of questions/inconsistencies regarding the vaccination entries of the Covid-19 vaccination in the vaccination certificate you \[...\] presented" (cf. Annex .... ..). In a conversation on December 10, 2021, which took place in the presence of the chairman of the works council, the plaintiff initially refused to comment in general on the subject of inconclusive vaccination entries. When asked how the first vaccination came about on March 5, 2021, when older people were still prioritized, the plaintiff replied that it was not difficult to book the two appointments online at the vaccination center in Cologne Messe. After further inquiries, the plaintiff was suspected, with reference to the batch numbers, that both vaccination entries were falsified. The plaintiff replied that she could not explain that. You have to rely on the entries of the vaccination center. With regard to the QR code on her mobile phone, the plaintiff now explained that she had received it from the vaccination center on A4 sheets of paper, but had not uploaded them for data protection reasons. She doesn't know if she still has the QR codes. When she was accused of repeatedly violating the instruction that from November 1st, 2021, on-site customer appointments should only be made in compliance with the 2G requirement, the plaintiff asserted that she was vaccinated. The conversation was then interrupted. The managing directors asked the chairman of the works council to seek talks with the plaintiff. The suspicion against the plaintiff has not been dispelled. If she admits her misconduct, they want to offer her a termination agreement and a good reference. After a conversation between the plaintiff and the chairman of the works council, the plaintiff stuck to her statements and did not want to comment further. She was then released by the defendant. The personnel officer informed the plaintiff that the works council would be consulted on the suspected termination without notice or, alternatively, on time, and that criminal charges would be filed. The defendant then informed the chairman of the works council that she would hear the works council on the termination on the same day. In the early evening she informed the works council by telephone and presented her findings and considerations, including the balancing of interests. Access to a written hearing is disputed. On December 13, 2021, the works council issued a statement to the defendant on the intended termination. In a letter dated December 13, 2021, which the plaintiff received on December 15, 2021, the defendant terminated the employment relationship with the plaintiff without notice, alternatively with due notice.
+7With her lawsuit filed with the court on December 17, 2021, the plaintiff is defending herself against the dismissal.
+8She claims that she had herself tested by the defendant's trained staff before each visit to the company and that she also tested herself for a COVID-19 infection before each external appointment - each time with a negative result.
+9She is of the opinion that there is no reason for the termination. From a proportionality point of view - also in view of the previously trouble-free and warning-free cooperation - a warning should be issued before a termination. The defendant issued unclear and vague instructions because, for example, in the email of November 22, 2021, she only spoke about the workplace and left open whether these were only jobs in the office or also in the field. It can be assumed in her favor that she was not aware of the criminal liability of presenting a health certificate with forged entries when she presented her vaccination certificate on December 3, 2021. Then there is also a lack of any intent with regard to a criminal act. Since the defendant offered her a good testimonial at the hearing in the event of a confession, it violates the prohibition on discipline to not even observe the notice period instead. Both the defendant's request to present the vaccination certificate and the use of the data contained therein were also inadmissible. Since the request for the submission of a 2G proof was made on November 23, 2021, and thus one day before the new version of Section 28b (3) IfSG came into force, both the request for the submission of the proof and the processing of the data contained therein proved to be unjustified . According to this, the defendant used and collected data without any concrete suspicion in the dark by means of the batch query. She was not entitled to do this, which is why the information obtained was subject to a ban on the use of evidence. The defendant did not carry out the hearing necessary for a dismissal on suspicion, since it had not informed it in advance of all suspicious factors. The works council was also not properly consulted.
+10The plaintiff requests:
+111. It is determined that the employment relationship existing between the parties was not and will not be terminated by the defendant's termination of December 13, 2021.
+122. The defendant is sentenced to continue employing the plaintiff under the previous working conditions as a specialist consultant at location K until a final decision on the application for declaratory judgment has been made.
+13 The defendant requests that
+14 dismiss the action.
+15She claims that the employees were also informed at the institute conference on October 4th, 2021 that employees without full vaccination protection should no longer visit their customers on site from November 1st, 2021, but should instead switch to virtual forms of communication. The employees were given the opportunity to make their own decisions about holding face-to-face events. Employees who did not want to provide information on their vaccination status, as well as employees who indicated that they were not yet fully vaccinated, should have carried out their consulting work by telephone or virtual conference from November 1st, 2021. Her team leader, ……., asked the plaintiff in a conversation on November 4th or 5th, 2021 whether she met the 2-G requirement or whether she would switch to virtual formats from November 1st, 2021.
+16 The plaintiff's supposedly early initial vaccination did not seem conclusive to her, since at that time older people were still being given priority when it came to vaccinations. The Federal Police hotline, which was set up specifically for checking vaccination certificates, referred the personnel officer to the Cologne Criminal Police Department, who informed her by telephone that the vaccine batch shown in the vaccination card for the first vaccination of the plaintiff on March 5th, 2021 was only available in the period May 10, 2021 to September 23, 2021. The vaccine batch specified for the second vaccination on May 28, 2021 was only vaccinated from May 31, 2021. On December 10, 2021 at around 8 p.m., she sent the works council chairman the written works council hearing on the intended extraordinary termination on suspicion, alternatively ordinary termination, presented as an attachment ….. by email.
+17 The defendant is of the opinion that the dismissal as an extraordinary or alternatively ordinary (suspected) dismissal is justified. Based on the facts ascertained, it can be assumed that the plaintiff presented her with a vaccination certificate with forged entries. In doing so, the plaintiff not only made herself liable to prosecution for using incorrect health certificates under Section 279 of the Criminal Code, but also breached her contractual obligations. She went against instructions to customer companies without having been vaccinated and untruthfully told her superiors that she had been vaccinated.
+18Furthermore, reference is made to the content of the mutual pleadings and the meeting minutes.
+19Reasons for the decision:
+20I. The action for protection against dismissal - brought in good time within the meaning of §§ 4, 7, 13 KSchG - is unfounded. The employment relationship of the parties was terminated by the defendant's written notice of December 13, 2021 with receipt on December 15, 2021.
+211. The extraordinary termination without notice by the defendant on December 13, 2021 is justified by an important reason within the meaning of Section 626 (1) BGB.
+22a) According to this standard, the employment relationship can be terminated (only) for an important reason without compliance with a notice period if there are facts based on which the terminating all circumstances of the individual case and, taking into account the interests of both parts of the contract, the continuation of the employment relationship itself up to the expiry of the notice period cannot be reasonably expected. It must first be checked whether the facts without their special circumstances "in themselves" and are therefore typically suitable as an important reason. A further examination is then required as to whether the continuation of the employment relationship is reasonable for the person giving notice, taking into account the specific circumstances of the case and weighing the interests of both parties to the contract - at least until the end of the period of notice - or not (see only BAG, judgment of 16 July 2015 - 2 AZR 85/15 -, para. 21, juris).
+23b) These requirements for justifying the disputed termination are met.
+24aa) The plaintiff has violated her contractual side obligations (Section 241 (2) of the German Civil Code) of her employer and thus committed an “in itself” as a reason for an extraordinary termination.
+25(1) The plaintiff was in the period of her customer visits between 05.11. and 08.12.2021 and upon presentation of her vaccination card to the defendant on 03.12.2021 not vaccinated against COVID-19. The entries in the vaccination certificate submitted to the defendant on December 3rd, 2021 for the two COVID-19 vaccinations on March 5th, 2021 and May 28th, 2021 (cf. Annex …….) were incorrect in terms of content. The plaintiff did not effectively dispute the corresponding accusation in court (Section 46 (2) ArbGG in conjunction with Section 138 (3) ZPO). The chamber gave her sufficient opportunity to do so in the meeting on March 23, 2022.
+26(2) Contrary to the opinion of the plaintiff, the fact that the defendant used the corresponding facts presented by the defendant as undisputed does not preclude the fact that the defendant would have illegally obtained the relevant indication of the plaintiff's deception - in violation of the data protection due to it.
+27(a)             However, violations of the right to the protection of personal data required by Art. 8 Para. V. m. 1 Abs. 1 GG derived right to informational self-determination (cf. BVerfG, judgment of 24 November 2010 - 1 BvF 2/05 -, BVerfGE 128, 1-90, Rn. 150 ff. mwN) to procedural prohibitions on exploitation to lead:
+28 For the legal situation up to the entry into force of the EU General Data Protection Regulation, the Federal Labor Court assessed the question of procedural bans on use purely on the basis of constitutional standards and - in brief - answered as follows:
+29In cases in which the provision of information or evidence on which one party is based violates the general personality rights of the other party without this being justified by overriding interests, a “constitutional ban on exploitation” can be considered. Although the right to a fair hearing under Article 103(1) of the Basic Law requires in civil proceedings that the facts presented by the parties and the evidence they have offered be taken into account, the court may not be able to use it if this is due to a fundamentally protected position a litigant is imperative. This is the case if the procedural use of the knowledge or the evidence itself would constitute a violation of fundamental rights and the court, which is directly bound by fundamental rights under Article 1.3 of the Basic Law, intervenes without justification in a constitutionally protected position of a litigant by Violation of personal rights by a private person perpetuated or intensified. In this respect, the function of fundamental rights as defensive rights against the state comes into play. No unconstitutional encroachment on fundamental rights by a state body may be "saddled" on an unjustified impairment of personal rights by a private individual (statutory case, cf. only BAG, judgment of March 28, 2019 - 8 AZR 421/17 -, para. 28, juris mwN).
+30A constitutionally required ban on the use of factual evidence and evidence has an impact on the fictional confession of Section 138 (3) ZPO and thus on the classification of a factual evidence as disputed or undisputed. If an employee refrains from - possibly untruthfully - denying the opposing factual presentation, a ban on the utilization of factual presentations has the effect that the incriminating presentation of the employer is nevertheless to be treated as disputed (BAG, judgment of August 23, 2018 - 2 AZR 133/18 –, BAGE 163, 239-256, paragraph 16).
+The Federal Labor Court judged whether or not there was a violation of the general right of personality in the form of the right to informational self-determination based on whether the data to be used were obtained in violation of the ordinary data protection regulations or not. These provisions (of the BDSG old version) specified and updated the protection of the individual's right to informational self-determination. If the measure in question was permissible under the provisions of the BDSG old version, there would be no violation of the general right of personality in the form of the right to informational self-determination. A ban on exploitation is ruled out from the outset. Only if the measure in question was not permitted under these provisions does it have to be examined separately whether the use of knowledge gained in the process would constitute a violation of fundamental rights by the court (cf. BAG, judgment of August 23, 2018 - 2 AZR 133/ 18 -, BAGE 163, 239-256, para. 15 with further references).
+32(b)                                                                     The entry into force of the directly applicable General Data Protection Regulation (Article 288(2) TFEU) on May 25, 2018 has not resulted in any significant changes. The question of the usability of information obtained in violation of data protection is based on the provisions of the regulation. The DS-GVO does not contain an unconditional ban on the judicial use of unlawfully obtained data (Arg. e Art. 17 Para. 3 lit. e DS-GVO). Data processing is subject to the relevant legal basis pursuant to Article 6 Paragraph 1 Clause 1 Letter e, Paragraph 3 Clause 1 Letter b GDPR in conjunction with Art. to meet § 3 BDSG. According to this, the use of the case by the court is permissible if this is necessary for the fulfillment of its official duties. As part of the comprehensive proportionality test to be carried out thereafter, taking into account the provisions of Art. 7 and Art. 8 GRCh or Art. 2 para. 1 in conjunction with 1 Para. 1 GG, there is scope and relevance for the preliminary data protection review of extra-procedural knowledge acquisition, which has also been carried out according to previous case law (cf. BAG, judgment of August 23, 2018 - 2 AZR 133/18 -, BAGE 163, 239-256, 47; Schindler DRiZ 2021, 370, 373; Frank/Heine, BB 2021, 884, 885; Tiedemann, ZD 2019, 230, 231).
+33(c) On the basis of these principles, the defendant's argument proves to be usable. The processing of the plaintiff's health data by the defendant was based on Article 6 (1) sentence 1 lit. c GDPR in conjunction with § 28b paragraph 3 sentence 3 IfSG in the 24.11. until 11.12.2021 valid version (old version) covered and therefore legal.
+34Regardless of the existence of a consent within the meaning of Article 6 (1) sentence 1 lit. Because according to § 28b para. 3 sentence 1 IfSG old version, she was legally obliged from November 24th, 2021 - the date of the employee information on this (November 22nd, 2021) is just as irrelevant as the ambiguity of the corresponding circular complained of by the plaintiff To monitor and document compliance with the 3-G access restriction to the company in accordance with Section 28b (1) sentence 1 IfSG old. According to § 28b paragraph 3 sentence 3 IfSG old, she was allowed to process the personal data of the employees for this purpose, including data on the vaccination status. It is not apparent that the plaintiff would not have presented the vaccination certificate as proof of the admission requirements according to § 28b paragraph 1 sentence 1 IfSG old version. In any case, the defendant could not assume that, despite her positive vaccination status, she wanted to (over)fulfil compliance with the 3-G rule through testing. The fact that the submission of proof could also be used to check compliance with the 2-G requirement for the customer presence appointments that the plaintiff continued to carry out would mean additional justification under Section 26 (1) sentence 1 BDSG.
+35In fulfillment of the control obligation following from § 28b paragraph 3 sentence 1 IfSG old version, the defendant was also responsible for processing according to paragraph 3 sentence 3 by comparison with the publicly available data of the batch query - which itself is not personal data within the meaning of Art. 4 No. 1 DS-GVO or the BDSG § 46 No. 1 BDSG contained - entitled. This was the only way for the defendant to ensure that the claimed vaccination status was actually given in the absence of the QR code.
+36It can be left open whether due to the early date of the first vaccination of the plaintiff there was a justification for the data processing also according to § 26 paragraph 1 sentence 2 BDSG.
+37(d) Even if one wanted to view the comparison of the data from the plaintiff's vaccination card with the data from the batch query as not covered by the data protection regulations, the use of the factual presentation based on it in the present dismissal protection proceedings would be permissible in the Chamber's opinion:
+38 The impairment of the plaintiff's right to protection of her personal data is secondary in view of the great importance of her employer's obligation to monitor the statutory infection protection requirements: An employee who presents his employer with an incorrect document to prove compliance with statutory or contractually binding infection protection rules is related to the - inaccurate - personal data contained therein not so worthy of protection that the state courts would be prevented from using the knowledge gained through data processing. This follows from the assessment of the legislature, which at the time of data processing had already made the submission of incorrect health certificates a punishable offense in § 279 StGB and designed this criminal offense as an official offence. In view of the danger to the general public resulting from the use of the incorrect vaccination certificate and the low level of intervention in relation to incorrect health data, a procedural ban on use would not be justified.
+39(3) The actions of the plaintiff are serious contractual (ancillary) breaches of duty (§ 241 Para. 2 BGB).
+40(a) Contrary to the legitimate instructions of the defendant, between 05.11. and 08.12.2021 in nine cases without 2-G protection external appointments with customers in presence. In doing so, the plaintiff breached its duty, on the one hand, exposing the employees there with whom she came into contact, as well as herself, to an avoidable health risk and, on the other hand, violating the business interests of the defendant by exposing her employer to the risk of a massive loss of customer confidence.
+41Regardless of the respective mandatory legal requirements for protection against infection, the defendant was free to decide to issue a 2-G order to protect its own employees and third parties in the customer companies for face-to-face appointments. This entrepreneurial decision is covered by Article 14(1) of the Basic Law, which is neither arbitrary nor discriminatory in view of the existing risk of infection. The applicant's personal and employment interests (Article 2(1), Article 12(1) of the Basic Law) are not disproportionately affected: it was entirely up to her to decide whether she wanted to be vaccinated or not. There was no discernible disproportionate impact on her interest in contractual employment, as she could easily continue to contact clients via telecommunications, as was a matter of course for most of the working world at that time. The defendant had placed the implementation of face-to-face events under the personal responsibility of the employees. Employees who did not want to provide information on their vaccination status, as well as employees who indicated that they were not yet fully vaccinated, were able to carry out their consulting work by telephone or virtual conference from November 1st, 2021. The statement by the plaintiff regarding the corresponding presentation of the defendant with ignorance was irrelevant (Section 46 (2) ArbGG in conjunction with Section 138 (4) ZPO), since these statements by the defendant at the institute conference on October 4th, 2021 were the subject of the plaintiff's own perception must have been.
+42The disregard of the 2-G rule in face-to-face contact with customers was not only contrary to instructions, but also constituted a significant breach of the plaintiff's obligation to protect the interests of the defendant. The employee must fulfill his obligations from the employment relationship and the related to protect the interests of the employer related to the employment relationship in such a way as can reasonably be demanded of him in good faith, taking into account his position and work in the company, his own interests and the interests of the other employees in the company (cf. BAG, judgment of 25 April 2018 - 2 AZR 611/17 -, para. 44, juris). From this duty to protect interests follows in particular the duty of the employee to prevent, within the limits of his possibilities and reasonableness, a threat of damage to the company or the other employees of the company. This applies to a greater extent in the case of significant health risks (ArbG Düsseldorf, judgment of February 18, 2022 - 11 Ca 5388/21 -, para. 24, juris mwN). In particular, by making face-to-face appointments in care facilities under the pretense of a lack of vaccination protection, the plaintiff has seriously violated the reasonable obligation to protect the defendant's customers from infection in the best possible way (cf. the assessment at ArbG Düsseldorf, judgment of February 18, 2022 - 11 Ca 5388/21 -, para. 28 with reference to the fine provision of § 73 Para. 1a No. 11d IfSG old version).
+43(b) Finally, the plaintiff acted flagrantly in breach of duty by presenting the defendant with proof of vaccination on December 3, 2021, knowing that the information contained therein was incorrect (cf. again the assessment in: ArbG Düsseldorf, judgment of December 18, 2021). February 2022 - 11 Ca 5388/21 -, para. 20, juris). In doing so, she attempted to deceive her employer on an essential point relating to the implementation of the employment relationship. In the opinion of the chamber, the fact that she did not receive a COVID-19 vaccination, contrary to the information in her vaccination card, cannot have remained hidden from her. If an employee attempts to use forged evidence, she is demonstrating that she is willing to intentionally endanger the health of all employees with whom she comes into contact (Kleinebrink, DB 2022, 392, 397).
+44 Contrary to the plaintiff's view, the breach of duty of deception does not apply because on December 3, 2021 she was not obliged to present proof of vaccination due to the corona test she carried out in the defendant's house. Because on the one hand it is not obvious that the template does not fulfill the requirements set out in § 241 Para. 2 BGB in conjunction. § 28b Para. 1 Sentence 1 IfSG old version and on the other hand there was a legitimate interest of the defendant in view of the assurance she had previously given to her team leader …….. that she had full vaccination protection, so that she could also visit customers in person in checking this information. In this respect, too, the plaintiff was obliged to provide evidence in accordance with Section 241 (2) of the German Civil Code.
+45bb) Due to the serious breaches of duty by the plaintiff under aa), the defendant was unreasonable if the defendant was given a further adherence to the employment relationship - even until the ordinary notice period expired.
+46By the fact that the plaintiff attempted to substantiate her untrue assertion that she was fully vaccinated against the personnel officer on December 3, 2021 by presenting false proof of vaccination, she forfeited the trust necessary to continue the employment relationship, even for a limited period. She was aware that, in view of the defendant's field of business and the particular vulnerability of care facilities (cf. just the justification for the law in Bundestag printed paper 20/188 p. 1), the ordering of 2-G protection for face-to-face contacts was of paramount importance. On the other hand, she did not have to worry about any significant personal disadvantages, even if the defendant's infection protection concept was observed. Irrespective of the new legal regulation in §§ 277 ff. StGB, she has also shown by presenting a document suitable as proof of vaccination status that she does not shy away from deception in legal transactions. It follows from the particular importance of the breach of trust that issuing a warning to the defendant would not have offered sufficient guarantee for the future compliance with the law and obligations of the plaintiff (cf. on the basic priority of a warning only: BAG, judgment of December 13, 2018 - 2nd AZR 370/18 –, para. 30, juris).
+In doing so, the Chamber has considered that the question of vaccination is a - free - personal decision and an issue which is currently causing considerable distress to not inconsiderable parts of society, both subjectively and in some cases objectively. However, the plaintiff's continued deceptive behavior is not a momentary failure. The plaintiff did not show any concessions or regrets to be expected among reasonable parties at the hearing before the notice of termination was given. From the point of view of a reasonable employer, at the time of the termination it could not be assumed with sufficient certainty that the plaintiff's lack of trustworthiness was selectively limited to the question of the vaccination status and that other misconduct or breaches of trust were not to be expected. It was (and is) not obvious that the plaintiff would have acted out of a subjectively desperate and unique emergency situation due to the pandemic situation.
+48A special need for protection of the plaintiff follows neither from her age nor from a particularly long duration of the employment relationship. Your good performance for the defendant up to that point is not able to counterbalance the loss of trust that has taken place.
+49In view of the high level of criminal energy that the plaintiff showed when presenting the false vaccination certificate on the one hand and the ruthlessness towards the economic and moral interests of the employer as well as the particularly important health interests on the part of the customer on the other hand, a reasonable employer could no longer assume that that the plaintiff would pay attention to his legitimate interests in the future, even for the limited continuation of the contract until the end of the period of notice - at least in all essential points.
+50cc) Contrary to the plaintiff's opinion, it is not decisive that the defendant (also) relied on the corresponding suspicion to justify the termination. Even if the sole reason for the termination was the suspicion of intentional deception - which the Chamber did not understand - this would not preclude an assessment of the termination as justified within the meaning of § 626 Para. 1 BGB on the basis of the proven act (st. Rspr - see only BAG, judgment of November 21, 2013 - 2 AZR 797/11 -, BAGE 146, 303-322, para. 39 with further references; LAG Hamm \[Westphalia\], judgment of October 24, 2019 - 17 Sa 1038/ 18 –, para. 63, juris).
+51dd) After all this, the justification of the termination (also) as a termination on suspicion is irrelevant.
+522. With the notice of termination sent to the plaintiff on December 15, 2021, the defendant observed the two-week notice period of Section 626 (2) BGB. She became aware of the breaches of duty used to justify them on December 3, 2021.
+533. The defendant satisfied the hearing requirement pursuant to Section 102 (1) BetrVG before the notice of termination was given. The chamber was able to leave open whether the works council chairman received the written hearing presented as an attachment to the statement of defense (page 106 ff. of the case) on December 3, 2021 by email. In any case, the defendant informed the chairman orally on December 10, 2021 of her intention to terminate and the facts of the termination, including her weighing of interests, after her unchallenged submission in accordance with her announcement of the hearing pursuant to Section 102 (1) BetrVG. He was also familiar with the facts because of his participation in the hearing of the plaintiff.
+544. A violation of the ban on reprimands (§ 612a BGB) is not evident. The defendant obviously did not give notice because of the plaintiff's refusal of the offer to terminate the employment contract, but because of the flagrant breaches of duty described.
+55II. The application for continued employment has not come up for a decision. The application for temporary continued employment during dismissal protection proceedings is regularly to be understood as a false auxiliary application in the event that the grandfathering application is successful (BAG, judgment of May 7th, 2020 - 2 AZR 692/19 -, para. 62, juris). The plaintiff's statements in the present case give no reason for a different understanding.
+56III. According to Section 46 (2) ArbGG in conjunction with § 91 Abs. 1 ZPO as the unsuccessful party to bear the costs of the legal dispute.
+57IV. The amount in dispute was to be determined in the judgment in accordance with Section 61 (1) ArbGG and is measured with a gross quarterly salary of the plaintiff (cf. Section 42 (2) sentence 1 GKG).
+
+Retrieved from "[https://gdprhub.eu/index.php?title=ArbG\_Köln\_-\_18\_Ca\_6830/21&oldid=25995](https://gdprhub.eu/index.php?title=ArbG_Köln_-_18_Ca_6830/21&oldid=25995)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [ArbG Köln (Germany)](/index.php?title=Category:ArbG_K%C3%B6ln_\(Germany\) "Category:ArbG Köln (Germany)")
+*   [Germany](/index.php?title=Category:Germany "Category:Germany")
+*   [Article 6(1)(c) GDPR](/index.php?title=Category:Article_6\(1\)\(c\)_GDPR "Category:Article 6(1)(c) GDPR")
+*   [Article 6(1)(e) GDPR](/index.php?title=Category:Article_6\(1\)\(e\)_GDPR "Category:Article 6(1)(e) GDPR")
+*   [2022](/index.php?title=Category:2022 "Category:2022")
+*   [German](/index.php?title=Category:German "Category:German")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/ArbG_K%C3%B6ln_-_18_Ca_6830/21 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/ArbG_K%C3%B6ln_-_18_Ca_6830/21 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=ArbG_K%C3%B6ln_-_18_Ca_6830/21&oldid=25995 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=ArbG_K%C3%B6ln_-_18_Ca_6830/21&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=ArbG_K%C3%B6ln_-_18_Ca_6830%2F21&id=25995&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 18 May 2022, at 16:53.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.049","walltime":"0.096","ppvisitednodes":{"value":401,"limit":1000000},"postexpandincludesize":{"value":1698,"limit":2097152},"templateargumentsize":{"value":765,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":34079,"limit":5000000},"timingprofile":\["100.00% 12.125 1 Template:COURTdecisionBOX","100.00% 12.125 1 -total"\]},"cachereport":{"timestamp":"20250829154759","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":945});});

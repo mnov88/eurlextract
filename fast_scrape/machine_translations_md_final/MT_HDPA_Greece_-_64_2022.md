@@ -1,0 +1,2 @@
+We use cookies that are necessary to maintain your connection to the online services of the Authority's Internet Portal (PO) and to store your choices in relation to optional cookies ("Necessary").
+Only with your consent will we use any of the following optional cookies you choose ("Analysis", "LinkedIn", "Twitter"). You can see information about each category of cookies by hovering over each option.

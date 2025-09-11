@@ -1,0 +1,9 @@
+The National DPA completed, in March, an investigation on the operator Lugera & Makler Broker S.R.L., finding the violation of the provisions of art. 29 and art. 32 para. (2) and (4) of the General Data Protection Regulation.
+
+As such, the operator Lugera & Makler Broker S.R.L. was sanctioned with a fine in the amount of 7,331.85 RON (equivalent to the amount of 1500 EURO).
+
+The investigation was initiated following a notification received from a natural person and a notification of data breach submitted by Raiffeisen Bank SA, from which it resulted that Lugera & Makler Broker S.R.L ( Raiffeisen Bank SA's processor) did not hand over to Raiffeisen Bank SA the documents related to the prescoring activities performed by one of its employees, on the grounds that they were destroyed.
+
+During the investigation, the National DPA found that the operator Lugera & Makler Broker S.R.L. (Raiffeisen Bank SA' processor) has not taken measures to ensure that any natural person acting under his authority and who has access to personal data only processes them at his request and has not implemented appropriate technical and organizational measures to ensure a level of security appropriate to the risk of processing generated in particular, accidental or illegal data destruction, loss, alteration, unauthorized disclosure or unauthorized access to personal data transmitted, stored or processed in another mode.
+
+Also, as a result of the performance of 1372 prescoring by a sales agent, employee of Lugera & Makler Broker SRL, 1058 individuals concerned were affected by the security incident, as the original documentation related to the prescoring was not provided by the agent, but destroyed, which generated the security incident notified by Raiffeisen Bank to the DPA, thus violating the provisions of art. 29, art. 32 paragraphs (2) and (4) of the General Regulation on Data Protection.

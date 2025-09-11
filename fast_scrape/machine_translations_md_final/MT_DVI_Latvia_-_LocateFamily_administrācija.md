@@ -1,0 +1,268 @@
+Elijas iela 17, Riga, LV-1050, tel. 67223131, e-mail pasts@dvi.gov.lv, www.dvi.gov.lv
+
+                                                 Riga
+
+                                                                                                    \[..\]
+
+                                                                                     Internet sites
+                                                              www.locatefamily.com for administration
+                                                                            legal@LocateFamily.com
+
+                                             The decision
+
+Riga,
+\_\_ of 2023 in January                                                                          \[..\]
+
+On the application of the corrective measure
+
+      \[1.\] Data State Inspection (hereinafter - the Inspection) on December 21, 2020 and 2021
+
+On October 25, received information indicating possible violations on the website
+in personal data processing activities carried out by www.locatefamily.com (hereinafter – LocateFamily).
+      \[2.\] In order to verify the legality of the activities carried out on the LocateFamily website and
+in accordance with the first part of Article 4 of the Personal Data Processing Law (hereinafter – the Data Law).
+Paragraph 1 and Paragraph 1 of the first part of Article 5 of the General Data Protection Regulation (hereinafter - Data
+
+regulation) Article 57 paragraph 1 sub-paragraphs “a” and “h” and Article 58 paragraph 1 “a”, “d”, “e” of the Data Regulation
+The inspection officer performed the following actions and found the following circumstances:
+      \[2.1\] 11/2021 carried out an initial review of the LocateFamily website in February (hereinafter -
+View no. 1), during which it was established that:
+      1) LocateFamily is a website that collects information about residents, including
+
+about the residents of the Republic of Latvia;
+      2) LocateFamily contains personal data (address, phone number, name and surname)
+information on 13,323 residents of the Republic of Latvia;
+      3) the website does not contain information about the maintainer or administrator of the website, with the website
+can be contacted by filling out the contact form available on the website or by calling the phone number 1 (302) 223-
+
+5135 (in the United States of America in the state of Delaware);
+      4) LocateFamily Registration Information - Anonymize, Inc.,
+locatefamily.com@anonymize.com, 704 228th Ave NE, Sammamish, WA, 98074, US;
+
+1Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2018 on the protection of natural persons in relation to
+on the processing of personal data and the free circulation of such data and which repeals Directive 95/46/EC.
+2 Inspection report of February 11, 2021 \[..\] 2
+
+      5) LocateFamily's privacy policy states that the site does not distribute information to third parties,
+e-mail addresses or other information obtained by communicating with users. Available
+information is obtained and maintained by LocateFamily and is used only by LocateFamily. Site users have
+it is possible to submit a request to delete information about the user.
+      \[2.2.\] Based on Review no. 1 information obtained about the personal data carried out by LocateFamily
+
+processing and publication of personal data, the Inspectorate started an inspection case on February 15, 2021 \[..\]
+(hereinafter – the Case) regarding the processing of personal data carried out on the website LocateFamily.
+      \[2.3.\] On March 25, 2022, the Inspectorate conducted a repeated inspection of the LocateFamily website
+(hereinafter – Inspection No. 2), during which it was found that 2.1 of this decision. the actual ones mentioned in sub
+conditions have not changed except:
+
+      1) LocateFamily owner information has been redacted for privacy. In turn, the domain
+the owner of the technical resources is registered in Iceland;
+      2) legal questions can be sent to the email address: legal@LocateFamily.com.
+At the same time, there is a note that all data deletion requests that will be sent to the mentioned
+
+email address will be ignored. Users are encouraged to use the deletions developed by the site
+requests mechanism.
+      \[2.4.\] In the letter dated March 31, 2022 (hereinafter – Request No. 1), the Inspectorate 4 invited
+LocateFamily administration to review its personal data processing processes, to eliminate the identified ones
+shortcomings and provide information on the questions asked.
+
+      \[2.5\] On April 5, 2022, LocateFamily informed that:
+      1) LocateFamily is not located in the European Union (hereinafter - EU), therefore on LocateFamily
+the regulation of EU regulatory acts does not apply;
+      2) The data published by LocateFamily has been obtained from public sources before the Data Regulation came into force
+
+entry and data subjects have given their consent to the processing of their personal data, aware that the data will
+freely available.
+      \[2.6.\] Inspection on August 23, 2022 in a letter (hereinafter - Request No. 2), repeated
+invited the LocateFamily administration to review its personal data processing processes, prevent
+identified deficiencies and provide information on the questions asked.
+
+      \[2.7\] On August 24, 2022, LocateFamily reiterated that LocateFamily is not subject to
+Regulation of EU regulatory acts, and also informed that in the event of a data subject's complaint, information from
+the LocateFamily website will be deleted.
+      \[2.8.\] On December 9, 2022, the Inspectorate conducted a third inspection of the LocateFamily website
+                6
+(Review No. 3) regarding the processing of personal data carried out on the website, during which it was found that the decision
+2.3. the actual conditions mentioned in subsection have not changed.
+      \[3.\] The inspection has taken steps to ascertain the addressee's opinion and found that:
+      \[3.1.\] LocateFamily has provided answers to Inspection Request no. 1 and no. 2, 2022
+on April 5 and August 24, 2022, explaining that at the discretion of the administration, the operation of LocateFamily
+
+and the processing of personal data carried out by LocateFamily is not covered by the regulation of EU regulatory acts, because
+LocateFamily is not registered in the EU and thus the activities of LocateFamily are not subject to the Data Regulation.
+      \[3.2\] Personal data published on the LocateFamily website is obtained from public sources
+before the entry into force of the Data Regulation and data subjects have given their consent to the processing of their personal data,
+
+knowing that the data will be freely available.
+      \[4.\] Taking into account the findings in points \[1-3\] of this decision, the Inspection concludes:
+      \[4.1.\] on the applicability of the Data Regulation to the processing of personal data by LocateFamily:
+
+3
+4 Inspection report of March 25, 2022 \[..\]
+5 Letter of the inspection dated March 31, 2022 \[..\]
+6 Letter of the inspection dated August 23, 2022 \[..\]
+ Inspections of December 12, 2022 \[\].. 3
+
+      In accordance with Article 3, paragraph 2, subparagraph "a" of the Data Regulation, the Data Regulation is applied in Europe
+                                                                                                    7
+for the processing of personal data of data subjects in the Union (hereinafter - the Union) by the controller or
+a processor not established in the Union if the processing activities are related to goods or
+offering services to such data subjects in the Union, whether or not from the data subject
+payment is requested. Among them, Article 27, Clause 1 of the Data Regulation results from the obligation to the controller in writing
+to appoint its representative in the Union. Recital 23 of the Data Regulation explains its territorial aspects in more detail
+
+aspect of applicability, namely to ensure that natural persons are not denied protection which
+they are entitled, in accordance with this regulation, to the processing of personal data of data subjects in the Union, which is carried out
+controller or processor not established in the Union should be made in accordance with this Regulation if
+processing activities are related to offering goods or services to such data subjects
+whether or not it involves payment.
+
+      According to publicly available information, LocateFamily is a platform where people can search for it
+contact information of family members with whom they have lost contact or others
+contact information with whom they would like to be contacted. It follows from the above that LocateFamily provides
+search services for information, including personal data.
+      As already established in the decision 2.1. subsection, LocateFamily contains personal data
+
+(address, phone number, name and surname) information on 13,323 residents of the Republic of Latvia.
+Therefore, 2.5 of this decision. and 2.7. LocateFamily's opinion contained in subsection that on it
+the processing of personal data carried out is not covered by Union regulation, is not justified, because on the website
+LocateFamily is processed by the Union, incl. Personal data of citizens of the Republic of Latvia.
+      At the same time, the Inspectorate has no information, nor has the manager provided any information during the course of the investigation
+
+information that LocateFamily has fulfilled the obligation imposed by Article 27, paragraph 1 of the Data Regulation
+to appoint its representative in the Union, therefore the provisions contained in Article 27, Paragraph 1 of the Data Regulation were not complied with
+regulation.
+      In compliance with the above, it can be established that LocateFamily, in compliance with Article 3, Clause 2 of the Data Regulation
+covered territorial scope, the requirements of the Data Regulation are binding.
+
+      \[4.2.\] On the legal basis of processing and consent given by data subjects to data processing:
+      Compliance with the personal data processing principles set out in Article 5 of the Data Regulation and one of the Data
+The legal bases for personal data processing defined in Article 6, Paragraph 1 of the Regulation are
+mandatory requirements to recognize the processing of personal data as legal. Taking into account the above, the Inspection concludes,
+that in the specific case, the only legal basis for personal data processing could be the data subject
+           8
+consent and in accordance with Article 5, Clause 2 of the Data Regulation, the manager is responsible for the compliance of the Data
+paragraph 1 of Article 5 of the regulation and the manager must be able to clearly demonstrate it.
+      Pursuant to Article 7, Paragraph 1 of the Data Regulation, if data processing is based on consent, the controller
+it is necessary to be able to demonstrably prove that the data subject has consented to the processing of his personal data. According to Data
+
+Article 4, Clause 11 of the Regulation, the data subject's consent is any freely given, specific, informed and
+unequivocal indication of the wishes of the data subject, with which he is notified or clearly affirmative
+gives consent to the processing of his personal data in the form of action.
+      Article 6(1)(a) of the Data Regulation stipulates that the consent of the data subject must be given
+in relation to “one or more specific” purposes and the data subject can choose in relation to
+
+each of them. In turn, in accordance with Article 5, Paragraph 1, Subsection "b" of the Data Regulation, in order to receive in force
+existing consent, the intended processing activity must always be specific, clear and legitimate
+purpose. The need for specific consent combined with the concept of purpose limitation 5.
+
+7 "controller" is a natural or legal person, public institution, agency or other body that alone or jointly with
+for others, the purposes and means of personal data processing are determined; if the purposes and means of such processing are determined by the Union
+or the legislation of a Member State, the manager or the specific criteria for his appointment can be provided by the Union or
+in the legislation of the Member State
+8 Article 6, paragraph 1, subparagraph "a", subparagraph 4 of the Data Regulation
+
+Article 1(1)(b) acts as a protective measure against the purpose for which the data is sent
+processed, gradual expansion or merging after the data subject has consented
+for initial data collection.
+      As established in section 3.2 of this decision. subsection, LocateFamily claims that published personal data
+
+have been obtained from public sources before the entry into force of the Data Regulation and have been provided by the data subjects
+consent to the processing of their personal data, knowing that the data will be freely available. Considering persons
+the principle of limitation of the purpose of data processing (Article 5, paragraph 1, sub-paragraph "b"), the fact that persons
+the data are publicly available does not give the right to further process them for another purpose and without the relevant Regulation
+
+6. non-deterministic basis. Therefore, the fact that the administrator uses publicly available data does not make it so
+the processing of personal data as legitimate and the controller requires the free consent of each data subject.
+      Article 5, paragraph 2 of the Data Regulation stipulates that the controller is responsible for compliance with paragraph 1 and 9
+it can be demonstrably demonstrated ("accountability"). Taking into account the above, in cases where the manager does not present
+
+the existence of a legal basis and there are reasonable doubts that there might not be a legal basis, taking
+taking into account the principle of accountability, it can be considered that the processing was carried out without a legal basis. Not in the inspection
+provided evidence that would certify that the data subjects have given their consent to their personal data
+
+for processing on the website LocateFamily, therefore such data processing cannot be based on Data
+Article 6(1)(a) of the Regulation.
+      The inspection concludes that the opinion provided by LocateFamily should be evaluated critically, that when providing the third party
+consent to the processing of personal data, persons give their consent to the processing of personal data
+
+also LocateFamily, and indefinitely. Even if the data subject once gave his consent
+data processing or publishing your data in the public environment, this does not mean that the data subject automatically
+consented to data processing by Locatefamily. In accordance with Article 5.1 of the Data Regulation. a) and b)
+to the "lawfulness principle" and "purpose limitation principle" contained in subsection 10
+
+LocateFamily, when publishing personal data of residents of the Republic of Latvia, had to obtain new data
+subjects' consent to the processing of their personal data for one or more purposes, in addition to obtaining
+separate consent for each purpose of personal data processing.
+      At the same time, it should be noted that the conditions of personal data processing are also applicable to cases,
+                                                           11
+when the data was obtained before the entry into force of the Data Regulation and it was obtained from the public and freely
+available sources. When the Data Regulation came into force, every controller had to make sure that his/her
+the processing of personal data complies with the requirements of the Data Regulation, but when illegal personal data is found
+processing - the data had to be destroyed. The fact that the personal data was freely available for publication before the Data
+
+entry into force of the regulation, is not a reason to republish and store personal data for an indefinite period of time.
+
+9 Personal data: a) are processed lawfully, in good faith and in a manner transparent to the data subject ("lawfulness, good faith and
+transparency'); b) are collected for specific, clear and legitimate purposes, and their further processing is not carried out with the said
+in a manner incompatible with the purposes; further processing for archiving purposes in the public interest, scientific or historical
+for research purposes, or for statistical purposes in accordance with Article 891. points are considered to be replaceable and original
+purposes ("purpose limitations"); c) are adequate, appropriate and include only what is necessary for the purposes of processing ("data
+minimization'); (d) are accurate and, if necessary, up-to-date; all reasonable steps must be taken to ensure that inaccurate
+personal data, taking into account the purposes for which it is processed, would be deleted or corrected without delay (“accuracy”); e) Yes
+stored in a way that allows the identification of data subjects, no longer than necessary for the purposes for which the relevant personal data
+processed; personal data can be stored longer, insofar as personal data will be processed only for archiving purposes in the public interest,
+for scientific or historical research purposes, or for statistical purposes in accordance with Article 89, paragraph 1, provided that
+the appropriate technical and organizational measures provided for in this regulation have been implemented to protect the rights of the data subject and
+liberties (“storage restriction”); f) are processed in such a way that adequate security of personal data is ensured,
+including protection against unauthorized or
+illegal processing and against accidental loss, destruction.
+10
+  personal data is processed lawfully, in good faith and in a manner transparent to the data subject ("lawfulness, good faith and
+transparency") and the data collected for a specific, clear and legitimate purpose. It is further processed for the aforementioned purpose
+11 in a connecting manner. This principle does not allow the collection and processing of data without a specific need and purpose.
+  May 25, 2018 5
+
+      In compliance with the above, the processing of personal data in LocateFamily takes place without Article 6 of the Data Regulation
+of the legal basis referred to in paragraph 1.
+      \[5\] According to Article 58(2)(d) of the Data Regulation, each supervisory authority has
+
+the authority to issue an order to the manager or processor to coordinate the processing activities with the Data Regulation
+regulations, if necessary - in a specific way and in a specific period of time. Article 23 of the Data Law
+determines that the Inspection, when making decisions regarding the imposition of a legal obligation, shall apply
+Administrative Procedure Law.
+      Taking into account the aforementioned and the fact that the activities of LocateFamily have been found to comply with the provisions of the Data Regulation
+violations, the Inspection, in accordance with the first part of Article 66 of the Law on Administrative Procedure, has
+it is necessary to decide on the usefulness of issuing an administrative act.
+
+      \[5.1.\] Assessing the necessity and necessity of the administrative act, the Inspectorate has established that
+the adoption of the decision is both necessary and necessary to achieve the goal of preventing the Data Regulation
+violations of the rules. Namely, the LocateFamily administration has not eliminated the identified deficiencies so that
+both the Inspection has pointed to it.
+      \[5.2.\] An administrative act is a suitable means to achieve the goal, because it creates a legal
+the obligation of LocateFamily to prevent detected violations, as well as to prevent the occurrence of similar violations
+
+in the future.
+      \[5.3.\] The administrative act is considered the most proportionate means to achieve the goal, because
+compared to the decision on the imposition of an administrative penalty, it is considered more lenient. At the same time
+the imposition of legal obligations is aimed at data subjects in the Data Regulation, the Data Law and other regulations
+ensuring the fundamental rights to personal data protection provided for in the acts.
+      In compliance with the above, the Inspection, based on Article 3, Clause 2, Article 5, Clause 1 of the Data Regulation
+"a", "b" and point 2, Article 6, point 1, point "a", Article 7, Article 27, point 1,
+
+Article 58(2)(d), Article 23 of the Data Law and the Administrative Procedure Law
+Paragraph 2 of the first part of Article 63,
+
+                                             decides:
+
+      obligate the LocateFamily administration to delete the resident of the Republic of Latvia
+
+data from the website www.locatefamily.com and inform the Inspectorate about it by 2023
+March 1.
+
+      In accordance with the second part of Article 24 of the Data Law, the first part of Article 76 of the Administrative Procedure Law and
+the second part, the second part of Article 188 and the third part of Article 189 and the Council of Justice of May 18, 2022
+of decision No. 32 "On courts, their areas of activity and locations", this decision can be appealed
+within one month from the date of its entry into force in the Riga Courthouse of the Administrative District Court.
+
+Director J. Macuka

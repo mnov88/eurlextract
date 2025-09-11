@@ -1,0 +1,11 @@
+Administrative fine for failure to take appropriate security measures for the processing of personal data
+
+The Personal Data Protection Agency imposed an administrative fine in the amount of HRK 675,000.00 for failure to take appropriate security measures for the processing of personal data by the retail chain (hereinafter: the Company) as the controller, contrary to Article 32, paragraph 1, item b) and d) and paragraphs 2 and 4 of the General Data Protection Regulation, which led to the unauthorized processing of personal data of respondents through their public publication on social networks and in the media.
+
+The Agency for Personal Data Protection received from the Company a Report on Violation of Personal Data of Respondents stating that employees of the Company unauthorisedly and contrary to internal acts and instructions of the Company, recorded video surveillance footage and distributed it to the public. networks and the media, and it remains available.
+
+It was determined that the Company did not take adequate actions to prevent its employee from taking a video surveillance monitor image using a mobile device. Namely, the Company took certain organizational protection measures such as employee education, adoption of internal acts prescribing authorization to access videos and signing a confidentiality statement for employees, but did not take appropriate organizational and technical security measures, neither before nor after the incident, and which could reduce the risk of the same or similar injury to a minimum.
+
+Also, the processing manager did not regularly monitor the implementation of technical and organizational measures aimed at ensuring the confidentiality, integrity and availability of personal data, or failed to regularly test, evaluate and determine the effectiveness of technical and organizational measures to ensure security of video surveillance.
+
+In this case, there was a violation of the obligations of the controller by failing to implement appropriate technical security measures for personal data processing, for which violation of the General Data Protection Regulation prescribes the imposition of administrative fines in accordance with Article 83 (4) (a). EUR 000 000 or, in the case of undertakings, up to 2% of the total annual worldwide turnover for the preceding financial year, whichever is greater.

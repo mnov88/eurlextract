@@ -1,0 +1,325 @@
+ Garante per la protezione dei dati personali (Italy) - 10103672 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"0b51a21c61669c78ae939901","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Garante\_per\_la\_protezione\_dei\_dati\_personali\_(Italy)\_-\_10103672","wgTitle":"Garante per la protezione dei dati personali (Italy) - 10103672","wgCurRevisionId":45981,"wgRevisionId":45981,"wgArticleId":8904,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["Garante per la protezione dei dati personali (Italy)","Italy","Article 5(1)(a) GDPR","Article 5(1)(d) GDPR","Article 6(1)(a) GDPR","Article 6(3) GDPR","Article 24 GDPR","Italian"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Garante\_per\_la\_protezione\_dei\_dati\_personali\_(Italy)\_-\_10103672","wgRelevantArticleId":8904,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10103672&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10103672&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10103672&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=Garante+per+la+protezione+dei+dati+personali+%28Italy%29+-+10103672&returntoquery=oldid%3D45981 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# Garante per la protezione dei dati personali (Italy) - 10103672
+
+From GDPRhub
+
+Revision as of 14:53, 25 February 2025 by [Elu](/index.php?title=User:Elu&action=edit&redlink=1 "User:Elu (page does not exist)") ([talk](/index.php?title=User_talk:Elu&action=edit&redlink=1 "User talk:Elu (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Elu "Special:Contributions/Elu"))
+
+([diff](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10103672&diff=prev&oldid=45981 "Garante per la protezione dei dati personali (Italy) - 10103672")) [← Older revision](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10103672&direction=prev&oldid=45981 "Garante per la protezione dei dati personali (Italy) - 10103672") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+Garante per la protezione dei dati personali - 10103672
+
+[![LogoIT.png](/images/thumb/e/ec/LogoIT.png/250px-LogoIT.png)](/index.php?title=File:LogoIT.png)
+
+Authority:
+
+[Garante per la protezione dei dati personali (Italy)](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\) "Garante per la protezione dei dati personali (Italy)")
+
+Jurisdiction:
+
+[Italy](/index.php?title=Category:Italy "Category:Italy")
+
+Relevant Law:
+
+[Article 5(1)(a) GDPR](/index.php?title=Article_5_GDPR#1a "Article 5 GDPR")  
+[Article 5(1)(d) GDPR](/index.php?title=Article_5_GDPR#1d "Article 5 GDPR")  
+[Article 6(1)(a) GDPR](/index.php?title=Article_6_GDPR#1a "Article 6 GDPR")  
+[Article 6(3) GDPR](/index.php?title=Article_6_GDPR#3 "Article 6 GDPR")  
+[Article 24 GDPR](/index.php?title=Article_24_GDPR "Article 24 GDPR")
+
+Type:
+
+Complaint
+
+Outcome:
+
+Upheld
+
+Started:
+
+Decided:
+
+Published:
+
+Fine:
+
+40,000 EUR
+
+Parties:
+
+Agenzia delle Entrate
+
+National Case Number/Name:
+
+10103672 European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+Unknown  
+
+Original Language(s):
+
+[Italian](/index.php?title=Category:Italian "Category:Italian")
+
+Original Source:
+
+[Garante (in IT)](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10103672)
+
+Initial Contributor:
+
+elu
+
+The DPA fined the Italian tax authority €40,000 after it disclosed information about the seizure of a landlord's properties to two of their former tenants. This disclosure resulted from the controller's failure to ensure data accuracy.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+The data subject filed a complaint before the DPA against the Italian tax authority, Agenzia delle Entrate, the controller. The controller notified two third parties, two private individuals, about the seizure of the data subject's property. These third parties entered, several years prior, a rent contract with the data subject, which was then terminated.
+
+The data subject alleged that, when the controller notified the third party of the two seizures, there was no existing legal relationship between the data subject and the third parties, as their renting contract had previously terminated. Thus, the data subject claimed that such notice of the two seizures constituted unlawful disclosure of personal data to third parties.
+
+### Holding
+
+The DPA considered that, under [Article 5(1)(a) and (d) GDPR](/index.php?title=Article_5_GDPR "Article 5 GDPR"), the principles of lawfulness and storage limitation require that all personal data processing needs to be correct and up to date.
+
+The DPA established that the controller processes such data for tax collection purposes indicates that the relevant legal basis is [Article 6(1)(a) GDPR](/index.php?title=Article_6_GDPR#1a "Article 6 GDPR"), namely the necessity for the performance of a task carried out in the public interest.
+
+Moreover, as per [Article 2-ter, para 4, of the](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig) [Italian Privacy Code](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig), clarifies that the term “communication” means that “one or more third party shares knowledge about the data subject’s personal data”. Such communication, to fall within the scope of [Article 6 GDPR](/index.php?title=Article_6_GDPR#3 "Article 6 GDPR"), shall be provided by law or regulation or general administrative acts. In light of this, to be able to ensure lawfulness and transparency of the processing, the controller shall have to put into place technical and organizational measures, as per [Article 24 GDPR](/index.php?title=Article_24_GDPR "Article 24 GDPR").
+
+The DPA found that the controller unlawfully communicated to the third parties personal data of the data subject. The fact that the controller considered that the third parties were wrongly classified as third party debtors of the data subject highlighted the failure of the controller to ensure data accuracy. This erroneous conviction accrued because the necessary organisational and technical measures related to the rent contract and the property ownership were not carried correctly.
+
+The data controller did not prove that it has put in place the appropriate technical and organisational measures aimed at urging and verifying, prior to the enforcement action, compliance by employees with the aforementioned indications to ensure the accuracy of the data.
+
+Therefore, the controller violated [Article 5](/index.php?title=Article_5_GDPR "Article 5 GDPR") and [6 GDPR](/index.php?title=Article_6_GDPR "Article 6 GDPR") and [Article 2-ter Italian Privacy Code](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig) and the DPA deemed it appropriate to fine the controller €40,000.
+
+## Comment
+
+_Share your comments here!_
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the Italian original. Please refer to the Italian original for more details.
+
+\[web doc. no. 10103672\]
+Provision of 19 December 2024
+Register of provisions
+no. 798 of 19 December 2024
+THE GUARANTOR FOR THE PROTECTION OF PERSONAL DATA
+IN today's meeting, attended by Prof. Pasquale Stanzione, President, Prof. Ginevra Cerrina Feroni, Vice President, Dr. Agostino Ghiglia and Attorney Guido Scorza, members, and Dr. Claudio Filippi, Deputy Secretary General;
+SEEN Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC, “General Data Protection Regulation” (hereinafter “Regulation”);
+HAVING SEEN Legislative Decree no. 196 of 30 June 2003, containing the Personal Data Protection Code (hereinafter, the “Code”);
+HAVING SEEN Regulation no. 1/2019 concerning internal procedures with external relevance, aimed at carrying out the tasks and exercising the powers assigned to the Guarantor for the protection of personal data, approved with resolution no. 98 of 4/4/2019, published in the Official Journal no. 106 of 8/5/2019 and in www.gpdp.it, web doc. no. 9107633 (hereinafter “Regulation no. 1/2019”);
+HAVING SEEN the documentation in the files;
+HAVING SEEN the observations formulated by the Secretary General pursuant to art. 15 of the Guarantor Regulation no. 1/2000 on the organization and functioning of the office of the Guarantor for the protection of personal data (web doc. no. 1098801);
+REPORTER Dr. Agostino Ghiglia;
+WHEREAS
+1. The complaint.
+With a complaint submitted pursuant to art. 77 of the Regulation, Mr. XX complained of a violation of the legislation on the protection of personal data by the Revenue Agency–Collection – Provincial Directorate of XX (“Agency” or “Ader”), regarding the notification of two seizure orders dated XX (execution proceedings nos. XX and XX) to two private individuals (Messrs. XX and XX) with whom the complainant had entered into, several years earlier, a residential rental agreement which was subsequently terminated, in relation to a property subsequently sold. A series of documents were attached to the complaint, including the rental agreement, with a duration from XX to XX, registered on XX at the Revenue Agency - Provincial Directorate of XX (XX), the termination notice dated 1/8/2016, as well as the sales contract (registered on XX) with which the complainant subsequently sold the same real estate.
+The complainant then complained that at the time of notification of the two seizure notices, there was no longer any legal relationship with the third parties seized in question, with the consequence that the Agency had unlawfully communicated to the latter data and information relating to it.
+2. The investigation activity.
+In responding to the request for information formulated by this Department (with a note dated 4 May 2023), the Agency, with a note dated 18 May 2023, declared, in particular, that:
+“art. 18 of Legislative Decree no. 112/1999, provides that the Collection Agents are authorized to access, even electronically, all data relevant for these purposes, even if held by Public Offices with the right to view and extract copies of documents regarding the assets of debtors registered in the register and joint debtors, as well as to obtain, on plain paper, the relevant certifications. Furthermore, the agents, for the same purposes, are also authorized to access the information available in the information system of the Ministry of Finance and in the information systems of other creditors, without prejudice to the confidentiality and secrecy requirements that may be invoked on the basis of provisions of law or regulation” (p. 2);
+“Within the scope of the preliminary investigation activities prior to the seizure (…), a specific consultation of the data of the Tax Registry was carried out by an employee of Ader, authorized to process personal data with authorization to operate, by accessing the A.R.CO portal. online on 09/12/2022” (p. 3);
+“in the section “Registry Documents (…) the deed XX registered at the U.T. of XX on XX was detected, in which the taxpayer appears as Dante Causa (Landlord) in the “RENTAL OF PROPERTY FOR RESIDENTIAL USE” Shop”. In this regard, the Agency also specified that “the data shown in the section of interest (Registry Documents) are limited to the mere listing of the registered legal transactions (…) while the duration and/or expiry of the contract cannot be obtained from the same source” (p. 3);
+“This information referring to the “Registry Acts” area, on the basis of the guidelines issued over time by the Revenue Agency and the Ministry of Finance (…) (Circular no. 98E of 20/11/200\[1\]; Circular 215 of 27/11/2000), has been identified among those that are of “primary importance” for the protection of tax credit” (p. 4);
+“The processing operations in question, which cannot be traced back to automated decision-making processes pursuant to art. 22 of the GDPR, were carried out by the operator in a specific manner for the debtor’s tax code with the aid of the tools and applications in use respectively at the Relevant Default Office (…) and the Third Party Procedures Office (…)” (p. 4);
+Equitalia Group Circular No. 92 of 1/7/2015 provides that "in the case of rental fees resulting from a contract registered in the two years prior to notification of the payment notice, the enforcement procedure on the registered immovable/movable property must always be initiated, after examining the rental contract itself and confirming the debtor's current ownership of the registered immovable/movable property leased" (p. 5);
+"For contracts registered after two years, however, if the registered immovable/movable property is still owned by the debtor, before proceeding with enforcement, it is expected that the third party tenant be sent a request for an out-of-court declaration pursuant to art. 75 bis of Presidential Decree 602/73" (p. 5);
+“In the case in question, the Regional Directorate XX reported anomalies in the checks required with respect to the methods previously described and in use” and “Following the check requested from the Regional Directorate XX, which \[highlighted\] the reported anomaly, the DPO proceeded to request, on 05.12.2023, from the Central Directorate for Collection Strategy, a specific intervention to raise awareness among staff on the correct application of the internal regulations for the implications associated with the protection of personal data” (p. 6);
+“The circumstance of the termination of the contract was subsequently detected and acquired with the negative feedback provided by the third party following the procedure (…) and placed in support of any request for definition due to the uncollectability of the quota according to the requirements set out in the current legislation. It is therefore highlighted that the negative declaration made by the third party had the effect of putting an end to the procedure with third parties in question, as per the communication from the Regional Directorate XX of 05.12.2023” (p. 6);
+“no other anomalies of the species treated were recorded” (p. 6).
+On the basis of the elements acquired, the Office notified the Agency, with a note dated 15 September 2023, pursuant to art. 166, paragraph 5, of the Code, the initiation of the procedure for the adoption of the provisions referred to in art. 58, paragraph 2, of the Regulation, contesting the Agency for the violation of arts. 5, paragraph 1, letters a) and d), and 6, paragraph 1, letter e), of the Regulation, as well as art. 2-ter of the Code, since, having failed to verify the validity and actuality of the ownership of the immovable property by the claimant, it notified - also in breach of the indications contained in the aforementioned Circular no. 92 of 10/7/2015 - the two third-party seizure orders in question to persons who, no longer being tenants of the property (now sold) formerly owned by the claimant, could not be classified as seized third parties.
+In this context, the Office invited the Agency to produce defensive documents or documents or to request to be heard by the Authority (art. 166, paragraphs 6 and 7, of the Code; as well as art. 18, paragraph 1, of Law no. 689 of 24 November 1981). The Agency, with a note dated 11 October 2023, transmitted its defensive briefs, representing, in particular, that:
+- “The specific treatment contested pertains to the management of seizures pursuant to 72-bis” of Presidential Decree 29 September 1973, no. 602, “containing the order to pay directly to the collection agent addressed to the third debtor, identified on the basis of the information acquired from the tax register or from the register of financial relationships” (p. 2);
+- “The main activities of the processing in question concern the retrieval of information taken from databases - pursuant to art. 18 of Legislative Decree no. 112/1999 and art. 3 of Legislative Decree no. 193 of 22 October 2016 - carried out only by operators with a specific qualification profile and in the performance of the consequent enforcement procedures for collection or for the preparation and notification of seizures of third parties” (p. 2);
+- “In the context of these complex procedures, internal circular no. 92 of 01/07/2015 aimed at providing specific indications regarding the movable assets enforcement procedure at the debtor as well as the value to be attributed to some “Areas of information” arising from the query of the Tax Registry” (p. 2);
+- “the Regional Directorate XX, characterized by the presence of high operating volumes, has implemented in the period 01.01.2023 to 09.30.2023 n 31,634 seizure acts at third parties” (p. 3);
+- “the processing is to be considered on a large scale and for the same a specific risk assessment has been carried out (…) for which the Body, taking into account the data processed, the defined processing methods and the security measures, on the basis of the analyses carried out, has not identified significant residual risks for the rights and freedoms of the interested parties” (p.3);
+- “despite the various security measures envisaged and implemented by AdeR, in the matter that is the subject of the complaint, a violation of personal data occurred relating to a single interested party, attributable to mere human error. In fact, the violation occurred as a result of the failure to verify the validity and topicality of the existing relationships before carrying out two seizures on third parties, following the findings deriving from the timely consultation of the data of the Tax Registry, by accessing the A.R.CO portal, carrying out a communication to third parties of the complainant's personal data” (see p. 3). In this regard, based on what was reported by the Regional Directorate XX, the Agency declared that "an isolated error occurred committed by the operator authorized to process the data who, through mere negligence, in the preparatory phases for the activation of the aforementioned seizures, did not complete the necessary checks, in particular, to confirm the elements required by the internal regulations of the Agency aimed at ascertaining the persistence of the rental relationship between the third party seized and the taxpayer resulting from the archive of the Tax Registry" (p. 4);
+- "Internal circular no. 92 of 2015, as far as it is of specific interest, with reference to rental contracts on the active side, established that "in the case of rental fees resulting from a contract registered in the two years prior to the notification of the payment notice, the enforcement procedure on the registered immovable/movable property must always be started, after examining the rental contract itself and confirming the current ownership by the debtor of the registered immovable/movable property leased. For contracts registered after two years, however, if the registered immovable/movable property is still owned by the debtor, before proceeding with enforcement, it is expected that the third party tenant will be sent a request for an out-of-court declaration pursuant to art. 75 bis of Presidential Decree 602/73” (p. 3);
+- “the processing operations that are the subject of the violation were carried out in a timely and non-massive manner by the operator authorized for the tax code of the debtor concerned” (pp. 3 and 4);
+- “the third party seizure procedure against the debtor was activated (…) without the operator having previously carried out the verification activities that are explicitly provided for by the internal legislation and the procedures cited above” (p. 4);
+- “The personal data of the taxpayer concerned, reported in the documents sent to two third parties seized, belong to the category of common data referred to in \[the\] art. 4 of the GDPR and refer to: name and surname, date and place of birth, residence, tax code and debt position” (p. 4);
+- “the same acts \[of seizure of third parties\] were notified to the Third Parties on 02/08/2023 but promptly revoked on 02/25/2023 following a negative declaration made by one of the seized third parties” (p. 4);
+- “As previously communicated by the competent Regional Directorate XX, no other operational errors of the type in question were recorded” (p. 4);
+- the violation is “attributable exclusively to the negligent non-application, by the authorized operator, of the checks provided for by internal circular no. 92 of 2015 of the Authority as regards the preparatory checks for the activation of seizures of third parties”. Checks that the operator did not carry out “through mere negligence”. The error must therefore be traced back "to one of those "human factors" that are not always fully measurable, predictable and/or preventable and, as such, place their occurrence in that percentage of "residual risk" that can never be completely eliminated, despite any "adequate" technical-organizational measure that the data controller may have adopted" (p. 5);
+- "the processing in question was promptly interrupted by the Regional Directorate XX following the negative declaration made by the third party following a request specifically provided for in the deed of seizure of third parties" (p. 5);
+- "the Data Protection Officer requested, on 12/05/2023, the Central Directorate for Collection Strategies and Services for a specific intervention to raise awareness among staff on the correct application of internal regulations with particular reference to aspects related to the protection of personal data and the possible negative consequences on the rights and freedoms of the interested parties"; the aforementioned Directorate "has transmitted, through the territorial Networks of the Authority, a note (...) aimed at drawing the attention of the Regional Directorates to the need to prevent potential risks for the rights and freedoms of the citizens concerned". Specifically, "the attention of the operators has been drawn to compliance with the mandatory checks provided for by circular no. 92 of 2015 in the processing activities connected to the analysis of the taxpayers' assets through the consultation of the Tax Registry in the treatment of seizure from third parties" (p. 6);
+- the “general technical and organizational measures adopted by the Authority” are divided into “a complex “Personal Data Protection Management System” (also “SGPD”), present in a specific section of the Intranet”, “a periodic and generalized training and awareness-raising activity for staff”, “a complex system of policies and procedures”, “the periodic review of the documentation and the adequacy of the technical and organizational measures implemented”, “the implementation of projects (…) structured to support active and participatory management of integrated data governance and data protection processes” (p. 7);
+- the Revenue Agency - Collection “applies the code of ethics of concessionaires and collection officers pursuant to art. 8, paragraph 3, of Legislative Decree 112/1999 which defines the obligations of correctness to which they must adhere in the management of procedures” and “is ISO 27001 and ISO 9001 certified” (p. 9);
+- “the Authority has considered, unless otherwise advised by the Authority, that the occurrence of a “distraction”, due to simple tiredness and/or other personal conditions of the authorised operator, in failing to implement some controls provided for by internal procedures, cannot constitute an indication of the lack in the Authority itself of adequate technical-organisational measures prescribed by art. 32 of the Regulation” (p. 9).
+3. Outcome of the investigation.
+3.1. Applicable legislation.
+The legislation on the protection of personal data requires the applicability, to each processing, of the principles listed in art. 5 of the Regulation, including those of “lawfulness and correctness”, as well as of “accuracy” according to which, in particular, personal data must be “accurate and, where necessary, kept up to date” and “all reasonable steps must be taken to erase or rectify inaccurate data without delay, having regard to the purposes for which they were processed” (Article 5, paragraph 1, letter a) and d), of the Regulation).
+With particular reference to the case in question, it should be noted that the processing of personal data was carried out by the Agency for collection purposes, in the context of the performance of a task of public interest and finds its legal basis in the sector discipline of national law (Article 6, paragraphs 1, letter e), and 3, of the Regulation, Article 2-ter of the Code, and especially Article 72-bis of Presidential Decree no. 602/1973).
+Furthermore, with regard, in particular, to the communication of personal data to third parties, given that art. 2-ter, paragraph 4, of the Code clarifies that “communication” means “the disclosure of personal data to one or more specific subjects other than the interested party, the representative of the controller in the territory of the European Union, the manager or his representative in the territory of the European Union, the persons authorised, pursuant to Article 2-quaterdecies, to process personal data under the direct authority of the controller or manager, in any form, including by making them available, consulting them or by interconnecting them”, the same article also provides that “The legal basis provided for by Article 6, paragraph 3, letter b), of the Regulation is constituted by a law or regulation or by general administrative acts” and that “The dissemination and communication of personal data, processed for the performance of a task of public interest or connected to the exercise of public powers, to subjects who intend to process them for other purposes are permitted only if provided for pursuant to paragraph 1 or if necessary pursuant to paragraph 1-bis” (paragraphs 1 and 3).
+In this perspective, in order to ensure correct and transparent processing in compliance with the data subject, taking into account the specific circumstances and context in which the personal data are processed, it is appropriate for the data controller to implement appropriate technical and organizational measures (Article 24 of the Regulation).
+3.2. Assessments.
+From the assessment carried out on the basis of the elements acquired and the facts that emerged following the investigation, as well as from the subsequent assessments of the Office, it appears that the Agency, in violation of the principles of lawfulness, correctness and accuracy (Article 5, paragraph 1, letter a) and d), and 6, paragraph 1, letter e), of the Regulation, as well as Article 2-ter of the Code has unlawfully communicated to Mr. XX and Mr. XX the personal data relating to the complainant, as the aforementioned persons were erroneously classified as third-party debtors of the same on the basis of two incorrect assumptions, namely the validity of the rental agreement stipulated in XX, and the continued ownership, by the complainant, of the previously rented property.
+As can be seen from the documents and, in particular, from the declarations made by the data controller, this erroneous belief arose because the necessary checks on the validity of the rental agreement and on the current ownership of the property were not carried out, in order to correctly identify the assets subject to seizure, before the initiation of the enforcement procedure, in violation of art. 5, par. 1, letter d), of the Regulation. It appears, in fact, that, despite the considerable amount of time that elapsed between the registration of the rental agreement and the notification of the two seizure notices in question (i.e. from XX to 2023) – not only the validity of the rental agreement, which has since ceased, between the complainant and Messrs. XX and XX, but also the current ownership by the complainant of the property now sold, were not ascertained in advance; a verification that would have avoided the communication to third parties complained of by the complainant.
+Furthermore, it should be added that, in order to verify the topicality of the information obtainable from the ARCO application, relating to the rental fees resulting from the previously registered contract, the aforementioned circular no. 92/2015 identifies measures to implement the principle of accuracy of the data to be used in the context of seizures of the fees received by the debtor. These measures provide, with specific reference to the procedures necessary for the initiation of an enforcement procedure for contracts registered after two years, "the sending to the third-party tenant of a request for an out-of-court declaration pursuant to art. 75 bis of Presidential Decree 602/73" in the event that "the registered immovable/movable property is still owned by the debtor, before proceeding with enforcement", (sending, however, not carried out in this case); this, without however referring, also for this case, to "the examination of the rental contract itself" which is instead expressly requested only "in the case of a contract registered in the two years prior to the notification of the payment notice", even in the face of a shorter period of time elapsed since the start of the procedure. From this examination, it would have been possible to deduce that the duration of the rental contract was originally set until 31 January 2020, except for the termination which then occurred already in August 2016.
+In this regard, it is also noted that the data controller has not demonstrated that it has implemented further technical and organizational measures aimed at soliciting and verifying, before the start of the enforcement action, compliance, by employees, with the aforementioned indications provided in the circular to ensure the accuracy of the data necessary for the purpose of identifying the assets to be seized. Such indications, in fact, although partially inadequate, would in any case have avoided the undue communication of data complained of in the complaint.
+From the above observations, therefore, derives the inadequacy and insufficiency of the indications in the aforementioned circular and, more generally, of the measures adopted in order to ensure full compliance with the principle of accuracy in the processing of data carried out in the context of seizures which, in the case in question, would have avoided the undue communication to third parties of data relating to the debt situation of the claimant, also with potential damage to his reputation, in violation of the principles of lawfulness, correctness and accuracy pursuant to Articles 5, paragraph 1, letters a) and d), and 6, paragraph 1, letter e), of the Regulation, as well as Article 2-ter of the Code.
+4. Conclusions.
+In light of the assessments referred to above, taking into account the declarations made by the data controller during the investigation ˗ the truthfulness of which one can be held accountable pursuant to Article 168 of the Code ˗ it is noted that the elements provided by the data controller in the defensive briefs, although worthy of consideration, do not allow to overcome the findings notified by the Office with the act of initiation of the proceeding and are insufficient to allow the archiving of the present proceeding pursuant to art. 14, paragraph 1, of the Regulation of the Guarantor n. 1/2019, since none of the cases provided for by art. 11 referred to therein apply.
+Therefore, the preliminary assessments of the Office are confirmed and the unlawfulness of the processing of personal data carried out by the Revenue Agency - Collection is noted on the assumption that the processing of the complainant's personal data - and, in particular, the communication of the same to third parties - was carried out in a manner not compliant with the principles of lawfulness, correctness, and accuracy, in the absence of a suitable regulatory basis, in violation of art. 5, paragraph 1, letter a). a) and d), 6, par. 1, letter e) of the Regulation and art. 2-ter of the Code.
+5. Corrective measures (art. 58, par. 2, letter d) of the Regulation).
+The investigation conducted revealed, in particular, the inadequacy of the measures adopted by the Agency in the context of the enforcement procedures to ensure full compliance with the principle of accuracy in the processing of personal data relating, in particular, to rental agreements.
+Art. 58, par. 2, letter d), of the Regulation provides that the Guarantor has the corrective power to "order the data controller \[...\] to bring the processing into conformity with the provisions of this Regulation, where appropriate, in a specific manner and within a specific period".
+In this context, due to the unlawfulness of the processing carried out, it is deemed necessary to order the Agency, pursuant to art. 58, par. 2, letter d), to: d), of the Regulation, where it has not already done so, to adopt further measures to ensure compliance with the principle of accuracy in contexts similar to the one under examination, at least by providing that:
+- with reference to the requirements necessary for the purposes of initiating an enforcement procedure, the examination of the rental agreement is expressly provided for also for rental agreements registered more than two years prior to the notification of the payment notice;
+- procedural mechanisms are introduced to prove the execution, by the employee, of the required checks on the validity of the rental agreements and on the current ownership of the property.
+Pursuant to Articles 58, paragraph 1, letter a), of the Regulation and 157 of the Code, the Agency must also communicate to this Authority the initiatives undertaken in order to implement what was ordered above pursuant to the aforementioned Article 58, paragraph 2, letter d) of the Regulation within thirty days of notification of this provision.
+6. Adoption of the injunction order for the application of the administrative pecuniary sanction and accessory sanctions (articles 58, par. 2, letter i) and 83 of the Regulation; art. 166, paragraph 7, of the Code).
+The Guarantor, pursuant to arts. 58, par. 2, letter i) and 83 of the Regulation as well as art. 166 of the Code, has the power to “impose a pecuniary administrative sanction pursuant to Article 83, in addition to the \[other\] \[corrective\] measures referred to in this paragraph, or in place of such measures, depending on the circumstances of each individual case” and, in this context, “the Board \[of the Guarantor\] adopts the injunction order, with which it also provides for the application of the accessory administrative sanction of its publication, in full or in extract, on the website of the Guarantor pursuant to Article 166, paragraph 7, of the Code” (Article 16, paragraph 1, of the Guarantor Regulation no. 1/2019).
+Taking into account that the violation of the aforementioned provisions occurred as a result of a single conduct (the same processing or processing operations linked to each other), Article 83, paragraph 3, of the Regulation applies, pursuant to which the total amount of the administrative pecuniary sanction does not exceed the amount specified for the most serious violation. Considering that, in this case, all violations, relating to articles 5 and 6 of the Regulation, as well as 2-ter of the Code, are subject to the sanction provided for by art. 83, par. 5, of the Regulation, as also referred to in art. 166, paragraph 2, of the Code, the total amount of the sanction is to be quantified up to €20,000,000.
+The aforementioned administrative pecuniary sanction imposed, depending on the circumstances of each individual case, must be determined in amount taking into due account the elements provided for by art. 83, par. 2, of the Regulation.
+Taking into account the overall fact that:
+the violation, which involved only one interested party, occurred in an organizational context characterized by the presence of high operating volumes, within which the Regional Directorate XX implemented in the period 01.01.2023 to 09.30.2023 n. 31,634 acts of seizure of third parties and in the context under examination, no other operational errors of the type under examination were recorded (see note of 11 October 2023, pp. 3 and 4; art. 83, par. 2, letter a), of the Regulation);
+the conduct is negligent in nature (art. 83, par. 2, letter b), of the Regulation);
+the processing in question concerned personal data which, although not belonging to the special categories referred to in art. 9 of the Regulation or coinciding with those relating to criminal convictions or offences referred to in art. 10 of the Regulation, nevertheless pertain to the sphere of the private life of the interested party and have a connotation of particular sensitivity and delicacy, concerning the debt situation of the interested party (art. 83, par. 2, letter g), of the Regulation);
+it is considered that, in this case, the level of severity of the violation committed by the data controller is medium (see European Data Protection Board, “Guidelines 4/2022 on the calculation of administrative pecuniary sanctions under the GDPR” of 24 May 2023, point 60).
+Given the above, it is considered that, for the purposes of quantifying the sanction, the following mitigating circumstances must be taken into account:
+there are no previous relevant violations committed by the data controller or previous measures pursuant to art. 58 of the Regulation (art. 83, par. 2, letter e), of the Regulation);
+the data controller cooperated with the Authority during the investigation, also by raising awareness among all employees regarding the correct application of the regulations on the processing of personal data and the related obligations, in particular by drawing the attention of operators to compliance with the mandatory checks provided for by Circular no. 92 of 2015; this, however, as illustrated above, is not sufficient to ensure full compliance with the principle of accuracy in this context (see note of 18 May 2023, p. 6; art. 83, par. 2, letter f), of the Regulation).
+In light of the aforementioned elements, assessed as a whole, it is deemed appropriate to determine the amount of the pecuniary sanction in the amount of EUR 40,000 (forty thousand) for the violation of art. 5, par. 1, letters a) and d), and 6, par. 1, letter e), of the Regulation, as well as art. 2-ter of the Code, as an administrative pecuniary sanction deemed, pursuant to art. 83, par. 1, of the Regulation, to be effective, proportionate and dissuasive.
+In this context, it is also believed that, pursuant to art. 166, paragraph 7, of the Code and art. 16, paragraph 1, of the Regulation of the Guarantor no. 1/2019, it is necessary to proceed with the publication of this chapter containing the injunction order on the website of the Guarantor. This is in consideration of the circumstance that the processing concerned, in this case, inaccurate personal data, with the consequent undue communication to third parties of information characterized by particular sensitivity and delicacy, such as that relating to the debt conditions of the complainant, in the absence of adequate measures suitable to reduce the risks for the rights and freedoms of the interested parties. 
+Finally, it is noted that the conditions set out in art. 17 of Regulation no. 1/2019 concerning internal procedures having external relevance, aimed at carrying out the tasks and exercising the powers delegated to the Guarantor, are met. 
+WITH ALL THIS IN MIND, THE GUARANTOR
+pursuant to art. 57, par. 1, letter f) and 83, declares the conduct of the Revenue Agency-Collection, with registered office in Via Giuseppe Grezar, n. 14, 00142 Rome, C.F. 13756881002, described in the terms set out in the reasons, to be unlawful, consisting in the violation of articles 5, par. 1, letters a) and d), and 6, par. 1, letter e), of the Regulation, as well as art. 2-ter of the Code;
+ORDERS
+the Revenue Agency-Collection, in the person of its legal representative pro tempore, with registered office in Via Giuseppe Grezar, n. 14, 00142 Rome, C.F. 13756881002, to pay the sum of Euro 40,000 (forty thousand).
+ORDER
+- the aforementioned Agency, in the event of failure to settle the dispute pursuant to art. 166, paragraph 8, of the Code, to pay the sum of Euro 40,000.00 (forty thousand) according to the methods indicated in the attachment, within 30 days of notification of this provision, under penalty of the adoption of the consequent executive actions pursuant to art. 27 of Law no. 689/1981. It is represented that, pursuant to art. 166, paragraph 8, of the Code, the right of the offender to settle the dispute by paying - always according to the methods indicated in the attachment - an amount equal to half of the fine imposed within the deadline referred to in art. 10, paragraph 3, of Legislative Decree no. 150 of 1 September 2011 provided for the filing of the appeal as indicated below;
+- the aforementioned Agency, pursuant to art. 58, par. 2, letter d), of the Regulation, to adopt further measures to ensure compliance with the principle of accuracy in the context in question, also providing the Guarantor, within the same deadline, pursuant to Articles 58, par. 1, letter a), of the Regulation and 157 of the Code, adequately documented feedback on the initiatives undertaken in order to implement what has been ordered.
+ORDERS
+- pursuant to Article 166, paragraph 7, of the Code and Article 16, paragraph 1, of the Guarantor Regulation no. 1/2019, the publication of the injunction order on the Guarantor's website;
+- pursuant to Article 154-bis, paragraph 3, of the Code and Article 37 of the Guarantor Regulation no. 1/2019, the publication of this provision on the Authority's website;
+- pursuant to Article 17 of the Regulation of the Guarantor no. 1/2019, the annotation of the violations and measures adopted in accordance with art. 58, par. 2 of the Regulation, in the internal register of the Authority provided for by art. 57, par. 1, letter u), of the Regulation.
+Pursuant to art. 78 of the Regulation, 152 of the Code and 10 of Legislative Decree no. 150/2011, against this provision it is possible to lodge an appeal before the ordinary judicial authority, under penalty of inadmissibility, within thirty days from the date of communication of the provision itself or within sixty days if the appellant resides abroad.
+Rome, 19 December 2024
+THE PRESIDENT
+Stanzione
+THE REPORTER
+Ghiglia
+THE DEPUTY SECRETARY GENERAL
+Filippi
+
+Retrieved from "[https://gdprhub.eu/index.php?title=Garante\_per\_la\_protezione\_dei\_dati\_personali\_(Italy)\_-\_10103672&oldid=45981](https://gdprhub.eu/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10103672&oldid=45981)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [Garante per la protezione dei dati personali (Italy)](/index.php?title=Category:Garante_per_la_protezione_dei_dati_personali_\(Italy\) "Category:Garante per la protezione dei dati personali (Italy)")
+*   [Italy](/index.php?title=Category:Italy "Category:Italy")
+*   [Article 5(1)(a) GDPR](/index.php?title=Category:Article_5\(1\)\(a\)_GDPR "Category:Article 5(1)(a) GDPR")
+*   [Article 5(1)(d) GDPR](/index.php?title=Category:Article_5\(1\)\(d\)_GDPR "Category:Article 5(1)(d) GDPR")
+*   [Article 6(1)(a) GDPR](/index.php?title=Category:Article_6\(1\)\(a\)_GDPR "Category:Article 6(1)(a) GDPR")
+*   [Article 6(3) GDPR](/index.php?title=Category:Article_6\(3\)_GDPR "Category:Article 6(3) GDPR")
+*   [Article 24 GDPR](/index.php?title=Category:Article_24_GDPR "Category:Article 24 GDPR")
+*   [Italian](/index.php?title=Category:Italian "Category:Italian")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10103672 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10103672 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10103672&oldid=45981 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10103672&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=Garante_per_la_protezione_dei_dati_personali_%28Italy%29_-_10103672&id=45981&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 25 February 2025, at 14:53.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.034","walltime":"0.048","ppvisitednodes":{"value":452,"limit":1000000},"postexpandincludesize":{"value":1855,"limit":2097152},"templateargumentsize":{"value":767,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":35831,"limit":5000000},"timingprofile":\["100.00% 5.477 1 Template:DPAdecisionBOX","100.00% 5.477 1 -total"\]},"cachereport":{"timestamp":"20250829185651","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":416});});

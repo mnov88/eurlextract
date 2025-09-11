@@ -1,0 +1,353 @@
+ ArbG Düsseldorf - 9 Ca 6557/18 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"f08e9a2632576751c62fcd7b","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ArbG\_Düsseldorf\_-\_9\_Ca\_6557/18","wgTitle":"ArbG Düsseldorf - 9 Ca 6557/18","wgCurRevisionId":21923,"wgRevisionId":21923,"wgArticleId":2484,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["ArbG Düsseldorf (Germany)","Germany","Article 6(1)(c) GDPR","Article 6(1)(f) GDPR","Article 6(1)(d) GDPR","Article 15(1) GDPR","Article 15(2) GDPR","Article 15(3) GDPR","Article 82(1) GDPR","2020","German"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"ArbG\_Düsseldorf\_-\_9\_Ca\_6557/18","wgRelevantArticleId":2484,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:ArbG_D%C3%BCsseldorf_-_9_Ca_6557/18&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=ArbG_D%C3%BCsseldorf_-_9_Ca_6557/18&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=ArbG_D%C3%BCsseldorf_-_9_Ca_6557/18&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=ArbG+D%C3%BCsseldorf+-+9+Ca+6557%2F18&returntoquery=oldid%3D21923 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# ArbG Düsseldorf - 9 Ca 6557/18
+
+From GDPRhub
+
+Revision as of 13:51, 16 December 2021 by [FA](/index.php?title=User:FA&action=edit&redlink=1 "User:FA (page does not exist)") ([talk](/index.php?title=User_talk:FA&action=edit&redlink=1 "User talk:FA (page does not exist)") | [contribs](/index.php?title=Special:Contributions/FA "Special:Contributions/FA"))
+
+([diff](/index.php?title=ArbG_D%C3%BCsseldorf_-_9_Ca_6557/18&diff=prev&oldid=21923 "ArbG Düsseldorf - 9 Ca 6557/18")) [← Older revision](/index.php?title=ArbG_D%C3%BCsseldorf_-_9_Ca_6557/18&direction=prev&oldid=21923 "ArbG Düsseldorf - 9 Ca 6557/18") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+ArbG Düsseldorf - 9 Ca 6557/18
+
+[![CourtsDE-NW.png](/images/thumb/a/aa/CourtsDE-NW.png/250px-CourtsDE-NW.png)](/index.php?title=File:CourtsDE-NW.png)
+
+Court:
+
+[ArbG Düsseldorf (Germany)](/index.php?title=Category:ArbG_D%C3%BCsseldorf_\(Germany\) "Category:ArbG Düsseldorf (Germany)")
+
+Jurisdiction:
+
+[Germany](/index.php?title=Category:Germany "Category:Germany")
+
+Relevant Law:
+
+[Article 6(1)(c) GDPR](/index.php?title=Article_6_GDPR#1c "Article 6 GDPR")  
+[Article 6(1)(f) GDPR](/index.php?title=Article_6_GDPR#1f "Article 6 GDPR")  
+[Article 6(1)(d) GDPR](/index.php?title=Article_6_GDPR#1d "Article 6 GDPR")  
+[Article 15(1) GDPR](/index.php?title=Article_15_GDPR#1 "Article 15 GDPR")  
+[Article 15(2) GDPR](/index.php?title=Article_15_GDPR#2 "Article 15 GDPR")  
+[Article 15(3) GDPR](/index.php?title=Article_15_GDPR#3 "Article 15 GDPR")  
+[Article 82(1) GDPR](/index.php?title=Article_82_GDPR#1 "Article 82 GDPR")  
+[Article 8(2) CFR](https://eur-lex.europa.eu/eli/treaty/char_2012/art_8/oj?locale=en)  
+[Article 4(3) TEU](https://eur-lex.europa.eu/eli/treaty/teu_2016/art_4/oj?locale=en)  
+[Article 1(1) GG](https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html#p0019)  
+[Article 2(1) GG](https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html#p0023)  
+[§ 130(1) BGB](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p0396)  
+[§ 253(2)2 ZPO](https://www.gesetze-im-internet.de/englisch_zpo/englisch_zpo.html#p0928)  
+[§ 26 BDSG](https://www.gesetze-im-internet.de/englisch_bdsg/englisch_bdsg.html#p0222)  
+[§ 275(1) BGB](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p0826)  
+[§ 286 ZPO](https://www.gesetze-im-internet.de/englisch_zpo/englisch_zpo.html#p1067)  
+[§ 286(1) ZPO](https://www.gesetze-im-internet.de/englisch_zpo/englisch_zpo.html#p1067)  
+[§ 288 (1) BGB](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p0872)  
+[§ 291 BGB](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p0882)  
+[§ 362(1) BGB](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p1362)  
+[§ 823(1) BGB](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p3489)
+
+Decided:
+
+05.03.2020 Published:
+
+Parties:
+
+National Case Number/Name:
+
+9 Ca 6557/18
+
+European Case Law Identifier:
+
+ECLI:DE:ARBGD:2020:0305.9CA6557.18.00
+
+Appeal from:
+
+Appeal to:
+
+Pending appeal  
+[LAG Düsseldorf (Germany)](/index.php?title=Category:LAG_D%C3%BCsseldorf_\(Germany\) "Category:LAG Düsseldorf (Germany)")  
+14 Sa 294/20
+
+Original Language(s):
+
+[German](/index.php?title=Category:German "Category:German")
+
+Original Source:
+
+[NRWE (in German)](https://www.justiz.nrw.de/nrwe/arbgs/duesseldorf/arbg_duesseldorf/j2020/9_Ca_6557_18_Urteil_20200305.html)
+
+Initial Contributor:
+
+ManTechnologist
+
+The claim for a data copy under Article 15(3) GDPR can be objected to on the basis of the principle of good faith that the efforts of the person responsible are grossly disproportionate to the interests of the claimant.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+The parties argue about data protection information and information, the issuing of copies and compensation.
+
+### Holding
+
+1.  on the conditions and fulfilment of the right to information under Article 15 (1), (2) of the DS-GVO in the employment relationship
+2.  the right to be granted a data copy under Art. 15 (3) DS-GVO can be objected to on the basis of the principle of good faith that the effort and expense of the person responsible is grossly disproportionate to the claimant's interest in performance.
+3.  the conditions and assessment of a claim for compensation for non-material damage under Art. 82(1) DS-GVO, here in the case of a breach of the right to information under Art. 15(1) DS-GVO
+
+* * *
+
+1.  Order the defendant to provide the applicant with information on the following questions:
+
+1.  the purposes for which the personal data of the plaintiff have been processed since 07.06.2018 and
+2.  the categories of personal data processed
+
+1.  order the defendant to pay the applicant EUR 5 000 plus interest at 5 percentage points above the base rate since 9 October 2019
+2.  for the rest, the action is dismissed.
+3.  the plaintiff is ordered to pay the costs of the lawsuit.
+4.  the amount in dispute in the decision: € 152,982.81
+5.  the appeal is allowed for both parties.
+
+## Comment
+
+_Share your comments here!_
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the German original. Please refer to the German original for more details.
+
+Offense:
+The parties argue about data protection information and information, the issuing of copies and compensation.
+The defendant is an I. company based in Düsseldorf. An employment relationship existed between her and the plaintiff until January 31, 2018, in which the plaintiff received a regular gross monthly salary in the amount of Achieved € 11,956.90. The defendant sent personal data of the plaintiff to companies I. (T.) and I. (N.).
+In the inter alia. X. independently manages the reception of the building used by the defendant on behalf of the defendant and accepts its letters. On June 7, 2018, a letter was sent to the receptionist by registered letter against return receipt. The X. employee I. acknowledged the receipt on the return receipt (reprint attachment K4, p. 339 dA). It is disputed whether the content of the letter was the plaintiff's letter of June 5, 2018 (reprinted as Appendix K1, pp. 5 ff. DA).
+With the complaint delivered to the defendant on November 19, 2018, which was partially withdrawn and substantiated, the plaintiff first requests information and information on the processing of personal data by the defendant and other companies and requests copies of this data.
+By email dated December 9, 2018 (Annex S1, pages 314 et seq. DA), the attorney-at-law sent the defendant's attorney-at-law to the plaintiff's attorney-at-law, a letter from the defendant dated November 27, 2018, referring to further attachments, a bundle of Copies of personal data and copies of a data transfer agreement dated 23.05.2018. For details, reference is made to the letter and the separate system folder. In the quality hearing on December 10, 2018, the counsel gave the plaintiff, among other things. a password to an internet resource where the documents could be accessed.
+In the written statement dated January 21, 2019 (pp. 68 ff. DA), the plaintiff named individual aspects regarding which the information and information provided was incomplete. On this basis, the court formulated a request for information (minutes Bl. 59 fdA) in the second hearing on 7 February 2019 in agreement with the parties.
+The plaintiff believes that the information should be provided about all data that the defendant has about him. The decisive factor is the database at the time the information is requested. The information initially given and the additional information were incomplete. To the extent that the defendant relied on the fact that most of the documents requested from him were annexes to their defense in the Duesseldorf Labor Court procedure - 12 Ca 1965/18 - they concede that at least some of the documents had not been communicated in the local proceedings.
+The plaintiff demands compensation with the defendant on October 9, 2019. The defendant violated several of E.'s requirements. So the information was given late. He had already asserted his rights under Articles 13 and 15 E. by letter dated June 5, 2018 (Appendix K1, Bl. 5 ff. DA), which he had sent to the defendant against return receipt from June 7, 2018. He formulated the letter successively in the weeks before June 5, 2018, read it out to his wife and other family members on the morning of June 5, 2018, signed it in their presence and gave it to the post office together with his wife. When he received it at the reception operated by X., it came within the defendant's sphere of influence, so that she had to react to it within one month, at the latest within three months.In addition, the information on the questions asked and the data transfer agreement was incomplete. The violations of E. caused immaterial damage, the new data protection law does not provide for a minimum threshold. According to the European legislator, the resulting claim must result in full, effective compensation for the damage suffered and act as a deterrent. He asked for 12 gross monthly salaries.effect effective compensation for the damage suffered and act as a deterrent. He asked for 12 gross monthly salaries.effect effective compensation for the damage suffered and act as a deterrent. He asked for 12 gross monthly salaries.
+By further expanding the complaint, the plaintiff requests information about the instruction to delete the data transmitted to I. and I. and their implementation. The defendant should also hand over a complete, unblanked copy of the data transfer agreement. The data were not transferred to secure third countries and the defendant had not ensured that the requirements of Art. 44 E. had been implemented, in particular for data deletion. The submitted extracts from the agreement are incomplete.
+After the plaintiff has partially withdrawn and specified the request for information and information, he finally requests that the defendant be sentenced to:
+    1. to inform him whether his personal data are processed by the defendant or by other persons or companies,
+    2. provide him with information on the following questions:
+        a. the purposes for which his personal data have been processed since the request for information and the legal basis for the respective processing;
+        b. if the processing is based on Art. 6 Para. 1 lit. f E. is based on the legitimate interests pursued by the controller or a third party;
+        c. the categories of personal data that are processed;
+        d. the recipients or categories of recipients to whom the personal data has been or will be disclosed;
+        e. the presence or absence of an adequacy decision by the Commission or in the case of transfers pursuant to Art. 46 or Art. 47 or Art. 49 (1) subparagraph. 2 E. a reference to the appropriate or reasonable guarantees associated with the transfer and the ability to receive a copy from you or where they are available;
+        f. the planned duration for which the personal data will be stored or, if this is not possible, the criteria for determining this duration;
+        G. whether the provision of personal data was required by law or contract or was necessary for the conclusion of a contract;
+        H. if the personal data is not collected from him as the data subject, all available information about the origin of the data;
+        i. the existence of automated decision-making, including profiling, in accordance with Art. 22 Para. 1, 4 E. and - at least in these cases - meaningful information about the logic involved and the scope and intended effects of such processing for him as the data subject and
+        j. the purpose of further processing, insofar as the defendant intends to process the personal data for a purpose other than that for which the personal data was collected, as well as in this case all other information in accordance with the applications under para. 2 lit. f to lit. i;
+    3. to give him a copy of the personal data that the defendant has processed,
+    4. him € 143,482.81 as compensation for the non-material damage plus interest in the amount of To pay 5 percentage points above the base rate since pending
+    5. to inform him who, when, in what way and to whom the defendant has given companies I. and I. instructions to delete his data transmitted to them,
+    6. to inform him who, when and how the under point. 5 has carried out the aforementioned deletion and
+    7. Send him a complete, unblanked copy of the Data Transfer Agreement (DTA) including all annexes.
+
+The defendant claims that
+              reject the complaint.
+
+The plaintiff's request for information and information, insofar as there is any claim after the data processing, had been completely fulfilled on December 9/10, 2018. In the course of this, a copy of all processed personal data was also transmitted. No further data to be copied was available. She complied in time with the requests, of which she only became aware when the action was brought. With no knowledge, she denies that the content of the letter received at the reception on June 7, 2018 was the request for information and information submitted as Annex K1. It was not forwarded to her and could not be found. As far as the plaintiff complains that documents from the further proceedings ArbG Düsseldorf - 12 Ca 1965/18 - were not presented in the local proceedings,that the majority of the documents were annexes to this procedure and that the documents were released to her legal representative in the course of 2017.
+Since the plaintiff's requests had been fully and timely met, there was no right to compensation.
+In addition, she had submitted to him the relevant and, in this respect, unclouded extracts from the data transmission agreement. The requirements of Art. 15 Para. 2 E. are thus fulfilled, there is no entitlement to further information.
+Due to the details of the state of affairs and the dispute, reference is made to the briefs exchanged between the parties together with the annexes and the result of the hearing.
+Reasons for decision:
+I. The action is admissible, but only partially justified.
+1.               The application is admissible.
+a)               The German courts have international jurisdiction, Art. 79 para. 2 E. and - in relation to the claim to 4) - in conjunction. Art. 82 para. 6 E ..
+b)              The final claim for 1) is sufficiently determined within the meaning of Section 253 (2) no.2 ZPO. The plaintiff requests the defendant to provide information in accordance with Art. 15 Para. 1 Hs. 1 E. about the data processing by himself and by - no longer restricted, hence all - other persons or companies. The indefinite linking of application components ("and / or") contained in previously announced application versions as well as the limitation to companies with insufficiently determining criteria ("group of companies" etc.) have been dropped. Neither was the passage initially introducing the motion for complaint 2), which was unclear whether it should be an impermissible extra-procedural condition or the motion to file a second stage of a class action.For the rest, the items are based on the catalogs of Art. 13, 15 E .. The plaintiff is not required to limit his requests for information and information by more specific wording than the requirements of the regulation.
+2.               The action is only partially justified.
+a)               The application for 1) is unfounded.
+aa)               On the one hand, the plaintiff is asserting the right to information according to Art. 15 Para. 1 ms. 1 E., directed at information as to whether the plaintiff's personal data are processed by the defendant. The rights of Chapter III of the E. directly applicable under Art. 288 (2) TFEU also apply in the employment relationship. These general provisions of the E. contain a full regulation, also on employee data protection (see LAG Baden-Württemberg December 20, 2018 - 17 Sa 11/18 - marginal 172) . A relevant deviation here iSd. Art. 88 E. has not been brought forward or is otherwise apparent.
+The right to information according to Art. 15 Para. 1 Hs. 1 E. has expired due to fulfillment, § 362 Para. 1 BGB. The defendant answered the question in the letter dated November 27, 2018 ad 1. The plaintiff has not argued that this information is incorrect, but rather assumes that the defendant processes the data himself. The plaintiff did not take the notice of November 27th, 2018 as an occasion to withdraw the application for a claim or to declare it settled, so that it is subject to rejection.
+bb)              On the other hand, the claim for 1) contains a request for information against the defendant as to whether other persons and companies would process the plaintiff's personal data. Such a right to information does not exist, especially not from Art. 15 para. 1 ms. 1 E .. The claim is directed against the person responsible in the sense of. Art. 4 No. 7 E., which must provide information about the data processing carried out by him. There is no obligation to notify third parties about personal data processing. This is confirmed by the information subject of Art. 15 Para. 1 lit. c E. According to which the person responsible must also disclose recipients or categories of recipients to whom the personal data have been or will be disclosed within the scope of the information. This information according to Art.15 para. 1 lit. c. E. The person concerned has the opportunity to assert his rights under Art. 12 ff. E. against the recipients. The E. distinguishes between different responsible persons. That the defendant is a processor in the sense of The plaintiff has not spelled out Art. 28 E., who work on their behalf and whose data processing the defendant might have to provide information about.
+b)               The application for 2) is justified to the extent evident from the operative part. Further claims to information from Art. 15 Para. 1, 2 E. or to information from Art. 13, 14 E. do not exist or have expired.
+aa)               The claim for 2) lit. a is justified insofar as the plaintiff requests information about the purposes for which the defendant has been processing his personal data since 07.06.2018.
+(1)               The plaintiff has filed against the defendant under Art. 15 para. 1 lit. a E. a right to information about the processing purposes for which his personal data are processed by the defendant.
+(2)               In terms of time, information about the purposes of the processing must be provided from June 7, 2018 to the day of the last oral hearing.
+(a)               The controller generally does not have to provide information about data that he has processed in the past and which he may no longer have. On the other hand, he should not be able to avoid the obligation to provide information by deleting the data. For the scope of the request for information, grds. the data stock at the time of the request for information was decisive (Bäcker, in Kühling / Buchner, E./BDSG, 2nd edition, Art. 15 marginal 8 mwN.) .
+(b)               The defendant must provide the information related to receipt of the request for information dated June 5, 2018 on June 7, 2018. The board came to the conclusion that the plaintiff's claim is true that the letter received on that day by registered mail at the reception operated by X. contained his request for information and information (Annex K1). The defendant's letter was received on the same day.
+(aa)              According to the principle of free evaluation of evidence enshrined in § 286 ZPO, the court has to decide, taking into account the entire content of the negotiations and the result of any evidence, whether a factual claim is to be considered true or not. In view of the inadequacy of human knowledge, it is hardly ever possible to achieve a certainty that excludes any doubt; therefore it cannot be requested. It depends on the personal conviction of the decisive judge, who, in doubtful cases, must be satisfied with a level of certainty that is useful for practical life. The provision of Section 286 (1) ZPO requires a level of conviction that allows doubt to remain silent without completely excluding it(BAG April 25, 2018 - 2 AZR 611/17 - paragraph 24; June 25, 2014 - 7 AZR 847/12 - paragraph 40; February 25, 1998 - 2 AZR 327/97 - paragraph 18; LAG Düsseldorf 10 May 2017 - 12 Sa 939/16 - paragraph 75; BGH September 13, 2012 - I ZR 14/11 - paragraph 13) . Section 286 (1) ZPO requires consideration of the entire dispute. Procedural and pre-procedural acts, statements and omissions by the parties and their representatives should also be recognized. The case law recognizes that the judge may can also hold contested party claims by means of conclusions from other undisputed or established facts without taking evidence. The judge can also come to a certain conviction based solely on evidence, even despite testimony to the contrary(LAG Düsseldorf 10 May 2017 - 12 Sa 939/16 - paragraph 75; BAG 20 August 2014 - 7 AZR 924/12 - paragraph 37; 25 February 1998 - 2 AZR 327/97 - paragraph 19) .
+(bb)               According to these standards, the Chamber is convinced that the letter received at the reception on June 7, 2018 by registered mail contained the plaintiff's request for information and information dated June 5, 2018 (Appendix K1).
+(aaa)               The starting point is the fact, which was no longer disputed, that a registered letter (envelope) was received at the externally managed reception of the building used by the defendant on June 7, 2018, to which the return receipt brought in by the plaintiff relates. The sender of the envelope was the plaintiff, otherwise it cannot be explained how he should have obtained the receipt. The addressee was the defendant, as can be seen from the uncontested information on the return receipt.
+The fact remains that the plaintiff only sent a single letter (envelope) to the defendant by post. The attorney-at-law expressly stated this in the chamber hearing on March 5, 2020. The plaintiff did not oppose this or mentioned any other letter to the defendant in the course of the proceedings. The testimony of T. in the course of the survey, which spoke of various written and bagged letters and initially suggested that the defendant had been the addressee, was not accepted by any party. The applicant's representative rather interpreted the information as meaning letters to him, which the witness then confirmed.
+(bbb)               The remaining question of proof that the envelope actually contained the applicant's request for information and information must be answered in the affirmative.
+Witness T. stated that the plaintiff had read the letter in front of her, signed it, bagged it in, and given it to the post office as a registered letter against return receipt. The witness is credible. At first she gave her statement calmly and without any noteworthy nervousness and gave the chamber the impression of reporting from her own experience. It also showed why she could remember a normal everyday occurrence; the parties involved were keen to provide testimony and further evidence for the sending of the letter, especially since the plaintiff had already been involved in several legal disputes with the defendant. Although she, as the plaintiff's wife, should hope for a positive outcome of the legal dispute, gaps in memory also admittedin particular on the specific procedure at the post office counter. The Chamber did not give any indication that the testimony had been discussed with the plaintiff or the other witness X. would have. The positive impression of the credibility of the witness was only diminished - but not decisively - in the further course of her questioning, when she became more nervous and her statements became less clear. This was understandable after she had been made aware that she was wrong about the date of dispatch and the defendant's representative persistently asked whether her testimony had been agreed.The board does not have the fact that the testimony with the plaintiff or the other witness X. has been discussed in detail, especially since it might have been expected that the witness would not have expressly committed herself to a dispatch date that contradicted the factual circumstances. The positive impression of the credibility of the witness was only diminished - but not decisively - in the further course of her questioning, when she became more nervous and her statements became less clear. This was understandable after she had been made aware that she was wrong about the date of dispatch and the defendant's representative persistently asked whether her testimony had been agreed.The board does not have the fact that the testimony with the plaintiff or the other witness X. has been discussed in detail, especially since it might have been expected that the witness would not have expressly committed herself to a dispatch date that contradicted the factual circumstances. The positive impression of the credibility of the witness was only diminished - but not decisively - in the further course of her questioning, when she became more nervous and her statements became less clear. This was understandable after she had been made aware that she was wrong about the date of dispatch and the defendant's representative persistently asked whether her testimony had been agreed.that the witness would not have expressly committed herself to a dispatch date that contradicted the undisputed facts. The positive impression of the credibility of the witness was only diminished - but not decisively - in the further course of her questioning, when she became more nervous and her statements became less clear. This was understandable after she had been made aware that she was wrong about the date of dispatch and the defendant's representative persistently asked whether her testimony had been agreed.that the witness would then not have expressly committed herself to a dispatch date that contradicted the factual circumstances. The positive impression of the credibility of the witness was only diminished - but not decisively - in the further course of her questioning, when she became more nervous and her statements became less clear. This was understandable after she had been made aware that she was wrong about the date of dispatch and the defendant's representative persistently asked whether her testimony had been agreed.The positive impression of the credibility of the witness was only diminished - but not decisively - in the further course of her questioning, when she became more nervous and her statements became less clear. This was understandable after she had been made aware that she was wrong about the date of dispatch and the defendant's representative persistently asked whether her testimony had been agreed.The positive impression of the credibility of the witness was only diminished - but not decisively - in the further course of her questioning, when she became more nervous and her statements became less clear. This was understandable after she had been made aware that she was wrong about the date of dispatch and the defendant's representative persistently asked whether her testimony had been agreed.
+The witness' testimony is credible. The details of the facts that are the subject of the evidence question were detailed. It stated in detail how the applicant had read, signed and put in the letter he had written in the previous weeks. She provided information on the time of day, the location of the event, the thematic content and the people present. All of this information coincided with the description of the plaintiff previously heard personally and, like the plaintiff, went far beyond the written presentation in the details. The two deviations that occurred (trip to the post office with one or two vehicles, date of dispatch) do not altogether question the credibility of the statement, since around 21 months had passed since the time of the survey.
+The plaintiff's presentation and the testimony of the witness T. were confirmed by the credible testimony of the credible witness X. The witness, who is also in the plaintiff's camp, is credible, since he stated without question that the plaintiff, his father-in-law, asked him about memories of that letter. In addition, he did not listen carefully when reading the letter. Witness X credibly announced the course of events, reported on the subject of the letter, the time, place and occasion of the family meeting, the people present and their positions at the kitchen table.
+(ccc)               In the overall view of the undisputed facts and the taking of evidence, the chamber is convinced that on 05.06.2018 the plaintiff read out, signed, enveloped and sent a registered letter of return for information and information to the defendant, where it was assigned to the third party Reception arrived on June 7th, 2018. The temporal proximity of the sending and receiving dates also speaks for this. The board has no indication that the envelope which was undisputedly received was empty or contained any letter other than a signed printout of Appendix K1.
+(ddd)               It was unnecessary to hear witness B. since the evidence was provided.
+(cc)               Upon receipt of the request for information and information at the reception, the defendant received it himself on the same day in accordance with Section 130 (1) BGB.
+(aaa)               According to § 130 para. 1 BGB, a declaration of intent to be received among the absent becomes effective at the time it is received by the recipient. A written declaration of intent has then been received as soon as it has reached the actual power of disposal of the recipient or a third party authorized to receive it in the customary manner and the recipient has the opportunity under normal circumstances to read the content of the letter. The recipient's area includes reception devices upstream (st. Rspr., See only BAG 22 August 2019 - 2 AZR 111/19 - marginal no. 12 mwN.). It is sufficient if the letter is handed over to a person who is legally authorized or is to be regarded as authorized according to the traffic opinion to represent the recipient in the reception (BAG June 9, 2011 - 6 AZR 687/09 - marginal no. 12 mwN. ; November 11, 1992 - 2 AZR 328/92 - marginal 33; Einsele, in MünchKommBGB, 8th edition, § 130 marginal 25) .
+(bbb)              X. - a legal form has not been shown - is the defendant's receiving messenger. By virtue of legal transactions, it is empowered to accept declarations of intent for the defendants. X. operates independently, among other things. on behalf of the defendant, the reception in the building used by the defendant, in which (known to the court) other I. companies are housed. A reception usually represents the first point of contact, especially for a postman who needs personal proof of delivery of a registered letter. Accordingly, the XI employee accepted the envelope and acknowledged it. That he would not have been entitled to do so, or on the basis of which circumstances a different view was necessary,the defendant did not begin to speak.
+(ccc)               The defendant's request was received on the day of receipt at the reception. Under normal circumstances, she had the opportunity to take note of it on her own day. Usually a receptionist will not leave mail for even a day, but will just pass a registered letter to the recipient within a few hours.
+(c)              Beyond 07.06.2018, the purposes of the processing must be communicated by the day of the last oral hearing. For the scope of the request for information - as a backward limit - is generally. the data stock at the time of request for information is decisive. However, this does not mean that the information is limited to this. Rather, data processing that follows the request for information must be included, at least if the information is not provided within the deadlines of Art. 12 Para. 3 E. A default by the information debtor cannot be of benefit to him. This broader understanding also corresponds to the wording in the presence as well as the purpose of Art. 15 E., which wants to enable the data subject to check the lawfulness of the processing of personal data and the rights from Art.12 ff. E.(Ehmann, in Ehmann / Selmayr, E., 2nd edition, Art. 15 marg. 1 mwN.) . This contradicts if he would have to make another request for information after waiting for months, possibly due to the data processing in the meantime. In the meantime, it is questionable whether another purpose of data processing, a further category of personal data etc. has been added in the meantime, especially since the employment relationship between the parties had ended before the request for information.
+(3)               This claim of the plaintiff has not expired by fulfillment according to § 362 Paragraph 1 BGB.
+(a)               According to Art. 12 Para. 1 S. 1 E., the person responsible takes suitable measures, in particular the communication according to Art. 15 Para. 1 E. in a precise, transparent, understandable and easily accessible form in a clear and simple language to transmit. The regulation wants to achieve transparency of data processing, especially with information about the purposes of processing (cf. EG 39 of the E.) . The information on the purpose must be complete and so concrete and detailed that the person concerned can get an idea of ​​which data processing is carried out for which purposes(Baker, in Kühling / Buchner, E./BDSG, 2nd ed., Art. 15 para. 12 in conjunction with Art. 13 para. 25; on Art. 5 para. 1 lit. b E. Heberlein, in Ehmann / Selmayr, E., 2nd ed., Art. 5 marg. 14; Pötters, in Gola, E., 2nd ed., Art. 5 marg. 14) . It also depends on when the requirements for earmarking from Art. 5 Para. 1 lit. b E. are fulfilled and whether a change of purpose according to Art. 6 Para. 4 E. comes into effect, so that general information on the purpose cannot fulfill the meaning of the information.
+(b)              The information on processing purposes in the letter dated November 27, 2018 ad 2a does not meet these requirements. The defendant declares there that the data processing for the purpose of the employment relationship, namely for its processing and termination, for the fulfillment of existing legal obligations and for the protection of legitimate interests according to § 26 BDSG and Art. 6 Para. 1 lit. (b,) c and f E. successes. The defendant thus gives a blanket statement of almost the entire range of obvious purposes in private law, without communicating the purposes in concrete and detailed terms. The insufficient transparency is reinforced by the fact that the defendant first refers to an appendix "I." (The court assumesthat this is the "Appendix 1" referenced elsewhere and thus the bundle of documents from the separate system folder, communicated by beA on 14/15. 11.2019. In any case, the defendant has not demonstrated otherwise.) The reference to an attachment, especially if it consists of hundreds of pages, does not replace a communication in form and language in accordance with Art. 12 para. 1 sentence 1 E ..
+bb)               The further claim for 2) lit. a is unfounded.
+(1)               Insofar as the plaintiff has a right to information under Art. 15 Para. 1 lit. a E. wants to assert against the defendant, according to which it must provide information about the purposes of the processing by third parties, the claim is unfounded. As with Art. 15 para. 1 ms. 1 E., the right to information is basically. only on the data processing by the defendant as the responsible in the sense of Art. 4 no. 7 E. directed, see above
+(2)               The part of the application according to which the defendant should be sentenced to provide the legal basis for the respective processing is also unfounded. In this respect, the application is undecided.
+(a)               This request is based noticeably on the information obligation from Art. 13 para. 1 lit. c or Art. 14 para. 1 lit. c E .. After that, the person concerned is, among other things, at the time of data collection. communicate the legal basis for data processing. No other legal basis is apparent. In particular, there is no correspondence in the catalog of the duty to provide information in Art. 15 para. 1 E. (Franck, in Gola, E., 2nd ed., Art. 15 marg. 7) .
+(b)               The claim for information about the legal basis of data processing is undecided. The claim arose for data collections from the point in time at which E. became valid, ie from May 25, 2018, Art. 99 Para. 2 E .. It is not apparent from the plaintiff's submission that the defendant has since affected personal data has raised why he could request the information provided.
+As the defendant correctly stated in the letter of November 27, 2018, the information cannot be given retrospectively. A "transparency reset" on May 25, 2018, i.e. the one-off information of all data subjects according to the new rules, is not required by the E. (aptly Franck, in Gola, E., 2nd edition, Art. 13 marg. 37 mwN.) .
+bb)               The claim for 2) lit. b is unfounded. The only possible basis for claims are the information obligations from Art. 13 Para. 1 lit. d or Art. 14 para. 2 lit. b E., which the defendant would not have to comply with retrospectively, but at the time of data collection after May 25, 2018, see above
+cc)               The claim for 2) lit. c is justified. The plaintiff can by the defendant according to Art. 15 para. 1 lit. b E. Request information about the categories of personal data that are processed regarding him. In terms of time, the right to information includes data processing in the period from 07.06.2018 to the day of the last oral hearing, so
+The claim is not as a result of the notification in the letter dated November 27, 2018 ad 2d by fulfillment iSd. Section 362 (1) of the German Civil Code has expired because it is exhausted in a reference to the bundle of documents in Appendix 1 that does not meet the requirements of Art. 12 (1) sentence 1 E. On the plaintiff's content, especially in the brief of January 21, 2019 (Bl. 72 ff. dA), to what extent the information regarding this is inadequate, does not matter.
+dd)               The claim for 2) lit. d is unfounded. The plaintiff had against the defendant from Art. 15 para. 1 lit. c E. a right to information about the recipients or categories of recipients to whom the personal data have been or will be disclosed.
+The claim expired upon fulfillment, Section 362 (1) BGB. In the letter dated November 27, 2018 ad 2e, the defendant stated that the plaintiff's personal data had been disclosed to companies I. (T.) and I. (N.). The plaintiff has not made a definite claim that this information about recipients of data was incorrect or incomplete.
+              As far as the plaintiff on page 7 of the document of 21.01.2019 (Bl. 74 dA) complains that "information about the salary payment data to the corresponding internal or external service provider of the defendant party" would be missing, "for example I.", he has not demonstrated that an external data recipient would be missing in the defendant's designation. Internal recipients do not have to be notified. And J. is mentioned, without the plaintiff saying that he meant another company. It is accordingly the case if the plaintiff addresses on p. 8 of the same document the confirmations of conformity that were part of the personnel file and were transmitted to D. The defendant stated that it had disclosed data on the plaintiff's I. in D.
+              Furthermore, the plaintiff states that the data passed on by various other companies or institutions would be missing, such as the I., the I., companies of the I. in Switzerland, the Netherlands and Belgium or an I. The plaintiff brings did not express that the defendant passed on data to these companies and therefore according to Art. 15 Para. 1 lit. c E. Should provide information. Rather, it lacks information on the data processed, especially passed on, by the other companies. The defendant is not obliged to provide information about third-party data processing on its own responsibility.
+ee)               The claim for 2) lit. e is also unfounded.
+(a)               According to its wording, this claim aims at the right to information from Art. 13 Para. 1 lit. f or Art. 14 para. 1 lit. f E .. In this respect, the application is undecided. The defendant does not have to comply with the information obligations retrospectively, but at the time of data collection after May 25, 2018
+(b)               Instead, the plaintiff had a right to information from Art. 15 Para. 2 E., which at least partially covers the request for this claim.
+The plaintiff had the right to be informed of the appropriate guarantees in accordance with Art. 46 E. in connection with the transfer. The defendant transmitted the plaintiff's personal data to a third country outside the European Union. The data transfers were - according to the statements not challenged by the plaintiff in the communication dated November 27, 2018 ad 2e - standard contracts in the sense of Decision of the European Commission of June 15, 2001 (2001/497 / EC). Such contracts contain audited standard data protection clauses in accordance with Art. 46 Para. 2 lit. c E., whereby earlier decisions of the commission under the validity of the E. grds. remain valid, Art. 46 Para. 5 Clause 2 E. (Schröder, in Kühling / Buchner, E./BDSG, 2nd edition, Art. 46 para. 26 with footnote 30) .
+This claim expired upon fulfillment, § 362 Paragraph 1 BGB. The defendant informed the plaintiff in the notification dated November 27, 2018 that the data transfer agreements concluded would correspond to the standard contracts examined. It also submitted the appropriate guarantees, which should therefore be regarded as suitable, by sending the plaintiff the two relevant contractual passages with the obligations of the data transmitter ("Obligations of the data exporter") and of the data recipient ("Obligations of the data importer"). The fact that they are available to the plaintiff is evident from the fact that the plaintiff submitted these documents to the file as Appendix K5 (p. 378 ff. A right to information beyond the appropriate guarantees does not arise from Art. 15 Para. 2 E.
+ff)               The claims for 2) lit. f, lit. h and lit. i unfounded.
+According to Art. 15 para. 1 lit. d E. a right to information about the planned duration for which the personal data will be stored. Based on Art. 15 Para. 1 lit. g E. he could request all available information about the origin of the data, unless the personal data were collected from him as the data subject. According to Art. 15 Para. 1 lit. h. E. could request information in connection with automated decision making.
+The claims expired as a result of fulfillment, Section 362 (1) BGB. In the communication dated November 27, 2018, the defendant provided information on the storage period under 2f and gave a negative attestation under 2j and 2k that personal data would only be collected from the plaintiff and that automated decision-making would not take place. The plaintiff did not criticize these statements as incorrect or incomplete.
+gg)               Finally, the claims to 2) lit. g and lit. j unfounded. The plaintiff requests information about the provision of personal data, Art. 13 para. 2 lit. e E., as well as for purposes of further processing, apparently based on Art. 13 Para. 3 and Art. 14 Para. 4 E. .. The claims are undecided. The defendant does not have to comply with the information obligations retrospectively, but at the time of data collection or an intended change of purpose after May 25, 2018, so
+c)               The application for 3) is unfounded. According to Art. 15 Para. 3 S. 1, 4 E., the controller provides the data subject with a copy of the personal data that is the subject of processing, provided that the rights and freedoms of other people are not affected. However, the plaintiff has no claim.
+aa)               Insofar as the defendant made copies available to the plaintiff as Annex 1 of the notification dated November 27, 2018, the claim asserted (to be granted a first copy) has expired upon fulfillment, Section 362 (1) BGB. Provision in electronic form is possible, since Art. 12 Para. 1 S. 2 E. leaves the debtor leeway for written requests (Bäcker, in Kühling / Buchner, E./BDSG, 2nd edition, Art. 15 marg 44; Schmidt-Wudy, in BeckOK data protection law, 31st edition, Art. 15 para. 83) . A special preparation is not necessary (baker mentioned above, Art. 15 marginal 40). Since the plaintiff did not respond to the notification dated November 27, 2018, for example withdrawn the motion for a claim or declared it completed, he must be dismissed. There is no reason to believe that the applicant maintained the request to get the same copies again; this would also be subject to payment according to Art. 15 para. 3 sentence 2 E.
+bb)              Insofar as the plaintiff mentioned aspects in the document dated January 21, 2019, regarding which the information and copies were incomplete (to which the court formulated an information request in the quality hearing on February 7, 2019), there is also no claim. The defendant submitted that the data had all been deleted insofar as the information about it had not already been given. This also applies to the documents that her attorney brought in the proceedings before the Düsseldorf Labor Court - 12 Ca 1965/18 -; these are also no longer available to her. The plaintiff did not specifically oppose this. In particular, all of the attachments listed by the plaintiff in the document dated September 13, 2019 were attached to the defendant representative's document in the further proceedings,so that this does not contradict the defendant's argument that they have given these documents to the counsel. Deleted data cannot be made available as a copy, Section 275 (1) BGB(Franck, in Gola, E., 2nd ed., Art. 15 para. 39) .
+cc)              Insofar as the plaintiff submits unsubstantiated in the document dated January 21, 2019, that superiors and colleagues have stored data relating to him on notebooks, telephones, etc., that the data is disseminated, read out in the defendant's IT systems and newly stored and stored centrally If the servers contained numerous of his emails, there is also no right to the copies of this data being released. The effort to search for personal data of the plaintiff in all servers, databases, web applications, email mailboxes, directory structures, storage media, smartphones, notebooks and various other end devices of the defendant together with all of the plaintiff's superiors and colleagues in order to find them in To be able to issue a copy is grossly disproportionate to the plaintiff's interest in performance.Since the principle of good faith according to Art. 8 para. 2 sentence 1 GRCh and Art. 5 para. 1 lit. a E. applies to the entire data processing, the responsible person is not asked for a disproportionate effort per se(Franck, in Gola, E., 2nd ed., Art. 15 para. 38) .
+dd)               Since the application for 3) must be dismissed anyway, it may be the case that the application is directed to copies of data that the defendant has processed without any time limit. Art. 15 para. 3 sentence 1 E., on the other hand, is formulated in the presence.
+d)               The petition to 4) is justified to a small extent. The plaintiff is entitled to compensation in the amount of € 5,000 from Art. 82 Para. 1 E. plus interest.
+aa)               Article 82 (1) E. also applies directly in national law (LG Karlsruhe August 2, 2019 - 8 O 26/19 -) .
+bb)               The defendant as for the processing of the personal data of the plaintiff iSd. Art. 4 no. 7 E. Responsible person has violated E. According to Art. 82 Para. 1 E., every "violation of the regulation" can give rise to a liability to pay damages (Wybitul / Haß / Albrecht, NJW 2018, 113) .
+(1)               On the one hand, the defendant violated the stipulations of Art. 12 Para. 3 S. 1-3 E., according to which. a request for information according to Art. 15 E. must be answered within one month after receipt, after notification of an extension of the deadline within two further months. The board is convinced that the plaintiff's request for information was received on June 7, 2018 (see above I. 2. b) aa) (2) (b) of the reasons for the decision). The information was due for issue on 07.07.2018, at the latest on 07.09.2018, but was first provided on 10.12.2018 with the handover of the password required for viewing the electronically stored documents.
+(2)               On the other hand, the defendant has violated Art. 15 Para. a and lit b in connection with Art. 12 para. 1 sentence 1 E. by not sufficiently informing about the processing purposes and the categories of personal data that are processed (see I. I. b) aa) (3) and cc) the reasons for the decision).
+(3)               In the pleading dated December 23, 2019, the plaintiff stated that a further violation of the E. consisted in the fact that the data transfer agreement had not been submitted in full. However, the E. is not injured by this. In view of the data transmission here, subject to suitable guarantees iSd. Art. 46 E. is only to be informed of the appropriate guarantees within the framework of the right to information pursuant to Art. 15 para. 2 E. This has happened (see above I. 2. b) ee) of the reasons for the decision).
+(4)               Insofar as the plaintiff variously submits other data processing of the defendant and expresses that this is contrary to data protection, no further violations against E. are shown, for which the defendant would be liable according to Art. 82 (1) E. The plaintiff apparently names events during the ongoing employment relationship, which had already ended as of May 25, 2018 from the date of application of E.
+cc)               The defendant has not shown that it is not responsible for the violations, so that liability would not apply in accordance with Art. 82 Para. 3 E. In particular, it must ensure that it receives requests for data subjects in accordance with Art. 12 ff. E. even if a messenger is entitled to accept declarations of intent in legal transactions or by traffic view.
+dd)               Caused by the abovementioned violations, the plaintiff who has not brought forward any material damage has an intangible damage as defined by Art. 82 para. 1 E. suffered. The concept of damage is to be interpreted broadly in a way that fully corresponds to the goals of E. (EG 146; Bergt, in Kühling / Buchner, E./BDSG, 2nd ed., Art. 82 para. 17 ; Frenzel, in Paal / Pauly, E./BDSG, 2nd edition, Art. 82 marginal 10 mwN.). Non-material damage occurs not only in the "obvious cases" when the data protection-related processing leads to discrimination, a loss of confidentiality, damage to reputation or other social disadvantages, but also when the data subject is deprived of their rights and freedoms or is prevented from checking the personal data concerning them (EG 75) . By the defendant fulfilling the requirements of Art. 15 para. 1 ms. 1, ms. 2 lit. a, b in conjunction Art. 12 Para. 1, 3 E. has violated the plaintiff's right to information - the central right of data subjects - (cf. Ehmann, in Ehmann / Selmayr, E., 2nd edition, Art. 15 marg. 1 mwN .; Bakers, in Kühling / Buchner, E./BDSG, 2nd edition, Art. 5 marginal 1). A plaintiff's fundamental European right has also been violated; Art. 8 para. 2 sentence 2 GRCh expressly guarantees the right to information. Due to the months of late, then inadequate information, the plaintiff was in doubt and was prevented from checking, then only possible to a limited extent whether and how the defendant processes his personal data. The severity of the non-material damage is irrelevant for the establishment of liability according to Art. 82 Para. 1 E. and only affects the amount of the claim (LG Karlsruhe August 2, 2019 - 8 O 26/19 -; Gola / Pitz , in Gola, E., 2nd ed., Art. 82 para. 13 mwN. of the more restrictive par. to § 823 para. 1 BGB in conjunction with Art. 1 para. 1, Art. 2 para. 1 GG) .
+ee)               To compensate for this non-material damage, the Chamber holds an amount of 5,000 € for bid, but also sufficient.
+(1)               The person concerned should receive full and effective compensation for the damage suffered (EG 146) . Violations must be effectively sanctioned so that the E. can take effect, which is achieved primarily through compensation in a deterrent amount (Wybitul / Haß / Albrecht, NJW 2018, 113, 115; Bergt, in Kühling / Buchner, E./BDSG, 2 Ed., Art. 82 Paragraph 18; Frenzel, in Paal / Pauly, E./BDSG, 2nd Ed., Art. 82 Paragraph 10 mwN.). Courts can also base their assessment of intangible damages on Art. 83 Para. 2 E., so that the assessment criteria include, among other things, type, severity, duration of the violation, degree of fault, measures to reduce the damage suffered to the data subjects, and previous relevant ones Violations and the categories of personal data concerned can be considered(Quaas, in BeckOK data protection law, 31st edition, Art. 31; Wybitul / Haß / Albrecht, NJW 2018, 113, 115) . According to the concept of Art. 4 Para. 3 TEU, the member states - including the cognitive chamber - are obliged to help the E. to take effect.
+(2)              According to the principles, the defendant must pay damages in the amount of pay a total of € 5,000. The chamber has taken into account that the European legislator classifies the violated right as significant, as can be seen in addition to Art. 8 Para. 2 Clause 2 GRCh also in the assignment of Art. 12 ff. E. to the catalog of § 83 Para. 5 E. shows. It is not just a simple working paper. The violation continued for several months, during which the plaintiff was uncertain about the defendant's data processing. The period from 08.07. until 07.09.2018 was less significant than the approximately three months until 10.12.2018, since Art. 12 Para. 3 Sentence 2 E. expects the applicant - even after being informed about an extension of the deadline - up to three months to wait for the information.In addition, the requirements for the information to be provided are not only violated in terms of time, but also in terms of content. In addition, the defendant's considerable turnover, as claimed by the plaintiff, had to be taken into account. (The presentation is indisputable, but it is questionable whether it is the defendant's turnover or I. as a whole.) Since the compensation is to have an appropriate effect, its amount depends not only on the non-material damage that has occurred, but also on that Art. 4 no. 7 E. Responsible and their financial strength. In other words: The violation of the duty to provide information under Art. 15 E. by a less financially responsible person would result in lower damages.In addition, the defendant's considerable turnover, as claimed by the plaintiff, had to be taken into account. (The lecture is indisputable, but it is questionable whether it is the defendant's turnover or I. as a whole.) Since the compensation is to have an appropriate effect, its amount depends not only on the non-material damage that has occurred, but also on that Art. 4 no. 7 E. responsible and their financial strength. In other words: The violation of the duty to provide information under Art. 15 E. by a less financially responsible person would result in lower damages.In addition, the defendant's considerable turnover, as claimed by the plaintiff, had to be taken into account. (The lecture is indisputable, but it is questionable whether it is the defendant's turnover or I. as a whole.) Since the compensation is to have an appropriate effect, its amount depends not only on the non-material damage that has occurred, but also on that Art. 4 no. 7 E. Responsible and their financial strength. In other words: The violation of the duty to provide information under Art. 15 E. by a less financially responsible person would result in lower damages.its amount depends not only on the non-material damage that has occurred, but also on the amount specified in Art. 7 E. Responsible and their financial strength. In other words: The violation of the duty to provide information under Art. 15 E. by a less financially responsible person would result in lower damages.its amount depends not only on the non-material damage that has occurred, but also on the amount specified in Art. 7 E. Responsible and their financial strength. In other words: The violation of the duty to provide information under Art. 15 E. by a less financially responsible person would result in lower damages.
+In favor of the defendant, it is taken into account that negligent violations can be assumed. There are no indications of intent, that is to say the deliberate and deliberate late, then non-transparent response to the request for information. No other violations by the defendant against E. have been demonstrated. Furthermore, the Chamber does not understand why the amount of the plaintiff's remuneration should be included in the assessment of the damages. The severity of the non-material damage incurred, which mainly consists in the uncertainty about the processing of his data, does not depend on how much he earns. Special categories of personal data are also iSd. Art. 9 E. not substantially affected. Finally, despite the importance of the right to information under Art. 15 E.that the fine framework of Section 83 (5) E. used by the plaintiff should also be used to sanction serious violations of personal rights and to maintain proportionality. The non-material damage suffered by the plaintiff is insignificant.
+Taking all of this into account, the Chamber has estimated € 500 for the first two months of the delay, € 1,000 for the remaining three months and € 500 for the two deficiencies in the information.
+ff)               The awarded interest follows from §§ 291, 288 (1) BGB.
+e)               The applications to 5) to 7) are unfounded. A legal basis on which the plaintiff could base the pursuit of the requests is not apparent, to which the defendant has correctly pointed out.
+In connection with the data transmission here, subject to suitable guarantees in accordance with Section 46 E., the special duty to provide information arises from Art. 15 Para. 2 E .. The defendant has fulfilled this (see I. I. b) aa) (3) and ee) the reasons for the decision).
+
+II. The decision on costs follows from sections 92 (2) no. 1, 269 (3) ZPO, 46 (2) sentence 1 ArbGG.
+
+III. The value in dispute of the decision is to be determined in accordance with §§ 3 ff. The Chamber has set € 5,000 for the requests most recently pursued with claims for 1) and 2) (€ 2,000 for information under Art. 15 Para. 1, 2 E. regarding the defendant - as far as partial applications were withdrawn, they are not in the Decision-to-dispute value to be taken into account -, € 1,000 for information relating to other persons and companies, € 2,000 for the information requested according to Art. 13 E.) and the claim for 3) valued at € 3,000. The application to 4) was taken into account with its nominal value, the application to 5) to 7) with 500 € each.
+
+IV. In view of the fundamental importance of the matter, in particular the lack of a supreme and higher judicial clarification of the legal questions arising, the appeal had to be permitted separately, section 64 (3) no. 1 ArbGG.
+
+Retrieved from "[https://gdprhub.eu/index.php?title=ArbG\_Düsseldorf\_-\_9\_Ca\_6557/18&oldid=21923](https://gdprhub.eu/index.php?title=ArbG_Düsseldorf_-_9_Ca_6557/18&oldid=21923)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [ArbG Düsseldorf (Germany)](/index.php?title=Category:ArbG_D%C3%BCsseldorf_\(Germany\) "Category:ArbG Düsseldorf (Germany)")
+*   [Germany](/index.php?title=Category:Germany "Category:Germany")
+*   [Article 6(1)(c) GDPR](/index.php?title=Category:Article_6\(1\)\(c\)_GDPR "Category:Article 6(1)(c) GDPR")
+*   [Article 6(1)(f) GDPR](/index.php?title=Category:Article_6\(1\)\(f\)_GDPR "Category:Article 6(1)(f) GDPR")
+*   [Article 6(1)(d) GDPR](/index.php?title=Category:Article_6\(1\)\(d\)_GDPR "Category:Article 6(1)(d) GDPR")
+*   [Article 15(1) GDPR](/index.php?title=Category:Article_15\(1\)_GDPR "Category:Article 15(1) GDPR")
+*   [Article 15(2) GDPR](/index.php?title=Category:Article_15\(2\)_GDPR "Category:Article 15(2) GDPR")
+*   [Article 15(3) GDPR](/index.php?title=Category:Article_15\(3\)_GDPR "Category:Article 15(3) GDPR")
+*   [Article 82(1) GDPR](/index.php?title=Category:Article_82\(1\)_GDPR "Category:Article 82(1) GDPR")
+*   [2020](/index.php?title=Category:2020 "Category:2020")
+*   [German](/index.php?title=Category:German "Category:German")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/ArbG_D%C3%BCsseldorf_-_9_Ca_6557/18 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/ArbG_D%C3%BCsseldorf_-_9_Ca_6557/18 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=ArbG_D%C3%BCsseldorf_-_9_Ca_6557/18&oldid=21923 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=ArbG_D%C3%BCsseldorf_-_9_Ca_6557/18&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=ArbG_D%C3%BCsseldorf_-_9_Ca_6557%2F18&id=21923&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 16 December 2021, at 13:51.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.055","walltime":"0.073","ppvisitednodes":{"value":546,"limit":1000000},"postexpandincludesize":{"value":6166,"limit":2097152},"templateargumentsize":{"value":3317,"limit":2097152},"expansiondepth":{"value":6,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":54520,"limit":5000000},"timingprofile":\["100.00% 10.200 1 Template:COURTdecisionBOX","100.00% 10.200 1 -total"\]},"cachereport":{"timestamp":"20250829191921","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":864});});
