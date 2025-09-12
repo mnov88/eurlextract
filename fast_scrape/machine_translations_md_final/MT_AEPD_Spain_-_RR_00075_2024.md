@@ -1,1 +1,0 @@
-The campaign, carried out by the Agency and the Spanish Association of Pediatrics, promotes the digital health of minors through raising the awareness of their fathers and mothers, reducing the risks posed on a physical, mental and social level by intensive and uncontrolled use. of the screens.

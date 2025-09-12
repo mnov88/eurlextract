@@ -1,4 +1,0 @@
-Summary
-The Authority, if it considers that its competence to examine the complaint in question is established, as the personal data, the processing of which is being investigated, concern a judicial employee and fall within the administrative competences of the Administrative Court, finds a violation by the Court of the employee's right of access and addresses him, as the controller, a reprimand and instructs the Court to immediately satisfy the complainant's right of access, on the one hand, to his official file and on the other hand to the hard drive of the computer he was using.
-
-It also instructs the Court to ensure the appointment of a Data Protection Officer in accordance with the requirements of the GDPR, within two months, while rejecting the complainant's claim for an obligation to notify an incident of a personal data breach.

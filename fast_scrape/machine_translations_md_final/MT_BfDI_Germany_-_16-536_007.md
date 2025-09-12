@@ -1,1 +1,0 @@
-Instead of the usual external service providers, FragDenstaat uses the self-operated and therefore more data protection-friendly Matomo in order to obtain statistical evaluations of the use of the website without cookies. If you do not want this count, please click here and uncheck it. More information in our privacy policy.

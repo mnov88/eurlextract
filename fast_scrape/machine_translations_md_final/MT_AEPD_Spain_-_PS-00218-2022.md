@@ -1,1 +1,0 @@
-On August 4, 2021, A.A.A (hereinafter, the claimant) 2021 filed a complaint before the Spanish Data Protection Agency. The claim is directed against the MINISTRY OF INCLUSION,SOCIAL SECURITY AND MIGRATION. SUBDIRECCIÓN GENERAL DE RECURSOS HUMANOS E INSPECCIÓN GENERAL DE SERVICIOS with Tax Identfication Number S2801449F.
