@@ -1,0 +1,214 @@
+ AEPD (Spain) - E/00113/2019 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"112fff2ddf4c110ba4e4a60e","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"AEPD\_(Spain)\_-\_E/00113/2019","wgTitle":"AEPD (Spain) - E/00113/2019","wgCurRevisionId":37989,"wgRevisionId":37989,"wgArticleId":2118,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["AEPD (Spain)","Spain","Article 4(11) GDPR","Article 17(1)(b) GDPR","Spanish"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"AEPD\_(Spain)\_-\_E/00113/2019","wgRelevantArticleId":2118,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:AEPD_\(Spain\)_-_E/00113/2019&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=AEPD_\(Spain\)_-_E/00113/2019&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=AEPD_\(Spain\)_-_E/00113/2019&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=AEPD+%28Spain%29+-+E%2F00113%2F2019&returntoquery=oldid%3D37989 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# AEPD (Spain) - E/00113/2019
+
+From GDPRhub
+
+Revision as of 13:38, 13 December 2023 by [Ar](/index.php?title=User:Ar&action=edit&redlink=1 "User:Ar (page does not exist)") ([talk](/index.php?title=User_talk:Ar&action=edit&redlink=1 "User talk:Ar (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Ar "Special:Contributions/Ar")) (Ar moved page [AEPD - E/00113/2019](/index.php?title=AEPD_-_E/00113/2019 "AEPD - E/00113/2019") to [AEPD (Spain) - E/00113/2019](/index.php?title=AEPD_\(Spain\)_-_E/00113/2019 "AEPD (Spain) - E/00113/2019"))
+
+([diff](/index.php?title=AEPD_\(Spain\)_-_E/00113/2019&diff=prev&oldid=37989 "AEPD (Spain) - E/00113/2019")) [← Older revision](/index.php?title=AEPD_\(Spain\)_-_E/00113/2019&direction=prev&oldid=37989 "AEPD (Spain) - E/00113/2019") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+AEPD (Spain) - E/00113/2019
+
+[![LogoES.jpg](/images/thumb/5/59/LogoES.jpg/250px-LogoES.jpg)](/index.php?title=File:LogoES.jpg)
+
+Authority:
+
+[AEPD (Spain)](/index.php?title=AEPD_\(Spain\) "AEPD (Spain)")
+
+Jurisdiction:
+
+[Spain](/index.php?title=Category:Spain "Category:Spain")
+
+Relevant Law:
+
+[Article 4(11) GDPR](/index.php?title=Article_4_GDPR#11 "Article 4 GDPR")  
+[Article 17(1)(b) GDPR](/index.php?title=Article_17_GDPR#1b "Article 17 GDPR")
+
+Type:
+
+Complaint
+
+Outcome:
+
+Other Outcome
+
+Started:
+
+Decided:
+
+Published:
+
+24.02.2020 Fine:
+
+None
+
+Parties:
+
+FORMACION EMPRESARIAL DUAL ALEMANA
+
+National Case Number/Name:
+
+E/00113/2019
+
+European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+n/a
+
+Original Language(s):
+
+[Spanish](/index.php?title=Category:Spanish "Category:Spanish")
+
+Original Source:
+
+[AEPD (in ES)](https://www.aepd.es/es/documento/e-00113-2019.pdf)
+
+Initial Contributor:
+
+n/a
+
+The AEPD found that there is a freely given, unequivocal consent to the processing of personal data which is contained in personal documents that the data subject deliberately provides to the data controller. The SA also noted that any employment relationship between the data controller and the data data subject is to be determined by the competent administrative body.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+Complainant claimed that FORMACION EMPRESARIAL DUAL ALEMANA (hereinafter FEDA) registered him in the Social Security System without his consent as an employee because of a scholarship that had been granted to him. The complainant also claimed that FEDA held his personal data without his consent. Based on this alleged lack of consent, he exercised his right to erasure according to [Article 17(1)(b) GDPR](/index.php?title=Article_17_GDPR#1b "Article 17 GDPR").
+
+### Holding
+
+The AEPD found that the complainant had provided the FEDA with his personal documents for the purpose of participating in a German course and that this was a freely given, unequivocal consent to the processing of his personal data according to [Article 4(11) GDPR](/index.php?title=Article_4_GDPR#11 "Article 4 GDPR").
+
+The AEPD noted that to determine whether FEDA, having regard to the special features of the relationship between it and the complainant, was obliged to register him in the Social Security System, is a matter to be resolved by the competent administrative body.
+
+It finally said that in the absence of any evidence for violation of the data protection legislation and under the principle of the presumption of innocence guaranteed by the Spanish Constitution, it is appropriate to file the case.
+
+## Comment
+
+_Share your comments here!_
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the original. Please refer to the Spanish original for more details.
+
+FIRST: On 14/09/2018 a letter from Mr. A.A.A. was received by the Spanish Data Protection Agency (AEPD). (from now on, the claimant) by means of which he makes a claim against FORMACION EMPRESARIAL DUAL GERMANA, conNIF \*\*\*NIF.1 (from now on, the claimed or FEDA) for "registering him in the Social Security without his consent and for having his personal data without his consent". Attached to the complaint is abundant documentation: A copy of your ID card and, among others, the following documents Document with FEDA anagram called "Calendar, preparatory course for access to the Dual German Technical School for the Hotel Industry". The documents with the FEDA and Euro Campus logo and the shield of the \*\*\*EM-PRESA.1 called "Objective Test 1" and "Suitability interview and mo-tivational questionnaire". The documents have several fields related to the personal data of the claimant that are completed by hand, the letter used being the same one used by the claimant in the complaint submitted to the AEPD.3. Several emails exchanged between the claimant and (i) the director of FEDA, from the address \*\*\*EMAIL.1,and (ii) the coordinator of \*\*\*LOCA-LIDAD.1 D.ª B.B.B., from the address \*\*\*EMAIL.2 (i) - Dated 04/06/2018, in which he addresses the complainant in these terms: "(...)As already indicated in the course rules, this is a preparatory course for the German idio-ma to be able to opt later in the second phase to the training in hotel management. This first phase of 600 hours is subsidised by \*\*\*EMPRESA.1 for young people who do not have the language skills to qualify for a training place. (...)Returning to your accusations, I would like to point out that at no time during this first phase is there an employment contract between the two parties. In this case, you receive a scholarship which subsidizes the student for the amount of the transport pass so that he or she can attend classes every day and comply with the 600-hour schedule that belongs to you. This is something that, for example, the first promotion could not benefit from. (...)In short, this first phase is a 600-hour German course to qualify for a place in the dual training from autumn onwards" - From 05/06/2018, which reads: "(...) you indicate that you need to apply for unemployment. I repeat that there is no employment relationship at the moment so you will not be entitled to any benefits from the state. What you receive is a scholarship for the German course section...,"(ii) - Dated 18/04/2018, in which among other things it informs the claimant: "...For the internship there is no contract, you are insured with the scholarship contract withFEDA Madrid...". - Dated 02/05/2018, which states the following: "My recommendation is to continue with the classes and the effort with the German, but to be able to access the FP we do need a minimum... "b. Report of her working life in which it is stated that she was registered since January 2018, and for 151 days, in a situation of "registration" in the General System of the SS, as an employee of the company \*\*\*EMPRESA.1 \*\*\*LOCALIDAD.1 and that she was "registered" in the General System of the SS by the company FEDA, for a total of 81 days with a date of registration and effective date of 15/03/2018. 2. Letter from the Provincial Directorate of the INSS of \*\*\*LOCALIDAD.1 in which it is communicated that, in relation to the situation of temporary incapacity for work in which it finds itself, in accordance with Article 175.1.b) of the TRLGSS, this situation is suspended on 15/03/2018 on the grounds of having begun working for an employee in the company (the one claimed, FEDA)3. Written communication of 27/09/2018 from the Mutua de Accidentes de \*\*\*COMUNIDAD.AUTÓNO-MA.1, with the "Subject" "Undue IT benefit" in which it is communicated that the situation of Temporary Incapacity is suspended on 15/03/2018 due to the application of the provisions of article 175.1.b of the TRLGSS, having unduly received the benefit in the period between 15/03/2018 and 19/06/2018. 4. Decree of 07/08/2018, of \*\*\*EMPRESA.1 of \*\*\*LOCALIDAD.1, in which it is agreed that the claimant (Mr. A.A.A.) shall proceed to reimburse the amount of 107.85 euros, resulting from the settlement of the vacation of the month of June 2018.  The resolution issued on 21/06/2017 by the Disability Assessment Centre of the General Directorate of Dependency and Disability of the Regional Ministry of Employment and Social Policies of \*\*\*COMUNIDAD.AUTÓNOMA.1, which recognised the claimant's degree of disability as 47%.6. Document with the anagram of the \*\*\*ORGANISMO.1, Dirección de Atención Primaria, with a part of consultation related to the patient (the current claimant) issued by the Cole-giado on 28/02/2016. In accordance with article 9.4 of the Royal Decree-Law 5/2018, urgent measures for the adaptation of Spanish law to the European Union regulations on data protection, in the framework of the file with reference E/8592/2018, on 16/11/2018, the AEPD electronically transmits the claim to FEDA so that it can proceed with its analysis, inform the AEPD within a period of one month of what has happened and the actions taken to adapt to the requirements of the data protection regulations and inform the claimant of the result of its actions. On 28/11/2018 the information requirement to AFEDA is reiterated, this time by post. In accordance with the provisions of article 65.5 of the Organic Law 3/2018, of 5th December, on data protection and guarantees of digital rights (LOPDGDD) - which came into force on 07/12/2018 and repealed the aforementioned Royal Decree-Law 5/2018 - on 14/12/2018 the present claim is admitted for processing. The respondent states in its answer: -That the claimant exercised the right to suppress his personal data under Article 17 of the RGPD and alleged that the processing of his data was not delegated because he did not have his consent. FEDA responds, with respect to the first question, that "it will proceed to the suppression of data in its files, records and archives, without prejudice to the fact that they may be blocked for the purposes of Article 17.3 e) of the RGPD for the purpose of formulating the exercise or defense of claims". With regard to the second question, the alleged unlawful processing of the claimant's personal data, it states that it received the data directly from the claimant "on the premises of the Centre on the occasion of the application for a grant to study German in the Training Action: "German for the Hotel and Tourism Industry" on 14/02/2018". FEDA adds that the claimant was the beneficiary of a grant in his name, and that the processing of his data by the entity was based on the same legal basis as the processing. FEDA adds that the claimant was the beneficiary of a scholarship in his name, with the processing of his data by the entity on the same legal basis as the processing.  It indicates that the claimant during the months of March, April and May 2018 "was receiving a grant in the amount of 34.30 euros, which means a total of 102.9 euros from" FEDA. -As proof of the claimant's consent to the processing of his data, he provides a document called "Interview of suitability and participation", with FEDA's logo, completed by the claimant. In addition to the data of the entity being claimed, these documents include the data of the claimant as a "Worker" with the "Category" of "Trainee". For the "BECA" concept, there is an accrued amount of 35 euros and an income tax deduction of 2%. The document devotes various sections to the salary payments subject to contribution to the S.S., to the determination of the bases of contribution to the S.S. and to the concepts of joint collection and company contributions. FEDA provides three identical documents dated 31 March 2018, 30 April 2018 and 31 May 2018 respectively. It also provides a copy of the e-mail sent to the complainant by Mr J.S. dated 4 June 2018, in which he is informed that: 'As indicated in the course rules, this is a preparatory course in the German language so that the complainant can subsequently take part in the second phase of the annual training course in the hotel industry'. "This first phase of 600 hours is subsidized by the\*\*\*COMPANY.1 for young people who do not have the language skills to apply for a training place" "At no time is there an employment contract between the two parties in this first phase. In this case you will receive a grant in which the student is sub-valued for the amount of the transport pass so that he or she can attend classes every day and comply with the 600 hour German timetable" "B.-   In accordance with Article 67 of the GDPR, the Inspectorate of the AEPD, in accordance with Article E/0113/2019, carried out the following actions of prior investigation: 1. Request for information from FEDA: The request, signed on August 7, 2019, was notified electronically, the date of availability being August 7, 2019, and the date of automatic rejection August 18, 2019. The complaint does not respond to the information request of the Data Inspectorate. The request to FEDA is reiterated. A second request for information was made on 06/09/2019, which was automatically rejected on 17/09/2018. No reply was received. Information request to \*\*\*EMPRESA.1 \*\*\*LOCALIDAD.1. The DPD of the \*\*\*EMPRESA.1 responds on 18/09/2019. It informs that the Director (...) of Culture, Education and Artistic Units, on 28/12/2017, issues a resolution in which he agrees: a) To grant FEDA a nominative subsidy of 50,000 euros for the implementation in \*\*\*LOCALITY.1 of the 2nd edition of the Dual Training programme to obtain the German professional training title of Hotel and Catering Technicians.b) To approve the Administrative Agreement of Collaboration with FEDA, which regulated the legal regime of the subsidy to be granted, signed on 13/03/2018. This agreement was amended by Resolution number 460338 of 21/06/2018, which increased the number of German teaching hours from 400 to 600 and the subsidy by 25,700 euros. 25,700. It explains that the nominative subsidy has not been used to subsidise any transport costs for students, without prejudice to the fact that FEDA may use part of the subsidy to finance these transport costs. It insists that FEDA was free "to decide how to use the item entitled "other expenditure", this \*\*\*EMPRESA.1 being limited to verifying a posteriori that it has been used to meet the objectives of the subsidised project". It provides an outline with a breakdown of the "project budget" in which, with regard to the "Addendum to the Agreement", it includes, among other information, 5/10 "Teaching Material (Social Security registration during the entire period of participation) 2,000 euros"; "Language Excursions (Social Security registration during the entire period of participation) 1,500 euros". (The underlining is from the AEPD) Please provide copies of the following documents:
+   (i) Convention signed between \*\*\*EM-PRESA.1 and FEDA on 19/03/2018; (ii) addendum to the said convention; (iii) request by FEDA to \*\*\*EMPRESA.1 asking for an extension of the convention, consisting of an increase in the number of teaching hours; (iv) training proposal submitted to\*\*\*EMPRESA.1 by FEDA FUNDAMENTOS DE DERECHOIDe in accordance with the investigative and corrective powers that Article 58 of Regulation (EU) 2016/679 (General Data Protection Regulation, hereinafter the GDPR grants to each supervisory authority, and in accordance with the provisions of Article 47 of the GDPR, the Director of the Spanish Data Protection Agency is competent to resolve these investigative actions.The GDPR deals in Article 5 with the principles that must govern the processing of data and mentions among them that of "lawfulness, loyalty and transparency". Article 6 of the RGPD, "Lawfulness of processing", states “1. Processing shall be lawful only if at least one of the following conditions is met(a) the data subject has given his consent to the processing of his personal data for one or more specified purposes; (b) processing is necessary for the performance of a contract to which the data subject is party or for the implementation, at his request, of pre-contractual measures; (c) processing is necessary for compliance with a legal obligation applicable to the controller; (d) processing is necessary to protect the vital interests of the data subject or of another individual;(e) processing is necessary for the performance of a task carried out in the public interest or in the exercise of public authority vested in the controller Point (f) of the first subparagraph shall not apply to processing carried out by public authorities in the performance of their duties.2. Member States may maintain or introduce more specific provisions in order to adapt the application of the rules of this Regulation with regard to processing in compliance with paragraph 1(c) and (e) by laying down more specific processing requirements and other measures ensuring fair and lawful processing, including other specific processing situations within the meaning of Chapter IX.3The basis for the processing referred to in paragraph 1(c) and (e) must be established by (a) Union law or (b) the law of the Member States applicable to the controller; the purpose of the processing must be determined on that legal basis or, in relation to the processing referred to in paragraph 1(e), it must be necessary for the performance of a task carried out in the public interest or in the exercise of public authority vested in the controller. This legal basis may contain specific provisions to adapt the application of rules of this Regulation, inter alia: the general conditions governing the lawfulness of processing by the controller; the types of data processed; the data subjects concerned; the entities to which personal data may be communicated and the purposes of such communication; purpose limitation; time limits for storage of data and processing operations and procedures, including measures to ensure fair and lawful processing, such as those relating to other specific processing situations under Chapter IX. Union or Member States' law shall serve a public interest objective and be proportionate to the legitimate aim pursued.In parallel, Article 4 of the GPRS defines "processing" as "any operation or set of operations performed upon personal data or upon sets of personal data, whether or not by automatic means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval or consultation, and use, communication by transmission, diffusion or any other form of authorization, access, comparison or interconnection, limitation, suppression or destruction" II The complaint filed deals with FEDA's treatment of the complainant's personal data which, according to what the complainant states in his complaint form, took the form of two types of conduct: He registered him with the Social Security without his consent and "holds" his personal data without his consent. With regard to the second of the questions raised - that the complainant has his personal data without his consent - in the light of the documentation in the file it is very clear that the complainant consented to FEDA processing his data for the purpose of participating in a German course which would allow him to opt, in a second training stage, for German vocational training in the hotel and catering industry. It should be recalled that Article 4(11) of the GDPR defines 'consent of the data subject' as 'any freely given specific and informed indication of his wishes by which the data subject agrees, either by declaration or by affirmative action, to the processing of personal data concerning him'. The documents that the complainant has provided are unequivocal manifestations that he consented to his personal data being processed by FEDA for the purpose of participating in the German language course. In this regard, reference should be made to the so-called "Objective Test 1" in which, under the anagrams of FEDA and Euro Campus and the shield of the \*\*\*EMPRESA.1, it is indicated that the training program is "Introduction to German" and the date is 22/03/2018. In the document, various fields containing the claimant's personal details are filled in by hand. It should be noted that the letter with which these fields are filled in is the one used by Mr. A.A.A. to complete the complaint addressed to this Agency. Thus, in the document Objetive Proof 1, the name and two surnames of the claimant, his ID number and several paragraphs of pages 2 and 3 of the document appear ma-nuscritos that allow to corroborate at first sight that he has been written by the claimant. Another of the documents that the claimant attached to his complaint was the "Motivational Questionnaire", a document that, like the previous one, has the FEDA and Euro Campus logos and the coat of arms of the \*\*\*company on its head. In the same way - written by hand - the spaces in this document were filled in, for example, for age and regulated training - in the section written by the claimant "taking the entrance exam for those over 25 years of age". In the section on non-regulated training, it is written "I have taken a German course for the public". In the same document, the complainant answers, also in handwritten form, to questions such as what were his motivations for taking the training he declares to have or if he had difficulties in completing it. In addition to the above, the e-mails exchanged between the complainant and FEDA employees (the coordinator of \*\*\*LOCALIDAD.1 and the director of finance) only confirm that the complainant was a student of FEDA's German course and that, within the framework of this training action, he consented to the processing of his data for this purpose. In short, the various documents provided by the complainant are unequivocal evidence that he freely decided to participate in FEDA's German language course and that he consented to the processing of his personal data by FEDA for that purpose. One of the conducts of the claimed entity that in the opinion of the claimant would violate the RGPD -conduct that, it seems, is the fundamental reason for its claim- consisted in the fact that the claimed entity registered the claimant as its employee as a scholarship holder without his consent. The processing of the claimant's personal data carried out by the claimant for this purpose - registration in the General Regime of the S.S. - is fully accredited through the TGSS Work Life report that was attached to the claim and in which it is stated that he was "registered" in the General Regime of the S.S. by the company FEDA, for a total of 81 days with a registration date and effective date of 15/03/2018. The registration with the Social Security at the request of the claimant, as revealed in the claim document, has been an inconvenience for the claimant since, according to the information from the TGSS, he was registered since January 2018, and for 151 days (approximately five months) in a situation of "registration" in the General Regime of the SS, as an employee of the company \*\*\*EMPRESA.1 \*\*\*LOCALIDAD.1, for which reason the registration as an employee of the \*\*\*EMPRESA.1 and that of FEDA, with the consequence that theINSS, given that the claimant was in a situation of transitory incapacity to work (ILT) as an employee of the \*\*\*EMPRESA.1, agreed to suspend the ILT situation with effect from 15/03/2018 (which is the date on which FEDA gave the claimant a deal in the S.S.) and the Mutual Insurance Company claimed from him the amount of the benefit received in the period between 15/03/2018 and 19/06/2018. In the case in question, it is decisive to note that the \*\*\*EMPRESA.1 was aware that a portion of the subsidy granted to FEDA for the program aimed at obtaining a German degree that would allow participants to access German Dual Training in the Hotel and Catering Industry would be allocated to "high social security for the entire period of their participation". To this end, we refer to the response given by \*\*\*EMPRESA.1 to the information request made by the Data Inspection Department of this Agency.   In it, he explains that on 28/12/2017 the Director (...) of Culture, Education and Artistic Units agreed, on the one hand, to grant FEDA a subsidy of 50,000 euros for the implementation in\*\*\*LOCALITY.1 of the second edition of the Dual Training programme to obtain the German professional training qualification for Hotel and Catering Technicians. And on the other hand, to sign an Administrative Agreement of Collaboration with FEDA that would regulate the legal regime of the subsidy to be granted; this agreement was signed on 13/03/2018. The agreement was amended by means of an addendum approved by Resolution No. 360338 of 21 June 2018, which increased the number of hours of German classes from 400 to 600 and the amount of the subsidy by EUR 25 700. The \*\*\*EMPRESA.1 provided an outline of the breakdown of the project budget provided by FEDA with respect to the above-mentioned "Addendum to the Agreement" which increased the number of teaching hours in German. The information contained therein includes the following:
+   "Teaching Material (Social Security registration for the entire period of participation) 2,000 euros"; "Language Excursions (Social Security registration for the entire period of participation) 1,500 euros". (The underlining is from the AEPD)On the other hand, it is noted through the electronic communications with the complainant that, according to FEDA, there was no labor contract between the two and a relationship as a scholarship holder. In the e-mail dated 04/18/2018 sent to the complainant by the coordinator of \*\*\*LOCALIDAD.1, Mrs. B.B.B. says "...There is no contract for the internship, they are insured with the internship contract with FEDAMadrid". In addition to the above, FEDA has provided the Agency with documents with the payroll format that include the personal data of the claimant as a 9/10 "Worker" appearing as "Category" "Intern" appearing for the concept of "scholarship" an accrued amount of 35 euros.At this point, it should be recalled that this Agency is competent to carry out the functions and powers detailed in Articles 57 and 58 of the GDPR and in Article 47 of Organic Law 3/2018 on Data Protection and the Guarantee of Digital Rights (LOPDGDD). In essence to supervise the application of the GDPR.  To determine whether FEDA, having regard to the special features of the relationship between it and the claimant, was obliged to register the claimant in the Social Security General Regime or whether it was entitled to do so in view of its status as a recipient of transport aid, is a matter to be resolved by the competent administrative body.Finally, it should be recalled that the Data Inspectorate of the AEPD contacted FEDA to report on the claimant's registration with the General Social Security Scheme at its request and on the legal provision covering such treatment, but no reply was received. In view of the foregoing, and in the absence of any evidence that the conduct in question violated data protection legislation, under the principle of the presumption of innocence guaranteed by the Spanish Constitution, it is appropriate to file these proceedings. Therefore, in accordance with what has been indicated, by the Director of the Spanish Data Protection Agency, it is agreed: FIRST: TO PROCEED TO THE FILING of the present proceedings. 
+
+SECOND: TO NOTIFY the present resolution to the claimant and reclaimed. In accordance with what is established in article 50 of the LOPDGDD, the present Resolution will be made public once it has been notified to the interested parties. Against this resolution, which puts an end to the administrative procedure according to article 114.1.c) of Law 39/2015, of October 1, of the Common Administrative Procedure of Public Administrations, and in accordance with the provisions of articles. 112 and 123 of the aforementioned Law 39/2015, of 1 October, the interested parties may lodge, optionally, an appeal for reversal with the Director of the Spanish Data Protection Agency within a period of one month starting from the day following notification of this decision or from the date of the direct appeal to the Contentious-Administrative Chamber of the National Court of Justice, in accordance with the provisions of Article 25 and paragraph 5 of the fourth additional provision of Law 29/1998, of 13 July, regulating the Contentious-Administrative Jurisdiction, within a period of two months from the day following notification of this act, as provided for in Article 46.1 of the aforementioned Act.
+
+Retrieved from "[https://gdprhub.eu/index.php?title=AEPD\_(Spain)\_-\_E/00113/2019&oldid=37989](https://gdprhub.eu/index.php?title=AEPD_\(Spain\)_-_E/00113/2019&oldid=37989)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [AEPD (Spain)](/index.php?title=Category:AEPD_\(Spain\) "Category:AEPD (Spain)")
+*   [Spain](/index.php?title=Category:Spain "Category:Spain")
+*   [Article 4(11) GDPR](/index.php?title=Category:Article_4\(11\)_GDPR "Category:Article 4(11) GDPR")
+*   [Article 17(1)(b) GDPR](/index.php?title=Category:Article_17\(1\)\(b\)_GDPR "Category:Article 17(1)(b) GDPR")
+*   [Spanish](/index.php?title=Category:Spanish "Category:Spanish")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/AEPD_\(Spain\)_-_E/00113/2019 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/AEPD_\(Spain\)_-_E/00113/2019 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=AEPD_\(Spain\)_-_E/00113/2019&oldid=37989 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=AEPD_\(Spain\)_-_E/00113/2019&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=AEPD_%28Spain%29_-_E%2F00113%2F2019&id=37989&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 13 December 2023, at 13:38.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.029","walltime":"0.049","ppvisitednodes":{"value":416,"limit":1000000},"postexpandincludesize":{"value":1313,"limit":2097152},"templateargumentsize":{"value":465,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":24790,"limit":5000000},"timingprofile":\["100.00% 5.048 1 Template:DPAdecisionBOX","100.00% 5.048 1 -total"\]},"cachereport":{"timestamp":"20250829183410","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1127});});

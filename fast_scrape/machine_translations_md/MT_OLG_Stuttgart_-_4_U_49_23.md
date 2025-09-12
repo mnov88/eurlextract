@@ -1,0 +1,234 @@
+ OLG Stuttgart - 4 U 49/23 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"da9c6e54a1d2dd91bd2c2b6d","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"OLG\_Stuttgart\_-\_4\_U\_49/23","wgTitle":"OLG Stuttgart - 4 U 49/23","wgCurRevisionId":41919,"wgRevisionId":41919,"wgArticleId":7910,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["OLG Stuttgart (Germany)","Germany","Article 4(1) GDPR","Article 5(1)(d) GDPR","Article 6 GDPR","Article 16 GDPR","Article 17 GDPR","Article 17(3)(e) GDPR","2023","German"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"OLG\_Stuttgart\_-\_4\_U\_49/23","wgRelevantArticleId":7910,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:OLG_Stuttgart_-_4_U_49/23&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=OLG_Stuttgart_-_4_U_49/23&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=OLG_Stuttgart_-_4_U_49/23&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=OLG+Stuttgart+-+4+U+49%2F23&returntoquery=oldid%3D41919 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# OLG Stuttgart - 4 U 49/23
+
+From GDPRhub
+
+Revision as of 09:38, 9 July 2024 by [Sfl](/index.php?title=User:Sfl "User:Sfl") ([talk](/index.php?title=User_talk:Sfl&action=edit&redlink=1 "User talk:Sfl (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Sfl "Special:Contributions/Sfl")) (fixed broken link)
+
+([diff](/index.php?title=OLG_Stuttgart_-_4_U_49/23&diff=prev&oldid=41919 "OLG Stuttgart - 4 U 49/23")) [← Older revision](/index.php?title=OLG_Stuttgart_-_4_U_49/23&direction=prev&oldid=41919 "OLG Stuttgart - 4 U 49/23") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+OLG Stuttgart - 4 U 49/23
+
+[![Courts logo1.png](/images/thumb/4/4c/Courts_logo1.png/250px-Courts_logo1.png)](/index.php?title=File:Courts_logo1.png)
+
+Court:
+
+[OLG Stuttgart (Germany)](/index.php?title=Category:OLG_Stuttgart_\(Germany\) "Category:OLG Stuttgart (Germany)")
+
+Jurisdiction:
+
+[Germany](/index.php?title=Category:Germany "Category:Germany")
+
+Relevant Law:
+
+[Article 4(1) GDPR](/index.php?title=Article_4_GDPR#1 "Article 4 GDPR")  
+[Article 5(1)(d) GDPR](/index.php?title=Article_5_GDPR#1d "Article 5 GDPR")  
+[Article 6 GDPR](/index.php?title=Article_6_GDPR "Article 6 GDPR")  
+[Article 16 GDPR](/index.php?title=Article_16_GDPR "Article 16 GDPR")  
+[Article 17 GDPR](/index.php?title=Article_17_GDPR "Article 17 GDPR")  
+[Article 17(3)(e) GDPR](/index.php?title=Article_17_GDPR#3e "Article 17 GDPR")
+
+Decided:
+
+20.12.2023 Published:
+
+27.05.2024 Parties:
+
+[Facebook](http://www.facebook.com)
+
+National Case Number/Name:
+
+4 U 49/23
+
+European Case Law Identifier:
+
+Appeal from:
+
+[LG Stuttgart (Germany)](/index.php?title=Category:LG_Stuttgart_\(Germany\) "Category:LG Stuttgart (Germany)")  
+24 O 51/22
+
+Appeal to:
+
+Original Language(s):
+
+[German](/index.php?title=Category:German "Category:German")
+
+Original Source:
+
+[Landesrecht Baden-Württemberg (in German)](https://www.landesrecht-bw.de/bsbw/document/NJRE001573358)
+
+Initial Contributor:
+
+ec
+
+A court ordered Facebook to erase files documenting the blocking of the data subject's account, because the data was outdated and was not necessary for the legal defence of legal claims or quality assurance.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+The data subject had a Facebook account since 2008.
+
+On 16 May 2018, nude images were uploaded to data subject’s account. The controller (“Facebook”) temporarily blocked the data subject’s account. The account was unblocked the same day.
+
+On 28 November 2021, the data subject posted a video of an artist on his Facebook profile. The controller deleted the video and after review, reactivated the account.
+
+On 23 December 2021, images or videos of child sexual abuse were published by third parties via the data subject’s account. The controller blocked the data subject’s account again. The data subject tried to persuade the controller to reopen their account, but failed.
+
+On 17 January 2023, the data subject contacted the controller with a letter from a lawyer, requesting the controller to restore their account and asserted claims for, amongst others, information and correcting their data. A few days later, the data subject regained access to their account.
+
+The data subject then went to the Regional Court (“_LG Stuttgart_”) to request correction of all the data subject’s data by deleting all deletion and blocking notices under [Article 16 GDPR](/index.php?title=Article_16_GDPR "Article 16 GDPR") and [Article 17 GDPR](/index.php?title=Article_17_GDPR "Article 17 GDPR"). The data subject argued that the controller no longer needed the user data relating to the deletion and blocking processes.
+
+The controller argued that the question of the lawfulness of the reasons behind the blocking notices was only a value judgement that is not subject to rectification and that the blocking notices were still needed for quality assurance and legal defence.
+
+The Regional Court dismissed the case. There was no claim for deletion, because according to the Court, incorrect data would not be stored by the controller. It only stored documentation on what had occurred, such as when the data subject was blocked on the controller’s platform. According to the findings of the Regional Court, a reset of the offences counter was also ruled out, as all offences expired after one year and were therefore no longer recorded in the counter.
+
+The data subject appealed this decision at the Higher Regional Court Stuttgart (“_OLG Stuttgart_”). The data subject wanted all deletion and blocking notices to be deleted from the user data record and the counter recording the infringements on which the individual blocks are based on to be completely reset. The data subject argued that the data was not necessary for legal defence because the controller already had documents relating to the pending legal dispute. Moreover, the data subject also argued that storing this data violated the principle of accuracy under [Article 5(1)(d) GDPR](/index.php?title=Article_5_GDPR#1d "Article 5 GDPR"), because the controller was storing incorrect data of the data subject by including the blocking notices of offences made by third parties on their account.
+
+The controller argued that there was no incorrect data stored by the controller because the controller's records only accurately reflected what actually happened on the Facebook platform.
+
+### Holding
+
+The Court held that the blocking notices which detailed the content that was posted on the data subject's account that the controller objected to and therefore blocked the account of, is personal data under [Article 4(1) GDPR](/index.php?title=Article_4_GDPR#1 "Article 4 GDPR"). The Court explained that in these blocking notices there is a reference to the data subject, and thus information on the data subject can be derived.
+
+The Court took into account that under [Article 17(1)(a) GDPR](/index.php?title=Article_17_GDPR#1a "Article 17 GDPR"), personal data must be erased by the controller if they are no longer necessary for the purposes for which they were collected or otherwise processed. In this case, the data was originally collected in order to document an alleged breach of the terms of use by the data subject and to base further measures on this, such as the temporary or permanent blocking of the account and, if necessary, termination of the contractual relationship. This purpose was thus fulfilled according to the Court.
+
+The Court explained that there may not be an obligation to erase data if the data is required for another purpose. In such a case, however, the change of purpose must again fulfil the requirements of [Article 6 GDPR](/index.php?title=Article_6_GDPR "Article 6 GDPR"). If data processing is necessary for the fulfilment of a contract under [Article 6(1)(b) GDPR](/index.php?title=Article_6_GDPR#1b "Article 6 GDPR"), the controller bears the burden of proof for this under [Article 5(2) GDPR](/index.php?title=Article_5_GDPR#2 "Article 5 GDPR"). However, according to the Court, the controller did not demonstrate the necessity of processing this data to fulfil a contract.
+
+The Court did not agree with the controller that the data was necessary for legal defence under [Article 17(3)(e) GDPR](/index.php?title=Article_17_GDPR#3e "Article 17 GDPR"), because the controller could access the lawyer's and court files which also included the data of the blocking notices. The controller also did not explain in more detail why the storage of the data subject's data was necessary for legal defence.
+
+The Court also did not find the controller’s argument convincing that the continued storage is necessary for quality assurance. The controller did not explain in detail how the storage of the process helps to avoid future errors. The Court stated that it was unclear why a personal reference to the data subject must be stored and why the blocking notices cannot be anonymised, removing the personal reference.
+
+Regarding the principle of accuracy, the Court took into account that content which led to the blocking of the data subject on 16 May 2018 and 23 December 2021 were not necessarily uploaded by the data subject itself, but via their account and possibly due to security gaps in the controller’s or the data subject’s Internet connection. After it had become clear that the data subject had not posted the (child) pornographic material on their account, but that the access was made by a third party, and the alleged offences were no longer assessed as such, there was no longer any need to keep the relevant data stored for a measure directed against the data subject. Therefore, the Court held that the data was outdated and thus, the controller could not rely on the fact that the continued processing of the data in the form of storage was necessary.
+
+Regarding the offences counter, as the lower court already stated, infringements disappear from the controller's systems after one year and are no longer listed in the counter, therefore, the Court stated that the controller already fulfilled the request to reset the infringement counter.
+
+Thus, the Court ordered the controller to correct the stored data of the data subject. In particular, all deletion and blocking notices should be deleted from the user data record.
+
+## Comment
+
+Interestingly, the Higher Court of Stuttgart seems to differ in its ruling from the Higher Court of Cologne. In its case [15 U 45/23](/index.php?title=OLG_Koln_-_15_U_45/23 "OLG Koln - 15 U 45/23"), the Higher Court of Cologne ruled that the controller had no duty to erase all deletion and blocking notices in its database, because they were needed for legal defence.
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the German original. Please refer to the German original for more details.
+
+If you see this message, you do not have JavaScript enabled in your browser. Please enable JavaScript to use the citizen service.
+
+Retrieved from "[https://gdprhub.eu/index.php?title=OLG\_Stuttgart\_-\_4\_U\_49/23&oldid=41919](https://gdprhub.eu/index.php?title=OLG_Stuttgart_-_4_U_49/23&oldid=41919)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [OLG Stuttgart (Germany)](/index.php?title=Category:OLG_Stuttgart_\(Germany\) "Category:OLG Stuttgart (Germany)")
+*   [Germany](/index.php?title=Category:Germany "Category:Germany")
+*   [Article 4(1) GDPR](/index.php?title=Category:Article_4\(1\)_GDPR "Category:Article 4(1) GDPR")
+*   [Article 5(1)(d) GDPR](/index.php?title=Category:Article_5\(1\)\(d\)_GDPR "Category:Article 5(1)(d) GDPR")
+*   [Article 6 GDPR](/index.php?title=Category:Article_6_GDPR "Category:Article 6 GDPR")
+*   [Article 16 GDPR](/index.php?title=Category:Article_16_GDPR "Category:Article 16 GDPR")
+*   [Article 17 GDPR](/index.php?title=Category:Article_17_GDPR "Category:Article 17 GDPR")
+*   [Article 17(3)(e) GDPR](/index.php?title=Category:Article_17\(3\)\(e\)_GDPR "Category:Article 17(3)(e) GDPR")
+*   [2023](/index.php?title=Category:2023 "Category:2023")
+*   [German](/index.php?title=Category:German "Category:German")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/OLG_Stuttgart_-_4_U_49/23 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/OLG_Stuttgart_-_4_U_49/23 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=OLG_Stuttgart_-_4_U_49/23&oldid=41919 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=OLG_Stuttgart_-_4_U_49/23&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=OLG_Stuttgart_-_4_U_49%2F23&id=41919&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 9 July 2024, at 09:38.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.051","walltime":"0.073","ppvisitednodes":{"value":444,"limit":1000000},"postexpandincludesize":{"value":2060,"limit":2097152},"templateargumentsize":{"value":812,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":142,"limit":5000000},"timingprofile":\["100.00% 9.981 1 Template:COURTdecisionBOX","100.00% 9.981 1 -total"\]},"cachereport":{"timestamp":"20250829142858","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1686});});

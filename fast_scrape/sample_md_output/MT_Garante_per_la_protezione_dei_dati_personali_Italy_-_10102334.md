@@ -1,0 +1,308 @@
+ Garante per la protezione dei dati personali (Italy) - 10102334 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"9711718848b4ac038b4118ea","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Garante\_per\_la\_protezione\_dei\_dati\_personali\_(Italy)\_-\_10102334","wgTitle":"Garante per la protezione dei dati personali (Italy) - 10102334","wgCurRevisionId":45890,"wgRevisionId":45890,"wgArticleId":8889,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["Garante per la protezione dei dati personali (Italy)","Italy","Article 5(1)(a) GDPR","Article 12 GDPR","Article 13 GDPR","Article 35 GDPR","2024","Italian"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Garante\_per\_la\_protezione\_dei\_dati\_personali\_(Italy)\_-\_10102334","wgRelevantArticleId":8889,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10102334&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10102334&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10102334&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=Garante+per+la+protezione+dei+dati+personali+%28Italy%29+-+10102334&returntoquery=oldid%3D45890 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# Garante per la protezione dei dati personali (Italy) - 10102334
+
+From GDPRhub
+
+Revision as of 13:24, 21 February 2025 by [Carloc](/index.php?title=User:Carloc "User:Carloc") ([talk](/index.php?title=User_talk:Carloc&action=edit&redlink=1 "User talk:Carloc (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Carloc "Special:Contributions/Carloc")) ([→‎Comment](#Comment))
+
+([diff](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10102334&diff=prev&oldid=45890 "Garante per la protezione dei dati personali (Italy) - 10102334")) [← Older revision](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10102334&direction=prev&oldid=45890 "Garante per la protezione dei dati personali (Italy) - 10102334") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+Garante per la protezione dei dati personali - 10102334
+
+[![LogoIT.png](/images/thumb/e/ec/LogoIT.png/250px-LogoIT.png)](/index.php?title=File:LogoIT.png)
+
+Authority:
+
+[Garante per la protezione dei dati personali (Italy)](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\) "Garante per la protezione dei dati personali (Italy)")
+
+Jurisdiction:
+
+[Italy](/index.php?title=Category:Italy "Category:Italy")
+
+Relevant Law:
+
+[Article 5(1)(a) GDPR](/index.php?title=Article_5_GDPR#1a "Article 5 GDPR")  
+[Article 12 GDPR](/index.php?title=Article_12_GDPR "Article 12 GDPR")  
+[Article 13 GDPR](/index.php?title=Article_13_GDPR "Article 13 GDPR")  
+[Article 35 GDPR](/index.php?title=Article_35_GDPR "Article 35 GDPR")
+
+Type:
+
+Complaint
+
+Outcome:
+
+Upheld
+
+Started:
+
+Decided:
+
+12.12.2024 Published:
+
+07.02.2025 Fine:
+
+6000 EUR
+
+Parties:
+
+[Comune di Portici](https://www.comune.portici.na.it/hh/index.php)
+
+National Case Number/Name:
+
+10102334 European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+Unknown  
+
+Original Language(s):
+
+[Italian](/index.php?title=Category:Italian "Category:Italian")
+
+Original Source:
+
+[GPDP (in IT)](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10102334)
+
+Initial Contributor:
+
+carloc
+
+An Italian municipality was fined €6,000 for operating traffic cameras without informing the data subjects and without carrying out a data protection impact assessment.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+The municipality of Portici (the data controller) installed and operated traffic cameras near traffic lights in order to record red lights violations. The controller did not install information signs for the cameras and did not provide residents with any information on the processing of personal data. Additionally, the controller did not carry out a data protection impact assessment (DPIA) for the processing of personal data.
+
+Several residents later complained to the Italian supervisory authority that the cameras were installed without information signs.
+
+In an early communication with the authority, the controller claimed that the law authorizing the use of traffic cameras did not require informing the data subject in the specific case of traffic light violations. The controller also claimed that a DPIA was not needed due to the limited scope of the video surveillance and to some privacy-preserving safeguards of the processing of the footage (such as the limitation of storage times and the obfuscation of car windshields).
+
+Nonetheless, the controller addressed the authority’s concerns in several ways. It installed information signs near the cameras to provide residents with the essential information on the processing of their data. It also drafted a privacy notice addressing the use of traffic cameras. The notice was published on the controller’s website and was made available at the police station. Finally, the controller carried out a DPIA for the use of the cameras and updated the municipal regulation on video surveillance.
+
+### Holding
+
+The supervisory authority held that the controller violated Articles [5(1)(a)](/index.php?title=Article_5_GDPR#1a "Article 5 GDPR"), [12](/index.php?title=Article_12_GDPR "Article 12 GDPR"), and [13](/index.php?title=Article_13_GDPR "Article 13 GDPR") GDPR by failing to inform residents about the use of traffic cameras. The authority also held that the controller violated [Article 35 GDPR](/index.php?title=Article_35_GDPR "Article 35 GDPR") by failing to carry out a DPIA.
+
+The authority considered that its concerns were entirely addressed during the procedure and fined the controller €6,000.
+
+## Comment
+
+The supervisory authority clarified how to provide information to data subjects when operating a video surveillance system. In particular, the authority highlighted that essential, “first layer” information needs to be available in or near an information sign while “second layer” information can be provided elsewhere. In this case, the data controller made the “first layer” information available under the information signs and made the “second layer” information available in the privacy notice.
+
+In this regard, the authority references EDPB, 'Guidelines 3/2019 on processing of personal data through video devices', 29 January 2020 (Version 2.0) (available [here](https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-32019-processing-personal-data-through-video_en)). The authority also referred to its own [FAQs](https://garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9496574) and (rather old) [guidance](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/1734653) on the topic.
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the Italian original. Please refer to the Italian original for more details.
+
+\[web doc. no. 10102334\]
+Provision of 12 December 2024
+Register of provisions
+no. 766 of 12 December 2024
+THE GUARANTOR FOR THE PROTECTION OF PERSONAL DATA
+IN today's meeting, attended by Prof. Pasquale Stanzione, President, Prof. Ginevra Cerrina Feroni, Vice President, Dr. Agostino Ghiglia and Attorney Guido Scorza, members, and Dr. Claudio Filippi, Deputy Secretary General;
+SEEN Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC, “General Data Protection Regulation” (hereinafter, “Regulation”);
+HAVING SEEN Legislative Decree no. 196 of 30 June 2003, containing the “Personal Data Protection Code, containing provisions for the adaptation of national legislation to Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and which repeals Directive 95/46/EC (hereinafter the “Code”); HAVING SEEN Regulation no. 1/2019 concerning internal procedures with external relevance, aimed at carrying out the tasks and exercising the powers delegated to the Guarantor for the protection of personal data, approved with resolution no. 98 of 4 April 2019, published in the Official Journal no. 106 of 8 May 2019 and in www.gpdp.it, web doc. no. 9107633 (hereinafter “Regulation of the Guarantor no. 1/2019”);
+Having seen the documentation in the files;
+Having seen the observations formulated by the general secretary pursuant to art. 15 of the Regulation of the Guarantor no. 1/2000 on the organization and functioning of the office of the Guarantor for the protection of personal data, web doc. no. 1098801;
+Rapporteur Dr. Agostino Ghiglia;
+WHEREAS
+1. Introduction.
+With a report received on XX pursuant to art. 144 of the Code, several citizens complained of an alleged violation of the regulations on the protection of personal data through the use of a video surveillance system for the purpose of ascertaining infringements of Legislative Decree no. 285 of 30 April 1992 (“New Highway Code” or “CdS”) by the Municipality of Portici (hereinafter the “Municipality”).
+In particular, the report revealed the lack of adequate information pursuant to art. 12 et seq. of the Regulation, since no information sign was placed near the places where the cameras were positioned, as would emerge from the photographs attached to the aforementioned report.
+2. The investigation activity
+In response to a request for information from the Authority (prot. no. XX of XX) pursuant to art. 157 of the Code, with note of XX, the Municipality declared, in particular, that:
+- “the Municipal Council, with resolution no. XX of XX, enforceable pursuant to the law, in order to reduce the accident rate due to vehicular transit with the red traffic light activated, has decided to install automatic detection systems for infringements on the two traffic light systems existing in the city”;
+- “in relation to the directions of the Administration, steps have been taken, pursuant to management decision no. XX of XX, to approve the procedure for the rental of the EnVES EVO MVD 1505 traffic light violation detection system on the 2 traffic light systems existing in the City. The ENVES EVO MVD 1505 system was approved by the Ministry of Infrastructure and Transport with D.D. of XX n. XX for the detection and documentation of traffic light violations. The aforementioned detection devices, installed in the territory on XX, memorize and record images only in the event of a violation relating to passing with a red traffic light (circular Ministry of the Interior XX prot. XX), with frontal shots or rear side of the offending vehicle with darkening of the front windshield, making neither the driver nor the passengers on board the ticketed vehicle recognizable”;
+- “following registration of the violation, the same is subjected to subsequent validation activity by public officials (specifically identified among the personnel belonging to the P.L. Command and on duly certified stations) who proceeds, always in the validation phase, to obscure the data relating to subjects not involved in the administrative assessment”;
+- “The video footage identifies only the essential elements for the preparation of the report of the violations pursuant to the implementing regulation of the new Highway Code. Only following this validation activity are the data (license plate, day, time and place of the violation) and the related images in proprietary encrypted format subject to import by the Local Police personnel into the management software in use at the Command and the license plates subsequently inspected at the archives of the Civil Motorization”;
+- “The automatic detection of violations complies with the principle of proportionality, given that the data processing does not exceed the purpose pursued (art. 11 paragraph 1 Provision on video surveillance of 8 April 2010), namely the detection of the violation. With regard to the calibration and approval of the aforementioned devices, the relevant certifications are attached, from which the dates of verification and control of the systems themselves can be deduced”;
+- “With regard to the obligation to give advance notice of the use of the systems for the detection of traffic light violations, no law provides for the indication of such detection activity outside the cases provided for by Legislative Decree no. 121/2002, converted into law no. 168/2002. The obligation to indicate the presence of control systems that operate automatically is found only in the aforementioned decree. This regulation, partly implemented in art. 201 cds refers only to the verification of violations referred to in articles 142, 148 and 176. The provision therefore does not apply to devices that detect when passing through a red light. Therefore, the presence of automatic traffic light violation detection systems does not have to be pre-signalled by specific signs. Unlike the regulation on speed limit violations, there is no requirement in this sense (Cass. Civ. n. 8415 of 27.04.2016)”;
+-  “The retention of alphanumeric data contained in the license plates by the system is limited only to cases in which there is a violation of passing through a red light and for the retention times established by law. In any case, the right of the interested party to request access to their data (images) to view or extract a copy of the photographic images detected by means of the aforementioned equipment is guaranteed only after obscuring the data relating to the subjects not involved in the investigation";
+-  "as for the impact assessment on the processing of personal data in relation to the use of the devices in question (art. 35 of the Regulation), the Municipality of Portici has deemed it unnecessary to draw up this document in consideration of the following circumstances a. the system does not carry out any systematic and global assessment of personal aspects relating to natural persons, based on the automated processing that the system itself implements: as mentioned, the system automatically comes into operation only if, when the red light turns on and until it turns off, a vehicle commits the violation of passing through the red light. It is therefore necessary that the presence of the red light and the violation occur simultaneously. In these circumstances only, only the license plate of the offending vehicle is detected and not the image of its occupants who, even if they are visible, are obscured. Moreover, for the purposes of detecting the infringement, the system extrapolates "static images" of the moment of passing the traffic light system and not a video in the classic sense of the term, such as dynamic images. Any part of the image, which contains third parties possibly filmed by the detection, is obscured through specific functions of the system and verified by the personnel of the Portici Municipal Police Command. Therefore, any profiling activity and, more generally, any type of further processing of the images filmed are completely excluded; as for the legal effects of the detection, they consist only in the forwarding of the infringement report to the owner of the vehicle, without any significant impact on the rights and freedoms of natural persons; b. the processing in no way concerns any of the types of data indicated in art. 9, paragraph 1, nor data relating to criminal convictions and crimes referred to in Article 10; rather, it is the detection of the infringement that only generates the forwarding of the contravention report (not a crime, therefore) to the owner of the vehicle who committed it; c. the system does not carry out systematic surveillance on a large scale of an area accessible to the public, as it only comes into operation for very short intervals of time activated by the switching on of the red traffic light and immediately following; furthermore, the blacking out of any image of a physical person, even one that may film the driver or passengers of the car to be fined, completes a picture that allows us to exclude, with all reasonableness, the hypothesis of systematic surveillance”.
+With reference to the conduct of the Municipality, the Office, on the basis of the elements acquired and the facts that emerged following the investigative activity, notified the same, on XX (prot. no. XX) pursuant to art. 166, paragraph 5, of the Code, the initiation of the procedure for the adoption of the provisions referred to in art. 58, paragraph 2, of the Regulation for having acted in a manner not compliant with the principle of "lawfulness, correctness and transparency" and for not having drawn up an impact assessment in violation of arts. 5, paragraph 1, letter a), 12, 13 and 35 of the Regulation.
+The Municipality, with the above-mentioned act, was invited to produce written defenses or documents to the Guarantor or to request to be heard by the Authority (art. 166, paragraphs 6 and 7, of the Code, as well as art. 18, paragraph 1, of Law 24 November 1981, no. 689).
+With note of XX (prot. no. XX), the Municipality presented a defense brief, declaring, in particular, that:
+- “it immediately took action to rectify the processing activity to make it fully compliant with the current legislation and mitigate the negative effects of the violation of personal data against the interested parties”;
+- “the traffic light violation detection system EnVES EVO MVD 1505 (approved by the Ministry of Infrastructure and Transport with D.D. of XX no. XX) was installed and put into operation on XX in no. 2 locations in the territory of the Municipality of Portici, out of a total of 5 traffic light systems installed in the municipal territory \[…\] The date of actual installation of the systems is XX while the material start-up of the system and, therefore, in fact, the processing of the data in violation began on XX, as demonstrated by the installation certificates attached to this \[…\]”;
+- “The detection system in question, in the conditions detected by this Office, has been in operation since XX, until XX, the date on which the Municipality of Portici took steps to put an end to the violation by installing special signs near the traffic light stations containing the first level information, compliant with the model attached to the “Guidelines 3/2019 on the processing of personal data through video devices”, adopted by the European Data Protection Committee on 29 January 2020, as well as the provisions of this Authority”;
+- “the Municipality and, in particular, the Municipal Police Command, in complete good faith, believed that the characteristics of the system in question and its operation did not determine, for it, the obligations of preventive reporting and detailed information provided for by the Provisions of the Guarantor regarding video surveillance systems and by the GDPR. The same applies to the obligations, which we would call derived, of drafting the impact assessment on the protection of personal data (art. 35 GDPR). Obviously, as is evident from the documentation attached to this communication, once the situation of poor compliance was understood, this Municipality immediately took steps to adapt the system in question to the requirements and obligations set out in the applicable legislation”;
+- “following the aforementioned communication from this Authority, dated XX, \[… the Municipality has taken the following measures …\]: − Install at n. 5 traffic light stations the first level information signs compliant with the “Guidelines 3/2019 on the processing of personal data through video devices”, adopted by the European Data Protection Committee on 29 January 2020, to the provisions of the Guarantor on video surveillance. These first level information reports the following information: purpose of the processing, the identity of the data controller, contact details of the data protection officer, retention times, the existence of the rights of the interested party, contact details of the data controller and finally a clear reference to the second level information and the physical counter as well as the web page where it can be found. In Annex no. 2, both the format of the signal and the actual position with respect to the relevant detection system are represented; − Publish on the website of the Municipality of Portici – Thematic Area “Municipal Police and Contraventions” as well as in the Privacy section of “Transparent Administration” the extended information on the processing of personal data through devices for detecting violations of the Highway Code \[…\] The extended information is also available at the counter of the Municipal Police Headquarters and, if requested, sent via certified email or electronic post. The Regulation for the management and use of the video surveillance system is also published in the same section (Approved with Resolution of the Municipal Council no. XX as an update of the Regulation approved with D.G.C. no. XX of XX, as amended by the Extraordinary Commissioner’s Resolution no. XX of XX). − Publish on the municipal website in the “Forms/Municipal Police” section as well as in the thematic area “Municipal Police and Contraventions” and in the “Privacy” section of the Transparent Administration a specific facsimile aimed at exercising rights regarding the protection of personal data called “Portici Municipality Form no. XX starting from XX for the exercise of rights regarding the protection of personal data by the interested party and communication of data”. This facsimile is also available and distributed at the counter of the Municipal Police Headquarters and possibly, upon request, sent by certified e-mail or e-mail.”;
+- “this Municipality is committed to adapting the level of security as much as possible; to this end, in fact, it has defined and implemented:  organizational measures: - operational provisions and internal procedures that provide, with respect to any initiative that involves, even potentially, the processing of personal data, the consultation with the DPO and the request for written opinions from the latter in order to guarantee the lawfulness, correctness and transparency of the processing, with particular regard to any forms provided and the liability profiles of third parties who participate/collaborate in the processing of personal data, - provision to specifically identified and authorized personnel of specific training sessions and operational instructions on the processing of personal data, with particular focus on cases similar to those in question, - updating of the Regulation for the management and use of the video surveillance system approved with D.G.C. n. XX of XX, as amended by the Extraordinary Commissioner's Resolution n. XX of XX and approval of the DPIA”;
+- “has implemented measures to ensure the limitation of risks for the rights and freedoms of natural persons through the measures \[…\] with reference to the specific security objective”;
+- drafted the “Data Protection Impact Assessment (art. 35 GDPR) relating to the processing in progress at this Municipality of personal data collected by photo/video recording devices included in the infringement detection system (approved with Resolution of the Municipal Council no. XX)”.
+During the hearing, held on XX, the Municipality specified that it had “immediately adopted measures aimed at correcting the critical issues reported and contested, we did not allow ourselves to be caught by inertia and we wanted to implement what the Guarantor suggested we adopt. When we installed the video surveillance systems in question there were many emergencies in terms of traffic, road accidents, noise and environmental pollution that made their installation necessary and urgent; such a significant and broad impact on the sanctioning aspect, and consequently on the protection of citizens' personal data, was unimaginable. In the month of XX, approximately 500 validated violation reports were received per day, recently we have gone up to 30 reports per day, therefore the preventive and educational function of the video surveillance systems has achieved its objective, even the legal appeals have almost always been rejected in favor of the administration. On XX, the body concluded the adoption of the administrative acts containing the measures necessary to adapt the video surveillance systems (e.g. information)” and that “regardless of the communication from the Guarantor, since the month of XX, the Commander of the Local Police, the manager responsible for security and \[… the DPO of the Municipality\] had already prepared an activity to regularize the activities related to the verification of traffic violations, preparing an update of the regulation on video surveillance, a text of extended information and a draft impact assessment to remedy what we already considered a criticality; unfortunately, the organizational and operational problems of the administration have prevented greater speed. At the beginning we also had doubts about the systematic nature of the processing that makes the DPIA necessary because the photored only comes into action in the event of a detected infringement”.
+3. Outcome of the investigation.
+3.1. The applicable legislation on the protection of personal data.
+According to the legislation on the protection of personal data, public bodies can process the personal data of the interested parties if the processing is necessary, in general, to fulfill specific obligations or tasks provided for by law (articles 6, paragraph 1, letter c), of the Regulation). The processing is also lawful when it is “necessary for the performance of a task carried out in the public interest or in connection with the exercise of official authority vested in the data controller” (article 6, paragraph 1, letter e) and paragraphs 2 and 3 of the Regulation; 2-ter of the Code).
+The data controller is also required, in any case, to comply with the principles of personal data protection, including those of “lawfulness, fairness and transparency”, according to which personal data must be “processed lawfully, fairly and in a transparent manner in relation to the data subject” (Article 5, paragraph 1, letter a) of the Regulation).
+3.2. Information to data subjects.
+In light of the aforementioned principle of transparency, the data controller must adopt appropriate measures to provide the data subject with all information in a concise, transparent, intelligible and easily accessible form, using clear and plain language (Article 12, paragraph 1, of the Regulation).
+In particular, when video devices are used, the data controller, in addition to providing first-level information by placing warning signs near the area subject to video surveillance, must also provide data subjects with “second-level information”, which must “contain all the mandatory elements pursuant to Article 13 of the \[Regulation\]” and “be easily accessible to the data subject, for example through a complete information page made available at a central hub \[…\] or posted in an easily accessible place” (“Guidelines 3/2019 on the processing of personal data through video devices adopted by the European Data Protection Committee on XX), in particular par. 7; but see already the “Provision on video surveillance” of the Guarantor of 8 April 2010, web doc. no. 1712680, in particular par. 3.1; lastly, see the FAQs of the Guarantor on video surveillance, web doc. no. 9496574, no. 4; see also provisions of 11 January 2024, no. 5, web doc. no. 9977020; no. 312 of 18 July 2023, web doc. no. 9920578; 20 October 2022, no. 341, web doc. no. 9831369; 28 April 2022, no. 162, web doc. no. 9777974; 7 April 2022, no. 119, web doc. no. 9773950; 16 September 2021, no. 327, web doc. no. 9705650 and 11 March 2021, no. 90, web doc. no. 9582791).
+The first level information (warning sign) “should communicate the most important data, such as the purposes of the processing, the identity of the controller and the existence of the data subject’s rights, together with information on the most significant impacts of the processing” (ECB Guidelines, cit., para. 114). Furthermore, the signage must also contain information that may be unexpected for the data subject. This could be, for example, the transmission of data to third parties, in particular if located outside the EU, and the retention period. If such information is not indicated, the data subject should be able to rely on the fact that there is only real-time monitoring (without any recording of data or transmission to third parties) (ECB Guidelines, cit., para. 115).
+The first level warning sign must contain a clear reference to the second level of information, for example by indicating a website where the text of the extended information can be consulted.
+During the investigation, it emerged that from the date on which the video system in question entered into operation (XX) to XX, the Municipality did not provide the interested parties with first and second level information, therefore operating in violation of the principle of "lawfulness, correctness and transparency" pursuant to art. 5, par. 1, letter a) of the Regulation, as well as arts. 12 and 13 of the Regulation.
+3.3. The impact assessment.
+In the event of high risks for the data subjects - resulting, for example, from the use of new technologies and always present where systematic large-scale surveillance of an area accessible to the public is carried out (see art. 35, par. 3, letter c), of the Regulation) - the data controller must carry out a data protection impact assessment, in order to adopt, in particular, appropriate measures to address such risks, consulting the Garante in advance, where the conditions are met (see arts. 35 and 36, par. 1, of the Regulation).
+On this point, the Municipality declared that, at the time of installing the video devices in question, it did not carry out an impact assessment as it erroneously believed that it was not necessary, proceeding to draft it after the start of the investigation.
+It should be noted, however, that the Municipality was certainly subject to the obligation to draft a data protection impact assessment, considering that, pursuant to the aforementioned art. 35, par. 3, letter c), c), of the Regulation, the same is always required in the case of "systematic large-scale surveillance of an area accessible to the public", which allows the collection of numerous data also relating to the location and movement of the interested parties, a circumstance that occurs in the case at hand.
+It should also be noted that art. 35 of the Regulation obliges the controllers to carry out the impact assessment before starting the processing, also considering that this tool is suitable for proving the controller's accountability for the processing carried out (see Provision no. 162 of 28 April 2022, web doc. no. 9777974).
+In light of the above considerations, having not drawn up a data protection impact assessment at a certain date prior to the start of the processing, it must be concluded that the Municipality acted in violation of art. 35 of the Regulation.
+4. Conclusions.
+In light of the above assessments, it is noted that the declarations made by the Municipality, as data controller, during the investigation ˗ the veracity of which may be held accountable pursuant to art. 168 of the Code ˗, although worthy of consideration, do not allow for overcoming the findings notified by the Office with the act initiating the procedure and are insufficient to allow the archiving of this proceeding pursuant to art. 14, paragraph 1, of the Regulation of the Guarantor no. 1/2019, since none of the cases provided for by art. 11 referred to therein apply.
+Therefore, the preliminary assessments of the Office are confirmed and the unlawfulness of the processing of personal data carried out by the Municipality is noted, for having carried out the processing of personal data in violation of arts. 5, par. 1, letter a), 12, 13 and 35 of the Regulation.
+Violation of the aforementioned provisions makes the administrative sanction provided for by art. 83, par. 5, of the Regulation, pursuant to articles 58, par. 2, letter i), and 83, par. 3, of the same Regulation, as also referred to in art. 166, paragraph 2, of the Code.
+5. Adoption of the injunction order for the application of the administrative pecuniary sanction and accessory sanctions (articles 58, par. 2, letters i and 83 of the Regulation; art. 166, paragraph 7, of the Code).
+The Guarantor, pursuant to articles 58, par. 2, letter i) and 83 of the Regulation as well as art. 166 of the Code, has the power to “impose an administrative pecuniary sanction pursuant to Article 83, in addition to the \[other\] \[corrective\] measures referred to in this paragraph, or in place of such measures, depending on the circumstances of each individual case” and, in this context, “the \[Guarantor\] Board adopts the injunction order, with which it also provides for the application of the accessory administrative sanction of its publication, in full or in extract, on the website of the Guarantor pursuant to Article 166, paragraph 7, of the Code” (Article 16, paragraph 1, of the Guarantor Regulation no. 1/2019).
+Taking into account that the violation of the above provisions by the Municipality occurred as a result of conduct that can be considered unitary (same treatment or treatments linked to each other, in consideration of the fact that they are configured as obligations inherent to the same video surveillance system), Article 83, paragraph 1 applies. 3, of the Regulation, according to which the total amount of the administrative pecuniary sanction does not exceed the amount specified for the most serious violation. Considering that, in the case in question, the most serious violations, which pertain to – articles 5, 12 and 13 of the Regulation are subject to the sanction provided for by art. 83, par. 5, of the Regulation, as also referred to in art. 166, paragraph 2, of the Code, the total amount of the sanction is to be quantified up to EUR 20,000,000 (twenty million/00).
+The aforementioned administrative pecuniary sanction imposed, depending on the circumstances of each individual case, must be determined in amount taking into due account the elements provided for by art. 83, par. 2, of the Regulation.
+With specific regard to the nature and seriousness of the violation (Article 83, paragraph 2, letter a), of the Regulation), it must be considered that the Municipality did not provide first and second level information to the interested parties regarding the processing of personal data carried out through a video system, nor did it draw up the impact assessment.
+In a favorable sense to the Municipality, however, the following must be considered:
+- the negligent nature of the violation, given the initial erroneous belief by the Municipality regarding the non-existence of the obligation of such obligations which, in fact, were carried out as soon as the investigation was started (Article 83, paragraph 2, letter b) of the Regulation);
+- that the processing in question does not relate to particular categories of data (Article 83, paragraph 2, letter g).
+In light of these circumstances, it is believed that, in this case, the level of severity of the violation committed by the data controller can be considered medium (see European Data Protection Board, “Guidelines 04/2022 on the calculation of administrative fines under the GDPR” of 23 May 2023, point 60).
+That said, it is believed that, for the purposes of quantifying the sanction, it should be taken into account, in a way favorable to the Municipality, that there are no previous relevant violations committed by the data controller (art. 83, par. 2, letter e), of the Regulation) as well as the degree of cooperation shown by the controller with the supervisory authority in order to remedy the violation and mitigate its possible negative effects, taking into account that the same has promptly provided the first level information by posting signs near the video systems installed in five points of the city territory and published a second level information on the institutional website, as well as drafting the impact assessment (art. 83, par. 2, letter f) of the Regulation).
+In light of the above elements, assessed as a whole, it is deemed appropriate to determine the amount of the pecuniary sanction in the amount of €6,000.00 (six thousand/00) for the violation of Articles 5, paragraph 1, letter a), 12, 13 and 35 of the Regulation, as an administrative pecuniary sanction deemed, pursuant to Article 83, paragraph 1, of the Regulation, to be effective, proportionate and dissuasive.
+In this context, it is also deemed that, pursuant to Article 166, paragraph 7, of the Code and Article 16, paragraph 1, of the Regulation of the Guarantor no. 1/2019, it is necessary to proceed with the publication of this chapter containing the injunction order on the Guarantor's website.
+This is in consideration of the specific circumstances of the specific case, regarding the failure by the Municipality to comply with the principle of transparency pursuant to Article 5, paragraph 1, letter a) of the Regulation, by failing to provide information (not even “first level”) to the interested parties regarding the processing in question, and by failing to draft the impact assessment before starting the aforementioned processing.
+Finally, it is noted that the conditions set out in art. 17 of Regulation no. 1/2019 exist.
+GIVEN ALL THE ABOVE, THE GUARANTOR
+pursuant to art. 57, par. 1, letter f), and 83 of the Regulation, notes the unlawfulness of the processing carried out by the Municipality of Portici in the terms set out in the reasons, for the violation of art. 5, par. 1, letter a), 12, 13 and 35 of the Regulation;
+ORDERS
+pursuant to art. 58, par. 2, letter i) and 83 of the Regulation, as well as art. 166 of the Code, to the Municipality of Portici with registered office in Via Campitelli, n. 1, Portici (NA), 80055 - C.F 80015980636- to pay the total sum of Euro 6,000.00 (six thousand/00) as an administrative pecuniary sanction for the violations indicated in the reasons. It is represented that the offender, pursuant to art. 166, paragraph 8, of the Code, has the right to settle the dispute by paying, within 30 days, an amount equal to half of the sanction imposed;
+ORDERS
+the Municipality of Portici:
+-  to pay the total sum of Euro 6,000.00 (six thousand/00) in the event of failure to settle the dispute pursuant to art. 166, paragraph 8, of the Code, according to the methods indicated in the attachment, within thirty days of notification of this provision, under penalty of the adoption of the consequent executive acts pursuant to art. 27 of Law no. 689/1981;
+ORDERS
+pursuant to art. 166, paragraph 7, of the Code and art. 16, paragraph 1, of the Regulation of the Guarantor no. 1/2019, the publication of the injunction order on the website of the Guarantor;
+pursuant to art. 154-bis, paragraph 3 of the Code and art. 37 of the Regulation of the Guarantor no. 1/2019, the publication of this provision on the Authority's website;
+pursuant to art. 17 of the Regulation of the Guarantor no. 1/2019, the annotation of this provision in the internal register of the Authority, provided for by art. 57, par. 1, letter u), of the Regulation.
+Pursuant to articles 78 of the Regulation, 152 of the Code and 10 of Legislative Decree no. 150/2011, an appeal against this provision may be lodged before the ordinary judicial authority, under penalty of inadmissibility, within thirty days of the date of communication of the provision itself or within sixty days if the appellant resides abroad.
+Rome, 12 December 2024
+THE PRESIDENT
+Stanzione
+THE REPORTER
+Ghiglia
+THE DEPUTY SECRETARY GENERAL
+Filippi
+
+Retrieved from "[https://gdprhub.eu/index.php?title=Garante\_per\_la\_protezione\_dei\_dati\_personali\_(Italy)\_-\_10102334&oldid=45890](https://gdprhub.eu/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10102334&oldid=45890)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [Garante per la protezione dei dati personali (Italy)](/index.php?title=Category:Garante_per_la_protezione_dei_dati_personali_\(Italy\) "Category:Garante per la protezione dei dati personali (Italy)")
+*   [Italy](/index.php?title=Category:Italy "Category:Italy")
+*   [Article 5(1)(a) GDPR](/index.php?title=Category:Article_5\(1\)\(a\)_GDPR "Category:Article 5(1)(a) GDPR")
+*   [Article 12 GDPR](/index.php?title=Category:Article_12_GDPR "Category:Article 12 GDPR")
+*   [Article 13 GDPR](/index.php?title=Category:Article_13_GDPR "Category:Article 13 GDPR")
+*   [Article 35 GDPR](/index.php?title=Category:Article_35_GDPR "Category:Article 35 GDPR")
+*   [2024](/index.php?title=Category:2024 "Category:2024")
+*   [Italian](/index.php?title=Category:Italian "Category:Italian")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10102334 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10102334 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10102334&oldid=45890 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10102334&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=Garante_per_la_protezione_dei_dati_personali_%28Italy%29_-_10102334&id=45890&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 21 February 2025, at 13:24.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.035","walltime":"0.090","ppvisitednodes":{"value":448,"limit":1000000},"postexpandincludesize":{"value":1864,"limit":2097152},"templateargumentsize":{"value":802,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":33301,"limit":5000000},"timingprofile":\["100.00% 5.357 1 Template:DPAdecisionBOX","100.00% 5.357 1 -total"\]},"cachereport":{"timestamp":"20250829190454","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":471});});

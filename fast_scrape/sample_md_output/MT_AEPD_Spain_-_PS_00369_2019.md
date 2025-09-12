@@ -1,0 +1,233 @@
+ AEPD (Spain) - PS/00369/2019 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"88686c5b218da1746255b5e5","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"AEPD\_(Spain)\_-\_PS/00369/2019","wgTitle":"AEPD (Spain) - PS/00369/2019","wgCurRevisionId":38397,"wgRevisionId":38397,"wgArticleId":2131,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["AEPD (Spain)","Spain","Article 5(1)(c) GDPR","Article 12 GDPR","Article 13 GDPR","Article 30(1) GDPR","Article 83(2) GDPR","Spanish"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"AEPD\_(Spain)\_-\_PS/00369/2019","wgRelevantArticleId":2131,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:AEPD_\(Spain\)_-_PS/00369/2019&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=AEPD_\(Spain\)_-_PS/00369/2019&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=AEPD_\(Spain\)_-_PS/00369/2019&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=AEPD+%28Spain%29+-+PS%2F00369%2F2019&returntoquery=oldid%3D38397 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# AEPD (Spain) - PS/00369/2019
+
+From GDPRhub
+
+Revision as of 14:33, 13 December 2023 by [Ar](/index.php?title=User:Ar&action=edit&redlink=1 "User:Ar (page does not exist)") ([talk](/index.php?title=User_talk:Ar&action=edit&redlink=1 "User talk:Ar (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Ar "Special:Contributions/Ar")) (Ar moved page [AEPD - PS/00369/2019](/index.php?title=AEPD_-_PS/00369/2019 "AEPD - PS/00369/2019") to [AEPD (Spain) - PS/00369/2019](/index.php?title=AEPD_\(Spain\)_-_PS/00369/2019 "AEPD (Spain) - PS/00369/2019"))
+
+([diff](/index.php?title=AEPD_\(Spain\)_-_PS/00369/2019&diff=prev&oldid=38397 "AEPD (Spain) - PS/00369/2019")) [← Older revision](/index.php?title=AEPD_\(Spain\)_-_PS/00369/2019&direction=prev&oldid=38397 "AEPD (Spain) - PS/00369/2019") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+AEPD (Spain) - PS/00369/2019
+
+[![LogoES.jpg](/images/thumb/5/59/LogoES.jpg/250px-LogoES.jpg)](/index.php?title=File:LogoES.jpg)
+
+Authority:
+
+[AEPD (Spain)](/index.php?title=AEPD_\(Spain\) "AEPD (Spain)")
+
+Jurisdiction:
+
+[Spain](/index.php?title=Category:Spain "Category:Spain")
+
+Relevant Law:
+
+[Article 5(1)(c) GDPR](/index.php?title=Article_5_GDPR#1c "Article 5 GDPR")  
+[Article 12 GDPR](/index.php?title=Article_12_GDPR "Article 12 GDPR")  
+[Article 13 GDPR](/index.php?title=Article_13_GDPR "Article 13 GDPR")  
+[Article 30(1) GDPR](/index.php?title=Article_30_GDPR#1 "Article 30 GDPR")  
+[Article 83(2) GDPR](/index.php?title=Article_83_GDPR#2 "Article 83 GDPR")  
+## Article 22 of the LOPDGDD
+
+Type:
+
+Complaint
+
+Outcome:
+
+Upheld
+
+Started:
+
+Decided:
+
+Published:
+
+26.02.2020 Fine:
+
+6,500 EUR
+
+Parties:
+
+[COMUNIDAD DE PROPIETARIOS R.R.R.](https://www.comunidades.com/)  
+CASA Gracio OPERATION
+
+National Case Number/Name:
+
+PS/00369/2019
+
+European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+n/a
+
+Original Language(s):
+
+[Spanish](/index.php?title=Category:Spanish "Category:Spanish")
+
+Original Source:
+
+[AEPD (in ES)](https://www.aepd.es/es/documento/ps-00369-2019.pdf)
+
+Initial Contributor:
+
+n/a
+
+EUR 6,000 fine was imposed on hotel owner for the placement of video surveillance system which recorded public spaces. The AEPD found that the collection of data was not limited to what was necessary for the purpose of security of the hotel, hence the hotel owner violated the principle of data minimisation as foreseen in [Article 5(1)(c) GDPR](/index.php?title=Article_5_GDPR#1c "Article 5 GDPR").
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Dispute](#Dispute)
+    *   [1.3 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+Τhe complaint regarded the installation of a video-surveillance system on the perimeter of a hotel which also captured public spaces. The defendant claimed that the images were not processed by any third party and that it made available information about the cameras both at the hotel reception and in its privacy policy. It also argued that the video-surveillance system is only accessed by the manager of the hotel, the leading engineer and the head of customer service while third persons may only have access if it is necessary and upon prior explicit approval by the DPO. The images are stored for a maximum period of one month.
+
+### Dispute
+
+### Holding
+
+The AEPD first confirmed that the image of natural persons is personal data and the processing carried out through the video surveillance system should be in line with the GDPR. It recalled the principle of data minimisation according to [Article 5(1)(c) GDPR](/index.php?title=Article_5_GDPR#1c "Article 5 GDPR"), which has to be followed both during the data collection and the subsequent processing.
+
+It stressed that such systems may capture public spaces when it cannot be avoided or when this is necessary for the intended security purposes. There is always the duty to inform the affected parties as provided for in [Article 12 GDPR](/index.php?title=Article_12_GDPR "Article 12 GDPR") and [Article 13 GDPR](/index.php?title=Article_13_GDPR "Article 13 GDPR"). According to [Article 30(1) GDPR](/index.php?title=Article_30_GDPR#1 "Article 30 GDPR") a record must be kept by the responsible person. According to the national law in the video-surveiled areas, at least an information sign must be placed in a sufficiently visible place, both in open and closed spaces, which shall identify at least the existence of processing, the identity of the person responsible and the possibility of exercising the rights provided. The cameras should not obtain images of private and/or public space without a justified cause duly accredited, nor can they affect the privacy of passers-by. It is not permitted to place cameras on the private property of neighbors in order to intimidate them or affect their private sphere without justified cause.
+
+In this case the AEPD found that the capture of images from the public space was excessive and the data controller acted with serious lack of diligence. The data controller had also not adopted any measures to mitigate the effects of the infringement. However, it noted that the damage to those affected by the processing of their data was not significant, the processing was carried out only by the data controller at a local level and no benefit was obtained from this processing.
+
+Finally, after having considered all the mentioned factors, the AEPD imposed a reduced fine of EUR 6,000.
+
+## Comment
+
+_Share your comments here!_
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the original. Please refer to the Spanish original for more details.
+
+Procedure No.: PS/00369/2019RESOLUTION R/00078/2020 
+
+TO TERMINATE THE PROCEDURE FOR PAYMENT IN THE PS/00369/2019 sanctioning procedure, instructed by the Spanish Data Protection Agency to CASA GRACIO OPERATION, SLU, view the complaint submitted by COMMUNIDAD DE PROPIETARIOS R.R.R, and based on the following, 
+
+FIRST BACKGROUND: On January 7, 2020, the Director of the Spanish Data Protection Agency agreed to initiate sanctioning proceedings against CASA GRACIO OPERATION, SLU (hereinafter, the claimed), by means of the Agreement that transcribes: <948-230919Procedure No:PS/00369/2019Agreement to initiate sanctioning proceedings of the actions carried out by the Spanish Data Protection Agency, and based on the following 
+
+FIRST ACTS: On August 9, 2019, a document presented by the COMMUNITY OF OWNERS was entered into this Spanish Data Protection Agency.R.R. (from now on, the claimant), by means of which it makes a claim against Casa Graciio Operation, S.L.U., with NIF \*\*\*NIF.1 (hereinafter, the claimant), for the installation of a video surveillance system installed in \*\*\*DIRECTION.1 and\*\*\*DIRECTION.2, The reasons for the complaint and the documents provided by the complainant are as follows: A representative of the complaining Property Owners' Association is filing a complaint against an adjacent establishment which, in its access areas, has dome cameras that could capture public roads and accesses to the said Property Owners' Association. These are dome cameras and are capable of capturing environments. They provide photographs of the cameras. Together with the above, they indicate that they do not have informative signs and, according to the photographs provided, it does not appear that, at least on the façade of the establishment, these signs are located.4 Organic Law 3/2018, of 5 December, on the Protection of Personal Data and the Guarantee of Digital Rights (hereinafter, LOPDGDD), is not the operator of the same, but its subsidiary, of which it owns 100% of its share capital, the company CASA GRACIO OPERATION, S.L.U.,   The operator has installed the video surveillance cameras referred to in the information request, located on the perimeter of the hotel, specifically in\*\*\*DIRECTION.1 and \*\*\*DIRECTION.2,   The company mentioned is in charge of viewing and processing the images captured by the cameras, which is carried out by the operator, and the processing of the images obtained is not entrusted to any third party. They state that the cameras referred to in the information requirement are AirSpace CCTV cameras model SAM-3575 (DC12V). In addition, there are two other (2) cameras installed of the Dahua Dome type, model HDW2431R-ZR. In these last ones they have installed privacy masks. In the video-surveillance areas, mandatory video-surveillance warning signs have been installed, which are completely visible when accessing these areas. Likewise, the person responsible for the processing, CASA GRACIO OPERATION, S.L.U., a subsidiary of WFC SPAIN.   (previously called THOMAS COOKHOTEL INVESTMENTS SPAIN 1, S.L., and previously called THOMAS COOKHOTELS & RESORTS, S.L.), has made the Video-Surveillance Privacy Policy available to interested parties, available both at the hotel reception (together with the video-surveillance sign) and on the privacy portal https://www.thomascookgroup.com/privacy-policies-forhotels-and-resorts). Only the hotel manager, the chief engineer and the head of customer service can have access to the images obtained from the video surveillance and, if access by any other person is necessary, it requires the prior and express approval of the Data Protection Officer. For this purpose, we inform you that the security company "SEGURISBA" provides security services within the hotel, but does not have access to the images obtained in the video surveillance. The employees of the hotel are aware of the existence of a video surveillance system, since the necessary information notice has been placed in the video-surveillance areas.  The images obtained from the cameras are stored for a maximum period of one month, in accordance with the provisions of Article 22.3 of Organic Law 3/2018 of 5 December on the Protection of Personal Data and the guarantee of digital rights.2 of the Regulation (UE) 2016/679 (General Regulation of Data Protection, hereinafter GDPR), recognizes each Control Authority, and according to the established in the articles 47, 48.1, 64.2 and 68.1 of theLOPDGDD, the Director of the Spanish Agency of Data Protection is competent to initiate and to solve this procedure.II The physical image of a person, according to the article 4.1 of the GDPR, is a personal data and its protection, therefore, is object of this Regulation. Article 4.2 of the GDPR defines the concept of "processing" of personal data and it is therefore appropriate to analyse whether the processing of personal data (in the image of natural persons) carried out through the video surveillance system described above is in accordance with the provisions of the GDPR. On the other hand, Article 5.1.c) of the GDPR, related to the principles of processing, states that personal data shall be "adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed ("minimization of data").  This article enshrines the principle of data minimization in the processing of personal data.   It implies that such processing is adjusted and proportional to the purpose for which it is intended, and that excessive data processing should be restricted or deleted. The pertinence of the data processing must occur both in the area of data collection and in the subsequent processing of the same. On the other hand, in accordance with that established in article 22 of the LOPDGDD, specifically referring to "Processing for the purposes of video surveillance", the processing of images in public places can only be carried out - where appropriate and subject to compliance with the legally required conditions - by the Security Forces and Bodies, unless the exception established in the aforementioned article 22 of the LOPDGDD operates for natural or legal persons, public or private, respecting the conditions required in the said article.On some occasions the protection of private spaces is only possible if the cameras are located in spaces such as facades.   Sometimes it is also necessary to capture the accesses, doors or entrances, so that even if the camera is located inside the building, it is impossible not to record a minimum and indispensable part of the public road, which is inevitably captured. In these cases, the person responsible for the processing through cameras will adapt the use of the installation, so that the impact on the rights of third parties (passers-by) is as small as possible. Under no circumstances will the use of surveillance practices be allowed beyond the environment that is the object of the installation, and it may not affect the surrounding public spaces, adjacent buildings or vehicles other than those that access the monitored space.IV In accordance with the above, the processing of images through a video surveillance system, in order to comply with current regulations, must meet the following requirements: - Respect the principle of proportionality. When the system is connected to an alarm centre, it can only be installed by a private security company that meets the requirements set out in Article 5 of Law 5/2014 on Private Security, dated 4 April. This rule does not allow for any exceptions, since on some occasions, for the protection of private spaces, where cameras have been installed on facades or inside, it may be necessary to record a portion of the public road in order to guarantee security.
+   In other words, the cameras and video cameras installed at security confines may not be able to obtain images of the public thoroughfare unless it is indispensable for that purpose, or it is impossible to avoid it because of the location of the cameras and, extraordinarily, the minimum space for that purpose will also be collected.   Therefore, the cameras may exceptionally capture the minimum necessary portion for the intended security purpose. The duty to inform the affected parties provided for in Articles 12 and 13 of the RGPD must be complied with, resulting in the application - not contradicting the provisions of the aforementioned Regulation - of the method provided for in Article 3 of Instruction 1/2006, of 8 November, of the Spanish Data Protection Agency, on the Processing of Personal Data for Surveillance Purposes through Camera or Video Camera Systems. Specifically, in the video-surveillance areas, at least an information sign must be placed in a sufficiently visible place, both in open and closed spaces, which shall identify, at least, the existence of a treatment, the identity of the person responsible and the possibility of exercising the rights provided for in said precepts.  Likewise, the information referred to in the aforementioned GDPR must be kept at the disposal of those affected. - The responsible must keep a record of the activities of the treatments carried out under his/her responsibility, including the information referred to in article 30.1 of the GDPR. The cameras installed cannot obtain images of private and/or public space without a justified cause duly accredited, nor can they affect the privacy of passers-by who freely transit the area.   Therefore, it is not permitted to place cameras on the private property of neighbours with the aim of intimidating them or affecting their private sphere without justified cause.   In no case shall the use of surveillance practices be allowed beyond the environment that is the object of the installation and in particular, they may not affect the surrounding public spaces, adjacent buildings and vehicles other than those that access the space under surveillance. In relation to the above, to facilitate consultation by interested parties, the Spanish Data Protection Agency offers through its website \[https://www.aepd.es\] access to the legislation on personal data protection, including the GDPR and the LOPDGDD (section "Reports and resolutions" / "regulations"), as well as the Guide on the use of video cameras for security and other purposes, as well as the Guide for compliance with the duty to inform (both available in the section "Guides and tools"). Also of interest, in the case of processing of low risk data, the free tool Facilita (in the section "Guides and Tools"), which, by means of some specific questions, enables the situation of the person responsible to be assessed with regard to the processing of personal data that he/she carries out, and where appropriate, generates various documents, informative and contractual clauses, as well as an annex with security measures considered to be minimum.The claim is based on the alleged unlawfulness of the installation by the claimant of a video surveillance system, consisting of several different model cameras, located on the perimeter of the hotel, located at \*\*\*DIRECTION.1   AND\*\*\*ADDRESS.2,   In the images provided by the accused entity, it can be seen that even when one of the cameras has a privacy mask, it should be extended to capture only its property and proportional space in the case of public roads, since they record too much public space. In accordance with the above, this Agency considers that there are indications of the existence of video surveillance cameras installed on the perimeter of the hotel facilities, located in the \*\*\*ADDRESS.1   And \*\*\*DIRECTION.2 which capture images of the public thoroughfare in excess, as can be seen from the images of the recording provided by the claimed entity.  VILE corrective powers available to the Spanish Data Protection Agency, as supervisory authority, are established in Article 58.2 of the RGPD.2(b), the power to impose an administrative fine under Article 83 of the GDPR - Article 58(2)(i), or the power to order the controller or processor to comply with the provisions of the GDPR, where appropriate, in a certain manner and within a specified time period - Article 58. 2 d)- According to the provisions of Article 83.2 of the GDPR, the measure provided for in Article 58.2 d) of the aforementioned Regulation is compatible with the sanction consisting of an administrative fine.1.c) of the GDPR, and could therefore entail the commission of an offence under Article 83.5 of the GDPR, which provides: 'Infringements of the following provisions shall be punishable, in accordance with paragraph 2, by administrative fines of not more than EUR 20 000 000 or, in the case of an undertaking, of not more than 4 % of the total annual turnover for the preceding business year, whichever is the greater: (a) the basic principles for processing, including the conditions for consent pursuant to Articles 5, 6, 7 and 9; for the purposes of the limitation period for infringements, the infringement referred to in the previous paragraph is considered to be very serious and is subject to a limitation period of three years pursuant to Article 72.1 of the LOPDGDD, which states that: "In accordance with the provisions of Article 83.5 of Regulation (EU) 2016/679, infringements that substantially violate the articles mentioned therein are considered very serious and shall be subject to the statute of limitations after three years, and in particular the following infringements: a) Processing of personal data in breach of the principles and guarantees set out in Article 5 of Regulation (EU) 2016/679.(b) Processing of personal data without complying with any of the conditions for the lawfulness of processing laid down in Article 6 of Regulation (EU) 2016/679.)h) Failure to inform the data subject about the processing of his or her personal data in accordance with Articles 13 and 14 of Regulation (EU) 2016/679 and 12 of this Organic Law.1 of the GDPR.Therefore, it is appropriate to graduate the sanction to be imposed in accordance with the criteria established in Article 83.2 of the GDPR, and with the provisions of Article 76 of theLOPDGDD, with respect to paragraph k) of the aforementioned Article 83.2 GDPR: In the initial assessment, the following have been considered as aggravating factors:-The claimant has acted with a serious lack of diligence.  -The defendant has not adopted any measure to correct the effects of the infringement.  In the initial assessment, the following were considered as mitigating factors: -The merely local scope of the data processing carried out by the respondent. -The damage caused to those affected by the processing of their data is not significant. -As mitigating circumstances to be assessed in order to determine the level of the penalty, the limited space for collecting data, the absence of benefits obtained, as well as the fact that the company is a sole proprietorship, are taken into account.IX If the infringement is confirmed, it could be agreed to impose on the person responsible the adoption of appropriate measures to adjust his actions to the regulations mentioned in this act, in accordance with the provisions of the aforementioned Article 58.2 d) of the GDPR, according to which each supervisory authority may "order the controller or processor to comply with the provisions of this Regulation, where appropriate, in a particular manner and within a specified time limitIn such a case, in the resolution adopted, this Agency may require the controller to correct the external recording area within a specified time limit, limiting itself to recording the hotel facilities and a small proportional space on the public highway, but not what it has indicated it is recording even with the mask of privacy. These measures must be accredited:-documentary evidence (photograph showing date and time) accrediting the limitation in the recording in public streets of the devices located in\*\*\*ADDRESS.1 AND \*\*\*ADDRESS.2.-acredits having proceeded to remove the camera from the current location, or to redirect it to its particular zone. It is warned that failure to comply with the requirements of this body may be considered an administrative infraction in accordance with the provisions of the GDPR, classified as an infraction in Article 83.Therefore, in accordance with the above, the Director of the Spanish Data Protection Agency, AGREES:
+FIRST: TO INITIATE SANCTIONING PROCEEDINGS against CASA GRACIOOPERATION, SLU, with NIF \*\*\*NIF.1, for the alleged infringement of Article 5.1.c) of the GDPR, typified in Article 83.5.a) of the same GDPR,
+
+THIRD: to include in the sanctioning file, for the purposes of proof, the complaint filed by the claimant and his documentation, as well as the documents obtained and generated by the Subdirectorate General for Data Inspection.FOURTH: That for the purposes set forth in art. 64.2 b) of Law 39/2015, of 1 October, on the Common Administrative Procedure of Public Administrations (LPACAP, hereinafter), the sanction that may correspond would be 10,000 euros, without prejudice to the results of the investigation. Likewise, if the alleged infringement is confirmed, it may lead to the imposition of measures in accordance with the provisions of the aforementioned article 58.2 d) of the GDPR.QUINTO: NOTIFY this agreement to CASA GRACIO OPERATION, SLU, granting it a period of ten working days to make the allegations and present the evidence it deems appropriate.  If you do not make any allegations within the stipulated period of time, this agreement may be considered a proposal for resolution, as established in Article 64.2.f) of the LPACAP. The sanctioning procedure will have a maximum duration of nine months from the date of the initiation agreement or, as the case may be, the draft initiation agreement. After that period, the proceedings will be terminated and, consequently, the proceedings will be closed, in accordance with Article 64 of the LOPDGDD. In accordance with Article 85 of the LPACAP, if the sanction to be imposed is a fine, it may recognize its responsibility within the period granted for the formulation of arguments to the present agreement to initiate the proceedings, which will be accompanied by a reduction of 20% of the sanction to be imposed in the present procedure.   With the application of this reduction, the penalty would be established at 8,000 euros (eight thousand euros), and the procedure would be resolved with the imposition of this penalty. Similarly, at any time prior to the resolution of the present procedure, it may carry out the voluntary payment of the proposed penalty, which will entail a reduction of 20% of its amount.   With the application of this reduction, the sanction would be established at 8,000 euros (eight thousand euros), and its payment would imply the termination of the procedure. The reduction for the voluntary payment of the sanction is cumulative to the one applied for the recognition of the responsibility, as long as the recognition of the responsibility is shown within the time limit granted to formulate arguments at the opening of the procedure.   If both reductions were to be applied, the amount of the sanction would be established at 6,000 euros (six thousand euros). In any case, the effectiveness of either of the two mentioned reductions will be conditioned by the withdrawal or renunciation of any action or appeal in the administrative channel against the sanction.In the event that you choose to proceed with the voluntary payment of any of the amounts indicated above, you must make it effective by depositing it in the account nº ES00 0000 0000 0000 0000 opened in the name of the Spanish Data Protection Agency at the CAIXABANK, S.A. Bank,   indicating in the concept the reference number of the procedure that appears in the heading of this document and the reason for the reduction of the amount to which it applies. Likewise, the receipt of the payment must be sent to the Subdirectorate General of Inspection to continue with the procedure in accordance with the amount paid. Finally, it is noted that in accordance with the provisions of article 112.1 of the LPACAP, against this act there is no administrative appeal.Mar España MartíDirector of the Spanish Agency for Data Protection >>SECOND: On January 29, 2020, the claimant has proceeded to pay the penalty in the amount of 6000 euros using the two reductions provided in the Agreement transcribed above, which implies the recognition of laresponsibility.THIRD: The payment made, within the period granted for making allegations at the opening of the procedure, entails the waiver of any action or appeal in administrative proceedings against the sanction and the acknowledgement of responsibility in relation to the facts referred to in the Agreement of Initiation.  47 of Organic Law 3/2018, of December 5, on the Protection of Personal Data and the Guarantee of Digital Rights (hereinafter LOPDGDD), the Director of the Spanish Data Protection Agency is competent to sanction any infringements committed against the said Regulation; infringements of Article 48 of Law 9/2014, of May 9, General of Telecommunications (hereinafter LGT), in accordance with the provisions of Article 84.3 of the LGT, and the infringements specified in Articles 38.3(c), (d) and (i) and 38.4 d), g) and h) of Law 34/2002, of 11 July, on information society and electronic commerce services (hereinafter LSSI), in accordance with the provisions of article 43.1 of said Law.Article 85 of Law 39/2015, of 1 October, on the Common Administrative Procedure of Public Administrations (hereinafter LPACAP), under the heading "Termination in sanctioning proceedings", provides that: "1.When the sanction is only pecuniary in nature, or when a pecuniary and a non-pecuniary sanction can be imposed but it has been justified that the latter is not appropriate, the voluntary payment by the presumed responsible party, at any time prior to the resolution, will imply the termination of the procedure, except for the replacement of the altered situation or the determination of the compensation for damages caused by the commission of the infringement.3In both cases, when the penalty is only pecuniary, the body responsible for deciding the procedure shall apply reductions of at least 20 % of the amount of the penalty proposed, which may be cumulative. These reductions shall be determined in the notification of initiation of the procedure and their effectiveness shall be conditional upon the withdrawal or renunciation of any action or appeal against the penalty in administrative proceedings. In accordance with the above, the Director of the Spanish Data Protection Agency RESOLVES:FIRST: TO DECLARE the termination of procedure PS/00369/2019, in accordance with the provisions of Article 85 of the LPACAP.SECOND: TO NOTIFY the present resolution to CASA GRACIO OPERATION, SLU.In accordance with the provisions of Article 50 of the LOPDGDD, this resolution will be made public once it has been notified to the interested parties.c) of Law 39/2015, of 1 October, on the Common Administrative Procedure of the Public Administrations, the interested parties may file an administrative appeal with the Contentious-Administrative Chamber of the National Court, in accordance with the provisions of Article 25 and paragraph 5 of the fourth additional provision of Law 29/1998, of 13 July, regulating the Contentious-Administrative Jurisdiction, within a period of two months from the day following notification of this act, as provided for in Article 46.1 of the aforementioned Act.
+
+Retrieved from "[https://gdprhub.eu/index.php?title=AEPD\_(Spain)\_-\_PS/00369/2019&oldid=38397](https://gdprhub.eu/index.php?title=AEPD_\(Spain\)_-_PS/00369/2019&oldid=38397)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [AEPD (Spain)](/index.php?title=Category:AEPD_\(Spain\) "Category:AEPD (Spain)")
+*   [Spain](/index.php?title=Category:Spain "Category:Spain")
+*   [Article 5(1)(c) GDPR](/index.php?title=Category:Article_5\(1\)\(c\)_GDPR "Category:Article 5(1)(c) GDPR")
+*   [Article 12 GDPR](/index.php?title=Category:Article_12_GDPR "Category:Article 12 GDPR")
+*   [Article 13 GDPR](/index.php?title=Category:Article_13_GDPR "Category:Article 13 GDPR")
+*   [Article 30(1) GDPR](/index.php?title=Category:Article_30\(1\)_GDPR "Category:Article 30(1) GDPR")
+*   [Article 83(2) GDPR](/index.php?title=Category:Article_83\(2\)_GDPR "Category:Article 83(2) GDPR")
+*   [Spanish](/index.php?title=Category:Spanish "Category:Spanish")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/AEPD_\(Spain\)_-_PS/00369/2019 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/AEPD_\(Spain\)_-_PS/00369/2019 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=AEPD_\(Spain\)_-_PS/00369/2019&oldid=38397 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=AEPD_\(Spain\)_-_PS/00369/2019&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=AEPD_%28Spain%29_-_PS%2F00369%2F2019&id=38397&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 13 December 2023, at 14:33.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.057","walltime":"0.073","ppvisitednodes":{"value":460,"limit":1000000},"postexpandincludesize":{"value":1986,"limit":2097152},"templateargumentsize":{"value":792,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":23662,"limit":5000000},"timingprofile":\["100.00% 11.357 1 Template:DPAdecisionBOX","100.00% 11.357 1 -total"\]},"cachereport":{"timestamp":"20250830130636","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":973});});

@@ -1,0 +1,385 @@
+ Garante per la protezione dei dati personali (Italy) - 10084403 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"cfdf2cb1fdc604f49ebb4ada","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Garante\_per\_la\_protezione\_dei\_dati\_personali\_(Italy)\_-\_10084403","wgTitle":"Garante per la protezione dei dati personali (Italy) - 10084403","wgCurRevisionId":45134,"wgRevisionId":45134,"wgArticleId":8755,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["Garante per la protezione dei dati personali (Italy)","Italy","Article 15(1)(g) GDPR","Article 28 GDPR","Article 28(3)(a) GDPR","Article 28(3)(e) GDPR","Article 28(3)(h) GDPR","2024","Italian"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Garante\_per\_la\_protezione\_dei\_dati\_personali\_(Italy)\_-\_10084403","wgRelevantArticleId":8755,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10084403&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10084403&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10084403&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=Garante+per+la+protezione+dei+dati+personali+%28Italy%29+-+10084403&returntoquery=oldid%3D45134 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# Garante per la protezione dei dati personali (Italy) - 10084403
+
+From GDPRhub
+
+Revision as of 14:15, 21 January 2025 by [Elu](/index.php?title=User:Elu&action=edit&redlink=1 "User:Elu (page does not exist)") ([talk](/index.php?title=User_talk:Elu&action=edit&redlink=1 "User talk:Elu (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Elu "Special:Contributions/Elu"))
+
+([diff](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10084403&diff=prev&oldid=45134 "Garante per la protezione dei dati personali (Italy) - 10084403")) [← Older revision](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10084403&direction=prev&oldid=45134 "Garante per la protezione dei dati personali (Italy) - 10084403") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+Garante per la protezione dei dati personali - 10084403
+
+[![LogoIT.png](/images/thumb/e/ec/LogoIT.png/250px-LogoIT.png)](/index.php?title=File:LogoIT.png)
+
+Authority:
+
+[Garante per la protezione dei dati personali (Italy)](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\) "Garante per la protezione dei dati personali (Italy)")
+
+Jurisdiction:
+
+[Italy](/index.php?title=Category:Italy "Category:Italy")
+
+Relevant Law:
+
+[Article 15(1)(g) GDPR](/index.php?title=Article_15_GDPR#1g "Article 15 GDPR")  
+[Article 28 GDPR](/index.php?title=Article_28_GDPR "Article 28 GDPR")  
+[Article 28(3)(a) GDPR](/index.php?title=Article_28_GDPR#3a "Article 28 GDPR")  
+[Article 28(3)(e) GDPR](/index.php?title=Article_28_GDPR#3e "Article 28 GDPR")  
+[Article 28(3)(h) GDPR](/index.php?title=Article_28_GDPR#3h "Article 28 GDPR")
+
+Type:
+
+Complaint
+
+Outcome:
+
+Upheld
+
+Started:
+
+Decided:
+
+17.10.2024 Published:
+
+Fine:
+
+60,000 EUR
+
+Parties:
+
+[Serfin 97 S.r.l.](https://serfin97srl.com/en/frontpage-en/)
+
+National Case Number/Name:
+
+10084403 European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+Unknown  
+
+Original Language(s):
+
+[Italian](/index.php?title=Category:Italian "Category:Italian")
+
+Original Source:
+
+[Garante per la Protezione dei Dati Personali (in IT)](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10084403)
+
+Initial Contributor:
+
+elu
+
+The DPA fined a processor €60,000 after they emailed a data subject´s acquaintance regarding an outstanding debt. In violation of Article 28 GDPR and of the controller’s instructions, it could not explain the source of this data.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+The data subject was contacted by the credit market agency Serfin 97 S.r.l., the processor, to request the payment of an outstanding debt the data subject had with P.E.S S.r.l., the controller. However, the email address used by the processor to contact the data subject was the address of an acquaintance of the data subject and not the data subject’s address. Also, the data subject never communicated the email address to the controller or the processor.
+
+The data subject advanced a complaint before the DPA, which started an investigation. The investigation revealed that the debt was transferred from “ENI gas e luce S.p.a.” (Hereinafter: ENI), one of the biggest gas and electricity providers in Italy, to the controller, in the context of a contract of cession of monetary claims.
+
+However, the collecting of the purchased debt was fully handled, on behalf of the controller, by Centotrenta Servicing S.p.A., which itself delegated the task to the processor. In fact, the controller is a vehicle company for the securisation of credits, does not have any employee, no database and delegates all its services, even the administration ones, to Centotrenta Servicing S.p.A.
+
+The DPA further established that the cession of the debt automatically entailed the sharing of personal data of the debtors with the controller, as this data is included in the documents and in the computer records related to the debtors. In relation to the data subject´s file, no email address was present in its contact data.
+
+Against this background, when the processor received a request of information from the DPA, it replied and put forward that, it is “highly likely that the email contact came from a telephone contact with the data subject, or by acquiring the data through consulting publicly available sources”.
+
+The processor explained that, after the third party´s request to delete the email, such data was erased not only from the documentation related to the data subject, but overall from the entire database.
+
+### Holding
+
+The DPA starts its analysis by confirming that Serfin 97 S.r.l. is the processor and P.E.S S.r.l. is the controller.
+
+**Responsibilities of the data controller**
+
+Having established that Serfin 97 S.r.l. is the processor, the DPA considered that, under [Article 28 GDPR](/index.php?title=Article_28_GDPR "Article 28 GDPR"), there are some specific obligations that the processor needs to fulfil. More specifically, the processor has to identify, in light of the indications provided by the controller, the most appropriate technical and organizational measures to implement the processing activities. Especially in the context of securitization matters, the controller is required to ensure a high level of specialised expertise in relation to the activities attributed to it, including those related to the processing of the assigned debtors' personal data.
+
+**Obligation to keep track of the origin of debtor´s contact data**
+
+[Article 28 GDPR](/index.php?title=Article_28_GDPR "Article 28 GDPR") further provides for the obligation on the processor to adopt appropriate measures to grant the constant update of personal data by the processor. This includes conducting a verification process of personal data used to contact the debtor and the transmission of such data to the controller.
+
+Respecting this obligation further proves crucial to enable the controller to effectively respond to any access request of a data subject under [Article 15(1)(g) GDPR](/index.php?title=Article_15_GDPR#1g "Article 15 GDPR"), which requires the controller to provide information on the source of the data requested.
+
+Thus, the indication of the source from which the information was processed, where it is acquired through the controller, is indispensable to enable the controller to verify the lawfulness of the processing carried out and meets the obligation of the controller provided for in [Article 28(3)(h) GDPR](/index.php?title=Article_28_GDPR "Article 28 GDPR").
+
+**Violation of Article 28(3)(a), (e) and (h) GDPR**
+
+In light of the above considerations, the DPA ascertained that the processor did not track effectively the origin of personal data processed on behalf of the controller and did not provide for the email address in the controller´s documentation on assigned debts.
+
+The controller provided the processor with instructions on how to process data lawfully. Among these, the processor had to:
+
+\- Acquire and update all useful data and information to have a constant and updated knowledge of singular debtors´ documents;
+
+\- Preserve evidence, even electronically, on the operations related to debts;
+
+\- Handle debts with the utmost professionalism and due diligence, especially in relation to the Guidelines of the DPA;
+
+\- Conduct every necessary communication related to debts and the assignment of debts, including the servicing contracts;
+
+\- Provide the controller with all necessary data related to debts to fulfil all legal obligations.
+
+In the case at hand, not only did the controller fail to keep track of the source of the email address erroneously attributed to the data subject, but it also disregarded the correct instruction that the controller provided the processor with.
+
+In relation to the processor´s claim that this case was an isolated mistake, the DPA considered that the controller never received any communication related to the update of debtors´ contact data. Thus, the processor violated [Article 28(3)(a), (e) and (h) GDPR](/index.php?title=Article_28_GDPR "Article 28 GDPR").
+
+**Fine**
+
+Therefore, the DPA deemed it appropriate to impose a fine of €60,000 to the processor for the violation of [Article 28(3)(a), (e) and (h) GDPR](/index.php?title=Article_28_GDPR "Article 28 GDPR").
+
+## Comment
+
+_Share your comments here!_
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the Italian original. Please refer to the Italian original for more details.
+
+\[web doc. no. 10084403\]
+Provision of 17 October 2024
+Register of provisions
+no. 615 of 17 October 2024
+THE GUARANTOR FOR THE PROTECTION OF PERSONAL DATA
+IN today's meeting, attended by Prof. Pasquale Stanzione, President, Prof. Ginevra Cerrina Feroni, Vice President, Dr. Agostino Ghiglia and Attorney Guido Scorza, members, and Councillor Fabio Mattei, Secretary General;
+HAVING SEEN Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (hereinafter “Regulation”);
+HAVING SEEN Legislative Decree no. 101 of 30 June 2003 196 (Personal Data Protection Code, hereinafter “Code”) as amended by Legislative Decree no. 101 of 10 August 2018 containing “Provisions for the adaptation of national legislation to the provisions of Regulation (EU) 2016/679”;
+SEEN the complaint submitted to the Guarantor pursuant to Article 77 of the Regulation, dated 19 November 2021, with which Mr. XX complained of unlawful processing of his personal data used for debt collection purposes by Serfin 97 S.r.l.;
+EXAMINING the documentation in the files;
+SEEN the observations formulated by the Secretary General pursuant to Article 15 of the Guarantor Regulation no. 1/2000;
+REPORTER Dr. Agostino Ghiglia;
+WHEREAS
+1. The complaint and the investigative activity.
+On 19 November 2021, Mr. XX complained about the unlawful processing of his personal data used for debt collection purposes by Serfin 97 S.r.l.
+More specifically, the complainant reported that Serfin 97 S.r.l. had used, as a contact address to contact the debtor, an email address belonging to an acquaintance of his, specifically the email contact XX, in order to request payment of a debt, originally contracted with Eni gas e luce S.p.A. and then transferred, following a securitization transaction, to P.E.S. S.r.l. (see Annex 1 - "email of 23 October 2021" to the complaint in question).
+He also specified that the aforementioned email address had never been communicated by him to the aforementioned energy supplier, nor to P.E.S. S.r.l. or to Serfin 97 S.r.l. (see the complaint request in the epigraph, page 1).
+In this regard, an investigation was initiated by the undersigned Authority, through the transmission, pursuant to art. 157 of the Code, of a request for information with which Serfin 97 S.r.l. was invited to provide observations regarding the facts that were the subject of the complaint (see note dated 24 January 2022).
+From the feedback received (see note from Serfin 97 S.r.l. dated 21 February 2022) it emerged, among other things, that the same would have acted as the data controller pursuant to art. 28 of the Regulation on behalf of P.E.S. S.r.l. identified as the data controller of Mr. XX, pursuant to the aforementioned securitization transaction of the credits acquired by Eni gas e luce S.p.A.
+A request for information was therefore sent to P.E.S. S.r.l. (see note from the Guarantor dated 18 July 2022) in order to acquire some clarifications on the matter, which were followed by some inspections, conducted by the Special Unit for the Protection of Privacy and Technological Fraud of the Guardia di Finanza, on 26 and 27 October 2022.
+Further clarifications were also provided by P.E.S. S.r.l. with a reply dated 11 April 2023, following a specific request from the Guarantor transmitted, pursuant to art. 157 of the Code, on 14 March 2023.
+2. The elements acquired during the investigation.
+In the context of the above-mentioned findings and during the inspection activities carried out by the Special Unit for the Protection of Privacy and Technological Fraud (see minutes of 26 and 27 October 2022), the owner represented the following:
+‒ P.E.S. S.r.l. is “a limited liability company incorporated in Italy pursuant to Article 3 of Law no. 130 of 30 April 1999 (“Securitization Law”), registered in the list of special purpose vehicles held by the Bank of Italy pursuant to Article 4 of the resolution of the Bank of Italy of 7 June number 35371.4 and having as its exclusive purpose the implementation of one or more credit securitization transactions. For this purpose, (…) -in compliance with art. 2, paragraph 3 and paragraph 6-bis of the Securitization Law- has reserved the collection of the transferred credits and the cash and payment services, as well as the verifications of compliance of the transactions with the law and the information prospectuses, to Centotrenta Servicing S.p.a., as a financial intermediary registered in the register pursuant to art. 106 TUB” (see note of 11 April 2023, pages 1-2). Since “its birth, on 1/8/2017, it has carried out three securitization transactions (…), each with separate assets. All (…) attributable to transactions for the assignment of trade receivables” (see minutes of 27 October 2022, page 1);
+‒ with regard to the case in question, “on 14 December 2018, the Company concluded a contract for the assignment of pecuniary receivables with Eni gas e luce S.p.A. (..) published in the Official Journal of the Italian Republic on 10/1/2019”. In this context, P.E.S. S.r.l., for servicing activities (art. 2, paragraph 3, letter c) and paragraph 6 of Law no. 130/99) “made use of Centotrenta Servicing S.p.A., which in turn appointed Serfin 97 S.r.l. as sub servicer for the collection of debt collections on its behalf” (see minutes of 27 October 2022, page 1 and attachment 12);
+‒ the activity of “acquisition of unpaid debts described in the contract between the transferor Eni Gas e Luce S.p.a. (…) and the transferee Pes S.r.l., was managed entirely by Centotrenta Servicing S.p.a., since Pes, being a vehicle company for the securitization of debts, has no employees, nor does it own applications and databases, reasons for which all services, including administrative ones, were entrusted to the company Centotrenta Servicing S.p.A.” (see minutes of 27 October 2022, page 2 and attachment 12).
+‒ in the context of the securitization transaction concerning the debt relationships of the claimant, P.E.S. S.r.l. - as it operates "under a concluded contract for the assignment of pecuniary credits" - is "the owner \[of\] the plurality of pecuniary credits purchased en bloc and pro-soluto by the Transferor \[Eni gas e luce S.p.A.\]. This assignment of credits necessarily entailed the communication to PES of the personal data contained in the documents and computer evidence relating to the assigned debtors to whom the credits refer, as well as the personal data relating to the respective (if any) guarantors, successors or assignees. (…) The data collected and processed by the company to fulfill the purposes of debt collection, \[consisted of\] personal identification and contact data, financial and income information of the interested parties” (see minutes of 26 October 2022, page 1);
+‒ with specific reference to the processing of personal data relating to Mr. XX, “the Company \[has\] operated as the data controller of the personal data, \[while\] Serfin S.r.l., in relation to the credit purchased from ENI S.p.A., \[has\] operated as the data processor” (see minutes of 26 October 2022, page 1).
+During the above-mentioned inspections, “a SharePoint link was acquired with the original layout \[of the complainant’s data\] purchased from Eni Gas e Luce (Annex B to the contract) in Excel format, as well as the extract of the complainant’s unpaid credit file and his personal data”. The aforementioned documentation revealed “the existence of unpaid credits for 3 of the complainant’s invoices, as well as the absence of any e-mail address \[of the complainant\], among the personal data” present therein (see minutes of 27 October 2022, page 2 and Annex no. 11).
+On this point, in relation to the instructions given by P.E.S. S.r.l. to the companies responsible and sub-responsible for the processing regarding the possible updating and/or acquisition of further data of the debtors useful for the purposes of debt collection, P.E.S. S.r.l. was also represented that the same “has never (…) received \[from its managers and sub-managers\] communications of an update or increase in the personal data of the debtors” (see minutes of 27 October 2022, page 3).
+Finally, with reference to the request for information sent by the undersigned Authority to Serfin 97 S.r.l., the aforementioned Company, with a response note of 21 February 2022, represented the following:
+- Serfin 97 S.r.l. “provides credit protection services on behalf of several important commercial and financial entities and, as part of this activity, on 18/12/2020, received a mandate from Pes S.r.l in order to verify the conditions for an out-of-court settlement of the arrears accrued - among others - also by Mr. XX” (see note of 21 February 2022, cit., page 1);
+- the aforementioned Company, having received the complaint from Mr. XX, “activated an internal investigation in order to verify the methods of managing the practice by involving the personnel in charge of fulfilling the mandate received from the Client. It was possible to ascertain that - as per practice - calls were made to the telephone numbers provided by the Client in the registry at the time of the assignment on the following dates: 09/16/2021; 10/07/2021; 10/23/2021; 10/27/2021. Only subsequently was a communication sent by email” (see note of 21 February 2022, cit., page 1);
+- the personnel involved in the aforementioned checks “also confirmed that they complied with the provisions of the undersigned company regarding the management of practices and the correct processing of personal data, without remembering exactly the source from which they obtained the XX email address, which can most likely be identified in the communication by the interested party during the telephone contacts that took place, or in the acquisition of the data through the consultation of public sources (…). The difficulty in accurately re-elaborating the performance of the operations depends, understandably, on the high number of positions managed simultaneously by the company Serfin 97 S.r.l.: consider, for example, that, during the year 2021, almost 1,130,936 practices of attempted out-of-court debt collection were entrusted to the Company” (see note of 21 February 2022, cit., page 2);
+- more generally, with regard to the methods of obtaining the debtor's contact details, the procedures adopted by the Company provide for "the use of data exclusively obtainable through the following sources: indication of contact details in the contractual format signed by the interested party; communication of the data by the interested party to the creditor/client during the contractual relationship; communication of the data during contacts made directly with the interested party; acquisition of the data through consultation of public sources; acquisition of the data through specialized companies, equipped with a license pursuant to art. 134 T.U.L.P.S." (see note of 21 February 2022, cit., page 1);
+- following Mr. XX's request not to use the disputed email address, the company, on 1 December 2021, "provided for the definitive cancellation of such data not only from Mr. XX's file, but also from its own database" and "also proceeded to acknowledge, within the terms provided by law, the communication \[of the complainant\], informing him of the evidence emerging from the investigation activity, as well as of the immediate cancellation of the disputed data" (see note of 21 February 2022, cit., page 2 and Annex 1).
+3. Notification of the violation and the defense briefs.
+With communication dated 17 May 2023, the Office, on the basis of the documentation in the files and the elements acquired during the investigation, notified Serfin 97 S.r.l. of the initiation of the procedure for the adoption of the provisions referred to in Articles 58, paragraph 2, and 83 of the Regulation in relation to the violation of Article 28, paragraph 3, letters a), e) and h) of the Regulation; this in accordance with the provisions of Article 166, paragraph 5, of the Code.
+In this regard, the Company, with a communication dated 16 June 2023, submitted its defence papers, further integrated during the hearing of 22 March 2024 and through an additional note dated 28 March 2024, representing the following:
+a) with regard to the origin of the contested personal data, the email address XX, due to a human error attributable exclusively to the employee in charge of managing the case, was not correctly entered into the Company's management database, and therefore remained without the indication of the "source" from which it had been acquired. All this despite the existence within the Company of specific company procedures which "expressly provide for indicating the source of the data in the notes field of the case, entering the data in the appropriate fields intended for them"; procedures regarding which collaborators periodically receive adequate training (see note of 16 June 2023, pages 2-5 and Annex 4; see also note of 28 March 2024, pages 1-2 and Annexes nos. 25 and 26);
+b) with reference to the failure to communicate the XX email address to the owner, the same is equally attributable to the exceptional and unforeseeable error of the aforementioned operator who, by entering this data in the incorrect field of the company management system, did not allow the system to automatically send said information to P.E.S. S.r.l. on the occasion of the usual periodic updates transmitted to the client (see note of 16 June 2024, pages 6-7).
+The Company, in the aforementioned defense briefs, also indicated, among the elements in its favor for the possible determination of the administrative sanction, the circumstance that "in this case, no external third party was made aware of the interested party's insolvency situation, considering that the email communication in question does not contain any information in this sense, limiting itself to requesting contact from Mr. XX" (see note of 16 June 2023, page 6).
+Lastly, Serfin 97 S.r.l. represented that it had implemented, following the notification of the violation transmitted by the Guarantor, some technical and organizational measures aimed at preventing any critical issues regarding the traceability of the data collected and processed on behalf of its clients. In particular:
+an automatic system for managing email communications dedicated to validating debtors' addresses was made operational. More specifically, it has been established that, when a user of the system sends an email communication directed to an address not originating from the client, this system intervenes between the user of the management system and the recipient, suspending the sending of the original content and replacing it with a request for confirmation of the identity of the recipient and simultaneous authorization to send the original communication through that specific email address. This system, "ultimately, allows obtaining explicit consent from the real recipient of an email communication to use - for the exchange of messages with the Company - the email address possibly added to the practice being processed" (see note of 16 June 2023, pages 14-15); 
+an intervention was carried out to modify the management system used by the Company for the credit recovery activity in order to update the rules provided therein for the definition of changes to the contact details of debtors, in cases where these are manually carried out by the operators. In this regard, the Company has implemented, first of all, a procedure for checking and prior authorization of such proposed changes by the Team Leader, who validates their insertion, under penalty of invalidity. Secondly, it has implemented a different structuring of the data entry forms filled out by the personnel in charge. Specifically, "the forms that allow the insertion of new contacts (therefore telephone numbers or e-mail addresses) require that the operator, in addition to indicating the data in the correct field, must specify the source from which the entered data was acquired (for example via "web search" or "telephone contact")". In addition, "the same is also required to fill in a notes field in which to insert all the information useful for describing in detail the methods through which the additional data was collected" (see note of 28 March 2024, page 2). Otherwise, “if the operator enters the data in the wrong field and/or does not specify the source of the data, the system does not allow the change to be saved and therefore the contact, whether telephone or e-mail, to be used” (see note of 16 June 2023, pages 12-13).
+4. The outcome of the investigation: initial observations on the processing of personal data carried out in this case.
+First of all, it should be noted that, unless the fact constitutes a more serious crime, anyone who, in proceedings before the Guarantor, falsely declares or certifies information or circumstances or produces false deeds or documents is liable pursuant to art. 168 of the Code “False statements to the Guarantor and interruption of the execution of the tasks or exercise of the powers of the Guarantor”.
+Having duly stated this, it should be noted first of all that, for the purposes of dealing with the complaint in question, it is necessary to take into account the particular context underlying the processing activities carried out in this case, as they are inherent to a credit securitization transaction pursuant to art. 3 of Law no. 130 of 30 April 1999 – “Provisions on the securitization of credits” (hereinafter “Law no. 130/99”).
+The aforementioned legislation regulates the set of operations with which the transfer for consideration of a group of credits held by a Company (“originator” or transferor) to a third party (“special purpose vehicle” or transferee) is carried out, subject to the obligation, on the part of the latter, to procure the consideration due, for the aforementioned acquisition, through the issuance of securities. More specifically, it is expected that the special purpose vehicle has “as its exclusive object the implementation of one or more credit securitization transactions” (art. 3, paragraph 1 of Law 130/99) and is required to identify a qualified entity (the servicer) to be responsible for “the collection of the transferred credits and for cash and payment services” (art. 2, paragraph 3, letter c) of Law no. 130/99).
+With the servicing contract, in fact, the servicer is given a mandate with representation for the purposes of management, administration, collection and recovery of credits for the entire period in which the securitization transaction is in progress.
+The tasks assigned to the servicer include: managing relationships with debtors, including sending communications to them and promoting or continuing actions aimed at exercising the rights of the purchaser (so-called operational function; see art. 2, paragraph 3, letter c) of Law no. 130/99), as well as the obligation to control and verify the correctness of the operations and their compliance with the law (so-called guarantee function; see art. 2, paragraph 6-bis of law 130/99).
+Within the operational function, some of the servicer's activities (especially those relating to debt collection operations) may be delegated to other entities acting as "special servicers"; similarly, in relation to the guarantee function, certain activities (such as those relating to monitoring the tasks entrusted to special servicers) may be assigned to a third party called "advisor".
+By virtue of the above-described regulatory framework, the special purpose vehicle assumes ownership of the processing activities of the personal data of the debtors transferred by virtue of the credit transfer contract signed with the transferring company within the scope of the securitization transaction, taking over by right the credit relationships with the debtors and therefore also the ownership of the processing relating to the personal data relating to the latter (see provision of 18 January 2007 – “Block transfer and credit securitization”, web doc. no. 1392461; more generally, see provision of 25 October 2007 – “Guidelines for data processing relating to the bank-customer relationship”, web doc. no. 1457247).
+All this, although the special purpose vehicle, in practice, does not have its own organizational structure for the management of corporate activities, as it is legally required, as illustrated above, to entrust the entire management of its business to a different entity (the servicer).
+The latter - who, pursuant to data protection legislation, assumes the role of data controller pursuant to art. 28 of the Regulation - must respond, by specific regulatory provision (art. 2, paragraph 6 of Law no. 130/99), to specific characteristics and be equipped with specialist skills that allow it to carry out the task assigned to it; it is also expressly entrusted with the burden of verifying that "the operations comply with the law and the information prospectus" (art. 2, paragraph 6-bis of Law no. 130/99).
+In the case in question, taking into account the reconstruction described above, it emerged that the processing activities of Mr. XX were carried out by P.E.S. S.r.l., in the capacity of special purpose vehicle, as data controller, and by Serfin 97 S.r.l. with the role of special servicer, as responsible pursuant to art. 28 of the Regulation for the processing activities of the data of the assigned debtors for the purposes of recovering the related credits.
+4.1. The obligations directly imposed on the data controller pursuant to art. 28 of the Regulation.
+Having clarified this in general terms, with regard to the specific profiles relating to the processing of personal data of debtors involved in the securitization transactions carried out in this case, it is necessary to observe the following.
+From the set of provisions referred to above, a subjective configuration of privacy roles emerges which, in attributing the ownership of the processing of the data of the transferred debtors to the special purpose vehicle (i.e. to P.E.S. S.r.l.), simultaneously recognizes the necessary delegation of the specific processing operations to a third party, the special servicer (in this case, Serfin 97 S.r.l.) which, by specific regulatory provision, must be qualified to carry out the aforementioned tasks.
+The latter, as it has the resources, both in terms of personnel and applications, as well as the expertise necessary for this purpose, is the entity that actually carries out (albeit in the name and on behalf of the owner) the processing of personal data of the debtors involved in the securitization transaction, for the performance of the credit recovery assignment assigned to it.
+Serfin 97 S.r.l. is therefore assigned the task of determining, in concrete terms, the methods of fulfilling the instructions given by the owner based on the experience the former boasts in the specific sector of reference (see in this sense the distinction between "essential means" and "non-essential means" of processing clarified by the European Data Protection Committee - "Committee", in the "Guidelines 07/2020 on the concepts of data controller and data processor under the GDPR" - hereinafter "Guidelines 07/2020", adopted on 7 July 2021, par. 40).
+As already reiterated by the Committee, in fact, “a distinctive innovation introduced by the Regulation is constituted by the provisions that impose obligations directly on data controllers” (such as those provided for by Articles 30, par. 2, 32, 37 and 28, par. 3 of the Regulation), giving these entities, compared to the previous regulatory framework, a more evident external relevance and greater responsibility in the management of data processing.
+Article 28, par. 3 of the Regulation, in particular, in addition to specifying in detail the content of the agreement for the designation of the data controller, imposes obligations that are directly incumbent on the latter and from which, pursuant to Article 83, par. 4, letter a) of the Regulation, specific sanctions arise in the event of non-compliance with the same (see Guidelines 07/2020, par. 93).
+Among these, it is necessary to recall, due to the characteristics of the specific case, the obligation to act in compliance with the instructions provided by the controller, as well as that of assisting the latter in ensuring compliance with the provisions of the Regulation.
+In this perspective, also taking into account the particular context in which the processing that is the subject of the complaint took place, it is necessary to note that, in light of the appropriate instructions that the controller is in any case required to provide regarding the purposes of the processing and the essential elements that constitute the means thereof, the data controller pursuant to art. 28 of the Regulation is in any case assigned the task of identifying, in light of the indications of principle provided by the data controller, the most suitable technical and organizational means to carry out the processing activities that are the subject of the assignment.
+All this by correctly declining, by virtue of the expertise and specific skills possessed by them, the instructions given by the controller in order to comply with the Regulation the processing activities carried out on behalf of the latter (art. 28, par. 3 of the Regulation).
+In fact, the manager, precisely because of the role he/she holds, pursuant to the legislation on securitization (in the case in question, that of special servicer), is required, more than in other sectors, to have a high level of specialized skills in relation to the activities specifically attributed to him/her, including those relating to the processing of personal data of the assigned debtors.
+The level of professionalism required of such manager is even greater where the latter - as in the case of Serfin 97 S.r.l. - is also a subject that presents itself on the market as a highly specialized operator in the provision of certain services, thus generating in the owner the belief that he/she has relied on a leading supplier in the aforementioned sector.
+4.2. The obligation to keep track of the origin of the debtor's contact data.
+In relation to the instructions to be given in the context of the data processing activities of the assigned debtors for debt collection purposes, the owner is required, among other things, to prescribe to the manager designated for this purpose pursuant to art. 28 of the Regulation, the adoption of measures to ensure the constant updating of the personal data of the transferred debtors.
+The exact fulfillment of this requirement must include the necessary verification (also in terms of lawfulness of collection) of the personal data actually used to contact the debtor and the simultaneous transmission of the same to the owner.
+These activities are primarily aimed at ensuring, in application of the principles set out in art. 5, par. 1, letters a) and d) of the Regulation, that the aforementioned information has been lawfully collected (principle of lawfulness and correctness) and that it is effectively attributable to the interested party (principle of accuracy); this is especially in order to prevent third parties from being made aware of the debtor's insolvency situation, under penalty of harming the debtor's dignity (see provision of 30 November 2005 - "Lawfulness, correctness and relevance in debt collection activities", web doc. no. 1213644).
+The obligation to comply with the aforementioned principles is even more binding where, as in the case in question, the instructions provided by the data controller, even if not detailed enough to include the specific provision of keeping track of the origin of the personal data being processed, nevertheless contain, on the part of the person responsible for debt collection, a more general reporting duty relating to the information relating to the debts that are the subject of the contract.
+It should also be remembered that the data controller is also competent in order to exercise the rights of the interested party and that, in this context, he must have the information referred to in art. 15 of the Regulation in order to be able to provide complete feedback to the interested party, also with reference to the "source" of the personal data actually processed (art. 15, paragraph 1, letter g) of the Regulation).
+Information – in particular that relating to the origin of the data – which, in the context of debt collection activities, are often, in practice, the exclusive availability of the manager specifically appointed (in the case in question, Serfin 97 S.r.l.), pursuant to art. 28 of the Regulation, to contact the debtor (for example, where it is necessary to integrate the data provided by the client by consulting public registers or acquiring information from private sources; see in this sense, the Circular of the Ministry of the Interior of 8 March 2017, no. 577-PAS-6909-120151).
+The adoption of adequate technical and organizational measures (such as keeping track of the origin of the acquired data) aimed at assisting the controller in responding to requests to exercise the rights of the data subject is therefore one of the "direct obligations" of the controller provided for by art. 28, paragraph 3, letters e) of the Regulation.
+At the same time, the indication of the source from which the information was taken, where the same is acquired through the controller, is essential to allow the controller to verify the legitimacy of the processing carried out and responds to the obligation of the controller provided for by art. 28, paragraph 3, letter h) of the Regulation ("to make available to the controller all the information necessary to demonstrate compliance with the obligations under art. 28 itself").
+4.3. Violation of art. 28, paragraph 3, letters a), e) and h) of the Regulation.
+In light of the considerations expressed above, with regard to the complaint that is the subject of this decision, it was found that, when processing the personal data of Mr. XX for debt collection purposes, Serfin 97 S.r.l., as data controller, did not keep track of the origin of the personal data processed in the name and on behalf of P.E.S. S.r.l., nor did it enter the data relating to the XX email address in the “file of transferred credits” held by the owner (see minutes of 27 October 2022, page 3, where it was expressly found that “there was no email address \[of the complainant\] among the personal data” in the owner’s documentation relating to the credit practices relating to Mr. XX and his personal data).
+All this, although the examination of the assignment signed pursuant to art. 28 of the Regulation between P.E.S. S.r.l. and Serfin 97 S.r.l. together with the specific provisions set out in the sub-servicing agreement stipulated between the parties, has instead highlighted that the owner, at the time of the aforementioned designation, had fully provided Serfin 97 S.r.l. with suitable instructions regarding the processing methods to be implemented. This, expressly providing that the aforementioned Company:
+- acquire "and update all the data and information useful for having constant and in-depth knowledge of the status of the individual practices relating to the credits" (see Annex 3 - "Sub-servicing agreement", par. 3.2, letter vi), attached to the minutes of 26 October 2022);
+- maintained “evidence, including in electronic form, of the transactions carried out in relation to the credits” and updated them “continuously, so that it was possible to reconstruct at any time with certainty the set of transactions carried out” (see Annex 3 – “Sub-servicing contract”, paragraph 3.2, letter j), attached to the minutes of 26 October 2022);
+- managed the “credits with the best professionalism and diligence required by industry practice”, in particular adhering “to the guidelines of conduct established by the Guarantor for the protection of personal data with the Provision of 30 November 2005 relating to the Lawfulness, correctness and relevance of debt collection activities” (see Annex 3 – Sub-servicing contract”, paragraph 3.4, letter b) and paragraph 4.1, letter b) attached to the minutes of 26 October 2022);
+- carried out “all necessary communications in relation to the Credits and the assignment of the same, as well as the execution of the servicing contract (..) also pursuant to the Privacy Code, and cooperated (…) with the Issuer and the Servicer so that all the provisions (..) relating to the processing of data and information relating to the Credits and the assigned debtors required by the Privacy Code were complied with” (see Annex 3 – “Sub-servicing contract”, par. 3.2, letter c), attached to the minutes of 26 October 2022);
+- provided “promptly \[to P.E.S. S.r.l.\] all the necessary data and information (…) in relation to the credits (…) in order to comply with legal obligations” (see Annex 3 – “Sub-servicing contract”, par. 3.2, letter k), attached to the minutes of 26 October 2022).
+Unlike what was expressly requested by the owner, Serfin 97 S.r.l. did not correctly comply with these instructions, contravening those relating to the updating of the personal data of the assigned debtors; failure to comply with the aforementioned instructions does not appear to be justifiable, especially given the high level of expertise also in the matter of processing personal data required of the latter due to the characteristics and size of the activity carried out by the same in the debt collection sector.
+More specifically, in fact, Serfin 97 S.r.l. did not keep track of the origin of the data consisting of the email XX, erroneously attributed to Mr. XX, effectively preventing the owner from having accurate and updated information regarding the processing of data relating to the interested party.
+At the same time, failure to comply with the instructions given by P.E.S. S.r.l. (see, in particular, the obligations to update the data relating to the credits referred to in the aforementioned provisions of the servicing contract), has determined the impossibility for the aforementioned holder to provide a timely and complete response to the request regarding the right of access submitted by Mr. XX pursuant to art. 15 of the Regulation.
+On this point, in fact, it is not believed that it is possible to accept the Company's claims regarding the circumstance that the contested conduct was the result of an exceptional and unforeseeable error by the specifically appointed operator and that the same was carried out by the latter in violation of the instructions given to the same by Serfin 97 S.r.l. (see par. 3, letters a) and b) of this decision).
+It is indeed worth highlighting in this regard that the Company, as ascertained during the investigation, - although required (see above, par. 4.2. of this decision) to guarantee the accuracy of the data used to contact the debtor (including their origin) - did not have, at the time of the facts, technical measures capable of preventing the occurrence of situations similar to the case in question (such as, for example, those counter-implemented following the notification of violation by the Guarantor and described in par. 3, letters i) and ii) of this decision). It should also be noted in this regard that, unlike what was declared by Serfin 97 S.r.l. regarding the periodic transmission to P.E.S. S.r.l. of communications updating the contact details of debtors acquired by the same after the assignment of the task, the owner, during the inspection, expressly declared that he “had never (..) received \[from the same\] communications of (..) an increase in the personal data of the debtors” (see minutes of 27 October 2022, page 3).
+For all the reasons illustrated above, therefore, it is believed that the conduct of Serfin 97 S.r.l., in this case, was carried out in violation of art. 28, paragraph 3, letters a), e) and h) of the Regulation. The aforementioned violation was carried out from 23 October 2021 (date of transmission of the contested email) to 1 December 2021 (date on which the Company proceeded to delete the aforementioned address from the register relating to the complainant).
+5. Conclusions: declaration of unlawfulness of the processing. Corrective measures pursuant to art. 58, par. 2, Regulation.
+In light of the overall findings, the Authority believes that the statements, documentation and reconstructions provided by the Company during the investigation do not allow the findings notified by the Office with the act initiating the proceeding to be overcome and are therefore unsuitable for ordering the archiving of this proceeding, since none of the cases provided for by art. 11 of the Regulation of the Guarantor no. 1/2019 apply.
+The processing of personal data carried out by Serfin 97 S.r.l. is in fact unlawful, in the terms set out above, with reference to the violation of art. 28, par. 3, letters a), e) and h) of the Regulation.
+With regard to the exercise of the corrective powers pursuant to art. 58, par. 2, of the Regulation, it is noted that Serfin 97 S.r.l., during the proceedings, has taken technical and organizational measures to align the processing object of these proceedings with the Regulation, making several changes to the operating methods of its company management system, as described in paragraph 3, letters i) and ii) of this decision.
+In this context, therefore, considering that specific measures have been adopted to conform the processing in question to the current legislation on the protection of personal data, the conditions for the adoption of the corrective measures referred to in art. 58, paragraph 2, of the Regulation do not currently exist.
+6. Adoption of the injunction order for the application of the administrative pecuniary sanction and accessory sanctions (articles 58, paragraph 2, letter i), and 83 of the Regulation; art. 166, paragraph 7, of the Code).
+Violation of art. 28, paragraph 3, letters a), e) and h) of the Regulation referred to above entails the application of the administrative sanction provided for by art. 83, par. 4, letter a) of the Regulation.
+The Guarantor, pursuant to art. 58, par. 2, letter i) of the Regulation and art. 166 of the Code, has the power to impose a pecuniary administrative sanction provided for by art. 83 of the Regulation, by adopting an injunction order (art. 18. L. 24 November 1981 n. 689), in relation to the processing of personal data carried out by Serfin 97 S.r.l., the unlawfulness of which has been ascertained, in the terms set out above.
+With reference to the elements listed in art. 83, par. 2 of the Regulation for the purposes of applying the administrative pecuniary sanction and its quantification, taking into account that the sanction must be "in each individual case effective, proportionate and dissuasive" (Article 83, paragraph 1 of the Regulation), it is represented that, in the case in question, the circumstances reported below were taken into account:
+the significant seriousness of the violation (Article 83, paragraph 2, letter a) of the Regulation), in relation to the nature (concerning the failure to comply with the obligations attributed to the data controller pursuant to Article 28 of the Regulation at the time of the assignment), the methods (consisting of the absence of suitable organizational measures to ensure the lawfulness and accuracy of the personal data independently acquired by the Company) and the purposes of the related processing (carried out in the context of a debt collection activity). In this regard, it is particularly relevant that the violation specifically concerned debtor contact operations, an activity which, in the debt collection sector, requires the use of extreme accuracy in order to avoid the possibility of communicating personal information to parties outside the obligatory relationship. The peculiar position, in terms of competence and professionalism, assumed by the Company, as a special servicer, in the context of the securitization transaction of the receivables under examination, as well as the role of primary national operator covered by the same in the aforementioned sector, also had an impact on this point. In favor of the offender, however, the duration of the violation – a few months (specifically from 23 October to 1 December 2021) – and the small number of interested parties involved (consisting of two natural persons) were taken into account;
+the negligent nature of the violation (art. 83, par. 2, letter b) of the Regulation), taking note of the operating instructions provided by the Company to its employees which, although not adequate with respect to the risk of the processing, have in any case highlighted the unintentional nature of the conduct held by Serfin 97 S.r.l. (see par. 3, letter a) of this decision);
+the adoption, by the Company, of measures aimed at mitigating or eliminating the consequences of the violation (art. 83, par. 2, letter c) of the Regulation). In this regard, the circumstance that the complainant's personal data were promptly updated, by deleting the email address erroneously used by Serfin 97 S.r.l. (see above, par. 2 of this decision), should be considered positively;
+the significant degree of responsibility of the infringer with regard to the inadequacy of the technical and organizational measures implemented by the latter (Article 83, paragraph 2, letter d) of the Regulation); this taking into account the absence, at the time of the contested facts, of procedures suitable for preventing the occurrence of events similar to that which is the subject of the complaint;
+the circumstance that the Company has actively cooperated with the Authority during the proceedings (Article 83, paragraph 2, letter f) of the Regulation) also in relation to the actions spontaneously initiated by the same to conform the processing activities to the Regulation (see paragraph 3, letters i) and ii) of this decision);
+the fact that there are no previous violations committed by Serfin 97 S.r.l. or previous measures against it pursuant to Article 58 of the Regulation (Article 83, paragraph 2, letter e) of the Regulation);
+other mitigating factors (Article 83, paragraph 2, letter k) of the Regulation). To this end, it is noted that, in this case, the communication sent by Serfin 97 S.r.l., although addressed to an email address not belonging to the complainant, was not in practice suitable to detect the insolvency of the interested party (see paragraph 3 of this decision). It is also believed that, by virtue of the aforementioned principles of effectiveness, proportionality and dissuasiveness to which the Authority must adhere in determining the amount of the sanction (Article 83, paragraph 1, of the Regulation), the economic conditions of the offender, determined on the basis of the turnover of the Company, as per the financial statements for the year 2023 (last available), are relevant.
+In light of the elements indicated above and the overall assessments carried out, it is believed, in the case in question, to apply to Serfin 97 S.r.l. the administrative sanction of the payment of a sum equal to Euro 60,000/00 (sixty thousand/00).
+In this context, it is also ordered that pursuant to art. 166, paragraph 7, of the Code and art. 16, paragraph 1, of the Regulation of the Guarantor no. 1/2019, this provision be published on the Guarantor's website.
+All this in consideration of the type of violation ascertained which concerned the main obligations of the data controller in consideration of the peculiar activity carried out by the Company which, by virtue of the nature of its corporate purpose, covers, in the majority of the personal data processing operations carried out by it, the role of data processor.
+To this end, the specific context of the processing (debt collection activities), the type of operation carried out by the offender (use of inaccurate and out-of-date contact details of the debtor), as well as the high risks to the dignity of the data subject arising from such conduct (communication to third parties of the debtor's insolvency status) are also relevant.
+GIVEN ALL THE ABOVE, THE GUARANTOR
+pursuant to articles 57, par. 1, letter f) and 83, of the Regulation, notes the unlawfulness of the processing carried out by Serfin 97 S.r.l., with registered office in Rome, VAT no. 05272341008 in the terms set out in the reasons, for the violation of art. 28, par. 3, letters a), e) and h) of the Regulation;
+ORDERS
+pursuant to art. 58, par. 2 ... i) of the Regulation to the same Serfin 97 S.r.l., to pay the sum of Euro 60,000/00 (sixty thousand/00) as an administrative pecuniary sanction for the violation indicated in this provision.
+HEREBY ORDER
+Serfin 97 S.r.l. to pay the aforementioned sum of Euro 60,000/00 (sixty thousand/00), according to the methods indicated in the attachment, within thirty days of notification of this provision, under penalty of the adoption of the consequent executive actions pursuant to art. 27 of Law no. 689/1981. It is represented that pursuant to art. 166, paragraph 8 of the Code, the right for the offender to settle the dispute by paying - always according to the methods indicated in the attachment - an amount equal to half of the sanction imposed within the deadline referred to in art. 10, paragraph 3, of Legislative Decree no. 150 of 1 September 2011, provided for the filing of the appeal as indicated below.
+ORDERS
+pursuant to art. 166, paragraph 7, of the Code and art. 16, paragraph 1, of the Regulation of the Guarantor no. 1/2019, the publication of the injunction order on the website of the Guarantor;
+pursuant to art. 154-bis, paragraph 3 of the Code and art. 37 of the Regulation of the Guarantor no. 1/2019, the publication of this provision on the website of the Authority;
+pursuant to art. 17 of the Regulation of the Guarantor no. 1/2019, the annotation of the violations and measures adopted in accordance with art. 58, paragraph 2 of the Regulation, in the internal register of the Authority provided for by art. 57, paragraph 1, letter u) of the Regulation.
+Pursuant to art. 78 of the Regulation, as well as articles 152 of the Code and 10 of Legislative Decree no. 150/2011, an appeal against this provision may be lodged with the ordinary judicial authority, with an appeal filed with the ordinary court of the place identified in the same art. 10, within thirty days from the date of communication of the provision itself, or sixty days if the appellant resides abroad.
+Rome, 17 October 2024
+THE PRESIDENT
+Stanzione
+THE REPORTER
+Ghiglia
+THE GENERAL SECRETARY
+Mattei
+
+Retrieved from "[https://gdprhub.eu/index.php?title=Garante\_per\_la\_protezione\_dei\_dati\_personali\_(Italy)\_-\_10084403&oldid=45134](https://gdprhub.eu/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10084403&oldid=45134)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [Garante per la protezione dei dati personali (Italy)](/index.php?title=Category:Garante_per_la_protezione_dei_dati_personali_\(Italy\) "Category:Garante per la protezione dei dati personali (Italy)")
+*   [Italy](/index.php?title=Category:Italy "Category:Italy")
+*   [Article 15(1)(g) GDPR](/index.php?title=Category:Article_15\(1\)\(g\)_GDPR "Category:Article 15(1)(g) GDPR")
+*   [Article 28 GDPR](/index.php?title=Category:Article_28_GDPR "Category:Article 28 GDPR")
+*   [Article 28(3)(a) GDPR](/index.php?title=Category:Article_28\(3\)\(a\)_GDPR "Category:Article 28(3)(a) GDPR")
+*   [Article 28(3)(e) GDPR](/index.php?title=Category:Article_28\(3\)\(e\)_GDPR "Category:Article 28(3)(e) GDPR")
+*   [Article 28(3)(h) GDPR](/index.php?title=Category:Article_28\(3\)\(h\)_GDPR "Category:Article 28(3)(h) GDPR")
+*   [2024](/index.php?title=Category:2024 "Category:2024")
+*   [Italian](/index.php?title=Category:Italian "Category:Italian")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10084403 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10084403 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10084403&oldid=45134 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10084403&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=Garante_per_la_protezione_dei_dati_personali_%28Italy%29_-_10084403&id=45134&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 21 January 2025, at 14:15.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.044","walltime":"0.056","ppvisitednodes":{"value":457,"limit":1000000},"postexpandincludesize":{"value":2098,"limit":2097152},"templateargumentsize":{"value":926,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":46914,"limit":5000000},"timingprofile":\["100.00% 8.422 1 Template:DPAdecisionBOX","100.00% 8.422 1 -total"\]},"cachereport":{"timestamp":"20250830131957","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":351});});

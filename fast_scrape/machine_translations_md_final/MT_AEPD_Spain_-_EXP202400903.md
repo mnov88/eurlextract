@@ -1,0 +1,240 @@
+1/9
+
+ File No.: EXP202400903
+
+SANCTIONING PROCEDURE RESOLUTION
+
+From the procedure initiated by the Spanish Data Protection Agency and based on the following
+
+BACKGROUND
+
+FIRST: A.A.A. (hereinafter, the complainant) filed a complaint with the Spanish Data Protection Agency on December 15,
+
+2023. The complaint is filed against TERRA, BRASA Y MAR, S.L. with NIF B13953401 (hereinafter, the respondent). The grounds for the claim are as follows:
+
+The claimant states that on December 13, 2023, her mobile phone number was added, without prior consent, to a WhatsApp group created by a manager of the respondent, along with several unknown individuals, to promote a New Year's menu offered by the respondent.
+She believes that this action violates data protection regulations because her consent was not obtained and because it involves exposing her phone number to third parties. The complainant states that she reported the irregularity in the group and left the group.
+
+Along with the claim, she provides screenshots of the group to which her phone number was allegedly added.
+
+The screenshots provided show:
+
+- That the name of the group is "A noche vieja TerraBrasayMar."
+
+- The complainant was added to the group by the same person who created it.
+
+- The initial message sent in the group stated:
+“Terra & New Year's Eve 23/24. Grand gala party with a great dinner, party favors, and
+many surprises for an unforgettable evening. (…)
+
+Dancing, party favors, and a premium cocktail. 140 euros per person.”
+
+- The complainant sent two messages at 6:48 p.m. demanding to know the reason why they had been included in a group without their consent.
+
+- One of the group participants sent a message at 6:49 p.m. asking: "(...)"
+
+C/ Jorge Juan, 6 www.aepd.es
+28001 – Madrid sedeagpd.gob.es 2/9
+
+SECOND: In accordance with Article 65.4 of Organic Law 3/2018, of December 5, on the Protection of Personal Data and Guarantee of Digital Rights (hereinafter LOPDGDD), this complaint was forwarded to the respondent so that they could analyze it and inform this Agency within one month of the actions taken to comply with the requirements set forth in the data protection regulations.
+
+The transfer, which was carried out in accordance with the regulations established in Law 39/2015, of October 1, on the Common Administrative Procedure of Public Administrations (hereinafter, LPACAP), was received on January 18, 2024, as recorded in the acknowledgment of receipt in the file.
+
+No response has been received to this transfer letter.
+
+THIRD: On March 15, 2024, in accordance with Article 65 of the LOPDGDD (Spanish Organic Law on the Protection of Personal Data), the claim submitted by the complainant was admitted for processing.
+
+FOURTH: According to the report collected from the AXESOR tool, the entity
+TERRA, BRASA Y MAR, S.L. (…) was incorporated in 2023, with a share capital of \*\*\*AMOUNT.1, whose activity is the provision of prepared meals for events.
+
+FIFTH: On October 15, 2024, the Director of the Spanish Data Protection Agency agreed to initiate sanctioning proceedings against the respondent party for the alleged violation of Article 5.1.f) of the GDPR, as defined in Article 83.5 of the GDPR.
+
+SIXTH: The aforementioned initiation agreement was notified on October 21, 2024, in accordance with the regulations established in Law 39/2015, of October 1, on the Common Administrative Procedure of Public Administrations (hereinafter, LPACAP), and after the deadline for submitting allegations has elapsed, it has been determined that no allegations have been received from the respondent party.
+
+Article 64.2.f) of the LPACAP—a provision of which the respondent was informed in the agreement opening the procedure—establishes that if no allegations are made within the established period regarding the content of the initiation agreement, when it contains a precise statement regarding the imputed liability, it may be considered a proposed resolution. In the present case, the agreement initiating the sanctioning procedure determined the facts that specified the imputation, the GDPR violation attributed to the respondent, and the sanction that could be imposed. Therefore, taking into account that the respondent has not submitted allegations regarding the agreement initiating the procedure and in accordance with the provisions of Article 64.2.f) of the LPACAP, the aforementioned initiation agreement is considered a proposed resolution in the present case. C/ Jorge Juan, 6 www.aepd.es
+28001 – Madrid sedeagpd.gob.es 3/9
+
+In light of all the actions taken by the Spanish Data Protection Agency in this proceeding, the following facts are considered proven:
+
+PROVEN FACTS
+
+FIRST: The complainant's mobile phone number was added, without her consent, along with that of several other people, to a WhatsApp group called "New Year's Eve TerraBrasayMar."
+
+SECOND: The first message sent by the group's creator promoted the New Year's Eve celebration at the establishment TERRA, BRASA Y MAR, informing, among other things, the menu that would be served and its price.
+
+THIRD: The main activity of TERRA, BRASA Y MAR, S.L. is the provision of prepared meals for events.
+
+FOURTH: TERRA, BRASA Y MAR, S.L. has been identified as the data controller.
+
+LEGAL BASIS
+
+I
+Jurisdiction
+
+In accordance with the powers granted to each supervisory authority by Article 58.2 of Regulation (EU) 2016/679 (General Data Protection Regulation, hereinafter GDPR), and as established in Articles 47, 48.1, 64.2, and 68.1 of Organic Law 3/2018, of December 5, on the Protection of Personal Data and the Guarantee of Digital Rights (hereinafter LOPDGDD), the President of the Spanish Data Protection Agency is competent to initiate and resolve this procedure.
+
+Likewise, Article 63.2 of the LOPDGDD establishes that: "The procedures processed by the Spanish Data Protection Agency shall be governed by the provisions of Regulation (EU) 2016/679, by this Organic Law, by the regulatory provisions issued in its development, and, insofar as they do not contradict them, in a subsidiary capacity, by the general rules on administrative procedures."
+
+II
+Preliminary Questions
+
+Article 4.1 of the GDPR defines "personal data" as "any information relating to an identified or identifiable natural person ("data subject"); an identifiable natural person shall be any person whose identity can be determined, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person."
+
+The same article defines "processing" as any operation or set of operations performed on personal data or sets of personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or modification, extraction, consultation, use, communication by transmission, dissemination or any other form of making available, alignment or combination, restriction, erasure, or destruction;
+
+In the present case, in accordance with the provisions of Articles 4.1 and 4.2 of the GDPR,
+the processing of personal data was established, since the creation of an instant messaging group such as WhatsApp includes, among other processing, the collection and dissemination of personal data of natural persons, such as:
+
+the telephone number or the profile name of their account if the contact is not saved in the device's address book.
+
+Furthermore, the respondent carried out this processing activity in its capacity as data controller, given that it determines the purposes and means of such activity, pursuant to Article 4.7 of the GDPR: which defines it as the natural or legal person, public authority, agency, or other body which, alone or jointly with others, determines the purposes and means of processing; if Union or Member State law determines the purposes and means of processing, the controller or the specific criteria for its nomination may be laid down by Union or Member State law.
+
+III
+Breach of obligation. Lawfulness of processing.
+
+The aforementioned processing constitutes a violation of Article 6.1 of the GDPR, "lawfulness of processing," which provides:
+
+"1. Processing shall only be lawful if at least one of the following conditions is met:
+
+a) the data subject has given consent to the processing of his or her personal data for one or more specific purposes;
+
+b) processing is necessary for the performance of a contract to which the data subject is party or for the implementation, at the request of the data subject, of pre-contractual measures;
+
+c) processing is necessary for compliance with a legal obligation to which the controller is subject;
+
+d) processing is necessary to protect the vital interests of the data subject or of another natural person;
+
+e) processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;
+
+C/ Jorge Juan, 6 www.aepd.es
+28001 – Madrid sedeagpd.gob.es 5/9
+
+f) processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, provided that such interests are not overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child.
+
+The provisions of point (f) of the first paragraph shall not apply to processing carried out by public authorities in the exercise of their duties.
+
+Furthermore, Recital 40 of the GDPR provides that:
+
+"For processing to be lawful, personal data must be processed with the data subject's consent or on another established legitimate ground, whether by this Regulation or by other Union or Member State law to which this Regulation refers, including the need for compliance with a legal obligation applicable to the controller or the need to perform a contract to which the data subject is party, or in order to take steps at the request of the data subject prior to entering into a contract."
+
+Article 4 of the GDPR, Definitions, in section 11, also states that:
+
+“11) ‘consent of the data subject’ means any freely given, specific, informed, and unambiguous indication of the data subject’s wishes by which he or she accepts, whether by a statement or by a clear affirmative action, the processing of personal data relating to him or her.”
+
+In the case analyzed, the respondent lacked legal standing for the processing, consisting of including the complainant’s telephone number in a WhatsApp group, without the complainant’s consent or any of the other grounds for legal standing for processing provided for in the aforementioned Article 6.
+
+Therefore, the respondent’s conduct is considered to violate the principle of lawfulness enshrined in Article 6.1 of the GDPR.
+
+This is evident from the screenshots, which show the bewilderment of the participants, and several of them ask: the reason for including them in said group without their consent. Likewise, one participant raises the question of who created this group of 200 people, so there are indications that the number of participants was considerable.
+
+The lack of diligence displayed by the respondent in complying with the obligations imposed by personal data protection regulations was, therefore, evident. Diligent compliance with the principle of lawfulness in the processing of personal data requires that the processing be based on a reason provided for in Article 6 of the GDPR, which, applied to the case analyzed, means that it must be possible to prove that the data subject consented to the collection of their personal data or that it was based on an overriding legitimate interest, and to exercise reasonable diligence to prove this. Failure to do so would render the principle of lawfulness null and void.
+
+Based on the evidence available in this sanctioning procedure resolution, given that the respondent has not proven that the data processing carried out could be based on one of the grounds for lawfulness contemplated in Article 6.1 of the GDPR, the known facts are considered to constitute an infringement, attributable to the respondent, for violation of Article 6.1 of the GDPR.
+
+IV
+Classification and qualification of the violation
+
+The aforementioned violation of Article 6.1 of the GDPR constitutes the commission of one of the violations classified in Article 83.5 of the GDPR, which, under the heading "General conditions for the imposition of administrative fines," provides:
+
+"Violations of the following provisions shall be punished, in accordance with paragraph 2, with administrative fines of up to EUR 20,000,000 or, in the case of a company, an amount equivalent to a maximum of 4% of the total global annual turnover of the preceding financial year, whichever is higher:
+
+a) the basic principles for processing, including the conditions for consent pursuant to Articles 5, 6, 7, and 9; (...)"
+
+For its part, the LOPDGDD, in its Article 71, "Infractions," states: that:
+
+“The acts and conduct referred to in sections 4, 5, and 6 of Article 83 of Regulation (EU) 2016/679, as well as those that are contrary to this Organic Law, constitute violations.”
+
+For the purposes of the statute of limitations, Article 72 "Very Serious Violations" of the LOPDGDD states:
+
+"1. Pursuant to the provisions of Article 83.5 of Regulation (EU) 2016/679, violations that constitute a substantial violation of the articles mentioned therein, and in particular the following, are considered very serious and will be subject to a three-year statute of limitations:
+
+b) The processing of personal data without any of the conditions for the lawfulness of processing established in Article 6 of Regulation (EU) 2016/679 being met.
+
+V
+Penalty
+
+C/ Jorge Juan, 6 www.aepd.es
+28001 – Madrid sedeagpd.gob.es 7/9
+
+In order to determine the administrative fine to be imposed, the provisions of Articles 83.1 and 83.2 of the GDPR, provisions which state:
+
+“1. Each supervisory authority shall ensure that the imposition of administrative fines pursuant to this Article for infringements of this Regulation referred to in paragraphs 4, 9 and 6 are, in each individual case, effective, proportionate, and dissuasive.
+
+2. Administrative fines shall be imposed, depending on the circumstances of each individual case, in addition to or as a substitute for the measures referred to in Article 58(2)(a) to (h) and (j). When deciding whether to impose an administrative fine and its amount in each individual case, due account shall be taken of:
+
+(a) the nature, gravity, and duration of the infringement, taking into account the
+
+nature, scope, or purpose of the processing operation concerned, as well as the number of data subjects affected and the level of damage suffered by them;
+(b) the intentionality or negligence of the infringement;
+
+(c) the nature of the infringement; (c) any measures taken by the controller or processor to mitigate the damage suffered by data subjects;
+
+(d) the degree of responsibility of the controller or processor, taking into account the technical or organizational measures they have implemented pursuant to Articles 25 and 32;
+(e) any previous breaches committed by the controller or processor;
+(f) the degree of cooperation with the supervisory authority to remedy the breach and mitigate any adverse effects of the breach;
+(g) the categories of personal data affected by the breach;
+(h) how the supervisory authority became aware of the breach, in particular whether the controller or processor notified the breach and, if so, to what extent;
+
+(i) where measures referred to in Article 58(2) have previously been ordered against the controller or processor concerned in relation to the same matter, compliance with those measures;
+j) adherence to codes of conduct pursuant to Article 40 or certification mechanisms approved pursuant to Article 42, and
+k) any other aggravating or mitigating factors applicable to the circumstances of the case,
+
+such as financial benefits obtained or losses avoided, directly or indirectly, through the infringement."
+
+For its part, Article 76 "Sanctions and corrective measures" of the LOPDGDD (Organic Law on the Protection of Personal Data)
+provides:
+
+"1. The sanctions provided for in paragraphs 4, 5, and 6 of Article 83 of Regulation (EU) 2016/679 shall be applied taking into account the grading criteria established in paragraph 2 of the aforementioned article.
+
+2. In accordance with the provisions of Article 83.2.k) of Regulation (EU) 2016/679, the following may also be taken into account:
+a) The continuous nature of the infringement.
+
+C/ Jorge Juan, 6 www.aepd.es
+28001 – Madrid sedeagpd.gob.es 8/9
+
+b) The connection between the offender's activity and the processing of personal data.
+c) The benefits obtained as a result of committing the infringement.
+d) The possibility that the affected party's conduct could have led to the commission of the infringement.
+
+e) The existence of a merger by absorption process subsequent to the commission of the infringement, which cannot be attributed to the acquiring entity.
+f) The impact on the rights of minors.
+g) Having, when not mandatory, a data protection officer.
+h) Voluntary submission by the controller or processor to alternative dispute resolution mechanisms in cases where there are disputes between them and any interested party.
+
+In the present case, considering the seriousness of the violation, especially considering the consequences its commission has on the affected party, a fine should be imposed.
+
+The fine imposed must be, in each individual case, effective, proportionate, and dissuasive, in accordance with the provisions of Article 83.1 of the GDPR.
+
+Given the above, it is considered that the balance of the circumstances contemplated in Article 83.2 of the GDPR and Article 76.2 of the LOPDGDD, with respect to the violation committed by the provisions of Article 6.1 of the GDPR, allows for the imposition of an administrative fine of €500.
+
+Therefore, in accordance with the applicable legislation and after assessing the criteria for grading the sanctions whose existence has been proven,
+the Presidency of the Spanish Data Protection Agency RESOLVES:
+
+FIRST: TO IMPOSE a fine of 500 euros on TERRA, BRASA Y MAR, S.L., with NIF B13953401, for a violation of Article 6.1 of the GDPR, as defined in Article 83.5 of the GDPR.
+
+SECOND: TO NOTIFY this resolution to TERRA, BRASA Y MAR, S.L.
+
+THIRD: This resolution will become enforceable once the deadline for filing an optional appeal for reconsideration expires (one month from the day following notification of this resolution) without the interested party having exercised this right.
+The sanctioned party is hereby notified that they must enforce the imposed sanction once this resolution becomes enforceable, in accordance with the provisions of Art. 98.1.b)
+of Law 39/2015, of October 1, on the Common Administrative Procedure of Public Administrations (hereinafter LPACAP), within the voluntary payment period established in Article 68 of the General Collection Regulations, approved by Royal Decree 939/2005, of July 29, in relation to Article 68 of the General Collection Regulations. 62 of Law 58/2003, of December 17, by depositing the fine, indicating the sanctioned party's NIF (Tax Identification Number) and the procedure number shown in the heading of this document, into the restricted account IBAN: ES00-0000-0000-0000-0000-0000 (BIC/SWIFT Code: CAIXESBBXXX), opened in the name of the Spanish Data Protection Agency at CAIXABANK, S.A. Otherwise, collection will be carried out during the enforcement period.
+
+C/ Jorge Juan, 6 www.aepd.es
+28001 – Madrid sedeagpd.gob.es 9/9
+
+Once the notification is received and enforced, if the enforcement date is between the 1st and 15th of each month, inclusive, the deadline to make the voluntary payment will be the 20th of the following month or the next business day after, and if it is between the 16th and last day of each month, inclusive, the payment deadline will be the 5th of the second following month or the next business day after.
+
+In accordance with the provisions of Article 50 of the LOPDGDD (Spanish Organic Law on the Protection of Personal Data), this Resolution will be made public once it has been notified to the interested parties.
+
+Against this resolution, which terminates the administrative process pursuant to Art. 48.6 of the LOPDGDD, and in accordance with the provisions of Article 123 of the LPACAP, interested parties may optionally file an appeal for reconsideration before the President of the Spanish Data Protection Agency within one month from the day following notification of this resolution, or directly file an administrative appeal before the Administrative Litigation Division of the National Court, in accordance with the provisions of Article 25 and Section 5 of the Fourth Additional Provision of Law 29/1998, of July 13, regulating the Administrative Litigation Jurisdiction, within two months from the day following notification of this decision, as provided for in Article 46.1 of the aforementioned Law.
+
+Finally, it is noted that pursuant to the provisions of Art. 90.3 a) of the LPACAP (Spanish Civil Procedure Act), a final administrative decision may be provisionally suspended if the interested party expresses their intention to file an administrative appeal.
+If this is the case, the interested party must formally notify this fact in writing to the Spanish Data Protection Agency, submitting it through the Agency's Electronic Registry \[https://sedeagpd.gob.es/sede-electronica-web/\], or through one of the other registries provided for in Article 16.4 of the aforementioned Law 39/2015, of October 1. They must also submit to the Agency the documentation proving the effective filing of the administrative appeal. If the Agency does not become aware of the filing of the administrative appeal within two months from the day following notification of this resolution, it will terminate the provisional suspension.
+
+1479-111224
+Olga Pérez Sanjuán
+The Deputy Director General of Data Inspection, in accordance with Article 48.2
+
+LOPDGDD, due to a vacancy in the position of President and Deputy President
+
+C/ Jorge Juan, 6 www.aepd.es
+28001 – Madrid sedeagpd.gob.es

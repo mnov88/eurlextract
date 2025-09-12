@@ -1,0 +1,211 @@
+ HDPA (Greece) - 31/2024 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"e520834abab753a2bf9436f5","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"HDPA\_(Greece)\_-\_31/2024","wgTitle":"HDPA (Greece) - 31/2024","wgCurRevisionId":44231,"wgRevisionId":44231,"wgArticleId":8541,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["HDPA (Greece)","Greece","Article 5(1)(a) GDPR","Article 5(1)(c) GDPR","2024","Greek"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"HDPA\_(Greece)\_-\_31/2024","wgRelevantArticleId":8541,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:HDPA_\(Greece\)_-_31/2024&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=HDPA_\(Greece\)_-_31/2024&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=HDPA_\(Greece\)_-_31/2024&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=HDPA+%28Greece%29+-+31%2F2024&returntoquery=oldid%3D44231 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# HDPA (Greece) - 31/2024
+
+From GDPRhub
+
+Revision as of 13:52, 13 November 2024 by [Fb](/index.php?title=User:Fb&action=edit&redlink=1 "User:Fb (page does not exist)") ([talk](/index.php?title=User_talk:Fb&action=edit&redlink=1 "User talk:Fb (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Fb "Special:Contributions/Fb"))
+
+([diff](/index.php?title=HDPA_\(Greece\)_-_31/2024&diff=prev&oldid=44231 "HDPA (Greece) - 31/2024")) [← Older revision](/index.php?title=HDPA_\(Greece\)_-_31/2024&direction=prev&oldid=44231 "HDPA (Greece) - 31/2024") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+HDPA - 31/2024
+
+[![LogoGR.jpg](/images/thumb/4/49/LogoGR.jpg/250px-LogoGR.jpg)](/index.php?title=File:LogoGR.jpg)
+
+Authority:
+
+[HDPA (Greece)](/index.php?title=HDPA_\(Greece\) "HDPA (Greece)")
+
+Jurisdiction:
+
+[Greece](/index.php?title=Category:Greece "Category:Greece")
+
+Relevant Law:
+
+[Article 5(1)(a) GDPR](/index.php?title=Article_5_GDPR#1a "Article 5 GDPR")  
+[Article 5(1)(c) GDPR](/index.php?title=Article_5_GDPR#1c "Article 5 GDPR")
+
+Type:
+
+Complaint
+
+Outcome:
+
+Upheld
+
+Started:
+
+07.10.2022 Decided:
+
+20.02.2024 Published:
+
+18.09.2024 Fine:
+
+n/a
+
+Parties:
+
+A
+
+National Case Number/Name:
+
+31/2024
+
+European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+n/a
+
+Original Language(s):
+
+[Greek](/index.php?title=Category:Greek "Category:Greek")
+
+Original Source:
+
+[Website of HDPA (in EL)](https://www.dpa.gr/sites/default/files/2024-10/31_2024%20anonym.pdf)
+
+Initial Contributor:
+
+Sofia Papadopoulou
+
+The DPA held that a municipality’s unsolicited disclosure of the data subject’s identity to a property owner was unlawful. The data subject had reported the property owner for supposedly blocking a sidewalk to the municipality.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+On 07 October 2022, the data subject filed a report with the Municipality of Metamorfosi (the controller) about a sidewalk obstruction caused by a gate mechanism at a specific property. The controller contacted the property owner requesting to remove the illegal sidewalk obstruction.
+
+The data subject later discovered that the controller had disclosed their name and address to the property owner involved in the complaint, prompting the data subject to file a complaint with the Greek DPA.
+
+### Holding
+
+The DPA reaffirmed its prior stance ([Decision 73/2010](https://www.dpa.gr/el/enimerwtiko/prakseisArxis/prosbasi-kataggellomenoy-se-stoiheia-kataggellontos-sto-plaisio)) that in case individuals are accused of illegal conduct, they have a right to access the respective file, which may include personal data of the individual reporting the illegal conduct, in this case the data subject. However, in this case, the DPA found that the Municipality disclosed the data subject’s personal information on its own initiative, without a request from the property owner. This disclosure was deemed unnecessary and unlawful, falling outside the GDPR's fundamental principles for data processing (lawfulness, fairness and transparency, [Article 5(1)(a)](/index.php?title=Article_5_GDPR "Article 5 GDPR") and data minimisation, [5(1)(c) GDPR](/index.php?title=Article_5_GDPR "Article 5 GDPR")). As a result, the Greek DPA issued a reprimand to the controller.
+
+## Comment
+
+_Share your comments here!f_
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the Greek original. Please refer to the Greek original for more details.
+
+Kifisias 1-3, 11523, Athens, Tel: 210 6475600, Fax: 210 6475628, contact@dpa.gr | www.dpa.gr Athens, 18-09-2024 Prot. No. 2532 A P O F A S H 31 / 2024 The Personal Data Protection Authority met at the invitation of its President at its headquarters, Kifissias 1-3 Athens, on Tuesday, February 20, 2024, in order to consider the case, which is mentioned below in the history of this decision. The President of the Authority, Konstantinos Menudakos, the regular members of the Authority, Spyridon Vlachopoulos, were present, as rapporteur, Konstantinos Lambrinoudakis, Charalambos Anthopoulos, Christos Kalloniatis, Aikaterini Iliadou and Grigorios Tsolias. Present without the right to vote were Anastasia Tritaki, legal auditor - lawyer, as assistant rapporteur and Irini Papageorgopoulou, employee of the administrative affairs department, as secretary. The Authority took into account the following: With the no. prot. C/EIS/10822/07-10-2022 complaint, A (hereinafter complainant) brought the following to the attention of the Authority: With the no. first ... application-complaint, protested before the Municipality of Metamorfosi for trespassing on the sidewalk due to the existence of a front door mechanism at the address ... and requested a relevant response/information about the actions of the Municipality. The Municipality of Metamorfosi (hereinafter referred to) through the Directorate of Technical Services, sent (as claimed by the complainant, after complaints), the no. first ... a letter to the owner of the property at the address ..., with which he pointed out the repeated nuisances of the Technical Service of the Municipality to remove the illegal front door mechanism and with which he ordered a compliance period of five calendar days, pointing out that otherwise the case would be forwarded in the 2 Legal Service of the Municipality. In the above with no. first ... document, which the defendant communicated to the complainant, there is a full indication of his address details on the body of the document and, in view of this, the complainant submitted the no. prot. C/EIS/10822/07-10-2022 complaint to the Authority, for violation of his address information through the notification to the owner of the property for which he submitted the application no. first ... application-complaint before the defendant. The Authority, in the context of examining the above complaint, sent to the defendant Municipality of Metamorfosi the no. prot. C/EX/3310/16-12-2022 document to provide opinions regarding the matters referred to in said complaint. Subsequently, the Data Protection Officer (hereinafter DPO) of the defendant sent to the Authority the no. First Authority C/EIS/260/13-01-2023 memorandum providing clarifications, with which he pointed out that the complainant submitted the no. first ... application-complaint, and in response to this the no. first ... document to the complained property owner, communicated to the complainant. In relation to the above memorandum, the Ministry of Foreign Affairs invoked the Authority's Decision 73/2010, according to which the complainant, as the subject of the data concerning him, i.e. of the complaint submitted to a public service, has the right of access, not only to the text of complaint but also to any information related to the origin (source) of this data, while the identification details of the complainant, such as his name and address, constitute the origin of the data. The above right of access may be limited due to the parallel assistance of article 15 par. 4 GDPR and article 5 par. 3 of the Code of Administrative Procedure (law 2690/1999), as well as by special provisions that impose or possibly allow absolute or partial observance of secrecy, as well as in the event that the disclosure of the details of the complainant may threaten the supreme legal good of his life. Furthermore, given that the complainant is also the subject of the data contained in the complaint, he should be informed in any appropriate way, at the time of submitting his complaint, about the possibility of the defendant to have access to its data, while the complainant, who does not wish his identity 3 to be revealed, should initially invoke and justify the relevant reasons in writing, so that they can be properly examined by the public service. In this case, as indicated by the above-mentioned memorandum, the complainant did not invoke a specific reason for not providing his information to the complainant, therefore the complainant is a legal recipient of the text and other elements of the complaint. Besides, the complainant submitted the under no. prot. C/EIS/7411/19-10-2023 request to receive a copy of the defendant's opinions, which was granted to him under no. prot. C/EX/2607/19-10-2023 document of the Authority. After examining the details of the file, the Authority sent letter no. Authority Prot. C/EIS/2818/08-11-2023 summons for hearing to the complainant and the no. Authority letter C/EIS/2819/08-11-2023 to the complainant, in order to attend, via teleconference, a hearing before the Plenary Session of the Authority on Tuesday 14/11/2023 at 11.00 a.m., regarding the discussion of the above complaint. With no. prot. C/EIS/8008/09-11-2023 his memorandum, which was notified to the defendant Municipality with no. prot. C/EX/2842/10-11-2023 document of the Authority, the complainant raised the question of the existence of his consent for the disclosure of his personal data, in the sense of signing an application document or letter, while pointing out that the as the Municipality is responsible for the issue mentioned by the same (occupation of public space and danger). The complainant did not attend the above hearing, although he was summoned legally and on time by sending a call, video conference instructions and an e-mail requesting him to inform the Authority regarding his possible representation. The defendant Municipality was present through the power of attorney of Olga Giakoumakis with AM DSA ..., serving with a salaried mandate, while Konstantina Ithakisiou with AM DSA ... was also present on behalf of the Ministry of Internal Affairs, KAPA DATA CONSULTING IKE. The defendant Municipality, after orally developing its views, was given a deadline during the meeting to submit a written memorandum until November 30, 2023 to further support its claims, which it submitted on time. During the above hearing and with the no. prot. G/EIS/8482/29-11-
+2023 following the hearing of its memorandum, the defendant Municipality, after invoking 4 again the Authority's Decision 73/2010, claimed that in the midst of a pandemic, the Municipality modernized its electronic system for submitting citizen complaints1, including informing the complainant citizen for the eventual disclosure of his details to the person being complained about and a note on the need to provide reasons, although and as long as the complaining citizen does not wish for said disclosure to take place. A special complaint form is posted in the electronic system, which can also be obtained from the Protocol of the Municipality, and with which the complainant receives full knowledge of the legislative framework for the processing of his personal data and is given the freedom of choice regarding whether he wishes or not the disclosure of his details to the person complained of, with a parallel provision for quoting the reasons why he does not wish his details to be disclosed, with an explicit statement, however, that "the validity of the information provided will be evaluated by the competent Service". However, as the defendant points out, the disputed complaint was submitted by the complainant at a time when (2017-2018) the Municipality, although under no relevant obligation, at the suggestion of the Ministry of Internal Affairs informed the complainants orally of the possible notification of his details to the complained person. In addition, the Defendant Municipality points out, the complainant never made reservations about the use of his data, nor did he state or specify the reasons why he might refuse to share them, as he filled out an "Application" form to the Municipality and not a "Complaint". In any case, as the defendant Municipality added, the submitted complaint is at the same time a public document, on which the provisions of article 5 of the Administrative Code apply at the same time. Procedure, under which the public service is obliged to provide access (while citizens have the corresponding right) to public documents. The Authority, after examining the elements of the file and what emerged from the hearing before it and the parties' memoranda, since 1 The relevant link is listed: https://www.metamorfossi.gov.gr/o-dimos/upovoli- paraponon- kataggelion/upovoli-kataggelion-sto-dimo 5 heard the rapporteur and the clarifications from the assistant rapporteur, who was present without the right to vote, after thorough discussion, CONSIDERED ACCORDING TO THE LAW 1) Because of the provisions of articles 51 and 55 of the General Data Protection Regulation (Regulation 2016/679, hereinafter GDPR) and Article 9 of Law 4624/2019 (Government Gazette A΄ 137) it follows that the Authority has the authority to supervise the implementation of the provisions of GDPR, Law 4624/2019 and other regulations concerning the protection of the individual from the processing of personal data. In particular, from the provisions of articles 57 par.1 item. f of the GDPR and 13 par. 1 item g΄ of Law 4624/2019, it appears that the Authority has the authority to deal with the complaint of A against the Municipality of Metamorfosi, since from the allegations presented above on both sides, it appears that the defendant extracted the name and address of the complainant from a system archiving according to article 4 par. 6) GDPR, and notification by transmission thereof to the complainant, therefore in non-automated processing of personal data, in the sense of article 4 par. 2) GDPR, subject to the regulatory scope of articles 2 par. 1 of the GDPR and 2 of Law 4624/2019, 2) Because, with article 5 par. 1 of the GDPR the principles that must govern a processing are set. In particular, paragraph 1 of the above article provides, among other things, that personal data are processed lawfully and legitimately in a transparent manner in relation to the subject of the data ("legality, objectivity and transparency", item a' ), are collected for specified, explicit and legal purposes and are not further processed in a manner incompatible with these purposes (…) ("limitation of purpose", item b'), are appropriate, relevant and limited to what is necessary for the purposes for which they are processed ("data minimization", item c'). In addition, according to Article 5 para. 2 GDPR: "The controller is responsible and able to demonstrate compliance with paragraph 1 ("accountability")."), therefore the controller 6 is required to prove himself and at all times its compliance with the processing principles of article 5 par.1 GDPR.  3) Because with Decision 73/20102, the Authority ruled that the citizen to whom a complaint filed before a public authority is directed, has, as the subject of the data concerning him, the right of access, not only to the text of the complaint but also to any information related to the origin (source) of this data, such as the name and address of the person who submitted the complaint, as the concept of "origin" may also include third natural persons who provided the relevant information3. In this regard, as the Authority ruled with the above decision, and given that the complainant is also the subject of personal data contained in the complaint (the identity of the natural person, author of the complaint, and his contact information), the public service, already during the data collection stage, has the obligation to inform him, among other things, about the recipients of this data. Therefore, it is appropriate, already when submitting a complaint to a public service, that the latter informs the complainant that both the text of his complaint and his name are data that can be disclosed to the complainant, especially if the latter requests them. 4 Consequently, the individual complainant should, from the outset, justify the reasons justifying the non-granting of his data to the complainant. The public service, respectively, will be able to examine the legitimacy of the reasons put forward by the complainant from the outset and, moreover, in case it grants them, it will not be obliged to inform the complainant again about this grant (since it will already have it at the time submission of the complaint inform about the communication of these details to the complainant). 5 2 APDPX 73/2010, available on its website. 3 see indicatively APDPH 4/2003 and 43/2003. 4 See EUROPEAN DATA PROTECTION SUPERVISOR, brief summary of the document "Public access to documents and data protection" (above sub-point 5), p. 7, where it is specifically pointed out that " \[...\] The observance of both rights ( en. right of public access to public documents and right to protection of personal data) can be strengthened by preventive treatment, i.e. the proper prior information of the data subject regarding the treatment reserved for the personal data \[... \]”. 5 APDPX 73/2010, par. 2, 6. 7 4) Since, in the case under consideration, from all the elements of the case file and the submitted memoranda, there is no exercise of the right of access to the elements with no. first ... of an application-complaint by the defendant, the report-complaint of the complainant before the Municipality of Metamorfosi. Consequently, the communication of the name and address of the complainant to the owner of the property for which the complainant submitted the application no. first ... application-complaint before the Municipality of Metamorfosi, took place ex officio by the said Municipality. 5) Because, consequently, it should be examined whether the above ex officio action of the Municipality, namely the notification of the name and address of the complainant to the owner of the property for which the complainant submitted the application no. first ... application-complaint, took place in accordance with the processing principles enshrined in article 5 par. 1 GDPR. With reference to the observance of the principle of transparency of article 5 par. 1 item a) GDPR, the defendant Municipality, claimed before the Authority, that during the period of its submission with no. first ... of the complainant's application-complaint, proceeded through its bodies and services, at the suggestion of the Data Protection Officer, to verbally inform the citizens about the possibility of notifying the complainants of the complaints. However, the claim in question was not sufficiently substantiated before the Authority, in accordance with Article 5 para. 2 GDPR, in the sense that no relevant opinion, directive or other document was submitted to substantiate the above claim and, therefore, it was not proven by the defendant Municipality, in accordance with its obligation arising from the aforementioned principle of accountability, compliance with the principle of transparency, by providing appropriate information, in the sense of article 5 par. 1 item. a) GDPR and in accordance with the Authority's Decision 73/2010. 6) Because, in any case, even if it were to be considered that oral notification of the complainant took place, it should be examined whether the disputed communication of his name and address to the owner of the property for which the complainant submitted the application under no. first ... application-complaint, fulfills the other processing principles, as they are guaranteed, by article 5 paragraph 1 GDPR, as, in order for personal data to be lawfully processed, the conditions of application and observance of the said processing authorities.6 7) Because from the data in the file, and what emerged from the hearing process and the submitted memoranda, and taking into account the nature of the reported violation (urban planning), the purpose for which the data was shared does not emerge of the complainant to the owner of the property, as these are not related to his purpose with no. first ... of a document, namely the warning to the owner of the property about the deadline for the removal of the urban planning violation, the control of which actually belongs to the ex officio competences of the Municipality. In accordance with the principle of proportionality (Constitution, article 25 par. 1 letter c'), the processing is allowed, which is able to achieve the intended purpose (principle of appropriateness/opportunity), but only if it is absolutely necessary for it, i.e. the least burdensome for the subject is acted upon, and any further processing is unnecessary, even if it is useful (principle of necessity)7. Any processing of personal data that is not convenient and necessary to achieve the intended purpose or is done beyond that, is not legal. 8) Because following the above, the Authority finds that in this case the communication of the complainant's data to the owner of the property constitutes unnecessary processing, subject to the principles of affordability, necessity and the minimization of processing set by the above-mentioned provisions of GDPR8, and recommends violation of article 5 par. 1 item c) GDPR. Given that, in order for personal data to be subject to legal processing, i.e. processing in accordance with the requirements of the GDPR, 6 CJEU, C-496/17, Deutsche Post AG v. Hauptzollamt Köln1, January 16, 2019, sc. 57 and Cf. CoE 517/2018 para. 12: "\[...\] in order for personal data to be lawfully processed, it is required in any case that the conditions of article 4 para. 1 of Law 2472/1997 are cumulatively met, which, among other things, stipulates that the data must be collected and processed in a legitimate and legal manner, for clear and legal purposes... As long as the conditions of article 4 par. 1 of Law 2472/1997 (lawful collection and processing data for clear and legitimate purposes), it is further examined whether the conditions of the provision of article 5 par. 2 of Law 2472/1997 \[legal bases\] are met. 7 APDPH 51/2014, APDPH 1/2007, See in Kon/no N. Christodoulou, Personal Data Law, 2nd edition, Law Library, par. 339,341, pp. 111-112. 8 See and APDPH 2/2022, APDPH 3/2022. 9 cumulatively the conditions of application and observance of the principles of article 5 par. 1 GDPR9, and if a lack of compliance with the provisions of article 5 par. 1 item is found. a) and c) GDPR principles of transparency and minimization, the processing is considered unlawful and the examination of the fulfillment of the other principles of legal data processing based on article 5 par. 1 GDPR is omitted. Following these, the Authority considers that there is a case of exercising its corrective powers in accordance with article 58 par. 2 of the GDPR and article 39 of Law 4624/2019, as well as recital 148 of the GDPR, according to which: " In order to strengthen the enforcement of the rules of this Regulation, sanctions, including administrative fines, should be imposed for each violation of this Regulation, in addition to or instead of the appropriate measures imposed by the supervisory authority in accordance with this Regulation. In the case of a minor offence, or if the potential fine would impose a disproportionate burden on an individual, a reprimand could be imposed instead of a fine. However, due consideration should be given to the nature, seriousness and duration of the infringement, the willful nature of the infringement, the actions taken to mitigate the damage, the degree of responsibility or any other relevant previous infringements, the manner in which the supervisory authority was informed of the infringement, the compliance with the measures against the controller or processor, the observance of a code of conduct and any other aggravating or mitigating factor. (…)" During the evaluation of the data by the Authority, in order to choose the appropriate and corrective measure, the following elements 10 are taken into account for the case at hand:
+9 CJEU, C- 496/17, Deutsche Post AG v. Hauptzollamt Köln1, 16 January 2019, SC. 57 and Cf. CoE 517/2018 para. 12: "\[...\] in order for personal data to be lawfully processed, it is required in any case that the conditions of article 4 para. 1 of Law 2472/1997 are cumulatively met, which, among other things, stipulates that the data must be collected and processed in a legitimate and legal manner, for clear and legal purposes... As long as the conditions of article 4 par. 1 of Law 2472/1997 (lawful collection and processing data for clear and legitimate purposes), it is further examined whether the conditions of the provision of article 5 par. 2 of Law 2472/1997 \[legal bases\] are also met. 10 See also Guidelines 04/2022 for the calculation of administrative fines under the GDPR, Ed. 2.1, May 24, 2023, and the Guidelines for the implementation and determination 10 that the specific security breach did not take on a wider nature, while the complainant did not claim material or moral damage connected to the breach in question, that the breach established above did not concerns a special category of personal data of the complainant, that the defendant could not take actions to mitigate the damage suffered by the data subject, that the Authority has not previously established a violation on the part of the defendant, that the defendant documented before the Authority that he has currently reformulated the system for receiving complaints through a special form on which information is provided about the possibility of sharing the details of the complaining citizen with the person being complained about and an indication of the need to provide reasons, although if the complaining citizen does not wish for said notification to take place. FOR THESE REASONS, the Authority finds that the communication of the data of the complainant by the complained Municipality of Metamorfosi constitutes a violation of articles 5 par. 1 item. a) and c) GDPR and addresses a reprimand according to article 58 par. 2 item b) GDPR to the complained data controller, for the reasons that are extensively analyzed in the present rationale. The President The Secretary Konstantinos Menoudakos Irini Papageorgopoulou of administrative fines for the purposes of regulation 2016/679 of the Working Group of Article 29, 3 October 201
+
+Retrieved from "[https://gdprhub.eu/index.php?title=HDPA\_(Greece)\_-\_31/2024&oldid=44231](https://gdprhub.eu/index.php?title=HDPA_\(Greece\)_-_31/2024&oldid=44231)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [HDPA (Greece)](/index.php?title=Category:HDPA_\(Greece\) "Category:HDPA (Greece)")
+*   [Greece](/index.php?title=Category:Greece "Category:Greece")
+*   [Article 5(1)(a) GDPR](/index.php?title=Category:Article_5\(1\)\(a\)_GDPR "Category:Article 5(1)(a) GDPR")
+*   [Article 5(1)(c) GDPR](/index.php?title=Category:Article_5\(1\)\(c\)_GDPR "Category:Article 5(1)(c) GDPR")
+*   [2024](/index.php?title=Category:2024 "Category:2024")
+*   [Greek](/index.php?title=Category:Greek "Category:Greek")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/HDPA_\(Greece\)_-_31/2024 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/HDPA_\(Greece\)_-_31/2024 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=HDPA_\(Greece\)_-_31/2024&oldid=44231 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=HDPA_\(Greece\)_-_31/2024&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=HDPA_%28Greece%29_-_31%2F2024&id=44231&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 13 November 2024, at 13:52.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.033","walltime":"0.084","ppvisitednodes":{"value":417,"limit":1000000},"postexpandincludesize":{"value":1314,"limit":2097152},"templateargumentsize":{"value":471,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":22594,"limit":5000000},"timingprofile":\["100.00% 5.723 1 Template:DPAdecisionBOX","100.00% 5.723 1 -total"\]},"cachereport":{"timestamp":"20250829190509","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":656});});

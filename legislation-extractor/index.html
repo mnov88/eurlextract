@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enhanced EurLex XML Extractor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Enhanced EurLex XML Data Extractor</h1>
+            <p class="header-subtitle">Advanced extraction with multilingual support and enhanced article reference parsing</p>
+        </header>
+
+        <main class="main-content">
+            <!-- Language Selection Panel -->
+            <section class="card language-panel">
+                <div class="card__header">
+                    <h2>Language Settings</h2>
+                    <div class="language-status" id="language-status">
+                        <span class="status status--info">No languages detected</span>
+                    </div>
+                </div>
+                <div class="card__body">
+                    <div class="language-controls">
+                        <div class="form-group">
+                            <label class="form-label" for="language-selector">Select preferred language:</label>
+                            <select id="language-selector" class="form-control" disabled>
+                                <option value="">Auto-detect from content</option>
+                            </select>
+                        </div>
+                        <div class="available-languages" id="available-languages">
+                            <span class="form-label">Available languages will appear here after extraction</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- XML Input Section -->
+            <section class="card input-section">
+                <div class="card__header">
+                    <h2>XML Input</h2>
+                    <div class="tab-navigation">
+                        <button class="btn btn--outline tab-btn active" data-tab="paste-tab">Paste XML</button>
+                        <button class="btn btn--outline tab-btn" data-tab="upload-tab">Upload File</button>
+                    </div>
+                </div>
+                <div class="card__body">
+                    <!-- Paste Tab -->
+                    <div id="paste-tab" class="tab-content active">
+                        <label class="form-label" for="xml-textarea">Paste XML content:</label>
+                        <textarea id="xml-textarea" class="form-control xml-input" placeholder="Paste your enhanced XML content here..." rows="8"></textarea>
+                    </div>
+                    
+                    <!-- Upload Tab -->
+                    <div id="upload-tab" class="tab-content hidden">
+                        <label class="form-label" for="xml-file">Select XML file:</label>
+                        <input type="file" id="xml-file" class="form-control" accept=".xml,text/xml,application/xml">
+                        <div class="upload-status" id="upload-status"></div>
+                    </div>
+                    
+                    <div class="input-actions">
+                        <button id="extract-btn" class="btn btn--primary">Extract Enhanced Data</button>
+                        <button id="clear-btn" class="btn btn--outline">Clear</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Search/Filter Section -->
+            <section class="card search-section hidden" id="search-section">
+                <div class="card__body">
+                    <div class="search-controls">
+                        <input type="text" id="search-input" class="form-control" placeholder="Search extracted data...">
+                        <button id="search-btn" class="btn btn--secondary">Search</button>
+                        <button id="clear-search-btn" class="btn btn--outline">Clear</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Loading State -->
+            <div id="loading-state" class="loading-state hidden">
+                <div class="loading-spinner"></div>
+                <p>Processing XML with enhanced extraction algorithms...</p>
+            </div>
+
+            <!-- Error State -->
+            <div id="error-state" class="error-state hidden">
+                <div class="status status--error">
+                    <span id="error-message"></span>
+                </div>
+            </div>
+
+            <!-- Results Section -->
+            <div id="results-section" class="results-section hidden">
+                <div class="results-header">
+                    <h2>Enhanced Extraction Results</h2>
+                    <div class="results-actions">
+                        <button id="export-btn" class="btn btn--secondary">Export Data</button>
+                        <button id="copy-all-btn" class="btn btn--outline">Copy All</button>
+                        <button id="comparison-btn" class="btn btn--outline">Language Comparison</button>
+                    </div>
+                </div>
+
+                <!-- Title Section -->
+                <div class="card result-card">
+                    <div class="card__header result-header" data-section="title">
+                        <h3>Document Title <div class="language-indicators" id="title-languages"></div></h3>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="title-results">
+                        <div class="result-item">
+                            <strong>Primary Title:</strong>
+                            <span id="primary-title">Not found</span>
+                            <button class="copy-btn" data-copy="primary-title">Copy</button>
+                        </div>
+                        <div class="result-item">
+                            <strong>Work Title:</strong>
+                            <span id="work-title">Not found</span>
+                            <button class="copy-btn" data-copy="work-title">Copy</button>
+                        </div>
+                        <div class="result-item">
+                            <strong>Alternative Titles:</strong>
+                            <span id="alternative-titles">Not found</span>
+                            <button class="copy-btn" data-copy="alternative-titles">Copy</button>
+                        </div>
+                        <div class="result-item">
+                            <strong>Subtitles:</strong>
+                            <span id="subtitles">Not found</span>
+                            <button class="copy-btn" data-copy="subtitles">Copy</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Dates Section -->
+                <div class="card result-card">
+                    <div class="card__header result-header" data-section="dates">
+                        <h3>Important Dates</h3>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="dates-results">
+                        <div class="dates-grid">
+                            <div class="result-item">
+                                <strong>Document Date:</strong>
+                                <span id="document-date">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Publication Date:</strong>
+                                <span id="publication-date">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Signature Date:</strong>
+                                <span id="signature-date">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Entry into Force:</strong>
+                                <span id="entry-into-force">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>End of Validity:</strong>
+                                <span id="end-of-validity">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Transposition Deadline:</strong>
+                                <span id="transposition-deadline">Not found</span>
+                            </div>
+                        </div>
+                        <button class="copy-btn" data-copy="dates-results">Copy All Dates</button>
+                    </div>
+                </div>
+
+                <!-- Identifiers Section -->
+                <div class="card result-card">
+                    <div class="card__header result-header" data-section="identifiers">
+                        <h3>Legal Identifiers</h3>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="identifiers-results">
+                        <div class="identifiers-grid">
+                            <div class="result-item">
+                                <strong>CELEX ID:</strong>
+                                <span id="celex-id">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>ELI:</strong>
+                                <span id="eli">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>OJ Reference:</strong>
+                                <span id="oj-reference">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>IMMC:</strong>
+                                <span id="immc">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Natural Number:</strong>
+                                <span id="celex-natural">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Document Type:</strong>
+                                <span id="celex-type">Not found</span>
+                            </div>
+                        </div>
+                        <button class="copy-btn" data-copy="identifiers-results">Copy All Identifiers</button>
+                    </div>
+                </div>
+
+                <!-- Eurovoc Section -->
+                <div class="card result-card">
+                    <div class="card__header result-header" data-section="eurovoc">
+                        <h3>Eurovoc Classifications <div class="language-indicators" id="eurovoc-languages"></div></h3>
+                        <span class="count-badge" id="eurovoc-count">0 found</span>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="eurovoc-results">
+                        <div class="eurovoc-categories">
+                            <div class="eurovoc-category">
+                                <h4>Concepts</h4>
+                                <div id="eurovoc-concepts" class="eurovoc-list">No concepts found</div>
+                            </div>
+                            <div class="eurovoc-category">
+                                <h4>Domains</h4>
+                                <div id="eurovoc-domains" class="eurovoc-list">No domains found</div>
+                            </div>
+                            <div class="eurovoc-category">
+                                <h4>Microthesaurus</h4>
+                                <div id="eurovoc-microthesaurus" class="eurovoc-list">No microthesaurus found</div>
+                            </div>
+                            <div class="eurovoc-category">
+                                <h4>Thesaurus Terms</h4>
+                                <div id="eurovoc-terms" class="eurovoc-list">No terms found</div>
+                            </div>
+                        </div>
+                        <button class="copy-btn" data-copy="eurovoc-results">Copy All Eurovoc</button>
+                    </div>
+                </div>
+
+                <!-- Enhanced Case Law Section -->
+                <div class="card result-card">
+                    <div class="card__header result-header" data-section="caselaw">
+                        <h3>Case Law References</h3>
+                        <span class="count-badge" id="caselaw-count">0 found</span>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="caselaw-results">
+                        <div id="caselaw-table-container">
+                            <table class="caselaw-table">
+                                <thead>
+                                    <tr>
+                                        <th>CELEX ID</th>
+                                        <th>Original Articles</th>
+                                        <th>Parsed Articles</th>
+                                        <th>Type</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="caselaw-tbody">
+                                    <tr>
+                                        <td colspan="5" class="no-data">No case law references found</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <button class="copy-btn" data-copy="caselaw-results">Copy All Case Law</button>
+                    </div>
+                </div>
+
+                <!-- Implementation Section -->
+                <div class="card result-card">
+                    <div class="card__header result-header" data-section="implementation">
+                        <h3>Implementation & Transposition</h3>
+                        <span class="count-badge" id="implementation-count">0 found</span>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="implementation-results">
+                        <div id="implementation-table-container">
+                            <table class="implementation-table">
+                                <thead>
+                                    <tr>
+                                        <th>Country</th>
+                                        <th>National Measure</th>
+                                        <th>Status</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="implementation-tbody">
+                                    <tr>
+                                        <td colspan="4" class="no-data">No implementation data found</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <button class="copy-btn" data-copy="implementation-results">Copy Implementation Data</button>
+                    </div>
+                </div>
+
+                <!-- Legal Relations Section -->
+                <div class="card result-card">
+                    <div class="card__header result-header" data-section="legal-relations">
+                        <h3>Legal Relations</h3>
+                        <span class="count-badge" id="legal-relations-count">0 found</span>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="legal-relations-results">
+                        <div class="legal-relations-categories">
+                            <div class="legal-relation-category">
+                                <h4>Based On</h4>
+                                <div id="based-on-list" class="relation-list">No relations found</div>
+                            </div>
+                            <div class="legal-relation-category">
+                                <h4>Cites</h4>
+                                <div id="cites-list" class="relation-list">No citations found</div>
+                            </div>
+                            <div class="legal-relation-category">
+                                <h4>Amends</h4>
+                                <div id="amends-list" class="relation-list">No amendments found</div>
+                            </div>
+                            <div class="legal-relation-category">
+                                <h4>Repeals</h4>
+                                <div id="repeals-list" class="relation-list">No repeals found</div>
+                            </div>
+                        </div>
+                        <button class="copy-btn" data-copy="legal-relations-results">Copy Legal Relations</button>
+                    </div>
+                </div>
+
+                <!-- Enhanced Metadata Section -->
+                <div class="card result-card">
+                    <div class="card__header result-header" data-section="metadata">
+                        <h3>Document Metadata</h3>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="metadata-results">
+                        <div class="metadata-grid">
+                            <div class="result-item">
+                                <strong>Created By:</strong>
+                                <span id="created-by">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Responsible Agent:</strong>
+                                <span id="responsible-agent">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>In Force Status:</strong>
+                                <span id="in-force-status">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Subject Matter:</strong>
+                                <span id="subject-matter">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Version:</strong>
+                                <span id="version">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Last Modified:</strong>
+                                <span id="last-modified">Not found</span>
+                            </div>
+                        </div>
+                        <button class="copy-btn" data-copy="metadata-results">Copy Metadata</button>
+                    </div>
+                </div>
+
+                <!-- Statistics Section -->
+                <div class="card result-card">
+                    <div class="card__header result-header" data-section="stats">
+                        <h3>Extraction Statistics</h3>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="stats-results">
+                        <div class="stats-grid">
+                            <div class="stat-item">
+                                <span class="stat-number" id="stat-languages">0</span>
+                                <span class="stat-label">Languages</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-number" id="stat-cases">0</span>
+                                <span class="stat-label">Case References</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-number" id="stat-eurovoc">0</span>
+                                <span class="stat-label">Eurovoc Tags</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-number" id="stat-articles">0</span>
+                                <span class="stat-label">Parsed Articles</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-number" id="stat-relations">0</span>
+                                <span class="stat-label">Legal Relations</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-number" id="stat-implementations">0</span>
+                                <span class="stat-label">Implementations</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

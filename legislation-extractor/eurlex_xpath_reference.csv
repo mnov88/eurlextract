@@ -1,0 +1,58 @@
+Category,Field,XPath,Description,Required
+Case Law,Case Number,*/NOTICE/EXPRESSION/EXPRESSION_CASE-LAW_IDENTIFIER_CASE/VALUE,Case law case number,No
+Case Law,Case Parties,*/NOTICE/EXPRESSION/EXPRESSION_CASE-LAW_PARTIES/VALUE,Case law parties,No
+Case Law,Court Country,*/NOTICE/WORK/CASE-LAW_ORIGINATES_IN_COUNTRY/PREFLABEL,Country of originating court,No
+Case Law,ECLI,*/NOTICE/WORK/ECLI/VALUE,European Case Law Identifier,No
+Case Law,Judgment Summary,*/NOTICE/MANIFESTATION/MANIFESTATION_CASE-LAW_SUMMARY/VALUE,Case law summary,No
+Case_Law,Amended By,//CASE-LAW_AMENDS_RESOURCE_LEGAL/SAMEAS/URI/IDENTIFIER,Extract amended by information,No
+Case_Law,Annulment Requested,//CASE-LAW_REQUESTS_ANNULMENT_OF_RESOURCE_LEGAL/SAMEAS/URI/IDENTIFIER,Extract annulment requested information,No
+Case_Law,Confirmed By,//CASE-LAW_CONFIRMS_RESOURCE_LEGAL/SAMEAS/URI/IDENTIFIER,Extract confirmed by information,No
+Case_Law,Declared Valid By,//CASE-LAW_DECLARES_VALID_RESOURCE_LEGAL/SAMEAS/URI/IDENTIFIER,Extract declared valid by information,No
+Case_Law,Declared Void By,//CASE-LAW_DECLARES_VOID_RESOURCE_LEGAL/SAMEAS/URI/IDENTIFIER,Extract declared void by information,No
+Case_Law,Interpreted Articles,//RESOURCE_LEGAL_INTERPRETED_BY_CASE-LAW/ANNOTATION/REFERENCE_TO_MODIFIED_LOCATION,Extract interpreted articles information,No
+Case_Law,Interpreted By,//RESOURCE_LEGAL_INTERPRETED_BY_CASE-LAW/SAMEAS/URI/IDENTIFIER,Extract interpreted by information,No
+Case_Law,Interpreted By Celex,//RESOURCE_LEGAL_INTERPRETED_BY_CASE-LAW/SAMEAS[URI/TYPE='celex']/URI/IDENTIFIER,Extract interpreted by celex information,Yes
+Case_Law,Preliminary Articles,//RESOURCE_LEGAL_PRELIMINARY_QUESTION-SUBMITTED_BY_COMMUNICATION_CASE_NEW/ANNOTATION/REFERENCE_TO_MODIFIED_LOCATION,Extract preliminary articles information,No
+Case_Law,Preliminary Question,//RESOURCE_LEGAL_PRELIMINARY_QUESTION-SUBMITTED_BY_COMMUNICATION_CASE_NEW/SAMEAS/URI/IDENTIFIER,Extract preliminary question information,No
+Case_Law,Preliminary Question Celex,//RESOURCE_LEGAL_PRELIMINARY_QUESTION-SUBMITTED_BY_COMMUNICATION_CASE_NEW/SAMEAS[URI/TYPE='celex']/URI/IDENTIFIER,Extract preliminary question celex information,Yes
+Celex,Celex Id,//ID_CELEX/VALUE,Extract celex id information,Yes
+Celex,Celex Natural Number,//RESOURCE_LEGAL_NUMBER_NATURAL_CELEX/VALUE,Extract celex natural number information,Yes
+Celex,Celex Secondary,//RESOURCE_LEGAL_ID_CELEX/VALUE,Extract celex secondary information,Yes
+Celex,Celex Sector,//ID_SECTOR/VALUE,Extract celex sector information,Yes
+Celex,Celex Type,//RESOURCE_LEGAL_TYPE/VALUE,Extract celex type information,Yes
+Celex,Celex Year,//RESOURCE_LEGAL_YEAR/VALUE,Extract celex year information,Yes
+Celex,Eli,//ELI/VALUE,Extract eli information,No
+Celex,Resource Legal Eli,//RESOURCE_LEGAL_ELI/VALUE,Extract resource legal eli information,No
+Date,Document Date,//WORK_DATE_DOCUMENT/VALUE,Extract document date information,Yes
+Date,Document Date Day,//WORK_DATE_DOCUMENT/DAY,Extract document date day information,Yes
+Date,Document Date Month,//WORK_DATE_DOCUMENT/MONTH,Extract document date month information,Yes
+Date,Document Date Year,//WORK_DATE_DOCUMENT/YEAR,Extract document date year information,Yes
+Date,End Of Validity,//RESOURCE_LEGAL_DATE_END-OF-VALIDITY/VALUE,Extract end of validity information,No
+Date,Entry Into Force,//RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE/VALUE,Extract entry into force information,No
+Date,Publication Date,//RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL/EMBEDDED_NOTICE/WORK/DATE_PUBLICATION/VALUE,Extract publication date information,No
+Date,Signature Date,//RESOURCE_LEGAL_DATE_SIGNATURE/VALUE,Extract signature date information,No
+Eurovoc,Concept,//WORK_IS_ABOUT_CONCEPT_EUROVOC/WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT/IDENTIFIER,Extract concept information,No
+Eurovoc,Concept Label,//WORK_IS_ABOUT_CONCEPT_EUROVOC/WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT/PREFLABEL,Extract concept label information,No
+Eurovoc,Domain,//WORK_IS_ABOUT_CONCEPT_EUROVOC/WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM/IDENTIFIER,Extract domain information,No
+Eurovoc,Domain Label,//WORK_IS_ABOUT_CONCEPT_EUROVOC/WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM/PREFLABEL,Extract domain label information,No
+Eurovoc,Microthesaurus,//WORK_IS_ABOUT_CONCEPT_EUROVOC/WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH/IDENTIFIER,Extract microthesaurus information,No
+Eurovoc,Microthesaurus Label,//WORK_IS_ABOUT_CONCEPT_EUROVOC/WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH/PREFLABEL,Extract microthesaurus label information,No
+Eurovoc,Thesaurus Term,//WORK_IS_ABOUT_CONCEPT_EUROVOC/WORK_IS_ABOUT_CONCEPT_EUROVOC_TT/IDENTIFIER,Extract thesaurus term information,No
+Eurovoc,Thesaurus Term Label,//WORK_IS_ABOUT_CONCEPT_EUROVOC/WORK_IS_ABOUT_CONCEPT_EUROVOC_TT/PREFLABEL,Extract thesaurus term label information,No
+Legal Relations,Amends,*/NOTICE/WORK/RESOURCE_LEGAL_AMENDS_RESOURCE_LEGAL/SAMEAS/URI/IDENTIFIER,Documents amended by this act,No
+Legal Relations,Based On,*/NOTICE/WORK/BASED_ON/SAMEAS/URI/IDENTIFIER,Legal basis for this document,No
+Legal Relations,Cites Work,*/NOTICE/WORK/WORK_CITES_WORK/SAMEAS/URI/IDENTIFIER,Works cited by this document,No
+Legal Relations,Repeals,*/NOTICE/WORK/RESOURCE_LEGAL_REPEALS_RESOURCE_LEGAL/SAMEAS/URI/IDENTIFIER,Documents repealed by this act,No
+Metadata,Author,*/NOTICE/WORK/WORK_CREATED_BY_AGENT/PREFLABEL,Author/creator of the document,No
+Metadata,Created By,*/NOTICE/WORK/CREATED_BY/PREFLABEL,Institution that created the document,No
+Metadata,Document Type,*/NOTICE/WORK/RESOURCE_LEGAL_TYPE/VALUE,"Type of legal document (R, D, L, etc.)",Yes
+Metadata,In Force,*/NOTICE/WORK/RESOURCE_LEGAL_IN-FORCE/VALUE,Whether the document is in force,No
+Publication,OJ Number,*/NOTICE/WORK/RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL/EMBEDDED_NOTICE/WORK/OFFICIAL-JOURNAL_NUMBER/VALUE,Official Journal number,No
+Publication,Official Journal Collection,*/NOTICE/WORK/RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL/EMBEDDED_NOTICE/WORK/OFFICIAL-JOURNAL_PART_OF_COLLECTION_DOCUMENT/URI/IDENTIFIER,"OJ collection (L, C series)",No
+Publication,Page First,*/NOTICE/WORK/RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL/EMBEDDED_NOTICE/WORK/PAGE_FIRST/VALUE,First page in OJ,No
+Subject Matter,Directory Code,*/NOTICE/WORK/RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE/RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1/PREFLABEL,Subject matter directory classification,No
+Title,Alternative Title,//EXPRESSION_TITLE_ALTERNATIVE/VALUE,Extract alternative title information,Yes
+Title,Primary Title,//EXPRESSION_TITLE/VALUE,Extract primary title information,Yes
+Title,Search Title,*/DOCUMENT/SEARCH_TITLE | */NOTICE/EXPRESSION/EXPRESSION_TITLE/VALUE | */NOTICE/EXPRESSION/EXPRESSION_SUBTITLE/VALUE,General document search title,No
+Title,Subtitle,//EXPRESSION_SUBTITLE/VALUE,Extract subtitle information,Yes
+Title,Work Title,//WORK_TITLE/VALUE,Extract work title information,Yes

@@ -1,0 +1,278 @@
+ Supreme Court - III CZP 78/19 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"2ff6126c456d7d147706cb9a","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Supreme\_Court\_-\_III\_CZP\_78/19","wgTitle":"Supreme Court - III CZP 78/19","wgCurRevisionId":11925,"wgRevisionId":11925,"wgArticleId":2839,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["Supreme Court (Poland)","Poland","Article 5 GDPR","Article 6(1)(c) GDPR","Article 6(1)(e) GDPR","Article 95 GDPR","2020","Polish"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Supreme\_Court\_-\_III\_CZP\_78/19","wgRelevantArticleId":2839,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:Supreme_Court_-_III_CZP_78/19&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=Supreme_Court_-_III_CZP_78/19&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=Supreme_Court_-_III_CZP_78/19&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=Supreme+Court+-+III+CZP+78%2F19&returntoquery=oldid%3D11925 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# Supreme Court - III CZP 78/19
+
+From GDPRhub
+
+Revision as of 09:08, 2 November 2020 by [Cp](/index.php?title=User:Cp "User:Cp") ([talk](/index.php?title=User_talk:Cp&action=edit&redlink=1 "User talk:Cp (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Cp "Special:Contributions/Cp"))
+
+([diff](/index.php?title=Supreme_Court_-_III_CZP_78/19&diff=prev&oldid=11925 "Supreme Court - III CZP 78/19")) [← Older revision](/index.php?title=Supreme_Court_-_III_CZP_78/19&direction=prev&oldid=11925 "Supreme Court - III CZP 78/19") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+Supreme Court - III CZP 78/19
+
+[![Courts logo1.png](/images/thumb/4/4c/Courts_logo1.png/250px-Courts_logo1.png)](/index.php?title=File:Courts_logo1.png)
+
+Court:
+
+[Supreme Court (Poland)](/index.php?title=Category:Supreme_Court_\(Poland\) "Category:Supreme Court (Poland)")
+
+Jurisdiction:
+
+[Poland](/index.php?title=Category:Poland "Category:Poland")
+
+Relevant Law:
+
+[Article 5 GDPR](/index.php?title=Article_5_GDPR "Article 5 GDPR")  
+[Article 6(1)(c) GDPR](/index.php?title=Article_6_GDPR#1c "Article 6 GDPR")  
+[Article 6(1)(e) GDPR](/index.php?title=Article_6_GDPR#1e "Article 6 GDPR")  
+[Article 95 GDPR](/index.php?title=Article_95_GDPR "Article 95 GDPR")  
+[Directive 2002/58/EC](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32002L0058)  
+[Article 159(2)(4) Telecommunications Law (PT)](http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20041711800/U/D20041800Lj.pdf)  
+[Article 160(1) Telecommunications Law (PT)](http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20041711800/U/D20041800Lj.pdf)  
+[Article 159(1) Telecommunications Law (PT)](http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20041711800/U/D20041800Lj.pdf)  
+[Article 159(3) Telecommunications Law (PT)](http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20041711800/U/D20041800Lj.pdf)  
+[Article 159(4) Telecommunications Law (PT)](http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20041711800/U/D20041800Lj.pdf)  
+[Article 161(2) Telecommunications Law (PT)](http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20041711800/U/D20041800Lj.pdf)  
+[Article 175 Personal Data Protection Act](https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20180001000/U/D20181000Lj.pdf)  
+[Article 18(1)(2) Personal Data Protection Act of 29.8.1997](http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU19971330883/U/D19970883Lj.pdf)  
+[Article 23(1)(4) Personal Data Protection Act of 29.8.1997](http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU19971330883/U/D19970883Lj.pdf)  
+[Article 23(1)(5) Personal Data Protection Act of 29.8.1997](http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU19971330883/U/D19970883Lj.pdf)  
+[Article 30 Polish Constitution](http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU19970780483/U/D19970483Lj.pdf)  
+[Article 32(2) Polish Constitution](http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU19970780483/U/D19970483Lj.pdf)  
+[Article 42(1) Polish Constitution](http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU19970780483/U/D19970483Lj.pdf)  
+[Article 45(1) Polish Constitution](http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU19970780483/U/D19970483Lj.pdf)
+
+Decided:
+
+06.08.2020 Published:
+
+23.10.2020 Parties:
+
+National Case Number/Name:
+
+III CZP 78/19
+
+European Case Law Identifier:
+
+Appeal from:
+
+Appeal to:
+
+Original Language(s):
+
+[Polish](/index.php?title=Category:Polish "Category:Polish")
+
+Original Source:
+
+[LEX (in Polish)](https://sip.lex.pl/orzeczenia-i-pisma-urzedowe/orzeczenia-sadow/iii-czp-78-19-uchwala-sadu-najwyzszego-523133308)
+
+Initial Contributor:
+
+Agnieszka Rapcewicz
+
+The Polish Supreme Court held that a court is entitled to demand secrecy information from an entity bound by telecommunications law, which allowed the court to verify whether an infringement of the claimant's personal rights was committed.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Dispute](#Dispute)
+    *   [1.3 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+The parties were involved in social initiatives aimed at supporting or questioning the need for certain investments in the vicinity of the housing estate where they live. The defendants accused the claimant that, as a result of her interventions in the housing estate, the city carried out no investments. The defendants publicly criticised the claimant's attitude and they also expressed their opinions in social media. The applicant claimed that the defendants had thereby infringed her personal rights. The Regional Court held that there was no infringement, as the defendants exercised their right to freedom of expression. In the Regional Court's opinion the defendants cannot be held responsible for the form of statements made by other people, including Internet users. The claimant has appealed against the judgment. The claimant complained that the court omitted her request for evidence to oblige the domain registrar and the Internet access service provider to disclose the names and addresses of subscribers to the service using pseudonyms (nicknames), who published entries about the claimant on an Internet forum. The Court of Appeal identified the subscriber of the domain and obtained from him information about e-mail addresses to the accounts with logins indicated by the claimant and lists of posts written from those addresses. Next, it called the Internet provider for the established IP addresses to indicate the subscribers of the Internet access service. The Internet provider refused to provide information, citing telecommunication secrecy. Additionally, it indicated that the deadline within which it is obliged to store, among others, the data requested by the Court, has already passed. The Court of Appeal has addressed the Supreme Court with a legal issue.
+
+### Dispute
+
+Is an entity providing Internet access services, i.e. an entity bound by telecommunication secrecy, entitled to refuse to provide personal data of the subscriber of this service in a case of infringement of personal rights, if it is the content presented via the Internet that may constitute the basis for this infringement and in this case is the basis for providing this data at the request of a civil court?
+
+### Holding
+
+The Supreme Court held that a court is entitled to demand from an entity bound by telecommunications secrecy information that allows to verify the claimant's claim that an act infringing her personal rights was committed by the defendant in the case.
+
+## Comment
+
+Telecommunications secrecy, according to Polish regulations, includes user data, content of individual communications, transmission data. At the same time, the Telecommunications Law provides for certain exemptions from the obligation to maintain telecommunications secrecy. These include, first of all, communications and data which are by their nature overt, for public use or disclosed by a court order issued in criminal proceedings, by a decision of a public prosecutor or under separate regulations. In the light of the above provisions, telecommunications secrecy cannot be a basis for refusing to make certain data available at the request of a competent authority in the framework of criminal proceedings in progress. The repeal of telecommunications secrecy in this respect is justified by a particularly important public interest, which is the fight against crime. However, the possibility of using exceptions to telecommunications secrecy as a legal basis for using data covered by telecommunications secrecy as evidence in civil proceedings raises doubts.
+
+The Court of Appeal has taken a position that it is possible to request access to data covered by telecommunications secrecy also in civil proceedings. In its opinion, the legal basis is the Polish Telecommunications Law (Article 159 (2)(4)). It stated this, given the purpose of the regulations, i.e. the need to safeguard the rights of persons whose personal rights are violated on the Internet.
+
+The Supreme Court pointed out that the telecommunications secrecy is linked to the exercise of the right to freedom and protection of the confidentiality of communications, which is referred to in the Polish Constitution. Telecommunications secrecy protects not only the content of the information transmitted but also the personal data of those between whom it is exchanged. The restriction of the confidentiality of communications may be limited in the cases and in the manner set out in the law, for example, in order to implement the principle that the beneficiary of rights and freedoms has an obligation to respect the freedoms and rights of others. Freedom of expression involves taking responsibility both for those views and the form in which they are expressed.
+
+Personal rights are often violated on the Internet because people think they are anonymous. In the vast majority of cases, it is not possible to identify the perpetrator of an infringement of personal rights on the Internet except by obtaining the relevant data from the Internet operator. Binding the operator to telecommunications secrecy creates certain restrictions in this regard.
+
+The Supreme Court pointed out that the purpose of introducing into the Polish Telecommunications Law the limitation of the possibility to repeal telecommunications secrets, inter alia, exclusively for the purposes of criminal proceedings (and not for any other proceedings), was to limit the possibility of disclosing telecommunications secrets by civil and administrative courts to situations in which this right results explicitly from relevant legal provisions.
+
+The court pointed out that the interpretation of the Polish Telecommunications Law in conjunction with the regulations on the protection of personal data creates conditions for the claimant to prepare itself for the process of the protection of personal rights by obtaining the data of the person to whom the claimant will assign the status of the defendant and to whom the claimant will charge the unlawful infringement of its personal rights. The legitimacy of the request for data disclosure is assessed in these cases by the data controller and possibly by the supervisory authority under the control of administrative courts. The Supreme Court stressed that a person who requests disclosure of the data of the author of entries on internet forums must take into account the regulation contained in [Article 5(1)(e)](/index.php?title=Article_5_GDPR#1e "Article 5 GDPR") which provides that personal data may be kept in a form which allows the identification of the data subject for no longer than is necessary for the purposes for which the data are processed. Under Polish Telecommunications Law, the provider of publicly available telecommunications services is obliged to retain and store, at its own expense, data generated on the telecommunications network or processed by it for a period of 12 months from the date of the call or unsuccessful call, and, on expiry of that period, destroy the data, except for those that have been secured in accordance with separate provisions.
+
+The Supreme Court held that, if the claimant has not used the above procedure, the legal basis for the court to apply in civil proceedings to an Internet operator for verification of the claimant's allegation formulated in relation to a specific defendant is Article 159(2)(4) of the Polish Telecommunications Law, in conjunction with Article 30, Article 32(2), Article 42(1) and Article 45(1) of the Polish Constitution, obliging the court to exercise the right to court in the event of infringement of the claimant's rights and freedoms covered by legal protection.
+
+The Supreme Court also pointed out that the claimant formulated the statement that its personal rights were violated by Internet users using pseudonyms (nicknames) A., M., a., A., M. and demanded that their personal data (forenames, surname) be disclosed by the entity providing Internet access services. If these persons are not the same as the defendants, the acquisition of their personal data is not relevant to the outcome of the case.
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the Polish original. Please refer to the Polish original for more details.
+
+Ref. act III CZP 78/19
+RESOLUTION
+6 August 2020.
+The Supreme Court in its composition:
+SSN Grzegorz Misiurek (President)
+SSN Monika Koba
+SSN Marta Romańska (rapporteur)
+Protocoleptor Bożena Kowalska
+on the action brought by Mr C.
+v. A. K. and W. G.
+with the participation of the Public Prosecutor and the Ombudsman
+to protect personal rights,
+following a public hearing in the Civilian Chamber
+on 6 August 2020,
+the legal issue presented 
+by the Court of Appeal in (...)
+by decision of 23 September 2019, Ref, 
+"Is the provider of Internet access services, i.e. an entity bound by telecommunications secrecy pursuant to Article 160(1) of the Act of 16 July 2004? The Telecommunications Law (Journal of Laws No. 171, item 1800, as amended) is entitled to refuse to provide personal data of the subscriber of this service in a case of infringement of personal rights, if it is the content presented via the Internet that may constitute the basis for this infringement and in this case is the basis for providing this data at the request of a civil court under Article 159, paragraph 2, point 4 of the Telecommunications Law?". 
+has adopted a resolution:
+The court is entitled - pursuant to Art. 159.2.4 of the Act of 16 July 2004. Telecommunications law (consolidated text: Journal of Laws of 2019, item 2460, as amended) - to demand from an entity bound by telecommunications secrecy information allowing verification of the claimant's claim that an act infringing personal rights was committed by the respondent in the case. 
+EXPLANATORY MEMORANDUM
+The plaintiff M.C. has applied for an injunction W. G. and A. K. to take steps to remedy the infringement of her personal rights.
+The defendants requested the dismissal of the actions, which were examined together.
+By judgment of 26 June 2016. the Regional Court in G. dismissed the actions, having established that the parties - as members of the Housing Cooperative "\[...\]. in G. and the Association operating for some time "\[...\]. - were involved in social initiatives aimed at supporting or questioning the need for certain investments in the vicinity of their housing estate. The defendants accused the claimant that, as a result of her appearances at the housing estate \[...\]. The defendants accused the claimant that as a result of its interventions in the housing estate \[...\], no investments subsidised by the city were carried out and publicly criticised the claimant's attitude. They also expressed their opinions in social media. The Regional Court held that the defendants' actions cannot be classified as illegally infringing the personal rights of the claimant, as their statements were of a descriptive and evaluative nature in relation to her public speeches and although they may have caused discomfort to the claimant, they were a way of implementing a constitutionally protected law. The expression of assessments of the behaviour of socially engaged persons is a form of exercising the right to freedom of expression, serving the public debate and necessary for the proper functioning of a democratic society. The defendants derived their conclusions that the plaintiff was blocking the agreement with the city from thoroughly verified facts, and the form of their statements was in line with the standards of public debate at local level and did not exceed the acceptable framework for public criticism. The defendants, however, cannot be held responsible for the form of statements made by other people, including Internet users.
+In its appeal against the judgment of the District Court of 26 June 2016, the plaintiff alleged, among other things, that the defendant was not responsible for the form of statements of other people, including Internet users, that the judgment was issued in violation of procedural law, i.e. Article 227 in conjunction with Article 248 § 1 of Kodeks Postępowania Cywilnego (the Code of Civil Procedure) by omitting a motion of evidence filed in the statement of claim against A.K. for obliging the registrar of the www.\[...\].pl domain, the subscriber of that domain and the Internet access service provider to disclose the names and address data of subscribers of the service using pseudonyms (nicknames) A, M., a., A., M., publishing entries under the above pseudonyms on the Internet forum http:// (...).pl, which was to be of significant importance for determining the scale of activity of the respondent A. K. and for the creation by him of the image of the claimant as the person who blocked the agreement between the city and the Cooperative \[...\]. and the Cooperative acting to the detriment of the Cooperative, whereas the respondent admitted that under the pseudonym of k. he published entries on Internet forums about the claimant, from which it may follow that the remaining entries may also have been made by the respondent.
+In the course of the appeal proceedings, the Court of Appeal identified the subscriber of the www.\[...\].pl domain by way of an interview and obtained from him information on e-mail addresses to accounts with A., M., a., A., M. logins and lists of posts written from those addresses, and then called on the Internet provider for the established IP addresses, i.e. M. spółka z ograniczoną odpowiedzialnością w G. to indicate within 14 days the personal data of subscribers to the Internet access service for the established lP numbers. This request was based on Article 248 of the Code of Civil Procedure.
+Declaration of 2 March 2018. M. spółka z ograniczoną odpowiedzialnością w G., invoking telecommunication secrecy referred to in Art. 159.1 of the Act of 16 July 2004. - Telecommunications Law (consolidated text: Journal of Laws of 2019, item 2460; hereinafter referred to as "Telecommunications Law"), refused to provide the information requested from it. The requested Company also explained that the deadline within which - pursuant to Article 180c of the Telecommunications Act - the period within which - pursuant to Article 180c of the Telecommunications Act has expired has already expired. - The requested Company also explained that the time limit within which, pursuant to Article 180c of the Telecommunications Act, it is obliged to keep, inter alia, the data requested by the Court. In connection with this position of the provider of the Internet access service, a legal issue has arisen with the content quoted in the sentence, which the Court of Appeal presented to the Supreme Court for decision (Article 390 § 1 of the Civil Procedure Code).
+With reference to the views expressed in the literature, the Court of Appeal stated that the provisions contained in Section VII pr. telekom. fall within the scope of Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (DP). As a sector-specific directive, it develops, in the field of electronic communications, the general data protection principles contained in Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, p. 31). This Directive is mainly of a protective nature with regard to fundamental human rights and freedoms, and in particular the right to privacy in relation to the processing of data. Directive 95/46/EC has been repealed by Article 94(1) of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (hereinafter - TDCA). In accordance with Article 95 of the TTEB, it does not impose additional obligations on natural and legal persons in relation to the processing of data in connection with the provision of publicly available electronic communications services in public communications networks in the Union, where they are subject to specific obligations having the same purpose as defined in Directive 2002/58/EC.
+Telecommunications secrecy, as defined in Article 159(1) of the Telecommunications Act, includes user data, content of individual communications, transmission data. At the same time, the Act provides for certain exemptions from the obligation to maintain telecommunications secrecy, as defined in Article 159(2) of the Telecommunications Act. Pursuant to Article 159(4) of the Polish Telecommunications Act, the provisions of paragraphs 2 and 3 shall not apply to communications and data which are by their nature overt, intended for public use or disclosed by a court decision issued in criminal proceedings, a decision of the public prosecutor or pursuant to separate provisions. In the light of Article 159(4), telecommunications secrecy may not, therefore, be used as a basis for refusing to provide certain data at the request of the competent authority in the framework of ongoing criminal proceedings. The repeal of telecommunications secrecy in this respect is justified by a particularly important public interest, which is the fight against crime. However, the possibility of using Article 159(2)(4) of the Telecommunications Act as a legal basis for using data covered by telecommunications secrecy as evidence in civil proceedings is questionable. The Supreme Administrative Court in the judgment of 21 February 2014, I OSK 2324/12 (not published) expressed a position of the Supreme Administrative Court of Appeal in Białystok in the decision of 6 April 2011, I ACz 279/11 (not published), emphasising that neither the telecommunication law nor the provisions of the code of civil procedure create a basis justifying the issuance by the court in a civil case of an evidential decision obliging the operator to process and provide the court with data covered by the telecommunication secrecy. Article 248 § 1 and Article 251 of Kodeks Postępowania Cywilnego (the Code of Civil Procedure) cannot be regarded as such a basis, as they refer to documentary evidence and cannot be applied directly to evidence from information. 
+Having quoted the justification of the Act of 16 November 2012 amending the Telecommunications Act and certain other acts (Journal of Laws of 2012, item 1445), amending Article 159 paragraph 4 of the Polish Telecommunications Law by specifying that the basis for the provision of data may be a court decision issued in criminal proceedings, the Court of Appeal expressed its position on the admissibility of requesting the provision of data covered by the telecommunication secrecy also in proceedings in civil cases, pursuant to Article 248 § 1 and Article 251 of the Code of Civil Procedure, because they refer to documentary evidence and cannot be applied directly to evidence from information. 159 paragraph 2 point 4 of the Polish Civil Procedure Code and not Article 248 paragraph 1 of the Code of Civil Procedure, and provided a purposeful argumentation in favour of this position, referring to the need to secure the rights of persons whose personal rights are violated online.
+The public prosecutor who reported to the National Public Prosecutor's Office on behalf of the latter has applied for a decision refusing to adopt the resolution.
+The Ombudsman who reported his participation in the proceedings caused by the presentation of a legal issue requested the adoption of a resolution that the basis for requesting the protection of personal rights from an entity bound by the telecommunication secrecy of personal data of a service subscriber when the content presented on the Internet was the source of an infringement is Article 159(2). 
+point 4 pr. telekom.
+The Supreme Court weighed the following: 
+The establishment of the telecommunications secrecy (Article 159, paragraph 1, pr. telekom.) is related to the exercise of the right to freedom and protection of the secrecy of communication provided for in Article 49 of the Constitution. As indicated by the Constitutional Tribunal in the judgment of 30 July 2014, K 23/11 (OTK-A 2014, No. 7, item 80), this provision protects not only the content of the information provided, but also personal data of those between whom it is exchanged. The secrecy of communication may be limited in cases listed in the Act and in the manner specified therein, in particular when the limitation will be established in order to implement the principle expressed in Article 31 Paragraph 2 and 3 of the Constitution that the beneficiary of rights and freedoms is obliged to respect the freedoms and rights of other persons. Freedom of expression involves taking responsibility for those views, as well as for the form in which they are expressed, and legal provisions must create the conditions for this, both in the interests of whoever wishes to exercise their freedom of expression and who is affected by them in terms of content or form.
+The Court of Appeal rightly pointed out that the apparent anonymity inherent in Internet activity creates a sense of impunity. As a result, the Internet has become a new forum not only for the expression of opinions, but also for the violation of personal rights. With the widespread use of the Internet and the extent to which information entered into the Internet is disseminated, it has become necessary to create conditions for combating behaviour on the Internet that is contrary to the law and the principles of coexistence. In the vast majority of cases, it is not possible to identify the perpetrator of an infringement of personal rights on the Internet except by obtaining the relevant data from the operator that has concluded a contract with the perpetrator to provide him with Internet access services. Binding the operator to telecommunications secrecy creates certain restrictions in this regard.
+Behaviour that takes place on the Internet and that damages the interests of different people can be assessed and sanctioned in both criminal and civil law. The aim of criminal proceedings is to verify whether a certain behaviour constitutes a criminal offence and to identify the perpetrator and, at a later stage, to punish him. These objectives are achieved by the procedural authorities in criminal proceedings through extensive powers granted to them, at many levels broader than those of the authorities of the State conducting other types of proceedings. An example of this is provided for in Article 159(4) of the Telecommunications Act. empowering the prosecutor or court in criminal proceedings to lift, on the basis of an appropriate provision, the prohibitions laid down in Article 159(2) and (3) of the Telecommunications Code, which are a form of protection of telecommunications secrets. After its entry into force, that provision referred to court decisions without specifying the type of proceedings in which they were issued. An indication of the type of court proceedings in which the author's data may be requested has been added in Article 159, paragraph 4 of the Telecommunications Act. the Act of 16 November 2012 amending the Act - Telecommunications Law and certain other acts (Journal of Laws, item 1445), in the justification of which the legislator included an explanation that: "The amendment introduced in Article 159, paragraph 4, consisting in limiting the right to disclose communications and data only by a decision of a criminal court, and not of each court, will make it possible to eliminate the identified abuse of retention provisions for the settlement of civil cases, while being aware that retention provisions concern matters of a different, much greater importance (combating terrorism, defence, public good, etc.). The need to apply retention provisions only to the most serious crimes was emphasised by the European Commission in its evaluation report on the application of the provisions of Directive 2006/24/EC published on 18 April 2011), in which Poland is indicated as the Member State with the highest number of requests from authorised entities for access to stored telecommunications data'. (Sejm print No VII - 627). From the justification of the draft amending act 
+## Article 159(4) of the Telecommunications Act makes it clear that the legislator's objective was to limit the possibility for civil and administrative courts to disclose telecommunication secrecy to situations where this power is based on explicit statutory authority.
+
+The legal protection afforded in civil proceedings generally boils down to issuing a ruling on the merits of the claims made against the opponent of the proceedings by the person seeking it. The structure of civil procedural proceedings, and in particular the rules of adversarial proceedings, availability and the rule of being bound by the claim (Article 321 § 1 of the Code of Civil Procedure), as to the person against whom a specific claim has been formulated, as well as its factual basis, make it difficult to consider the forum of civil proceedings in progress to be competent to seek an answer to the question of who is the perpetrator of the tort from which the claims are based and in what form the tort was committed. Such information should, as a rule, be collected by the claimant before the initiation of proceedings in which civil claims are brought, including those based on Article 24 in conjunction with Article 23 of the Civil Code. This is achieved through proceedings to secure evidence (Articles 310-315 of the Code of Civil Procedure, Article 2861 of the Act of 30 June 2000. - Industrial Property Law, consolidated text in Journal of Laws of 2020, item 286; hereinafter referred to as the Code of Civil Procedure, Article 80, paragraph 1, points 1 and 2 of the Act of 4 February 1994. - Copyright, consolidated text. 
+Dz.U. z 2019 r. poz. 1231, hereinafter - aut.) and - with regard to situations where without institutional support it is difficult for a future claimant to obtain the information necessary to formulate and subsequently support an action for the removal of the effects of a breach of his interests - special categories of information claims and proceedings in which they are pursued, as provided for by the legislator (see Article 2862 of Ustawa o zwalczaniu nieuczciwej konkurencji (the Act on Copyright), Article 80(1)(3) of the Act of 4 February 1994.
+The plaintiff pursuing a claim for the protection of personal rights must identify the person who is alleged to have committed the act that is the form of such an infringement and demonstrate that the defendant has committed the act that is alleged against him. The legislator has not laid down different rules for pursuing such claims where the act infringing personal rights was committed on the Internet. In this case, too, the claimant must therefore identify the defendant at the stage of bringing the action, identify the unlawful act attributed to him and then demonstrate to the court the truth of his claims. Verification of the claimant's statements does not then consist of carrying out activities aimed at establishing the data of persons who posted offensive entries on the Internet, but of checking whether it was a defendant in the case, as he is the subject of the request made in the statement of claim. The data of the person who posted an entry on the Internet forum are usually known to the entity providing Internet access service from a specific IP address or can be determined by the entity. 
+Processing of user data (Article 159(1)(1), first subparagraph, first telecomm) - pursuant to Article 161(2), first subparagraph, telecomm. - is carried out on the basis of the provisions on the protection of personal data, including the TYPE. The principles of personal data processing are defined in Article 5 of the FAMILY, considering the processing to be lawful, inter alia, when it is necessary for the fulfilment of a legal obligation imposed on the controller (Article 6(1)(c), and when it is necessary for the performance of a task carried out in the public interest or in the exercise of public authority entrusted to the controller (Article 6(1)(e). It follows from the preamble of the COB that its aim is to harmonise the protection of the fundamental rights and freedoms of natural persons with regard to the processing of personal data which must be organised in such a way as to serve humanity. Indeed, the right to the protection of personal data is not an absolute right; it must be seen in the context of its social function and balanced against other fundamental rights in accordance with the principle of proportionality. The FAMILY does not preclude the possibility of defining, in the law of a Member State, the circumstances of specific data processing situations, including the conditions which determine the lawfulness of the processing. The processing of personal data may also take place in the public interest or in the exercise of public authority and where this is necessary to protect an interest which is essential for the protection of another individual (see CJEU order of 19 February 2009, C-557/07, LSG-Gesellschaft zur Wahrnehmung von Leistungschutzrechten GmbH v Tele2 Telecommunication GmbH, ECJ judgment of 19 April 2012. Bonnier Audio and others v Perfect Communication Sweden AB, C-461/10).
+The way to obtain information about a person with whose entry on the Internet the claimant intending to apply for the protection of personal rights is connected with the allegation of their violation, and against whom he intends to pursue claims due to the violation, is to apply to the Inspector General for the Protection of Personal Data (GIODO) to order the entity providing the Internet access service to make available data about a person who has made specific entries on Internet forums in connection with the service provided to him. To repeal the telecommunication secrecy referred to in Article 159(1)(1), point 1 of the Telecommunications Act. In such cases, it may occur under the principles set out in the provisions on personal data protection in connection with Article 161(2) of the Telecommunications Act.
+Pursuant to Article 18, paragraph 1, point 2 of the Act of 29 August 1997 on the protection of personal data (consolidated text in Journal of Laws of 2002, item 101 as amended, hereinafter referred to as "the Act of 28 May 2018"), applied in connection with Article 175 of the Act 
+of 10 May 2018 on the protection of personal data (consolidated text: Journal of Laws of 2019, item 1781), in case of violation of the provisions on the protection of personal data, GIODO orders, ex officio or at the request of the person concerned, by way of an administrative decision, to restore the legal status, and in particular to make the personal data available or not. Art. 23 paragraph 1 point 4 or 5 of the 1997 Act on granting access to such data is authorised by Article 23 paragraph 1 point 4 or 5 of the 1997 Act on granting access to such data, if: 4) it is necessary for the performance of legally justified tasks performed for the public good; 5) it is necessary for the fulfilment of legally justified purposes by the controllers or recipients of the data, and the processing does not violate the rights and freedoms of the data subject. The above position has been developed in the jurisprudence of administrative courts (judgments of the Supreme Administrative Court of 19 May 2011, I OSK 1079/10, not published, of 21 August 2013, I OSK 1666/12, not published, of 18 April 2014, I OSK 2789/12, not published, of November 10, 2015, I OSK 1173/14, not published, of November 10, 2015, I OSK 1210/14, not published, of March 22, 2018, I OSK 454/16, not published, of December 11, 2018, I OSK 398/17, not published), and referring to the interpretation of the telecommunication law adopted in this case law in conjunction with the regulations on personal data protection creates conditions for the claimant to prepare itself for the proceedings for the protection of personal rights by obtaining the data of a person to whom the status of the respondent will be assigned in the statement of claim and to whom the claimant will charge an unlawful infringement of its personal rights. The legitimacy of the request for data disclosure is assessed in these cases by the data controller and possibly by the GIODO under the control of administrative courts.
+The person requesting disclosure of the data of the author of alerts in online forums must take into account the provision of Article 5 (1) (e) of the TCO, which provides that personal data may be kept in a form which permits identification of the data subject for no longer than is necessary for the purposes for which the data are processed and of Article 180a of the TTE.., which requires the provider of publicly available telecommunications services to retain and store at his own expense data generated in the telecommunications network or processed by him on the territory of the Republic of Poland for a period of 12 months, counting from the date of the call or unsuccessful call attempt, 
+and on the day of the expiry of this period, the data shall be destroyed, except for the data which have been secured in accordance with separate regulations and Article 180c of the Telecommunications Act, in light of which the controllers of data covered by the telecommunications secrecy shall be obliged to destroy, on the day of the entry into force of this Act, the data stored for a period longer than 12 months, counting from the day of the connection or unsuccessful attempt to connect, except for the data which have been secured in accordance with separate regulations.
+If the claimant has not used the above described way of obtaining information about the person infringing his personal rights, but in the statement of claim against a specific person has accused him of infringing his personal rights by making marked entries on Internet forums, then - if the defendant denies the claimant's claims identifying him as the perpetrator of the infringement - the court conducting the proceedings may ask the entity providing the defendant with Internet access service for information allowing to verify the truthfulness of the claimant's claim on which he based his claim for protection in connection with the infringement of personal rights. However, the purpose of this request shall not be to obtain data of persons not involved in the proceedings as a defendant, but to verify the claimant's allegation against a specific defendant. The basis for requesting such information is Article 159, paragraph 2, point 4 of the Telecommunications Act in connection with Article 30, Article 32, paragraph 2, Article 42, paragraph 1, Article 45, paragraph 1 of the Constitution, obliging the court to exercise the right to court in the case of violation of the rights and freedoms of the claimant covered by legal protection.
+The claimant in this case has identified persons against whom claims are made, but in the statement of claim against A. K. also formulated a statement that her personal rights were violated by Internet users using pseudonyms (nicknames) A., M., a., A., M. and demanded that their personal data (forenames, surname) be disclosed to the entity providing Internet access services. If these persons are not the same as the defendants, the acquisition of their personal data is not relevant to the outcome of the case. At the most, it may be indicated that one of the persons using the pseudonym is identical with the respondents, but the claimant's request and the Court of Appeal's appeal to M. spółka z ograniczoną odpowiedzialnością w G. did not aim to obtain such a response. The basis for such a request was Article 248 of Kodeks Postępowania Cywilnego (the Code of Civil Procedure), whereas this provision allows to demand presentation of a document which is to serve as a means of evidence in a civil case, and not presentation of information which may be relevant in the case (see the resolution of seven judges of the Supreme Court of 29 March 1990, III CZP 102/89, OSNC 1990, No 10-11, item 127).
+In view of the above, it has been ruled as in the operative part.
+Translated with www.DeepL.com/Translator (free version)
+
+Retrieved from "[https://gdprhub.eu/index.php?title=Supreme\_Court\_-\_III\_CZP\_78/19&oldid=11925](https://gdprhub.eu/index.php?title=Supreme_Court_-_III_CZP_78/19&oldid=11925)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [Supreme Court (Poland)](/index.php?title=Category:Supreme_Court_\(Poland\) "Category:Supreme Court (Poland)")
+*   [Poland](/index.php?title=Category:Poland "Category:Poland")
+*   [Article 5 GDPR](/index.php?title=Category:Article_5_GDPR "Category:Article 5 GDPR")
+*   [Article 6(1)(c) GDPR](/index.php?title=Category:Article_6\(1\)\(c\)_GDPR "Category:Article 6(1)(c) GDPR")
+*   [Article 6(1)(e) GDPR](/index.php?title=Category:Article_6\(1\)\(e\)_GDPR "Category:Article 6(1)(e) GDPR")
+*   [Article 95 GDPR](/index.php?title=Category:Article_95_GDPR "Category:Article 95 GDPR")
+*   [2020](/index.php?title=Category:2020 "Category:2020")
+*   [Polish](/index.php?title=Category:Polish "Category:Polish")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/Supreme_Court_-_III_CZP_78/19 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/Supreme_Court_-_III_CZP_78/19 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=Supreme_Court_-_III_CZP_78/19&oldid=11925 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=Supreme_Court_-_III_CZP_78/19&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=Supreme_Court_-_III_CZP_78%2F19&id=11925&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 2 November 2020, at 09:08.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.039","walltime":"0.060","ppvisitednodes":{"value":524,"limit":1000000},"postexpandincludesize":{"value":7200,"limit":2097152},"templateargumentsize":{"value":4170,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":28270,"limit":5000000},"timingprofile":\["100.00% 6.700 1 Template:COURTdecisionBOX","100.00% 6.700 1 -total"\]},"cachereport":{"timestamp":"20250829142312","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":806});});

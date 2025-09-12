@@ -1,0 +1,625 @@
+ Garante per la protezione dei dati personali (Italy) - 10019523 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"2f6fb7e06ad7a0f724c43608","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Garante\_per\_la\_protezione\_dei\_dati\_personali\_(Italy)\_-\_10019523","wgTitle":"Garante per la protezione dei dati personali (Italy) - 10019523","wgCurRevisionId":41665,"wgRevisionId":41665,"wgArticleId":8012,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["Garante per la protezione dei dati personali (Italy)","Italy","Article 5 GDPR","Article 6(1) GDPR","Article 6(1)(c) GDPR","Article 6(1)(e) GDPR","Article 6(1)(f) GDPR","Article 6(3) GDPR","2024","Italian"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Garante\_per\_la\_protezione\_dei\_dati\_personali\_(Italy)\_-\_10019523","wgRelevantArticleId":8012,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10019523&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10019523&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10019523&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=Garante+per+la+protezione+dei+dati+personali+%28Italy%29+-+10019523&returntoquery=oldid%3D41665 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# Garante per la protezione dei dati personali (Italy) - 10019523
+
+From GDPRhub
+
+Revision as of 09:58, 19 June 2024 by [Fb](/index.php?title=User:Fb&action=edit&redlink=1 "User:Fb (page does not exist)") ([talk](/index.php?title=User_talk:Fb&action=edit&redlink=1 "User talk:Fb (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Fb "Special:Contributions/Fb"))
+
+([diff](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10019523&diff=prev&oldid=41665 "Garante per la protezione dei dati personali (Italy) - 10019523")) [← Older revision](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10019523&direction=prev&oldid=41665 "Garante per la protezione dei dati personali (Italy) - 10019523") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+Garante per la protezione dei dati personali - 10019523
+
+[![LogoIT.png](/images/thumb/e/ec/LogoIT.png/250px-LogoIT.png)](/index.php?title=File:LogoIT.png)
+
+Authority:
+
+[Garante per la protezione dei dati personali (Italy)](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\) "Garante per la protezione dei dati personali (Italy)")
+
+Jurisdiction:
+
+[Italy](/index.php?title=Category:Italy "Category:Italy")
+
+Relevant Law:
+
+[Article 5 GDPR](/index.php?title=Article_5_GDPR "Article 5 GDPR")  
+[Article 6(1) GDPR](/index.php?title=Article_6_GDPR#1 "Article 6 GDPR")  
+[Article 6(1)(c) GDPR](/index.php?title=Article_6_GDPR#1c "Article 6 GDPR")  
+[Article 6(1)(e) GDPR](/index.php?title=Article_6_GDPR#1e "Article 6 GDPR")  
+[Article 6(1)(f) GDPR](/index.php?title=Article_6_GDPR#1f "Article 6 GDPR")  
+[Article 6(3) GDPR](/index.php?title=Article_6_GDPR#3 "Article 6 GDPR")  
+[Article 19 d.lgs. 33/2013](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2013-04-05&atto.codiceRedazionale=13G00076&atto.articolo.numero=19&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=0&qId=&tabID=0.5274929723695413&title=lbl.dettaglioAtto)  
+[Article 2-ter d.lgs. 196/2003](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2003-07-29&atto.codiceRedazionale=003G0218&atto.articolo.numero=2&atto.articolo.sottoArticolo=3&atto.articolo.sottoArticolo1=0&qId=&tabID=0.767966568760458&title=lbl.dettaglioAtto)
+
+Type:
+
+Complaint
+
+Outcome:
+
+Upheld
+
+Started:
+
+Decided:
+
+11.04.2024 Published:
+
+Fine:
+
+20,000 EUR
+
+Parties:
+
+[Istituto nazionale della previdenza sociale](https://www.inps.it/)
+
+National Case Number/Name:
+
+10019523 European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+Unknown  
+
+Original Language(s):
+
+[Italian](/index.php?title=Category:Italian "Category:Italian")
+
+Original Source:
+
+[Garante per la protezione dei dati personali (in IT)](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10019523)
+
+Initial Contributor:
+
+fb
+
+The DPA fined €20,000 the Italian National Social Security Institute as it published on its website the names of the applicants of a public competition. The controller did not have an adequate legal basis for this processing.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+The National Social Security Institute of Italy (_Istituto Nazionale della Previdenza Sociale – INPS_) intended to hire public servants through a public competition. For the purposes of this competition, it published on its website the rankings of the candidates, both the one that successfully passed the competition and also the excluded one. This ranking showed the name and surname of more than 5000 candidates and their score. Moreover, also other documents were published online, such as the schedule of the oral test.
+
+One of the participants filed a complaint with the DPA. He argued that the controller had published his personal data on the website without an adequate legal basis.
+
+Following the DPA’s request, the controller removed those documents from its website.
+
+The controller presented several arguments to support the lawfulness of its processing. Firstly, it pointed out that the publication of the list of the candidates who had been successfully admitted to the oral stage of the competition was a legal obligation, as the call for competition provided for it. Secondly, it highlighted the fact that the applicants had given their consent for the processing of personal data while filling in the application form.
+
+Moreover, the controller stressed the fact that, according to [Article 2-ter of the Italian Data Protection Code](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2003-07-29&atto.codiceRedazionale=003G0218&atto.articolo.numero=2&atto.articolo.sottoArticolo=3&atto.articolo.sottoArticolo1=0&qId=&tabID=0.767966568760458&title=lbl.dettaglioAtto), the legal basis for the processing can be found not only on a legislative act, but also on an administrative act of general applicability, such as a call for competition. Additionally, it argued that it had a legitimate interest in this processing as per [Article 6(1)(f) GDPR](/index.php?title=Article_6_GDPR#1f "Article 6 GDPR").
+
+### Holding
+
+Firstly, the DPA observed that the relevant legal basis for the processing of personal data by a public authority are the ones provided for by [Article 6(1)(c)](/index.php?title=Article_6_GDPR#1c "Article 6 GDPR") and [6(1)(e) GDPR](/index.php?title=Article_6_GDPR#1e "Article 6 GDPR"). The DPA points out that, in these cases, the public authority must comply with [Article 6(3) GDPR](/index.php?title=Article_6_GDPR#3 "Article 6 GDPR"): the processing must be based on EU or Member State law. This piece of legislation shall meet an objective of public interest and be proportionate to the legitimate aim pursued. Moreover, the processing shall be necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.
+
+Secondly, the DPA observed that the Italian law only provides for the publication of the final ranking. Therefore, only the publication of the names of the candidates who win the competition can be seen as a legal obligation. On the other hand, it does not prescribe the publication of other documents, such as the list of the non-admitted applicants.
+
+The DPA points out that, generally speaking, a provision contained in a call for competition can constitute a “legal obligation” under [Article 6(1)(c) GDPR](/index.php?title=Article_6_GDPR#1c "Article 6 GDPR"), as provided for by [Article 2-ter of the Italian Data Protection Code](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2003-07-29&atto.codiceRedazionale=003G0218&atto.articolo.numero=2&atto.articolo.sottoArticolo=3&atto.articolo.sottoArticolo1=0&qId=&tabID=0.767966568760458&title=lbl.dettaglioAtto). However, the DPA clarified that an administrative act has to comply the law, as the latter is hierarchically superior than the former. For this reason, the DPA found that the call for competition could not broaden the list of documents subject to a publishing obligation, as it had already been set by the law (for example, by [Article 19 of the legislative decree 33/2013](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2013-04-05&atto.codiceRedazionale=13G00076&atto.articolo.numero=19&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=0&qId=&tabID=0.5274929723695413&title=lbl.dettaglioAtto)). Therefore, it was not able to provide a lawful legal basis as per [Article 6(1)(c) GDPR](/index.php?title=Article_6_GDPR#1c "Article 6 GDPR").
+
+Thirdly, the DPA stated that the controller’s reference to consent as a legal basis was irrelevant. It pointed out that, in this case, consent cannot be used as a legal basis because the relationship between the data subject and the controller is strongly unbalanced.
+
+Moreover, the DPA pointed out that the controller cannot rely on the legitimate interest as a legal basis, as [Article 6(1) GDPR](/index.php?title=Article_6_GDPR#1 "Article 6 GDPR") explicitly states that [Article 6(1)(f) GDPR](/index.php?title=Article_6_GDPR#1f "Article 6 GDPR") does not apply to the processing carried out by public authorities in the performance of their tasks.
+
+On these grounds, the DPA held that the controller had violated [Article 5](/index.php?title=Article_5_GDPR "Article 5 GDPR") and [6 GDPR](/index.php?title=Article_6_GDPR "Article 6 GDPR") and [Article 2-ter of the Italian Data Protection Code](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2003-07-29&atto.codiceRedazionale=003G0218&atto.articolo.numero=2&atto.articolo.sottoArticolo=3&atto.articolo.sottoArticolo1=0&qId=&tabID=0.767966568760458&title=lbl.dettaglioAtto) and imposed a fine of €20,000.
+
+## Comment
+
+_Share your comments here!_
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the Italian original. Please refer to the Italian original for more details.
+
+\[doc. web no. 10019523\]
+
+Provision of 11 April 2024
+
+Register of measures
+n. 235 of 11 April 2024
+
+THE GUARANTOR FOR THE PROTECTION OF PERSONAL DATA
+
+IN today's meeting, which was attended by prof. Pasquale Stanzione, president, Prof. Ginevra Cerrina Feroni, vice-president, Dr. Agostino Ghiglia and the lawyer. Guido Scorza, members and the councilor. Fabio Mattei, general secretary;
+
+HAVING REGARD to Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016, relating to the protection of natural persons with regard to the processing of personal data, as well as the free movement of such data and which repeals Directive 95/46/ EC, “General Data Protection Regulation” (hereinafter, “Regulation”);
+
+HAVING REGARD TO Legislative Decree 30 June 2003, n. 196 containing "Code regarding the protection of personal data, containing provisions for the adaptation of national law to Regulation (EU) 2016/679 of the European Parliament and of the Council, of 27 April 2016, relating to the protection of natural persons with regard to the processing of personal data, as well as the free circulation of such data and which repeals Directive 95/46/EC (hereinafter the “Code”);
+
+GIVEN Regulation no. 1/2019 concerning internal procedures with external relevance, aimed at carrying out the tasks and exercising the powers delegated to the Guarantor for the protection of personal data, approved with resolution no. 98 of 4 April 2019, published in the Official Gazette. n. 106 of 8 May 2019 and in www.gpdp.it, doc. web no. 9107633 (hereinafter “Guarantor Regulation no. 1/2019”);
+
+Having seen the documentation in the documents;
+
+Having seen the observations made by the general secretary pursuant to art. 15 of the Guarantor Regulation n. 1/2000 on the organization and functioning of the office of the Guarantor for the protection of personal data, doc. web no. 1098801;
+
+Speaker: Prof. Ginevra Cerrina Feroni;
+
+PREMISE
+
+1. Introduction.
+
+With a complaint presented, pursuant to art. 77 of the Regulation Mr. XX, as a participant in the "public competition for qualifications and exams, for 1858 positions of social protection consultant in the roles of INPS staff, area C, economic position C1" complained about the publication on the website of the National Institute of Social Security (hereinafter "INPS") - on the page dedicated to the aforementioned procedure - of numerous acts and documents including the lists of those admitted and not admitted to the written test and oral test and the list of participants containing the evaluation of the qualifications carried out of the competition commission, indicating the score attributed to each candidate. This circumstance would then have led to the sharing of the aforementioned documents, available on the INPS institutional website, also on social networks by third parties.
+
+Following the checks carried out by the Office, acquired in documents, it was ascertained that on the INPS institutional website, by accessing the URL https://..., lists and documents containing personal data referring to thousands of interested parties were published, participants in the procedure and indexed on general search engines.
+
+2. The preliminary investigation activity.
+
+With note dated XX (prot. n. XX), the INPS, in response to a request for information from the Guarantor (prot. note n. XX of XX), declared, in particular, that:
+
+“on the same day \[of receipt of the request for information from this Authority\] took steps to remove the following documents from the institutional website of the Institute: THE NOTICE containing the DIARY of the pre-selection test; the WRITTEN TESTS CALENDAR; the “ORAL TESTS CALENDAR”; the lists of "ALLOWED ORAL TESTS" showing the score obtained by each in the first and second written tests; the lists of "NOT ADMITTED" to the oral tests; the lists of those ADMITTED to the written tests; the ASSESSMENT OF THE QUALIFICATIONS of the candidates admitted to the oral tests; clarification regarding the exact name of a candidate included in the LIST OF ADMITTED WRITTEN TESTS";
+
+“The publication of the above documents, containing exclusively the names and surnames of the candidates, as well as in cases of homonymy also the date of birth, was made because it was considered an instrument of maximum transparency in a public competition procedure”;
+
+"no other data was disclosed and each candidate had the opportunity to access the platform made available by the company that managed the tests (at the link https://...) to consult the written tests".
+
+With note dated XX (prot. n. XX), the Office, on the basis of the elements acquired, the checks carried out and the facts that emerged following the preliminary investigation, notified the INPS, pursuant to art. 166, paragraph 5, of the Code, the initiation of the procedure for the adoption of the measures referred to in the art. 58, par. 2, of the Regulation, concerning the alleged violations of the articles. 5, 6 of the Regulation, as well as 2-ter of the Code, inviting the aforementioned owner to produce defensive writings or documents to the Guarantor or to request to be heard by the Authority (art. 166, paragraphs 6 and 7, of the Code, as well as art. 18, paragraph 1, by law 24 November 1981, n.
+
+With note of the XX, prot. n. XX the INPS, through its lawyers, presented a defense statement, declaring, in particular, that:
+
+“the Central Human Resources Directorate \[of the INPS\] declared that it had immediately removed \[…\] the documents in question from the Institute's institutional website, replacing them with other documents in which the identification of candidates takes place using a randomized application ID which does not correspond in in any way neither to an alphabetical list nor to a score list";
+
+in particular "on the basis of art. 70, paragraph 13 of Legislative Decree no. 165/2001, public administrations, within their respective systems, are entitled to adopt their own regulations for the recruitment of personnel. The Institute has adopted its own "Regulations of recruitment procedures for the hiring of permanent non-managerial staff at INPS", with Presidential determination no. XX of the XX”;
+
+INPS therefore invoked the "Regulations for the recruitment of personnel" and art. 6 of the notice relating to the pre-selection which establishes that "The list of candidates admitted to participate in the written tests is published with full notification value on the INPS website at www.inps.it";
+
+“the art. 7, paragraph 3 and 8, paragraph 3 of the notice which concern the first and second written test respectively, provide that "The score is promptly published on the INPS website, at the address www.inps.it in the « section Notices, tenders and invoicing" subsection "Competitions"". The art. 10 of the notice, concerning the oral test, provides that "The location, day and time of the oral test are published on the INPS website... The candidate who does not show up on the established day, place and time without justified reason is excluded from the competition". The art. 11 provides that "The final ranking and the specific ranking of the winners ... are published on the INPS institutional website at the following address: www.inps.it";
+
+"with the application for participation, the candidate expresses his/her "consent to the processing of personal data", also for needs subsequent to the completion of the competition relating to the establishment of the employment relationship (art. 3, paragraph 3, letter l) of the Regulations for the recruitment of personnel and art. 3, paragraph 9, letter. p) of the notice)”;
+
+"the rationale of the discipline referred to in the "Regulations for the recruitment of personnel" and of the notice, \[...\] corresponds to the Institute's need to allow the appeal deadlines to begin for all interested parties who do not pass the relevant phases of the procedure, in such a way as to obtain consolidation as soon as possible and have a definitive final ranking,”;
+
+"given this, the art. 2-ter of the Code, as amended by art. 9 of legislative decree no. 139/2021, converted with amendments by law no. 205/2021, provides that the legal basis of the processing may consist of the law, the regulation and also general administrative acts. And according to the univocal orientation of jurisprudence, competition notices (like tender notices) are certainly administrative acts of a general nature with which the existence of a procedure is made known and its development is regulated, representing the lex specialis of the procedure. The Plenary Meeting of the Council of State clarified that the notices are "administrative acts of a general nature, intended for the concrete care of public interests, with effects on a plurality of recipients, not determined in the provisions, but clearly determinable" (Cons ., Ad., 29 January 2003, n.
+
+"in this case, based on the legal framework of reference, the publication on the institutional website of the competition documents and documents finds its basis precisely in the "Regulations for the recruitment of INPS staff" approved with Presidential determination no. . XX of the XX and in the competition notice approved by resolution of the Institute's Board of Directors n. XX of the XX. Therefore, it cannot be considered that there has been a violation of the articles. 5, 6 of the Regulation and art. 2-ter of the Code";
+
+“furthermore, it is precisely the art. 6, par. 1, letter. f) of the Regulation which also qualifies the necessity for the pursuit of a legitimate interest of the owner as a prerequisite for the legitimacy of the processing. "in any case, INPS has never published sensitive or particular data, but only common personal data - such as name, surname, score - necessary and indispensable so that in compliance with the principles of minimization and cost-effectiveness of the procedures the publication can have - as foreseen in the notice - full notification value for all purposes. Nor have any other common unnecessary data been published, such as tax code, address, telephone number, e-mail, etc.”;
+
+"the publication of the deeds and documents in question concerned only common data necessary for the pursuit of a legitimate interest of the administration (see Cons. Stato, section VI, 19 January 2021, n. 587 and further jurisprudential references therein )”;
+
+"in this regard, it should be noted that, following the note dated XX from the Public Realities Department, the Institute took steps on the same day - in the utmost collaboration and without even going into the merits of the matter - to remove it from the Competitions section of the institutional website ” the aforementioned documentation;
+
+"it should be noted that it was only common personal data (name, surname, score) which remained published for only a few months \[...\] for a time, therefore, which substantially corresponds to the terms established by law for the appeal which is sixty days, in addition to the suspension of the deadlines for the weekday period (between 1st and 31st August).”
+
+Furthermore, INPS, during the hearing pursuant to art. 166, paragraph 6, of the Code, represented, among other things, that (see minutes prot.n. XX of the XX):
+
+- "the impact on the rights of the interested parties can be considered practically negligible, if not zero, if we consider that, in the period of completion of the insolvency procedure and in the subsequent period, only one report of alleged violation of confidentiality was received from part of candidate XX”
+
+- “in particular, Mr. XX complained above all about the sharing of his data on a social group which occurred through photos taken by third parties and their dissemination without any authorization or consent on his part. Therefore, the complaint appears to have as its subject circumstances different from those which are the subject of this proceeding, i.e. unauthorized behavior consisting in the abusive dissemination of data on a social platform attributable to third parties, and not to the Institute".
+
+3. Outcome of the preliminary investigation.
+
+3.1 The regulatory framework.
+
+The personal data protection regulations provide that public entities, even when they are carrying out competitive, selective or in any case evaluation procedures, preparatory to the establishment of the employment relationship, can process the personal data of the interested parties (art. 4, n. 1, of the Regulation) if the processing is necessary "to fulfill a legal obligation to which the data controller is subject" (think of specific obligations provided for by national legislation "for recruitment purposes", articles 6, paragraph 1, letter c), 9, par. 2, letter. b) and 4; 88 of the Regulation) or "for the execution of a task of public interest or connected to the exercise of public powers vested in the data controller" (art. 6, par. 1, letters c) and e) of the Regulation and art. 2-ter of the Code).
+
+Such processing must, however, be based on the law of the Union or of the Member State which must pursue an objective of public interest and be proportionate to the pursuit of the same. The purpose of the processing must be necessary for the execution of a task carried out in the public interest or connected to the exercise of public powers vested in the data controller (see art. 6, par. 3, of the Regulation and 2- ter of the Code).
+
+The national legislation has introduced more specific provisions to adapt the application of the rules of the Regulation, determining with greater precision specific requirements for the processing, as well as other measures aimed at guaranteeing lawful and correct processing (art. 6, par. 2 of the Regulation) and, in this context, provided that the legal basis provided for by art. 6, par. 3, letter. b), of the Regulation, consists exclusively of a law or, in the cases provided for by law, a regulation or general administrative acts, which include public competition notices (2-ter of the Code).
+
+The data controller is required to respect the principles of data protection, including that of "lawfulness, correctness and transparency" as well as "minimization", according to which personal data must be "processed lawfully, correct and transparent towards the interested party" and must be "adequate, relevant and limited to what is necessary with respect to the purposes for which they are processed" (art. 5, paragraph 1, letters a) and c) of the Regulation).
+
+3.2 Dissemination of personal data.
+
+As a preliminary point, it is stated that this provision concerns exclusively the dissemination on the INPS website of personal data of numerous participants in the "public competition for qualifications and exams, for 1858 positions of social protection consultant in the roles of INPS staff , area C, economic position C1" given that the profiles relating to the sharing of the same data by third parties "on a social group" will be examined as part of a separate and independent investigation.
+
+During the investigation it was ascertained that INPS published on its institutional website personal data of thousands of participants (over 5000) in the aforementioned competition procedure contained in the lists of those admitted and not admitted to the written test and the oral test and in the the list of names relating to the evaluation of qualifications by the competition commission with an indication of the score attributed to each candidate. 
+
+In general, it is noted that the competition announcement announced by the Institute regulates the subsequent conduct of the procedure culminating in the approval of the final ranking of the candidates positioned in a useful position in the merit ranking. In compliance with the provisions of the Presidential Decree n. 487/1994 "Regulation containing rules on access to public administration jobs and the methods of carrying out competitions, single competitions and other forms of recruitment in public jobs", which therefore also applies to INPS, the act must specify a series of elements that characterize the insolvency procedure from time to time and in concrete terms.
+
+With specific reference to the publicity of the rankings, as repeatedly represented by the Guarantor, the regulatory provisions which establish, in general, the publicity of the rankings of competitions and selective tests (see, in particular, Presidential Decree 10 January 1957, n. 3; as well as art. 15 et seq. of the Presidential Decree of 9 May 1994, n. of the changes introduced with Presidential Decree 16 June 2023 and, more generally, on the advertising of public administration personnel procedures, art to interested parties, participants in competitive or selective procedures, the activation of forms of protection of their rights and control of the legitimacy of the administrative action. These rules provide, however, that only the definitive rankings of the competition winners are published and not also the results of the intermediate tests or the personal data of the non-winning or non-admitted competitors (see art. 15, paragraph 6, of the Presidential Decree cit. ).
+
+The provisions on administrative transparency also provide for specific publication obligations in the "Transparent Administration" section of the institutional website of the administrations, in particular, based on the provisions of Legislative Decree no. 14 March 2013. 33, “Without prejudice to other legal advertising obligations, public administrations publish competition notices for the recruitment, in any capacity, of personnel within the administration, as well as the Commission's evaluation criteria, test tracks and rankings finals, updated with the possible scrolling of eligible non-winners. The public administrations publish and constantly update the data referred to in paragraph 1" (art. 19, paragraphs 1 and 2).
+
+These provisions define, from a data protection perspective, the scope of permitted processing and constitute its legal basis by establishing limits, conditions and conditions for the online publication of personal data in the context of insolvency proceedings.
+
+In this context, the Guarantor has, over time, provided specific indications to public administrations regarding the precautions to be adopted for the dissemination of personal data on the Internet for the purposes of transparency and publicity of the administrative action, in particular, in 2014, with the " Guidelines on the processing of personal data, also contained in administrative deeds and documents, carried out for advertising and transparency purposes on the web by public entities and other obliged bodies" (provision no. 243 of 15 May 2014, web doc. n. 3134436, part I and II, spec. par. 3.b) which, given the evolution of the regulatory framework on the matter, have provided further clarifications to the data controllers and, therefore, have updated what is contained in previous guidance documents having as their object the same topic (see, in particular, the "Guidelines for the processing of personal data carried out by public entities for the purpose of publication and dissemination on the web" of 2 March 2011, doc. web no. 1793203).
+
+It is also noted that the need, represented during the investigation, to allow consultation of the aforementioned lists "in order to facilitate the methods of consultation of the rankings subject to publication in compliance with the sector regulations (for purposes other than transparency) allowing the consultation of the results of the tests or proceedings only to participants in the competition procedure", could be achieved by making the aforementioned lists available in a reserved area so as to guarantee their consultation through selective access, with their own credentials, only to candidates of the procedure not through the online publication accessible by anyone.
+
+Nor can the reference to the provisions contained in the "Regulations of recruitment procedures for the hiring of permanent non-managerial staff at INPS" approved by INPS (with Presidential determination no. XX of XX) and those contained in the competition notice be considered relevant. (approved with resolution of the INPS Board of Directors no. XX of the XX).
+
+Although the public competition notice, as a general administrative act, is a suitable source to legitimize the processing of personal data of candidates to hold a specific qualification pursuant to art. 2-ter of the Code, this act cannot contravene or modify the superordinate reference regulations, having a mere integrative effect of the legal system. The hierarchical criterion of the sources of law establishes, indeed, the prevalence of the source of a higher rank over that of a lower level, precluding the latter from derogating from it or placing itself in conflict with the content of the higher-level source; therefore, the general administrative act does not contain the ability to make changes in the legal system - such as the unforeseen publication of the personal data of the candidates participating in the competition procedure - in relation to the processing of personal data, as this act cannot entirely absorb the current discipline, whose essential characteristics must be and remain outlined by the rules of rank superordinate to it.
+
+In fact, as recently clarified by the Guarantor, precisely with regard to the publication of deeds and documents by administrations regarding competitive and selective procedures, in the European-derived framework of data protection regulations, in the perspective of legal certainty, as well as principle of non-discrimination, differentiated levels of protection of personal data protection are not permitted - neither on a territorial basis nor at individual administration level - especially when, as in the case in question, the matter has already been the subject of balancing and regulation by legislator with uniform provisions at national level, through the aforementioned sector provisions regarding transparency and publicity of the outcomes of insolvency procedures applicable to all state administrations referred to in art. 1, paragraph 2 of the legislative decree. n. 165 of 2001. In particular, regarding the possibility that, as a result of the amendments to the Code, made by the legislative decree. 139 of 2021, a dissemination of personal data can be configured on the basis of an autonomous identification of the purposes by the entity, the Guarantor has recently clarified that the legal basis of the processing must also be suitable in light of the "constitutional order" of the Member State, in compliance with the principle of proportionality (recital 41 and see also Constitutional Court sentence no. 271/2005 according to which the regulation of personal data protection falls within the subject of exclusive state competence referring to the "regulation civil”; see, in this regard, provision no. 286 of 6 July 2023, web doc. for similar considerations in relation to the introduction with regional ordinance of processing of personal data of employees in the emergency context due to the spread of the Covid-19 virus, provision of 22 July 2021, no. 273, web doc.
+
+In this regard, it is stated, in fact, that the art. 70, paragraph 13 of Legislative Decree 165 of 2001, referred to by the data controller, expressly provides that "with regard to the recruitment" of personnel, public administrations are required to respect the aforementioned national provisions which, as mentioned, constitute the legal basis of all processing, including dissemination, in the context of insolvency proceedings.
+
+The art. 2-ter of the Code effectively provides that the legal basis of the processing may consist of the law, the regulation and also general administrative acts. In the present case, however, the provisions of the public competition notice cannot be invoked by INPS as a legal basis for disseminating the personal data of participants in the competition procedure online, as an administrative act, however general, cannot however derogate, contravene or modify the sector regulations referred to above, however, are of primary importance (see, in particular, art. 19 of Legislative Decree 14 March 2013, n. 33 as well as the pre-existing sector provisions referred to above regarding the transparency of public competitions).
+
+These considerations are supported by the observations contained in the recent opinion on the standard publication schemes prepared by ANAC - concerning, among other things, the art. 19, of the d. lgs. n. 33/2013 – pursuant to art. 48, paragraphs 1 and 3, of the same decree (see provision dated 22 February 2024, n. 92, web doc. n. 9996090) clarifying that, also in fulfilling the publication obligations, it must be indicated "according to the principle of data minimization (art. 5, par. 2, letter c, RGDP) and of the Guarantor's Guidelines on the matter \[...\] the name and surname, and possibly the date of birth (for example, in case of homonymy), as well as the position in the ranking (thus excluding other unnecessary information such as place of birth, tax code, residence, etc.)".
+
+In light of the foregoing considerations, the online dissemination of numerous personal data of thousands of participants (over 5000) in the aforementioned competition procedure announced by INPS, contained in the lists of those admitted and not admitted to the written test and the oral test and in the list of the participants containing the evaluation of the qualifications by the competition commission, indicating the score attributed to each candidate, took place in the absence of a suitable legal basis (in violation of articles 5 and 6 of the Regulations and 2-ter of the Code) as deemed over time by the Guarantor in the face of similar cases in the context of insolvency procedures even if, as in the present case, no particular categories of data or health data have been disclosed (see, among many, provisions .ti n. 28 April 2022, web doc. n. 9778996; of 7 September 2020 web doc n. 1793203).
+
+Nor is it yet relevant to recall the circumstance that the candidates for selection have "with the application for participation, \[... expressed\] consent to the processing of personal data", as reported in the INPS note, since the processing of data, aimed at The hiring of personnel by a public entity finds its legal basis in the specific sector regulations which regulate access to jobs in public administrations and the methods of carrying out public competitions (see the legislation referred to above) and not , instead, in the consent of the interested parties, due to the imbalance in the relationship between the owner and the interested party (recital n. 43 and art. 88 of the Regulation; on this point see, among many, with specific regard to the public context, in general see provision no. 317 of 16 September 2021, web doc no. 9681778 and no. 9461168; v. also, in accordance with the EDPB Guidelines on consent pursuant to EU Regulation 2016/679 - WP 259 - of 4 May 2020, spec. par. 3.1.1; Opinion 2/2017 on data processing in the workplace, WP 249).
+
+Furthermore, the reference to the jurisprudence of the Council of State which refers exclusively to any legitimate feedback provided to the applicant, participant in a bankruptcy procedure, in relation to a request for access to administrative documents, is also not relevant. In response to specific requests for access to administrative documents, the reference regulatory framework does not provide for any online publication of data of participants in competition procedures, with the exception of the final rankings, as specified above.
+
+Nor can the pursuit of a legitimate interest of the data controller be invoked for the purposes of the lawfulness of the overall processing, as the same cannot be applied "to the processing of data carried out by public authorities" (see art. 6, par.1 , letter f), of the Regulation (see among many, provision no. 409 of 1 December 2022, web doc 9833530; provision no. 16 of 14 January 2021, web doc 954207).
+
+For all of the above, the publication of the aforementioned documents and lists containing the personal data of the participants in the competition procedure as represented above gave rise to a dissemination of personal data in the absence of an appropriate legal basis, in violation of the articles. 5, 6 of the Regulation, as well as 2-ter of the Code.
+
+4. Conclusions.
+
+In light of the assessments mentioned above, it is noted that the declarations made by the data controller during the investigation are the truthfulness of which one may be called upon to respond to pursuant to art. 168 of the Code ˗ although worthy of consideration, do not allow us to overcome the findings notified by the Office with the act of initiating the proceedings and are insufficient to allow the dismissal of the present proceedings, as, moreover, none of the cases provided for by the art. 11 of the Guarantor Regulation n. 1/2019.
+
+Therefore, the preliminary assessments of the Office are confirmed and the illegality of the processing of personal data carried out by INPS is noted for having published, on its website and indexed on generalist search engines, numerous deeds and documents including the lists of those admitted and not admitted to the written test and oral test of the aforementioned procedure and the list of participants containing the evaluation of the qualifications by the competition commission, with an indication of the score attributed to each candidate, in violation of the articles. 5, 6 of the Regulation, as well as 2-ter of the Code.
+
+Taking into account that the violation of the aforementioned provisions took place as a consequence of a single conduct, the art. applies. 83, par. 3 of the Regulation, pursuant to which the total amount of the administrative fine does not exceed the amount specified for the most serious violation. Considering that, in this case, the most serious violations relating to the articles. 5 and 6 of the Regulation and 2-ter of the Code are subject to the sanction provided for by the art. 83, par. 5 of the Regulation, as also referred to in art. 166, paragraph 2, of the Code, the total amount of the fine is to be quantified up to €20,000,000.
+
+In this context, considering, in any case, that the conduct has exhausted its effects, given that on date XX, as reported in the note of the XX, prot. n. XX the INPS has removed the lists containing the personal data of the participants, the subject of this proceeding, the conditions for the adoption of further corrective measures pursuant to art. 58, par. 2, of the Regulation.
+
+5. Adoption of the injunction order for the application of the pecuniary administrative sanction and accessory sanctions (articles 58, paragraph 2, letters i and 83 of the Regulation; article 166, paragraph 7, of the Code).
+
+The Guarantor, pursuant to articles. 58, par. 2, letter. i) and 83 of the Regulation as well as art. 166 of the Code, has the power to "impose a pecuniary administrative sanction pursuant to article 83, in addition to the \[other\] \[corrective\] measures referred to in this paragraph, or in place of such measures, depending on the circumstances of each single case" and, in this framework, "the Board \[of the Guarantor\] adopts the injunction order, with which it also provides for the application of the additional administrative sanction of its publication, in full or in extract, on the website of the Guarantor pursuant to article 166, paragraph 7, of the Code” (art. 16, paragraph 1, of the Guarantor Regulation no. 1/2019).
+
+In this regard, taking into account the art. 83, par. 3 of the Regulation, in this case the violation of the aforementioned provisions is subject to the application of the pecuniary administrative sanction provided for by the art. 83, par. 5, of the Regulation.
+
+The aforementioned pecuniary administrative sanction imposed, depending on the circumstances of each individual case, must be determined in the amount taking due account of the elements provided for by the art. 83, par. 2, of the Regulation.
+
+Considering that:
+
+with specific regard to the nature and seriousness of the violation, the high number of interested parties involved (over 5000) was considered, operating in the mistaken belief of being able to pursue the aim of transparency of the administrative action, without however taking into account the current regulatory framework and the indications provided over time by the Guarantor to all public entities on the matter (both with the "Guidelines on the processing of personal data, also contained in administrative deeds and documents, carried out for the purposes of advertising and transparency on the web by public entities and by other obliged entities” mentioned above, and with numerous decisions on individual cases) (see art. 83, par. 2, letter a), of the Regulation);
+
+there are previous violations of the same provisions of the Regulation and the Code, albeit in different contexts (see art. 83, par. 2, letter e), of the Regulation);
+
+it is believed that, in the specific case, the level of severity of the violation committed by the data controller is medium (see European Data Protection Committee, “Guidelines 04/2022 on the calculation of administrative fines under the GDPR” of 23 May 2023, point 60).
+
+Having said this, it is believed that, for the purposes of quantifying the sanction, the following mitigating circumstances must be taken into consideration:
+
+with regard to the duration of the violation, the publication of the lists regarding the proceeding in question took place from June to XX (art.83, par.2 letter a) of the Regulation);
+
+INPS offered good cooperation with the Authority during the investigation, having also represented that it had removed the aforementioned lists, albeit following the Guarantor's request for information. (art. 83, par. 2, letter f), of the Regulation);
+
+with regard to the nature of the personal data disclosed in relation to the procedure in question, particular categories of data are not included (art.83, par.2 letter g) of the Regulation).
+
+On the basis of the aforementioned elements, evaluated as a whole, it is decided to determine the amount of the pecuniary sanction in the amount of 20,000 (twenty thousand) euros for the violation of the articles. 5 and 6 of the Regulation, as well as art. 2-ter of the Code, as a pecuniary administrative sanction deemed, pursuant to art. 83, par. 1 of the Regulation, effective, proportionate and dissuasive.
+
+Taking into account that the personal data disseminated online concerned numerous candidates in the competition procedure, it is also believed that the additional sanction of publication of this provision on the Guarantor's website, provided for by art. 166, paragraph 7 of the Code and art. 16 of the Guarantor Regulation n. 1/2019.
+
+Finally, it is noted that the conditions set out in art. 17 of Regulation no. 1/2019.
+
+ALL THIS CONSIDERING THE GUARANTOR
+
+declares, pursuant to art. 57, par. 1, letter. f), of the Regulation, the illegality of the processing carried out by the National Social Security Institute due to violation of the articles. 5 and 6 of the Regulation, as well as 2-ter of the Code, within the terms set out in the justification;
+
+ORDER
+
+to the National Social Security Institute - INPS, in the person of the pro-tempore legal representative, with registered office in Via Ciro il Grande, 21 - 00144 Rome (RM) C.F. 80078750587, to pay the sum of 20,000 (twenty thousand) euros as a pecuniary administrative sanction for the violations indicated in the justification. It is represented that the offender, pursuant to art. 166, paragraph 8, of the Code, has the right to settle the dispute by paying, within 30 days, an amount equal to half of the fine imposed;
+
+ORDERS
+
+To the aforementioned Institute, in case of failure to resolve the dispute pursuant to art. 166, paragraph 8, of the Code, to pay the sum of 20,000 (twenty thousand) euros according to the methods indicated in the annex, within 30 days of notification of this provision, under penalty of the adoption of the consequent executive acts in accordance with the art. 27 of the law. n. 689/1981;
+
+HAS
+
+pursuant to art. 166, paragraph 7, of the Code, the publication of this provision on the Guarantor's website, believing that the conditions set out in the art. 17 of the Guarantor Regulation n. 1/2019.
+
+Pursuant to the articles. 78 of the Regulation, 152 of the Code and 10 of Legislative Decree no. 150/2011, it is possible to appeal against this provision before the ordinary judicial authority, under penalty of inadmissibility, within thirty days from the date of communication of the provision itself or within sixty days if the appellant resides abroad.
+
+Rome, 11 April 2024
+
+PRESIDENT
+Stanzione
+
+THE SPEAKER
+Cerrina Feroni
+
+THE GENERAL SECRETARY
+Mattei
+
+SEE ALSO Newsletter of 6 June 2024
+
+\[doc. web no. 10019523\]
+
+Provision of 11 April 2024
+
+Register of measures
+n. 235 of 11 April 2024
+
+THE GUARANTOR FOR THE PROTECTION OF PERSONAL DATA
+
+IN today's meeting, which was attended by prof. Pasquale Stanzione, president, Prof. Ginevra Cerrina Feroni, vice-president, Dr. Agostino Ghiglia and the lawyer. Guido Scorza, members and the councilor. Fabio Mattei, general secretary;
+
+HAVING REGARD to Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016, relating to the protection of natural persons with regard to the processing of personal data, as well as the free movement of such data and which repeals Directive 95/46/ EC, “General Data Protection Regulation” (hereinafter, “Regulation”);
+
+HAVING REGARD TO Legislative Decree 30 June 2003, n. 196 containing "Code regarding the protection of personal data, containing provisions for the adaptation of national law to Regulation (EU) 2016/679 of the European Parliament and of the Council, of 27 April 2016, relating to the protection of natural persons with regard to the processing of personal data, as well as the free circulation of such data and which repeals Directive 95/46/EC (hereinafter the “Code”);
+
+GIVEN Regulation no. 1/2019 concerning internal procedures with external relevance, aimed at carrying out the tasks and exercising the powers delegated to the Guarantor for the protection of personal data, approved with resolution no. 98 of 4 April 2019, published in the Official Gazette. n. 106 of 8 May 2019 and in www.gpdp.it, doc. web no. 9107633 (hereinafter “Guarantor Regulation no. 1/2019”);
+
+Having seen the documentation in the documents;
+
+Having seen the observations made by the general secretary pursuant to art. 15 of the Guarantor Regulation n. 1/2000 on the organization and functioning of the office of the Guarantor for the protection of personal data, doc. web no. 1098801;
+
+Speaker: Prof. Ginevra Cerrina Feroni;
+
+PREMISE
+
+1. Introduction.
+
+With a complaint presented, pursuant to art. 77 of the Regulation Mr. XX, as a participant in the "public competition for qualifications and exams, for 1858 positions of social protection consultant in the roles of INPS staff, area C, economic position C1" complained about the publication on the website of the National Institute of Social Security (hereinafter "INPS") - on the page dedicated to the aforementioned procedure - of numerous acts and documents including the lists of those admitted and not admitted to the written test and oral test and the list of participants containing the evaluation of the qualifications carried out of the competition commission, indicating the score attributed to each candidate. This circumstance would then have led to the sharing of the aforementioned documents, available on the INPS institutional website, also on social networks by third parties.
+
+Following the checks carried out by the Office, acquired in documents, it was ascertained that on the INPS institutional website, by accessing the URL https://..., lists and documents containing personal data referring to thousands of interested parties were published, participants in the procedure and indexed on generalist search engines.
+
+2. The preliminary investigation activity.
+
+With note dated XX (prot. n. XX), the INPS, in response to a request for information from the Guarantor (prot. note n. XX of XX), declared, in particular, that:
+
+“on the same day \[of receipt of the request for information from this Authority\] took steps to remove the following documents from the institutional website of the Institute: THE NOTICE containing the DIARY of the pre-selection test; the WRITTEN TESTS CALENDAR; the “ORAL TESTS CALENDAR”; the lists of "ALLOWED ORAL TESTS" showing the score obtained by each in the first and second written test; the lists of "NOT ADMITTED" to the oral tests; the lists of those ADMITTED to the written tests; the ASSESSMENT OF THE QUALIFICATIONS of the candidates admitted to the oral tests; clarification regarding the exact name of a candidate included in the LIST OF ADMITTED WRITTEN TESTS";
+
+“The publication of the above documents, containing exclusively the names and surnames of the candidates, as well as in cases of homonymy also the date of birth, was made because it was considered an instrument of maximum transparency in a public competition procedure”;
+
+"no other data was disclosed and each candidate had the opportunity to access the platform made available by the company that managed the tests (at the link https://...) to consult the written tests".
+
+With note dated XX (prot. n. XX), the Office, on the basis of the elements acquired, the checks carried out and the facts that emerged following the preliminary investigation, notified the INPS, pursuant to art. 166, paragraph 5, of the Code, the initiation of the procedure for the adoption of the measures referred to in the art. 58, par. 2, of the Regulation, concerning the alleged violations of the articles. 5, 6 of the Regulation, as well as 2-ter of the Code, inviting the aforementioned owner to produce defensive writings or documents to the Guarantor or to request to be heard by the Authority (art. 166, paragraphs 6 and 7, of the Code, as well as art. 18, paragraph 1, by law 24 November 1981, n.
+
+With note of the XX, prot. n. XX the INPS, through its lawyers, presented a defense statement, declaring, in particular, that:
+
+“the Central Human Resources Directorate \[of the INPS\] declared that it had immediately removed \[…\] the documents in question from the Institute's institutional website, replacing them with other documents in which the identification of candidates takes place using a randomized application ID which does not correspond in in any way neither to an alphabetical list nor to a score list”;
+
+in particular "on the basis of art. 70, paragraph 13 of Legislative Decree no. 165/2001, public administrations, within their respective systems, are entitled to adopt their own regulations for the recruitment of personnel. The Institute has adopted its own "Regulations of recruitment procedures for the hiring of permanent non-managerial staff at INPS", with Presidential determination no. XX of the XX”;
+
+INPS therefore invoked the "Regulations for the recruitment of personnel" and art. 6 of the notice relating to the pre-selection which establishes that "The list of candidates admitted to participate in the written tests is published with full notification value on the INPS website at www.inps.it";
+
+“the art. 7, paragraph 3 and 8, paragraph 3 of the notice which concern the first and second written test respectively, provide that "The score is promptly published on the INPS website, at the address www.inps.it in the « section Notices, tenders and invoicing" subsection "Competitions"". The art. 10 of the notice, concerning the oral test, provides that "The location, day and time of the oral test are published on the INPS website... The candidate who does not show up on the established day, place and time without justified reason is excluded from the competition". The art. 11 provides that "The final ranking and the specific ranking of the winners ... are published on the INPS institutional website at the following address: www.inps.it";
+
+"with the application for participation, the candidate expresses his/her "consent to the processing of personal data", also for needs subsequent to the completion of the competition relating to the establishment of the employment relationship (art. 3, paragraph 3, letter l) of the Regulations for the recruitment of personnel and art. 3, paragraph 9, letter. p) of the notice)”;
+
+"the rationale of the discipline referred to in the "Regulations for the recruitment of personnel" and of the notice, \[...\] corresponds to the Institute's need to allow the appeal deadlines to run for all interested parties who do not pass the relevant phases of the procedure, in such a way as to obtain consolidation as soon as possible and have a definitive final ranking,”;
+
+"given this, the art. 2-ter of the Code, as amended by art. 9 of legislative decree no. 139/2021, converted with amendments by law no. 205/2021, provides that the legal basis of the processing may consist of the law, the regulation and also general administrative acts. And according to the univocal orientation of jurisprudence, competition notices (like tender notices) are certainly administrative acts of a general nature with which the existence of a procedure is made known and its development is regulated, representing the lex specialis of the procedure. The Plenary Meeting of the Council of State clarified that the notices are "administrative acts of a general nature, intended for the concrete care of public interests, with effects on a plurality of recipients, not determined in the provisions, but clearly determinable" (Cons ., Ad., 29 January 2003, n.
+
+"in this case, based on the legal framework of reference, the publication on the institutional website of the competition documents and documents finds its basis precisely in the "Regulations for the recruitment of INPS staff" approved with Presidential determination no. . XX of the XX and in the competition notice approved by resolution of the Institute's Board of Directors n. XX of the XX. Therefore, it cannot be considered that there has been a violation of the articles. 5, 6 of the Regulation and art. 2-ter of the Code";
+
+“furthermore, it is precisely the art. 6, par. 1, letter. f) of the Regulation which also qualifies the necessity for the pursuit of a legitimate interest of the owner as a prerequisite for the legitimacy of the processing. "in any case, INPS has never published sensitive or particular data, but only common personal data - such as name, surname, score - necessary and indispensable so that in compliance with the principles of minimization and cost-effectiveness of the procedures the publication can have - as foreseen in the notice - full notification value for all purposes. Nor have any other common unnecessary data been published, such as tax code, address, telephone number, e-mail, etc.”;
+
+"the publication of the deeds and documents in question concerned only common data necessary for the pursuit of a legitimate interest of the administration (see Cons. Stato, section VI, 19 January 2021, n. 587 and further jurisprudential references therein )”;
+
+"in this regard, it should be noted that, following the note dated XX from the Public Realities Department, the Institute took steps on the same day - in the utmost collaboration and without even going into the merits of the matter - to remove it from the Competitions section of the institutional website ” the aforementioned documentation;
+
+"it should be noted that it was only common personal data (name, surname, score) which remained published for only a few months \[...\] for a time, therefore, which substantially corresponds to the terms established by law for the appeal which is sixty days, in addition to the suspension of the deadlines for the weekday period (between 1st and 31st August).”
+
+Furthermore, INPS, during the hearing pursuant to art. 166, paragraph 6, of the Code, represented, among other things, that (see minutes prot.n. XX of the XX):
+
+- "the impact on the rights of the interested parties can be considered negligible in practice, if not zero, if we consider that, in the period of completion of the insolvency procedure and in the subsequent period, only one report of alleged violation of confidentiality was received from part of candidate XX”
+
+- “in particular, Mr. XX complained above all about the sharing of his data on a social group which occurred through photos taken by third parties and their dissemination without any authorization or consent on his part. Therefore, the complaint appears to have as its subject circumstances different from those which are the subject of this proceeding, i.e. unauthorized behavior consisting in the abusive dissemination of data on a social platform attributable to third parties, and not to the Institute".
+
+3. Outcome of the preliminary investigation.
+
+3.1 The regulatory framework.
+
+The personal data protection regulations provide that public entities, even when they are carrying out competitive, selective or in any case evaluation procedures, preparatory to the establishment of the employment relationship, can process the personal data of the interested parties (art. 4, n. 1, of the Regulation) if the processing is necessary "to fulfill a legal obligation to which the data controller is subject" (think of specific obligations established by national legislation "for recruitment purposes", articles 6, paragraph 1, letter c), 9, par. 2, letter. b) and 4; 88 of the Regulation) or "for the execution of a task of public interest or connected to the exercise of public powers vested in the data controller" (art. 6, par. 1, letters c) and e) of the Regulation and art. 2-ter of the Code).
+
+Such processing must, however, be based on the law of the Union or of the Member State which must pursue an objective of public interest and be proportionate to the pursuit of the same. The purpose of the processing must be necessary for the execution of a task carried out in the public interest or connected to the exercise of public powers vested in the data controller (see art. 6, par. 3, of the Regulation and 2- ter of the Code).
+
+The national legislation has introduced more specific provisions to adapt the application of the rules of the Regulation, determining with greater precision specific requirements for the processing, as well as other measures aimed at guaranteeing lawful and correct processing (art. 6, par. 2 of the Regulation) and, in this context, provided that the legal basis provided for by art. 6, par. 3, letter. b), of the Regulation, consists exclusively of a law or, in the cases provided for by law, a regulation or general administrative acts, which include public competition notices (2-ter of the Code).
+
+The data controller is required to respect the principles of data protection, including that of "lawfulness, correctness and transparency" as well as "minimization", according to which personal data must be "processed lawfully, correct and transparent towards the interested party" and must be "adequate, relevant and limited to what is necessary with respect to the purposes for which they are processed" (art. 5, paragraph 1, letters a) and c) of the Regulation).
+
+3.2 Dissemination of personal data.
+
+As a preliminary point, it is stated that this provision concerns exclusively the dissemination on the INPS website of personal data of numerous participants in the "public competition for qualifications and exams, for 1858 positions of social protection consultant in the roles of INPS staff , area C, economic position C1" given that the profiles relating to the sharing of the same data by third parties "on a social group" will be examined as part of a separate and independent investigation.
+
+During the investigation it was ascertained that INPS published on its institutional website personal data of thousands of participants (over 5000) in the aforementioned competition procedure contained in the lists of those admitted and not admitted to the written test and the oral test and in the the list of names relating to the evaluation of qualifications by the competition commission with an indication of the score attributed to each candidate. 
+
+In general, it is noted that the competition announcement announced by the Institute regulates the subsequent conduct of the procedure culminating in the approval of the final ranking of the candidates positioned in a useful position in the merit ranking. In compliance with the provisions of the Presidential Decree n. 487/1994 "Regulation containing rules on access to public administration jobs and the methods of carrying out competitions, single competitions and other forms of recruitment in public jobs", which therefore also applies to INPS, the act must specify a series of elements that characterize the insolvency procedure from time to time and in concrete terms.
+
+With specific reference to the publicity of the rankings, as repeatedly represented by the Guarantor, the regulatory provisions which establish, in general, the publicity of the rankings of competitions and selective tests (see, in particular, Presidential Decree 10 January 1957, n. 3; as well as art. 15 et seq. of the Presidential Decree of 9 May 1994, n. of the changes introduced with Presidential Decree no. 82 of 16 June and, more generally, on the publicity of the recruitment procedures of public administrations, art to interested parties, participants in competitive or selective procedures, the activation of forms of protection of their rights and control of the legitimacy of the administrative action. These rules provide, however, that only the definitive rankings of the competition winners are published and not also the results of the intermediate tests or the personal data of the non-winning or non-admitted competitors (see art. 15, paragraph 6, of the Presidential Decree cit. ).
+
+The provisions on administrative transparency also provide for specific publication obligations in the "Transparent Administration" section of the institutional website of the administrations, in particular, based on the provisions of Legislative Decree no. 14 March 2013. 33, "Without prejudice to other legal publicity obligations, public administrations publish competition notices for the recruitment, in any capacity, of personnel within the administration, as well as the Commission's evaluation criteria, test tracks and rankings finals, updated with the possible scrolling of eligible non-winners. The public administrations publish and constantly update the data referred to in paragraph 1" (art. 19, paragraphs 1 and 2).
+
+These provisions define, from a data protection perspective, the scope of permitted processing and constitute its legal basis by establishing limits, conditions and conditions for the online publication of personal data in the context of insolvency proceedings.
+
+In this context, the Guarantor has, over time, provided specific indications to public administrations regarding the precautions to be adopted for the dissemination of personal data on the Internet for the purposes of transparency and publicity of the administrative action, in particular, in 2014, with the " Guidelines on the processing of personal data, also contained in administrative deeds and documents, carried out for advertising and transparency purposes on the web by public entities and other obliged bodies" (provision no. 243 of 15 May 2014, web doc. n. 3134436, part I and II, spec. par. 3.b) which, given the evolution of the regulatory framework on the matter, have provided further clarifications to the data controllers and, therefore, have updated what is contained in previous guidance documents having as their object the same topic (see, in particular, the "Guidelines for the processing of personal data carried out by public entities for the purpose of publication and dissemination on the web" of 2 March 2011, doc. web no. 1793203).
+
+It is also noted that the need, represented during the investigation, to allow consultation of the aforementioned lists "in order to facilitate the methods of consultation of the rankings subject to publication in compliance with the sector regulations (for purposes other than transparency) allowing the consultation of the results of the tests or proceedings only to participants in the competition procedure", could be achieved by making the aforementioned lists available in a reserved area so as to guarantee their consultation through selective access, with their own credentials, only to candidates of the procedure not through the online publication accessible by anyone.
+
+Nor can the reference to the provisions contained in the "Regulations of recruitment procedures for the hiring of permanent non-managerial staff at INPS" approved by INPS (with Presidential determination no. XX of XX) and those contained in the competition notice be considered relevant. (approved with resolution of the INPS Board of Directors no. XX of the XX).
+
+Although the public competition notice, as a general administrative act, is a suitable source to legitimize the processing of personal data of candidates to hold a specific qualification pursuant to art. 2-ter of the Code, this act cannot contravene or modify the superordinate reference regulations, having a mere integrative effect of the legal system. The hierarchical criterion of the sources of law establishes, indeed, the prevalence of the source of a higher rank over that of a lower level, precluding the latter from derogating from it or placing itself in conflict with the content of the higher-level source; therefore, the general administrative act does not contain the ability to make changes in the legal system - such as the unforeseen publication of the personal data of the candidates participating in the competition procedure - in relation to the processing of personal data, as this act cannot entirely absorb the current discipline, whose essential characteristics must be and remain outlined by the rules of rank superordinate to it.
+
+In fact, as recently clarified by the Guarantor, precisely with regard to the publication of deeds and documents by administrations regarding competitive and selective procedures, in the European-derived framework of data protection regulations, in the perspective of legal certainty, as well as principle of non-discrimination, differentiated levels of protection of personal data protection are not permitted - neither on a territorial basis nor at individual administration level - especially when, as in the case in question, the matter has already been the subject of balancing and regulation by legislator with uniform provisions at national level, through the aforementioned sector provisions regarding transparency and publicity of the outcomes of insolvency procedures applicable to all state administrations referred to in art. 1, paragraph 2 of the legislative decree. n. 165 of 2001. In particular, regarding the possibility that, as a result of the amendments to the Code, made by the legislative decree. 139 of 2021, a dissemination of personal data can be configured on the basis of an autonomous identification of the purposes by the entity, the Guarantor has recently clarified that the legal basis of the processing must also be suitable in light of the "constitutional order" of the Member State, in compliance with the principle of proportionality (recital 41 and see also Constitutional Court sentence no. 271/2005 according to which the regulation of personal data protection falls within the subject of exclusive state competence referring to the "regulation civil”; see, in this regard, provision no. 286 of 6 July 2023, web doc. for similar considerations in relation to the introduction with regional ordinance of processing of personal data of employees in the emergency context due to the spread of the Covid-19 virus, provision of 22 July 2021, no. 273, web doc.
+
+In this regard, it is stated, in fact, that art. 70, paragraph 13 of Legislative Decree 165 of 2001, referred to by the data controller, expressly provides that "with regard to the recruitment" of personnel, public administrations are required to respect the aforementioned national provisions which, as mentioned, constitute the legal basis of all processing, including dissemination, in the context of insolvency proceedings.
+
+The art. 2-ter of the Code effectively provides that the legal basis of the processing may consist in the law, in the regulation and also in general administrative acts. In the present case, however, the provisions of the public competition notice cannot be invoked by INPS as a legal basis for disseminating the personal data of participants in the competition procedure online, as an administrative act, however general, cannot however derogate, contravene or modify the sector regulations referred to above, however, are of primary importance (see, in particular, art. 19 of Legislative Decree 14 March 2013, n. 33 as well as the pre-existing sector provisions referred to above regarding the transparency of public competitions).
+
+These considerations are supported by the observations contained in the recent opinion on the standard publication schemes prepared by ANAC - concerning, among other things, the art. 19, of the d. lgs. n. 33/2013 – pursuant to art. 48, paragraphs 1 and 3, of the same decree (see provision dated 22 February 2024, n. 92, web doc. n. 9996090) clarifying that, also in fulfilling the publication obligations, it must be indicated "according to the principle of data minimization (art. 5, par. 2, letter c, RGDP) and of the Guarantor's Guidelines on the matter \[...\] the name and surname, and possibly the date of birth (for example, in case of homonymy), as well as the position in the ranking (thus excluding other unnecessary information such as place of birth, tax code, residence, etc.)".
+
+In light of the foregoing considerations, the online dissemination of numerous personal data of thousands of participants (over 5000) in the aforementioned competition procedure announced by INPS, contained in the lists of those admitted and not admitted to the written test and the oral test and in the list of the participants containing the evaluation of the qualifications by the competition commission, indicating the score attributed to each candidate, took place in the absence of a suitable legal basis (in violation of articles 5 and 6 of the Regulations and 2-ter of the Code) as deemed over time by the Guarantor in the face of similar cases in the context of insolvency procedures even if, as in the present case, no particular categories of data or health data have been disclosed (see, among many, provisions .ti n. 28 April 2022, web doc. n. 9778996, web doc. n. 9732406 of 7 September 2020 web doc n. 1793203).
+
+Nor is it yet relevant to recall the circumstance that the candidates for selection have "with the application for participation, \[... expressed\] consent to the processing of personal data", as reported in the INPS note, since the processing of data, aimed at The hiring of personnel by a public entity finds its legal basis in the specific sector regulations which regulate access to jobs in public administrations and the methods of carrying out public competitions (see the legislation referred to above) and not , instead, in the consent of the interested parties, due to the imbalance in the relationship between the owner and the interested party (recital n. 43 and art. 88 of the Regulation; on this point see, among many, with specific regard to the public context, in general see provision no. 317 of 16 September 2021, web doc no. 9681778 and no. 9461168; v. also, in accordance with the EDPB Guidelines on consent pursuant to EU Regulation 2016/679 - WP 259 - of 4 May 2020, spec. par. 3.1.1; Opinion 2/2017 on data processing in the workplace, WP 249).
+
+Furthermore, the reference to the jurisprudence of the Council of State which refers exclusively to any legitimate feedback provided to the applicant, participant in a bankruptcy procedure, in relation to a request for access to administrative documents, is not relevant. In response to specific requests for access to administrative documents, the reference regulatory framework does not provide for any online publication of data of participants in competition procedures, with the exception of the final rankings, as specified above.
+
+Nor can the pursuit of a legitimate interest of the data controller be invoked for the purposes of the lawfulness of the overall processing, as the same cannot be applied "to the processing of data carried out by public authorities" (see art. 6, par.1 , letter f), of the Regulation (see among many, provision no. 409 of 1 December 2022, web doc 9833530; provision no. 16 of 14 January 2021, web doc 954207).
+
+For all of the above, the publication of the aforementioned documents and lists containing the personal data of the participants in the competition procedure as represented above gave rise to a dissemination of personal data in the absence of an appropriate legal basis, in violation of the articles. 5, 6 of the Regulation, as well as 2-ter of the Code.
+
+4. Conclusions.
+
+In light of the assessments mentioned above, it is noted that the declarations made by the data controller during the investigation are the truthfulness of which one may be called upon to respond to pursuant to art. 168 of the Code ˗ although worthy of consideration, do not allow us to overcome the findings notified by the Office with the act of initiating the proceedings and are insufficient to allow the dismissal of the present proceedings, as, moreover, none of the cases provided for by the art. 11 of the Guarantor Regulation n. 1/2019.
+
+Therefore, the preliminary assessments of the Office are confirmed and the illegality of the processing of personal data carried out by INPS is noted for having published, on its website and indexed on generalist search engines, numerous deeds and documents including the lists of those admitted and not admitted to the written test and oral test of the aforementioned procedure and the list of participants containing the evaluation of the qualifications by the competition commission, with an indication of the score attributed to each candidate, in violation of the articles. 5, 6 of the Regulation, as well as 2-ter of the Code.
+
+Taking into account that the violation of the aforementioned provisions took place as a consequence of a single conduct, the art. applies. 83, par. 3 of the Regulation, pursuant to which the total amount of the administrative fine does not exceed the amount specified for the most serious violation. Considering that, in this case, the most serious violations relating to the articles. 5 and 6 of the Regulation and 2-ter of the Code are subject to the sanction provided for by the art. 83, par. 5 of the Regulation, as also referred to in art. 166, paragraph 2, of the Code, the total amount of the fine is to be quantified up to €20,000,000.
+
+In this context, considering, in any case, that the conduct has exhausted its effects, given that on date XX, as reported in the note of the XX, prot. n. XX the INPS has removed the lists containing the personal data of the participants, the subject of this proceeding, the conditions for the adoption of further corrective measures pursuant to art. 58, par. 2, of the Regulation.
+
+5. Adoption of the injunction order for the application of the pecuniary administrative sanction and accessory sanctions (articles 58, paragraph 2, letters i and 83 of the Regulation; article 166, paragraph 7, of the Code).
+
+The Guarantor, pursuant to articles. 58, par. 2, letter. i) and 83 of the Regulation as well as art. 166 of the Code, has the power to "impose a pecuniary administrative sanction pursuant to article 83, in addition to the \[other\] \[corrective\] measures referred to in this paragraph, or in place of such measures, depending on the circumstances of each single case" and, in this framework, "the Board \[of the Guarantor\] adopts the injunction order, with which it also provides for the application of the additional administrative sanction of its publication, in full or in extract, on the website of the Guarantor pursuant to article 166, paragraph 7, of the Code” (art. 16, paragraph 1, of the Guarantor Regulation no. 1/2019).
+
+In this regard, taking into account the art. 83, par. 3 of the Regulation, in this case the violation of the aforementioned provisions is subject to the application of the pecuniary administrative sanction provided for by the art. 83, par. 5, of the Regulation.
+
+The aforementioned pecuniary administrative sanction imposed, depending on the circumstances of each individual case, must be determined in the amount taking due account of the elements provided for by the art. 83, par. 2, of the Regulation.
+
+Considering that:
+
+with specific regard to the nature and seriousness of the violation, the high number of interested parties involved (over 5000) was considered, operating in the mistaken belief of being able to pursue the aim of transparency of the administrative action, without however taking into account the current regulatory framework and the indications provided over time by the Guarantor to all public entities on the matter (both with the "Guidelines on the processing of personal data, also contained in administrative deeds and documents, carried out for the purposes of advertising and transparency on the web by public entities and by other obliged entities” mentioned above, and with numerous decisions on individual cases) (see art. 83, par. 2, letter a), of the Regulation);
+
+there are previous violations of the same provisions of the Regulation and the Code, albeit in different contexts (see art. 83, par. 2, letter e), of the Regulation);
+
+it is believed that, in the specific case, the level of severity of the violation committed by the data controller is medium (see European Data Protection Committee, “Guidelines 04/2022 on the calculation of administrative fines under the GDPR” of 23 May 2023, point 60).
+
+Having said this, it is believed that, for the purposes of quantifying the sanction, the following mitigating circumstances must be taken into consideration:
+
+with regard to the duration of the violation, the publication of the lists regarding the proceeding in question took place from June to XX (art.83, par.2 letter a) of the Regulation);
+
+INPS offered good cooperation with the Authority during the investigation, having also represented that it had removed the aforementioned lists, albeit following the Guarantor's request for information. (art. 83, par. 2, letter f), of the Regulation);
+
+with regard to the nature of the personal data disclosed in relation to the procedure in question, particular categories of data are not included (art.83, par.2 letter g) of the Regulation).
+
+On the basis of the aforementioned elements, evaluated as a whole, it is decided to determine the amount of the pecuniary sanction in the amount of 20,000 (twenty thousand) euros for the violation of the articles. 5 and 6 of the Regulation, as well as art. 2-ter of the Code, as a pecuniary administrative sanction deemed, pursuant to art. 83, par. 1 of the Regulation, effective, proportionate and dissuasive.
+
+Taking into account that the personal data disseminated online concerned numerous candidates in the competition procedure, it is also believed that the additional sanction of publication of this provision on the Guarantor's website, provided for by art. 166, paragraph 7 of the Code and art. 16 of the Guarantor Regulation n. 1/2019.
+
+Finally, it is noted that the conditions set out in art. 17 of Regulation no. 1/2019.
+
+ALL THIS CONSIDERING THE GUARANTOR
+
+declares, pursuant to art. 57, par. 1, letter. f), of the Regulation, the illegality of the processing carried out by the National Social Security Institute for violation of the articles. 5 and 6 of the Regulation, as well as 2-ter of the Code, within the terms set out in the justification;
+
+ORDER
+
+to the National Social Security Institute - INPS, in the person of the pro-tempore legal representative, with registered office in Via Ciro il Grande, 21 - 00144 Rome (RM) C.F. 80078750587, to pay the sum of 20,000 (twenty thousand) euros as a pecuniary administrative sanction for the violations indicated in the justification. It is represented that the offender, pursuant to art. 166, paragraph 8, of the Code, has the right to settle the dispute by paying, within 30 days, an amount equal to half of the fine imposed;
+
+ORDERS
+
+To the aforementioned Institute, in case of failure to resolve the dispute pursuant to art. 166, paragraph 8, of the Code, to pay the sum of 20,000 (twenty thousand) euros according to the methods indicated in the annex, within 30 days of notification of this provision, under penalty of the adoption of the consequent executive acts in accordance with the art. 27 of the law. n. 689/1981;
+
+HAS
+
+pursuant to art. 166, paragraph 7, of the Code, the publication of this provision on the Guarantor's website, believing that the conditions set out in the art. 17 of the Guarantor Regulation n. 1/2019.
+
+Pursuant to the articles. 78 of the Regulation, 152 of the Code and 10 of Legislative Decree no. 150/2011, it is possible to appeal against this provision before the ordinary judicial authority, under penalty of inadmissibility, within thirty days from the date of communication of the provision itself or within sixty days if the appellant resides abroad.
+
+Rome, 11 April 2024
+
+PRESIDENT
+Stanzione
+
+THE SPEAKER
+Cerrina Feroni
+
+THE GENERAL SECRETARY
+Mattei
+
+Retrieved from "[https://gdprhub.eu/index.php?title=Garante\_per\_la\_protezione\_dei\_dati\_personali\_(Italy)\_-\_10019523&oldid=41665](https://gdprhub.eu/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10019523&oldid=41665)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [Garante per la protezione dei dati personali (Italy)](/index.php?title=Category:Garante_per_la_protezione_dei_dati_personali_\(Italy\) "Category:Garante per la protezione dei dati personali (Italy)")
+*   [Italy](/index.php?title=Category:Italy "Category:Italy")
+*   [Article 5 GDPR](/index.php?title=Category:Article_5_GDPR "Category:Article 5 GDPR")
+*   [Article 6(1) GDPR](/index.php?title=Category:Article_6\(1\)_GDPR "Category:Article 6(1) GDPR")
+*   [Article 6(1)(c) GDPR](/index.php?title=Category:Article_6\(1\)\(c\)_GDPR "Category:Article 6(1)(c) GDPR")
+*   [Article 6(1)(e) GDPR](/index.php?title=Category:Article_6\(1\)\(e\)_GDPR "Category:Article 6(1)(e) GDPR")
+*   [Article 6(1)(f) GDPR](/index.php?title=Category:Article_6\(1\)\(f\)_GDPR "Category:Article 6(1)(f) GDPR")
+*   [Article 6(3) GDPR](/index.php?title=Category:Article_6\(3\)_GDPR "Category:Article 6(3) GDPR")
+*   [2024](/index.php?title=Category:2024 "Category:2024")
+*   [Italian](/index.php?title=Category:Italian "Category:Italian")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10019523 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10019523 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10019523&oldid=41665 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=Garante_per_la_protezione_dei_dati_personali_\(Italy\)_-_10019523&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=Garante_per_la_protezione_dei_dati_personali_%28Italy%29_-_10019523&id=41665&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 19 June 2024, at 09:58.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.055","walltime":"0.075","ppvisitednodes":{"value":486,"limit":1000000},"postexpandincludesize":{"value":3993,"limit":2097152},"templateargumentsize":{"value":2132,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":73993,"limit":5000000},"timingprofile":\["100.00% 8.142 1 Template:DPAdecisionBOX","100.00% 8.142 1 -total"\]},"cachereport":{"timestamp":"20250830022134","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":512});});

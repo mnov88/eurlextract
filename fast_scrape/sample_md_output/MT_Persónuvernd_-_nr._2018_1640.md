@@ -1,0 +1,281 @@
+ Persónuvernd - nr. 2018/1640 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"6bfc3518bdc0d4eb885af21d","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Persónuvernd\_-\_nr.\_2018/1640","wgTitle":"Persónuvernd - nr. 2018/1640","wgCurRevisionId":24521,"wgRevisionId":24521,"wgArticleId":1604,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["Persónuvernd (Iceland)","Iceland","Article 21(2) GDPR","2019","Icelandic"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Persónuvernd\_-\_nr.\_2018/1640","wgRelevantArticleId":1604,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:Pers%C3%B3nuvernd_-_nr._2018/1640&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=Pers%C3%B3nuvernd_-_nr._2018/1640&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=Pers%C3%B3nuvernd_-_nr._2018/1640&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=Pers%C3%B3nuvernd+-+nr.+2018%2F1640&returntoquery=oldid%3D24521 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# Persónuvernd - nr. 2018/1640
+
+From GDPRhub
+
+Revision as of 16:07, 10 March 2022 by [Kc](/index.php?title=User:Kc&action=edit&redlink=1 "User:Kc (page does not exist)") ([talk](/index.php?title=User_talk:Kc&action=edit&redlink=1 "User talk:Kc (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Kc "Special:Contributions/Kc"))
+
+([diff](/index.php?title=Pers%C3%B3nuvernd_-_nr._2018/1640&diff=prev&oldid=24521 "Persónuvernd - nr. 2018/1640")) [← Older revision](/index.php?title=Pers%C3%B3nuvernd_-_nr._2018/1640&direction=prev&oldid=24521 "Persónuvernd - nr. 2018/1640") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+Persónuvernd (Iceland) - nr. 2018/1640
+
+[![LogoIS.png](/images/thumb/7/7d/LogoIS.png/250px-LogoIS.png)](/index.php?title=File:LogoIS.png)
+
+Authority:
+
+[Persónuvernd (Iceland)](/index.php?title=Pers%C3%B3nuvernd_\(Iceland\) "Persónuvernd (Iceland)")
+
+Jurisdiction:
+
+[Iceland](/index.php?title=Category:Iceland "Category:Iceland")
+
+Relevant Law:
+
+[Article 21(2) GDPR](/index.php?title=Article_21_GDPR#2 "Article 21 GDPR")  
+[Article 13 ePrivacy Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02002L0058-20091219)  
+[Act no. 90/2018](https://www.althingi.is/lagas/nuna/2018090.html)
+
+Type:
+
+Complaint
+
+Outcome:
+
+Upheld
+
+Started:
+
+Decided:
+
+20.12.2019 Published:
+
+03.01.2020 Fine:
+
+None
+
+Parties:
+
+Anonymous
+
+National Case Number/Name:
+
+nr. 2018/1640
+
+European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+n/a
+
+Original Language(s):
+
+[Icelandic](/index.php?title=Category:Icelandic "Category:Icelandic")
+
+Original Source:
+
+[Persónuvernd (in IS)](https://www.personuvernd.is/urlausnir/simanum-hf.-oheimilt-ad-senda-tolvupost-vegna-markadssetningar-til-vidskiptavinar-sem-skradur-var-a-bannskra)
+
+Initial Contributor:
+
+n/a
+
+The Persónuvernd found that a telecommunication company sent unauthorised marketing emails; despite the data subject’s objection violated the GDPR and the ePrivacy Directive.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Dispute](#Dispute)
+    *   [1.3 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+A citizen (the complainant) objected to marketing emails when they registered within the National Registry of email marketing in Iceland. The Telecommunication company Simmin hf ignored the data subject’s objection and sent him marketing emails related to a television. The complainant filed a complaint with the Persónuvernd. The company’s view is first of all, that email has been sent by mistake. In the alternative, it claimed to be allowed to send direct email marketing to customer provided that it was given the opportunity for the consumer to object. Lastly, it claimed that neither the GDPR nor the e-Privacy Directive apply to the case at hand
+
+### Dispute
+
+Could data controller not be held liable for direct marketing emails send by mistake?
+
+Could direct marketing email be sent to a data subject provided that the data subject has the opportunity to object?
+
+### Holding
+
+The Persónuvernd rejected all company’s arguments and considered that the company failed to demonstrate any legitimate interests as required by Article 6(1)(f) GDPR regarding the processing and failed to ask for a prior consent, as required by Article 13(1) of the e-Privacy Directive, which were applicable. Also, the Persónuvernd stressed that the right to object to direct email marketing was guarantee by Article 21(2) GDPR and Article 13(2) of the e-Privacy Directive. Therefore, the Persónuvernd concluded that the company did not comply with the GDPR and the Icelandic implementation of the e-Privacy Directive.
+
+## Comment
+
+_Add your comments here!_
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the original. Please refer to the Icelandic original for more details.
+
+Siminn hf. may not send marketing emails to a customer who has been banned
+Case no. 2018/1640
+
+01/03/2020
+
+Privacy has ruled that Siminn hf. has not been authorized to send a complaint to the complainant via e-mail since he had registered his objection to such processing with the National Registry of Iceland. The ruling states, inter alia, that the provisions of par. Article 46 Electronic Communications Act no. 81/2003 does not constitute a special provision for Article 21. Act no. 90/2018 and therefore Siminn hf. has compared their list of customers who were intended to send marketing material via email to the National Registry of Iceland. Since the company did not take care of the complaint of the complainant, the processing did not comply with Act no. 90/2018.
+ruling
+
+On December 20, 2019, the Board of the Privacy Protection issued a clear ruling in case no. 2018/1640:
+I. procedures
+
+1. Complaint and procedure
+
+On November 7, 2018, the Data Protection Authority received a forwarded complaint from the Post and Telecom Administration, dated. September 17, 2018, from \[A\] (hereinafter referred to as the complainant) that Síminn hf. had not respected the complainant's marking in the National Registry of Iceland's ban on email marketing.
+
+By letter, date. On January 14, 2019, Siminn hf. notified of the above complaint and given the opportunity to comment on it. The company responded by letter, dated. January 30th By letter, date. On April 16th, the complainant was invited to comment on Síminn hf. The respondent responded by email, dated. May 5
+
+All of the above data have been taken into account in resolving the case, although not all of them are specifically mentioned in the following ruling.
+2. Complainant's point of view
+
+The complaint is based on the fact that Siminn hf. on September 17, 2018 sent him an email with a presentation of television material available on the company's media and an invitation to try out certain services on its behalf, despite having been registered on the National Registry of Iceland.
+3. The view of Siminn hf.
+
+Siminn hf. is based on the fact that the sending of the said email was a mistake in which the complainant raised objections to the company itself and therefore it should not have been in the group of customers to whom the email was sent.
+
+However, the company considers itself to be authorized under Article 46. Act no. 81/2003 on electronic communications to send their customers an email for direct marketing of their own products or services, provided that the person in question is given the opportunity to object to such use initially and in each email. Act no. 81/2003 as a special act against Act no. 90/2018 on privacy and processing of personal information, and therefore the aforementioned law goes beyond the latter. In this connection, it should be noted that in accordance with point 173 of the preamble to Regulation (EU) 2016/679, which was transposed into Icelandic law by Act no. 90/2018, it does not apply to the processing of personal data covered by Directive 2002/58 / EC, which was introduced by Act no. 81/2003. The use of e-mail for marketing purposes is covered by the said Directive, and therefore Regulation (EU) 2016/679, and therefore Law no. 90/2018, not on the conduct of the complaint.
+II. Assumptions and conclusion
+
+1. Scope - Guarantee
+
+Scope of Act no. 90/2018 and Regulation (EU) 2016/679, cf. Paragraph 1 Article 4 of the Act, and thus the powers of the Data Protection Authority, cf. Paragraph 1 Article 39 of the Act, covers the processing of personal data that is partially or fully automated and the processing of methods other than automatic processing of personal data that are or are to become part of a file.
+
+Personal information includes information about a person or person who is personally identifiable and can be considered as personally identifiable if he or she can be directly or indirectly identified by reference to his or her identity or one or more of the characteristics characteristic of him, cf. Item 2 Article 3 of the Act and Paragraph 1. Article 4 Regulation.
+
+Processing means an action or series of actions in which personal information is processed, whether the processing is automatic or not, cf. Item 4 Article 3 of the Act and Paragraph 2. Article 4 Regulation.
+
+This case concerns whether Siminn hf. have passed Act no. 90/2018 when sending marketing material to the complainant via email but it is evident that the complainant had objected that his name would be used in marketing activities and had filed his objection with the National Registry of Iceland. Respectfully, and with due regard to the foregoing provisions, this matter concerns the processing of personal information that falls under the sphere of privacy.
+
+The person responsible for processing personal data complies with Act no. 90/2018 is named as the guarantor. According to paragraph 6. Article 3 the Act refers to an individual, legal entity, governmental authority or other party who decides alone or in collaboration with other purposes and methods for the processing of personal information, cf. Item 7 Article 4 Regulation. As is the case here, Síminn hf. be the guarantor of the processing in question.
+2. Legal environment and conclusion
+
+All processing of personal data must be based on an authorization in accordance with Article 9. Act no. 90/2018. It is preferable to consider the processing of this case under item 6. Paragraph 1 of that article, but the provision is unanimous in paragraph 1 (f). Article 6 of Regulation (EU) 2016/679, which stipulates that the processing of personal data is permissible for the legitimate interests of the guarantor or third party, unless the interests or fundamental rights and freedoms of the data subject require the protection of personal data. Processing in the interest of marketing has been considered to serve legitimate interests and can therefore be compatible with this provision, provided that the interests of those involved have been taken into account. To this end, one must, among other things, respect the right of objections of the registered person.
+
+Article 21 applies to the right of opposition of registered persons. Act no. 90/2018. According to the first paragraph. That article allows registered persons, among other things, to object to the processing of personal data about them based on paragraph 1 (f). Article 6 Regulation (EU) 2016/679, and the guarantor shall not further process the personal information unless it can demonstrate important legitimate grounds for the processing that advance the interests, rights and freedoms of the data subject. According to the second paragraph. Article 21 of the Act, the National Registry of Iceland maintains a register of those who object to their names being used in marketing activities. Guarantors operating in direct marketing and those using a directory with names, addresses, email addresses, telephone numbers and the like must be used before such a directory is used for such purpose to compare it with the National Registry of Iceland to prevent the sending of targeted mail to individuals who have objected to such.
+
+In the comments on the provisions of Art. in the bill that became Act no. 90/2018 states that "target mail" refers, inter alia, to emails used in direct marketing efforts. Direct marketing refers to direct marketing to the individual in order to sell him a product or service. According to this, it is clear that the e-mail of Siminn hf. to Quaternary, day. September 17, 2018, which contained promotional material about the Company's services and television content, shall be considered a goal mail within the meaning of the provision.
+
+By Siminn hf. has been based on the fact that according to par. Article 46 Act no. 81/2003, the guarantor shall provide the registered person with the opportunity to object to direct marketing by e-mail at the time of registration and each time a message is sent, the customer has not initially refused such use. Therefore, the value of paragraph 2 Article 21 Act no. 90/2018 does not apply to processing in such a way that a marketing effort is directed at the clients of the guarantor, which deals with the conduct in the cited provisions of Act no. 81/2003. It is a special provision that does not go beyond the aforementioned provisions of Act no. 90/2018, cf. Paragraph 1 Article 5 them.
+
+The wording of the second paragraph of Art. Article 21 Act no. 90/2018 categorically includes files containing information about individuals' email addresses. It is not specifically stated in the provision or in the legal documentation that the sponsor's marketing e-mail to his own customers falls outside it. It should also be noted that in the comments on the provision in the bill what became Act no. 90/2018 states that special rules on the National Regulations of Iceland according to 2-4. paragraph. Article 21 aims to achieve the objectives of Regulation (EU) 2016/679 on the right of objection of registered persons in relation to direct marketing, but that the rules in question go further than the regulation.
+
+In view of the above wording, Article 21 Act no. 90/2018 and comments on the provision in the bill, the Data Protection Authority considers that the purpose of the provision is to provide, among other things, more extensive right of objection to individuals than is provided for in Regulation (EU) 2016/679. It is also pointed out that the provisions of Art. Act no. 90/2018, on the one hand, guarantees individuals the right to object to the processing of personal data, and also provides for a special method for individuals to make their objections known to all the guarantor to whom the provision applies, ie. with registration with the National Registry of Iceland. The second paragraph of Art. Article 46 Act no. 81/2003, on the other hand, refers only to their specific right to raise objections to a specific and specified guarantor in limited cases but does not prescribe a procedure. Accordingly, it will not be considered that the purpose of the provision of par. Article 46 Act no. 81/2003 is fully comparable with the provisions of Article 21. Act no. 90/2018.
+
+In keeping with the above, it is the Privacy Policy's assessment that the provisions of par. Article 46 Act no. 81/2003 is not considered to be a special provision for the second paragraph. Article 21 Act no. 90/2018 within the meaning of par. Article 5 them. As a result, the guarantor must compare his or her list of individuals who are planning to send targeted mail to the National Registry of Iceland for those who have objected to such processing, before sending such e-mails, irrespective of whether discuss with the guarantor's clients or not.
+
+To observe all of the above, it is the conclusion of the Data Protection Authority that Siminn hf. has compared the complainant's name with the national registry ban, cf. Paragraph 2 Article 21 Act no. 90/2018, before he was sent an email in connection with the marketing of the company. Since it is evident that such a comparison was not carried out before sending the said email, the processing of Síminn hf. the complainant's personal information has not been in accordance with paragraph 1. Article 21 Act no. 90/2018.
+
+You can do this:
+
+Consignment of Siminn hf. of email marketing material to \[A\] did not comply with Act no. 90/2018, on privacy and processing of personal information.
+
+In Privacy, December 20, 2019
+
+Björg Thorarensen
+
+Adalsteinn Jónasson Ólafur Garðarsson
+
+Vilhelmína Haraldsdóttir
+
+Retrieved from "[https://gdprhub.eu/index.php?title=Persónuvernd\_-\_nr.\_2018/1640&oldid=24521](https://gdprhub.eu/index.php?title=Persónuvernd_-_nr._2018/1640&oldid=24521)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [Persónuvernd (Iceland)](/index.php?title=Category:Pers%C3%B3nuvernd_\(Iceland\) "Category:Persónuvernd (Iceland)")
+*   [Iceland](/index.php?title=Category:Iceland "Category:Iceland")
+*   [Article 21(2) GDPR](/index.php?title=Category:Article_21\(2\)_GDPR "Category:Article 21(2) GDPR")
+*   [2019](/index.php?title=Category:2019 "Category:2019")
+*   [Icelandic](/index.php?title=Category:Icelandic "Category:Icelandic")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/Pers%C3%B3nuvernd_-_nr._2018/1640 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/Pers%C3%B3nuvernd_-_nr._2018/1640 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=Pers%C3%B3nuvernd_-_nr._2018/1640&oldid=24521 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=Pers%C3%B3nuvernd_-_nr._2018/1640&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=Pers%C3%B3nuvernd_-_nr._2018%2F1640&id=24521&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 10 March 2022, at 16:07.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.030","walltime":"0.043","ppvisitednodes":{"value":430,"limit":1000000},"postexpandincludesize":{"value":1780,"limit":2097152},"templateargumentsize":{"value":815,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":11579,"limit":5000000},"timingprofile":\["100.00% 5.923 1 Template:DPAdecisionBOX","100.00% 5.923 1 -total"\]},"cachereport":{"timestamp":"20250829200434","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":291});});

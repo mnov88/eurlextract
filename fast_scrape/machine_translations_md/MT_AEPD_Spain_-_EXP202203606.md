@@ -1,0 +1,568 @@
+ AEPD (Spain) - EXP202203606 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"66b6634dd2e05df53d7b49e9","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"AEPD\_(Spain)\_-\_EXP202203606","wgTitle":"AEPD (Spain) - EXP202203606","wgCurRevisionId":37959,"wgRevisionId":37959,"wgArticleId":5392,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["AEPD (Spain)","Spain","Article 17(1)(a) GDPR","Article 17(2) GDPR","Article 55(1) GDPR","2022","Spanish"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"AEPD\_(Spain)\_-\_EXP202203606","wgRelevantArticleId":5392,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:AEPD_\(Spain\)_-_EXP202203606&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=AEPD_\(Spain\)_-_EXP202203606&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=AEPD_\(Spain\)_-_EXP202203606&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=AEPD+%28Spain%29+-+EXP202203606&returntoquery=oldid%3D37959 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# AEPD (Spain) - EXP202203606
+
+From GDPRhub
+
+Revision as of 13:29, 13 December 2023 by [Ar](/index.php?title=User:Ar&action=edit&redlink=1 "User:Ar (page does not exist)") ([talk](/index.php?title=User_talk:Ar&action=edit&redlink=1 "User talk:Ar (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Ar "Special:Contributions/Ar")) (Ar moved page [AEPD (Spain) - R/00665/2022](/index.php?title=AEPD_\(Spain\)_-_R/00665/2022 "AEPD (Spain) - R/00665/2022") to [AEPD (Spain) - EXP202203606](/index.php?title=AEPD_\(Spain\)_-_EXP202203606 "AEPD (Spain) - EXP202203606"))
+
+([diff](/index.php?title=AEPD_\(Spain\)_-_EXP202203606&diff=prev&oldid=37959 "AEPD (Spain) - EXP202203606")) [← Older revision](/index.php?title=AEPD_\(Spain\)_-_EXP202203606&direction=prev&oldid=37959 "AEPD (Spain) - EXP202203606") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+AEPD - R/00665/2022
+
+[![LogoES.jpg](/images/thumb/5/59/LogoES.jpg/250px-LogoES.jpg)](/index.php?title=File:LogoES.jpg)
+
+Authority:
+
+[AEPD (Spain)](/index.php?title=AEPD_\(Spain\) "AEPD (Spain)")
+
+Jurisdiction:
+
+[Spain](/index.php?title=Category:Spain "Category:Spain")
+
+Relevant Law:
+
+[Article 17(1)(a) GDPR](/index.php?title=Article_17_GDPR#1a "Article 17 GDPR")  
+[Article 17(2) GDPR](/index.php?title=Article_17_GDPR#2 "Article 17 GDPR")  
+[Article 55(1) GDPR](/index.php?title=Article_55_GDPR#1 "Article 55 GDPR")  
+[Article 15 Regulation 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679)  
+[Article 16 Regulation 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679)  
+[Article 17 Regulation 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679)  
+[Article 18 Regulation 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679)  
+[Article 19 Regulation 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679)  
+[Article 20 Regulation 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679)  
+[Article 21 Regulation 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679)  
+[Article 22 Regulation 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679)  
+[Articles 13-18 LOPDGDD](https://www.boe.es/boe/dias/2018/12/06/pdfs/BOE-A-2018-16673.pdf)
+
+Type:
+
+Other
+
+Outcome:
+
+n/a
+
+Started:
+
+21.02.2022 Decided:
+
+22.04.2022 Published:
+
+13.07.2022 Fine:
+
+n/a
+
+Parties:
+
+A.A.A  
+Securitas Direct España, S.A
+
+National Case Number/Name:
+
+R/00665/2022
+
+European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+Not appealed  
+
+Original Language(s):
+
+[Spanish](/index.php?title=Category:Spanish "Category:Spanish")
+
+Original Source:
+
+[AEPD (in ES)](https://www.aepd.es/es/documento/pd-00130-2022.pdf)
+
+Initial Contributor:
+
+Leah Fielden
+
+The claimant exercised his rights of access and deletion. The right of access was granted. However, the right for deletion could not be granted in accordance with [Article 17 GDPR](/index.php?title=Article_17_GDPR "Article 17 GDPR").
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+Resolution No. R/00665/2022 is highlighted by a case concerning a claimant (namely A.A.A) and a respondent party (namely Securitas Direct España, S.A).
+
+The claimant filed against the respondent party for not having been duly attended to his right of access and deletion enshrined in Articles 15 to 22 of the RGPD, Articles 13 to 18 LOPDGDD and [Article 17 GDPR](/index.php?title=Article_17_GDPR "Article 17 GDPR") respectively. The conflict of law arose in this case when a sufficiently legally established response was not generated by the respondent to the claimants request.
+
+Furthermore, the claim was transferred to the respondent so that the entity could proceed with its analysis and provide a response to the claimant within a period of one month. The Director of the Spanish Data Protection Agency agreed to admit the claim for processing and the parties concerned were informed of the maximum term for resolution, that being six months. The competence of the Spanish Data Protection Agency is refined by [Article 55 GDPR](/index.php?title=Article_55_GDPR "Article 55 GDPR") in the promotion of an obligation between controllers and processors to deal with complaints issued by data subjects.
+
+The result of the said transfer did not allow the claimants issues to be understood as satisfied. Consequently, due to the lack of attention delegated to the claimants rights further set forth in Articles 15 to 22 of EU Regulation 2016/679, an agreement to admit for processing was initiated.
+
+### Holding
+
+The Director of the Spanish Data Protection Agency went on to note that considering the purpose of the outlined procedure was to ensure that the rights of affected parties were fully restored, the complaint that gave rise to this procedure should be upheld on formal grounds due to the fact that the right of access had been complied with and the right of erasure had been duly denied (on the applicable grounds of [Article 17 GDPR](/index.php?title=Article_17_GDPR "Article 17 GDPR")).
+
+## Comment
+
+_Share your comments here!_
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the Spanish original. Please refer to the Spanish original for more details.
+
+1/6
+
+     File No.: EXP202203606
+
+                           RESOLUTION No.: R/00665/2022
+
+Considering the claim made on February 21, 2022 before this Agency by A.A.A.,
+(hereinafter the claimant party), against SECURITAS DIRECT ESPAÑA, S.A., (to
+from now on the claimed party), for not having been duly attended to
+right of access and deletion.
+
+Carrying out the procedural actions provided for in Title VIII of the Law
+Organic 3/2018, of December 5, on the Protection of Personal Data and guarantee of
+digital rights (hereinafter LOPDGDD), the following have been verified
+
+                                       FACTS
+
+FIRST: The complaining party exercised the rights of access and deletion against the
+claimed with NIF A26106013, without your request having received the answer
+legally established. Provide various documentation related to the claim
+
+raised before this Agency and on the exercise of the exercised right.
+
+SECOND: In accordance with article 65.4 of the LOPDGDD, which has provided for a
+mechanism prior to the admission to processing of the claims that are formulated before
+
+the AEPD, consisting of transferring them to the Data Protection Delegates
+designated by those responsible or in charge of the treatment, for the purposes foreseen
+in article 37 of the aforementioned rule, or to these when they have not been designated,
+transferred the claim to the claimed entity so that it could proceed with its
+analysis and respond to the complaining party and this Agency within a
+
+month.
+
+The representative/Delegate of Data Protection of the claimed person responds to this
+Agency dated April 22, 2022, explains the contractual relationship maintained
+between the parties and regarding the rights requested, it only refers to the lack of
+copy/photocopy of the DNI to identify the claimant in her application.
+
+Namely:
+“…it was not until June 18, 2021 that Securitas Direct received the first written
+of exercise of the right of cancellation (no access) of personal data by
+Mrs. Sánchez, which was answered on June 21, 2021 by email and
+where he was asked to attach a copy of the DNI to be able to execute it.
+
+Subsequently, the same request was received again, this time by mail on 23
+August 2021 which was answered again on August 24, 2021 in terms
+similar, that is, requesting a copy of your DNI again since it was not attached…”
+
+The respondent also provides an email with the same date, April 22,
+
+2022, where it sends to the complaining party its data referring to the right of access and,
+justifies that it does not attend to the right of suppression due to the controversy between the
+parties awaiting resolution.
+
+C/ Jorge Juan, 6 www.aepd.es
+28001 – Madrid sedeagpd.gob.es 2/6
+
+THIRD: The result of the transfer process indicated in the previous Fact does not
+allowed to understand satisfied the claims of the claimant. In
+Consequently, on May 21, 2022, for the purposes provided in its article
+
+64.2 of the LOPDGDD, the Director of the Spanish Agency for Data Protection
+agreed to admit the submitted claim for processing and informed the parties that the
+maximum term to resolve this procedure, which is understood to have started
+through said admission agreement, it will be six months.
+
+The aforementioned agreement granted the respondent entity a hearing procedure, to
+
+that within a period of fifteen business days present the allegations that it deems
+convenient. As of the resolution date of this claim, there have been
+allegations where they confirm everything stated above and state that they do not
+understand why the claim was admitted for processing in view of the above.
+
+                           FOUNDATIONS OF LAW
+
+FIRST: The Director of the Spanish Agency for
+Data Protection, in accordance with the provisions of section 2 of article 56 in
+in relation to section 1 f) of article 57, both of Regulation (EU) 2016/679 of the
+
+European Parliament and of the Council of April 27, 2016 on the protection of
+individuals with regard to the processing of personal data and the free
+circulation of these data (hereinafter GDPR); and in article 47 of the Law
+Organic 3/2018, of December 5, on the Protection of Personal Data and guarantee of
+digital rights (hereinafter LOPDGDD).
+
+SECOND: In accordance with the provisions of article 55 of the RGPD, the Agency
+Spanish Data Protection is competent to perform the functions that
+are assigned to it in its article 57, among them, that of enforcing the Regulation and
+promote awareness of controllers and processors
+
+about the obligations incumbent on them, as well as dealing with claims
+presented by an interested party and investigate the reason for them.
+
+Correlatively, article 31 of the RGPD establishes the obligation of those responsible
+and those in charge of the treatment to cooperate with the control authority that requests it in
+the performance of their duties. In the event that they have appointed a
+
+data protection delegate, article 39 of the RGPD attributes to it the function of
+cooperate with that authority.
+
+Similarly, the domestic legal system, in article 65.4 of the LOPDGDD, has
+foreseen a mechanism prior to the admission to processing of the claims that are
+
+formulated before the Spanish Agency for Data Protection, which consists of giving
+transfer of the same to the data protection delegates designated by the
+responsible or in charge of the treatment, for the purposes provided in article 37 of
+the aforementioned norm, or to these when they have not been designated, so that they proceed to the
+analysis of said claims and to respond to them within a month.
+
+In accordance with this regulation, prior to the admission for processing of the
+claim that gives rise to this procedure, it was transferred to the
+responsible entity to proceed with its analysis, respond to this Agency
+
+C/ Jorge Juan, 6 www.aepd.es
+28001 – Madrid sedeagpd.gob.es 3/6
+
+within a month and prove that they have provided the claimant with the due response,
+in the event of exercising the rights regulated in articles 15 to 22 of the
+GDPR.
+
+The result of said transfer did not allow to understand satisfied the claims of the
+claiming party. Consequently, on May 21, 2022, for the purposes
+provided for in article 64.2 of the LOPDGDD, the Director of the Spanish Agency for
+Data Protection agreed to admit the submitted claim for processing. Saying
+agreement of admission to procedure determines the opening of the present procedure of
+
+lack of attention to a request to exercise the rights established in the
+articles 15 to 22 of the RGPD, regulated in article 64.1 of the LOPDGDD, according to the
+which:
+
+"1. When the procedure refers exclusively to the lack of attention of a
+
+request to exercise the rights established in articles 15 to 22 of the
+Regulation (EU) 2016/679, will start by agreement of admission to process, which will be
+shall adopt in accordance with the provisions of the following article.
+In this case, the term to resolve the procedure will be six months from
+from the date on which the claimant was notified of the admission agreement to
+Procedure. Once this period has elapsed, the interested party may consider their
+
+claim".
+
+The purging of administrative responsibilities in the framework of the
+of a sanctioning procedure, whose exceptional nature implies that it is chosen,
+whenever possible, due to the prevalence of alternative mechanisms that have
+
+protection in current regulations.
+
+It is the exclusive competence of this Agency to assess whether there are responsibilities
+administrative that must be purged in a sanctioning procedure and, in
+consequently, the decision on its opening, not existing obligation to initiate a
+
+procedure before any request made by a third party. Such a decision must
+be based on the existence of elements that justify said start of the activity
+sanctioning, circumstances that do not concur in the present case, considering that
+With this procedure, the guarantees and guarantees are duly restored.
+claimant's rights.
+
+THIRD: The rights of individuals in terms of data protection
+personal data are regulated in articles 15 to 22 of the RGPD and 13 to 18 of the
+LOPDGDD. The rights of access, rectification, deletion,
+opposition, right to limitation of treatment and right to portability.
+
+The formal aspects related to the exercise of these rights are established in the
+articles 12 of the RGPD and 12 of the LOPDGDD.
+
+It also takes into account what is expressed in Considerations 59 and following of the
+GDPR.
+
+In accordance with the provisions of these rules, the data controller
+must arbitrate formulas and mechanisms to facilitate the interested party in the exercise of their
+rights, which will be free (without prejudice to the provisions of articles 12.5 and 15.3
+
+C/ Jorge Juan, 6 www.aepd.es
+28001 – Madrid sedeagpd.gob.es 4/6
+
+of the RGPD), and is obliged to respond to the requests made no later than one
+month, unless you can show that you are unable to identify the
+interested party, and to express his reasons in case he was not going to attend said
+
+request. The proof of compliance with the duty of
+respond to the request to exercise their rights made by the affected party.
+
+The communication addressed to the interested party on the occasion of their request must
+be expressed in a concise, transparent, intelligible and easily accessible manner, with a
+clear and simple language.
+
+Regarding the right of access to personal data, in accordance with the
+established in article 13 of the LOPDGDD, when the exercise of the right is
+refers to a large amount of data, the person in charge may request the affected party to
+specify the “data or treatment activities to which the request refers”. The
+
+right will be understood granted if the person in charge provides remote access to the data,
+taking the request as granted (although the interested party may request the information
+referring to the ends provided for in article 15 of the RGPD).
+
+The exercise of this right may be considered repetitive on more than one occasion.
+for a period of six months, unless there is legitimate cause for it.
+
+On the other hand, the request will be considered excessive when the affected party chooses a means
+other than the one offered that involves a disproportionate cost, which must be
+assumed by the affected party.
+
+FOURTH: Article 17 of the RGPD, which regulates the right to delete data
+personal, establishes the following:
+
+"1. The interested party shall have the right to obtain, without undue delay, from the person responsible for the
+treatment the deletion of personal data that concerns you, which will be
+
+obliged to delete personal data without undue delay when any
+of the following circumstances:
+a) the personal data is no longer necessary in relation to the purposes for which
+were collected or otherwise treated;
+b) the interested party withdraws the consent on which the treatment is based in accordance
+with article 6, paragraph 1, letter a), or article 9, paragraph 2, letter a), and this is not
+
+based on another legal basis;
+c) the interested party opposes the treatment in accordance with article 21, paragraph 1, and does not
+other legitimate reasons for the treatment prevail, or the interested party opposes the
+treatment according to article 21, paragraph 2;
+d) the personal data has been illicitly processed;
+
+e) the personal data must be deleted for the fulfillment of a legal obligation
+established in the Law of the Union or of the Member States that applies to the
+data controller;
+f) the personal data has been obtained in relation to the offer of services of the
+information society referred to in article 8, paragraph 1.
+
+2. When you have made the personal data public and are obliged, by virtue of the
+provided in section 1, to delete said data, the data controller,
+taking into account the available technology and the cost of its application, it will adopt
+
+C/ Jorge Juan, 6 www.aepd.es
+28001 – Madrid sedeagpd.gob.es 5/6
+
+reasonable measures, including technical measures, with a view to informing users
+Responsible for processing the personal data of the interested party's request for
+deletion of any link to such personal data, or any copy or replica of
+
+the same.
+
+3. Sections 1 and 2 will not apply when the treatment is necessary:
+a) to exercise the right to freedom of expression and information;
+b) for the fulfillment of a legal obligation that requires the processing of data
+imposed by the law of the Union or of the Member States that applies to the
+
+responsible for the treatment, or for the fulfillment of a mission carried out in the interest
+public or in the exercise of public powers vested in the controller;
+c) for reasons of public interest in the field of public health in accordance with
+article 9, section 2, letters h) and i), and section 3;
+d) for archival purposes in the public interest, scientific or historical research purposes or
+
+statistical purposes, in accordance with Article 89(1), insofar as
+the right indicated in section 1 could make it impossible or hinder
+seriously the achievement of the objectives of said treatment, or
+e) for the formulation, exercise or defense of claims”.
+
+FIFTH: In accordance with the provisions of article 15 of the RGPD and article 13 of the
+
+LOPDGDD, "the interested party has the right to obtain from the data controller
+confirmation of whether or not personal data concerning you is being processed and, in such
+case, right of access to personal data”.
+
+Like the rest of the rights of the interested party, the right of access is a
+
+personal right. Allows the citizen to obtain information about the treatment
+what is being done with your data, the possibility of obtaining a copy of the data
+that concern you and that are being processed, as well as
+information, in particular, on the purposes of the treatment, the categories of data
+individuals in question, the recipients or categories of recipients to whom
+
+communicated or will be communicated the personal data, the foreseen term or criteria
+of conservation, the possibility of exercising other rights, the right to present a
+claim before the control authority, the information available on the origin of
+the data (if these have not been obtained directly from the owner), the existence of
+automated decisions, including profiling, and information about
+transfers of personal data to a third country or to an international organization.
+
+The possibility of obtaining a copy of the personal data subject to treatment does not
+will adversely affect the rights and freedoms of others, that is, the right to
+Access will be granted in such a way that it does not affect the data of third parties.
+
+In the case analyzed here, the complaining party exercised its rights of access and
+
+suppression. In accordance with the documentation provided by the claimed party
+during the processing of the procedure, the right of access was met on the date
+April 22, 2022,
+Regarding the right of suppression, on the same date, the complaining party was informed
+that the request could not be met until the issues related to
+
+contractual disputes arising and payment of the amount due. Of
+in accordance with the provisions of article 17 of the RGPD, paragraph 3:
+
+C/ Jorge Juan, 6 www.aepd.es
+28001 – Madrid sedeagpd.gob.es 6/6
+
+“Sections 1 and 2 will not apply when the treatment is necessary:
+e) for the formulation, exercise or defense of claims
+
+Therefore, the right of suppression is also considered answered.
+
+Based on the foregoing, considering that this procedure has as
+object that the guarantees and rights of those affected are duly
+restored, it is appropriate to estimate for formal reasons the claim that originated the
+this procedure considering that the right of access has been met and the
+
+of suppression denied reasoned.
+
+In view of the aforementioned precepts and others of general application, the Director of the Agency
+Spanish Data Protection RESOLVES:
+
+FIRST: ESTIMATE for formal reasons, the claim made by A.A.A. a
+against the entity SECURITAS DIRECT ESPAÑA, S.A.
+However, the issuance of a new certification by said entity is not appropriate,
+as the response was issued extemporaneously, without the completion of
+of additional actions by the controller.
+
+SECOND: NOTIFY this resolution to A.A.A. and SECURITAS DIRECT
+SPAIN, S.A.
+
+In accordance with the provisions of article 50 of the LOPDGDD, this
+
+Resolution will be made public once it has been notified to the interested parties.
+
+Against this resolution, which puts an end to the administrative procedure in accordance with art. 48.6 of the
+LOPDGDD, and in accordance with the provisions of article 123 of the LPACAP, the
+Interested parties may optionally file an appeal for reconsideration before the
+
+Director of the Spanish Agency for Data Protection within a month from
+counting from the day following the notification of this resolution or directly
+contentious-administrative appeal before the Contentious-Administrative Chamber of the
+National Court, in accordance with the provisions of article 25 and section 5 of
+the fourth additional provision of Law 29/1998, of July 13, regulating the
+
+Contentious-administrative jurisdiction, within a period of two months from the
+day following the notification of this act, as provided in article 46.1 of the
+aforementioned Law.
+
+1037-020622 Sea Spain Marti
+
+Director of the Spanish Data Protection Agency
+
+C/ Jorge Juan, 6 www.aepd.es
+28001 – Madrid sedeagpd.gob.es
+
+Retrieved from "[https://gdprhub.eu/index.php?title=AEPD\_(Spain)\_-\_EXP202203606&oldid=37959](https://gdprhub.eu/index.php?title=AEPD_\(Spain\)_-_EXP202203606&oldid=37959)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [AEPD (Spain)](/index.php?title=Category:AEPD_\(Spain\) "Category:AEPD (Spain)")
+*   [Spain](/index.php?title=Category:Spain "Category:Spain")
+*   [Article 17(1)(a) GDPR](/index.php?title=Category:Article_17\(1\)\(a\)_GDPR "Category:Article 17(1)(a) GDPR")
+*   [Article 17(2) GDPR](/index.php?title=Category:Article_17\(2\)_GDPR "Category:Article 17(2) GDPR")
+*   [Article 55(1) GDPR](/index.php?title=Category:Article_55\(1\)_GDPR "Category:Article 55(1) GDPR")
+*   [2022](/index.php?title=Category:2022 "Category:2022")
+*   [Spanish](/index.php?title=Category:Spanish "Category:Spanish")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/AEPD_\(Spain\)_-_EXP202203606 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/AEPD_\(Spain\)_-_EXP202203606 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=AEPD_\(Spain\)_-_EXP202203606&oldid=37959 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=AEPD_\(Spain\)_-_EXP202203606&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=AEPD_%28Spain%29_-_EXP202203606&id=37959&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 13 December 2023, at 13:29.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.039","walltime":"0.052","ppvisitednodes":{"value":524,"limit":1000000},"postexpandincludesize":{"value":4443,"limit":2097152},"templateargumentsize":{"value":2390,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":17612,"limit":5000000},"timingprofile":\["100.00% 5.900 1 Template:DPAdecisionBOX","100.00% 5.900 1 -total"\]},"cachereport":{"timestamp":"20250829200232","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":259});});

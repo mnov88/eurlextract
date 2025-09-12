@@ -1,0 +1,623 @@
+[
+  {
+    "id": "ES_2",
+    "type": "GOV",
+    "type_confidence": 95,
+    "core_activity": "O84.24 (Public order and safety activities)",
+    "core_activity_confidence": 90,
+    "size": "LARGE",
+    "size_confidence": 60
+  },
+  {
+    "id": "ES_3",
+    "type": "PRIVATE",
+    "type_confidence": 95,
+    "core_activity": "J62.01 (Computer programming activities)",
+    "core_activity_confidence": 75,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 65
+  },
+  {
+    "id": "ES_5",
+    "type": "PRIVATE",
+    "type_confidence": 95,
+    "core_activity": "J62.09 (Other information technology and computer service activities)",
+    "core_activity_confidence": 55,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 60
+  },
+  {
+    "id": "ES_7",
+    "type": "PRIVATE",
+    "type_confidence": 95,
+    "core_activity": "M69.20 (Accounting, bookkeeping and auditing; tax consultancy)",
+    "core_activity_confidence": 85,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 70
+  },
+  {
+    "id": "ES_8",
+    "type": "OTHER",
+    "type_confidence": 95,
+    "core_activity": "TRADE ASSOCIATION",
+    "core_activity_confidence": 90,
+    "size": "VERY LARGE",
+    "size_confidence": 80
+  },
+  {
+    "id": "ES_11",
+    "type": "PRIVATE",
+    "type_confidence": 85,
+    "core_activity": null,
+    "core_activity_confidence": 40,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 50
+  },
+  {
+    "id": "ES_12",
+    "type": "PRIVATE",
+    "type_confidence": 95,
+    "core_activity": "M73.11 (Advertising agencies)",
+    "core_activity_confidence": 85,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 70
+  },
+  {
+    "id": "ES_14",
+    "type": "OTHER",
+    "type_confidence": 95,
+    "core_activity": "CIVIC ASSOCIATION",
+    "core_activity_confidence": 85,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 60
+  },
+  {
+    "id": "ES_15",
+    "type": "GOV",
+    "type_confidence": 90,
+    "core_activity": "O84.24 (Public order and safety activities)",
+    "core_activity_confidence": 85,
+    "size": "VERY LARGE",
+    "size_confidence": 70
+  },
+  {
+    "id": "ES_17",
+    "type": "OTHER",
+    "type_confidence": 75,
+    "core_activity": "HIGHER EDUCATION",
+    "core_activity_confidence": 80,
+    "size": "VERY LARGE",
+    "size_confidence": 65
+  },
+  {
+    "id": "T_39",
+    "type": "GOV",
+    "type_confidence": 98,
+    "core_activity": "O84.30 (Compulsory social security activities)",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 90
+  },
+  {
+    "id": "IT_40",
+    "type": "GOV",
+    "type_confidence": 98,
+    "core_activity": "HEALTH",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 80
+  },
+  {
+    "id": "IT_41",
+    "type": "PRIVATE",
+    "type_confidence": 98,
+    "core_activity": "H53.20 (Other postal and courier activities)",
+    "core_activity_confidence": 70,
+    "size": "LARGE",
+    "size_confidence": 75
+  },
+  {
+    "id": "IT_42",
+    "type": "OTHER",
+    "type_confidence": 98,
+    "core_activity": "PROFESSIONAL REGULATOR",
+    "core_activity_confidence": 90,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 70
+  },
+  {
+    "id": "IT_44",
+    "type": "GOV",
+    "type_confidence": 99,
+    "core_activity": "O84.24 (Public order and safety activities)",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 90
+  },
+  {
+    "id": "IT_45",
+    "type": "PRIVATE",
+    "type_confidence": 95,
+    "core_activity": "G47.11 (Retail sale in non-specialised stores with food)",
+    "core_activity_confidence": 55,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 65
+  },
+  {
+    "id": "IT_46",
+    "type": "MUNICIPALITY",
+    "type_confidence": 99,
+    "core_activity": "LOCAL GOVERNMENT",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 80
+  },
+  {
+    "id": "IT_47",
+    "type": "PRIVATE",
+    "type_confidence": 99,
+    "core_activity": "N77.11 (Renting and leasing of cars and light motor vehicles)",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 85
+  },
+  {
+    "id": "IT_49",
+    "type": "PRIVATE",
+    "type_confidence": 95,
+    "core_activity": null,
+    "core_activity_confidence": 40,
+    "size": "SMALL",
+    "size_confidence": 70
+  },
+  {
+    "id": "IT_50",
+    "type": "PRIVATE",
+    "type_confidence": 99,
+    "core_activity": "K64.19 (Other monetary intermediation)",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 95
+  },
+  {
+    "id": "IT_51",
+    "type": "PRIVATE",
+    "type_confidence": 90,
+    "core_activity": "J60.20 (Television programming and broadcasting activities)",
+    "core_activity_confidence": 75,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 70
+  },
+  {
+    "id": "IT_53",
+    "type": "MUNICIPALITY",
+    "type_confidence": 99,
+    "core_activity": "LOCAL GOVERNMENT",
+    "core_activity_confidence": 95,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 85
+  },
+  {
+    "id": "IT_54",
+    "type": "PRIVATE",
+    "type_confidence": 95,
+    "core_activity": "H53.20 (Other postal and courier activities)",
+    "core_activity_confidence": 80,
+    "size": "LARGE",
+    "size_confidence": 70
+  },
+  {
+    "id": "IT_56",
+    "type": "PRIVATE",
+    "type_confidence": 60,
+    "core_activity": "MEDIA AND AI",
+    "core_activity_confidence": 50,
+    "size": "VERY LARGE",
+    "size_confidence": 60
+  },
+  {
+    "id": "IT_57",
+    "type": "GOV",
+    "type_confidence": 98,
+    "core_activity": "HEALTH",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 80
+  },
+  {
+    "id": "IT_59",
+    "type": "PRIVATE",
+    "type_confidence": 98,
+    "core_activity": "N82.91 (Activities of collection agencies and credit bureaus)",
+    "core_activity_confidence": 90,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 80
+  },
+  {
+    "id": "IT_61",
+    "type": "PRIVATE",
+    "type_confidence": 98,
+    "core_activity": "M72.19 (Other research and experimental development on natural sciences and engineering)",
+    "core_activity_confidence": 75,
+    "size": "VERY LARGE",
+    "size_confidence": 90
+  },
+  {
+    "id": "IT_62",
+    "type": "GOV",
+    "type_confidence": 99,
+    "core_activity": "HEALTH",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 85
+  },
+  {
+    "id": "IT_63",
+    "type": "PRIVATE",
+    "type_confidence": 95,
+    "core_activity": "D35.14 (Trade of electricity)",
+    "core_activity_confidence": 80,
+    "size": "LARGE",
+    "size_confidence": 75
+  },
+  {
+    "id": "IT_64",
+    "type": "PRIVATE",
+    "type_confidence": 98,
+    "core_activity": "G47.91 (Retail sale via mail order houses or via Internet)",
+    "core_activity_confidence": 90,
+    "size": "LARGE",
+    "size_confidence": 70
+  },
+  {
+    "id": "IT_65",
+    "type": "PRIVATE",
+    "type_confidence": 85,
+    "core_activity": null,
+    "core_activity_confidence": 40,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 50
+  },
+  {
+    "id": "IT_67",
+    "type": "PRIVATE",
+    "type_confidence": 99,
+    "core_activity": "J62.02 (Computer consultancy activities)",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 90
+  },
+  {
+    "id": "IT_68",
+    "type": "PRIVATE",
+    "type_confidence": 80,
+    "core_activity": "M86.22 (Specialist medical practice activities)",
+    "core_activity_confidence": 55,
+    "size": "SMALL",
+    "size_confidence": 80
+  },
+  {
+    "id": "IT_70",
+    "type": "PRIVATE",
+    "type_confidence": 98,
+    "core_activity": "D35.14 (Trade of electricity)",
+    "core_activity_confidence": 90,
+    "size": "VERY LARGE",
+    "size_confidence": 90
+  },
+  {
+    "id": "IT_71",
+    "type": "MUNICIPALITY",
+    "type_confidence": 99,
+    "core_activity": "LOCAL GOVERNMENT",
+    "core_activity_confidence": 95,
+    "size": "LARGE",
+    "size_confidence": 80
+  },
+  {
+    "id": "IT_72",
+    "type": "MUNICIPALITY",
+    "type_confidence": 99,
+    "core_activity": "LOCAL GOVERNMENT",
+    "core_activity_confidence": 95,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 85
+  },
+  {
+    "id": "IT_75",
+    "type": "PRIVATE",
+    "type_confidence": 95,
+    "core_activity": null,
+    "core_activity_confidence": 40,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 70
+  },
+  {
+    "id": "IT_76",
+    "type": "GOV",
+    "type_confidence": 99,
+    "core_activity": "O84.11 (General public administration activities)",
+    "core_activity_confidence": 90,
+    "size": "VERY LARGE",
+    "size_confidence": 95
+  },
+  {
+    "id": "IT_77",
+    "type": "MUNICIPALITY",
+    "type_confidence": 99,
+    "core_activity": "LOCAL GOVERNMENT",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 85
+  },
+  {
+    "id": "IT_79",
+    "type": "PRIVATE",
+    "type_confidence": 95,
+    "core_activity": "J62.01 (Computer programming activities)",
+    "core_activity_confidence": 70,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 70
+  },
+  {
+    "id": "IT_80",
+    "type": "PRIVATE",
+    "type_confidence": 85,
+    "core_activity": "J62.09 (Other information technology and computer service activities)",
+    "core_activity_confidence": 60,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 70
+  },
+  {
+    "id": "IT_83",
+    "type": "MUNICIPALITY",
+    "type_confidence": 99,
+    "core_activity": "LOCAL GOVERNMENT",
+    "core_activity_confidence": 95,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 85
+  },
+  {
+    "id": "IT_85",
+    "type": "PRIVATE",
+    "type_confidence": 95,
+    "core_activity": "D35.11 (Production of electricity)",
+    "core_activity_confidence": 70,
+    "size": "LARGE",
+    "size_confidence": 70
+  },
+  {
+    "id": "IT_86",
+    "type": "PRIVATE",
+    "type_confidence": 95,
+    "core_activity": null,
+    "core_activity_confidence": 40,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 70
+  },
+  {
+    "id": "IT_89",
+    "type": "PRIVATE",
+    "type_confidence": 99,
+    "core_activity": "K65.11 (Life insurance)",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 90
+  },
+  {
+    "id": "IT_90",
+    "type": "PRIVATE",
+    "type_confidence": 99,
+    "core_activity": "J61.10 (Wired telecommunications activities)",
+    "core_activity_confidence": 85,
+    "size": "VERY LARGE",
+    "size_confidence": 95
+  },
+  {
+    "id": "IT_91",
+    "type": "OTHER",
+    "type_confidence": 98,
+    "core_activity": "HIGHER EDUCATION",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 90
+  },
+  {
+    "id": "IT_92",
+    "type": "GOV",
+    "type_confidence": 98,
+    "core_activity": "HEALTH",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 85
+  },
+  {
+    "id": "IT_93",
+    "type": "OTHER",
+    "type_confidence": 90,
+    "core_activity": "SECONDARY EDUCATION",
+    "core_activity_confidence": 90,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 70
+  },
+  {
+    "id": "NO_1",
+    "type": "PRIVATE",
+    "type_confidence": 90,
+    "core_activity": "J63.11 (Data processing, hosting and related activities)",
+    "core_activity_confidence": 70,
+    "size": "LARGE",
+    "size_confidence": 70
+  },
+  {
+    "id": "NO_2",
+    "type": "PRIVATE",
+    "type_confidence": 98,
+    "core_activity": "R93.13 (Fitness facilities)",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 85
+  },
+  {
+    "id": "NO_3",
+    "type": "PRIVATE",
+    "type_confidence": 98,
+    "core_activity": "J63.12 (Web portals)",
+    "core_activity_confidence": 90,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 85
+  },
+  {
+    "id": "NO_4",
+    "type": "OTHER",
+    "type_confidence": 85,
+    "core_activity": "RELIGIOUS ORGANIZATION",
+    "core_activity_confidence": 85,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 60
+  },
+  {
+    "id": "NO_5",
+    "type": "MUNICIPALITY",
+    "type_confidence": 99,
+    "core_activity": "LOCAL GOVERNMENT",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 90
+  },
+  {
+    "id": "NO_6",
+    "type": "MUNICIPALITY",
+    "type_confidence": 95,
+    "core_activity": "EDUCATION ADMINISTRATION",
+    "core_activity_confidence": 90,
+    "size": "VERY LARGE",
+    "size_confidence": 85
+  },
+  {
+    "id": "NO_7",
+    "type": "GOV",
+    "type_confidence": 99,
+    "core_activity": "TRANSPORT INFRASTRUCTURE",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 90
+  },
+  {
+    "id": "NO_8",
+    "type": "GOV",
+    "type_confidence": 99,
+    "core_activity": "DATA PROTECTION AUTHORITY",
+    "core_activity_confidence": 95,
+    "size": "LARGE",
+    "size_confidence": 70
+  },
+  {
+    "id": "NO_9",
+    "type": "MUNICIPALITY",
+    "type_confidence": 99,
+    "core_activity": "LOCAL GOVERNMENT",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 90
+  },
+  {
+    "id": "NO_10",
+    "type": "MUNICIPALITY",
+    "type_confidence": 99,
+    "core_activity": "LOCAL GOVERNMENT",
+    "core_activity_confidence": 95,
+    "size": "LARGE",
+    "size_confidence": 85
+  },
+  {
+    "id": "NO_11",
+    "type": "OTHER",
+    "type_confidence": 98,
+    "core_activity": "SPORTS FEDERATION",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 85
+  },
+  {
+    "id": "NO_12",
+    "type": "PRIVATE",
+    "type_confidence": 95,
+    "core_activity": "D35.11 (Production of electricity)",
+    "core_activity_confidence": 80,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 75
+  },
+  {
+    "id": "NO_14",
+    "type": "PRIVATE",
+    "type_confidence": 60,
+    "core_activity": "H52.21 (Service activities incidental to land transportation)",
+    "core_activity_confidence": 60,
+    "size": "LARGE",
+    "size_confidence": 60
+  },
+  {
+    "id": "NO_15",
+    "type": "OTHER",
+    "type_confidence": 99,
+    "core_activity": "HIGHER EDUCATION",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 90
+  },
+  {
+    "id": "NO_16",
+    "type": "OTHER",
+    "type_confidence": 99,
+    "core_activity": "RELIGIOUS ORGANIZATION",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 85
+  },
+  {
+    "id": "NO_17",
+    "type": "PRIVATE",
+    "type_confidence": 98,
+    "core_activity": "M70.22 (Business and other management consultancy activities)",
+    "core_activity_confidence": 90,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 85
+  },
+  {
+    "id": "NO_18",
+    "type": "PRIVATE",
+    "type_confidence": 98,
+    "core_activity": "G47.11 (Retail sale in non-specialised stores with food)",
+    "core_activity_confidence": 90,
+    "size": "LARGE",
+    "size_confidence": 85
+  },
+  {
+    "id": "NO_20",
+    "type": "PRIVATE",
+    "type_confidence": 98,
+    "core_activity": "J63.12 (Web portals)",
+    "core_activity_confidence": 85,
+    "size": "LARGE",
+    "size_confidence": 80
+  },
+  {
+    "id": "NO_21",
+    "type": "GOV",
+    "type_confidence": 99,
+    "core_activity": "HEALTH",
+    "core_activity_confidence": 95,
+    "size": "VERY LARGE",
+    "size_confidence": 90
+  },
+  {
+    "id": "NO_22",
+    "type": "OTHER",
+    "type_confidence": 95,
+    "core_activity": "PENSIONS",
+    "core_activity_confidence": 90,
+    "size": "SMALL OR MEDIUM",
+    "size_confidence": 80
+  }
+]

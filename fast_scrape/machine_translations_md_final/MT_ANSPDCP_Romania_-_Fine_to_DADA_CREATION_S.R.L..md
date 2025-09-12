@@ -1,0 +1,9 @@
+The National Supervisory Authority completed an investigation at the operator DADA CREATION SRL and found the violation of the provisions of art. 32 para. (1) and (2) and art. 33 para. (1) of the General Data Protection Regulation. The operator DADA CREATION SRL was sanctioned as follows: 
+- fine in the amount of 24,272.50 lei, the equivalent of 5,000 EURO, for violating the provisions of art. 32 para. (1) and (2) of the General Data Protection Regulation;
+- warning for violation of art. 33 para. (1) of the General Data Protection Regulation.
+
+The investigation was launched following a complaint alleging that through the operator's website was available a document on detailed records of transactions received by this site from its customers (individuals) containing e-mail addresses, numbers telephone number, name and surname of customers (adults and minors), age of minors, delivery addresses, order number, total order amount, products ordered and date of order. The breach of data security consisted in the fact that DADA CREATION SRL did not implement adequate technical and organizational measures in order to ensure a level of security appropriate to the risk of processing, which led to the disclosure and unauthorized access to personal data of approximately 1091 individuals who had placed orders on the operator's website.
+
+Also, the operator was sanctioned with a warning because he did not notify the Supervisory Authority of the security incident (which was brought to his attention by our institution), according to art. 33 of the General Data Protection Regulation.
+
+At the same time, the corrective measure was applied to review and update the technical and organizational measures implemented as a result of the risk assessment for the rights and freedoms of individuals, so as to avoid similar incidents of unauthorized disclosure of personal data processed.

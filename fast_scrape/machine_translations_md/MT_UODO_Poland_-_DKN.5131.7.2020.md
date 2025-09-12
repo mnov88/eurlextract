@@ -1,0 +1,349 @@
+ UODO (Poland) - DKN.5131.7.2020 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"5f7c28639c60eb6d4d78ec93","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"UODO\_(Poland)\_-\_DKN.5131.7.2020","wgTitle":"UODO (Poland) - DKN.5131.7.2020","wgCurRevisionId":36433,"wgRevisionId":36433,"wgArticleId":3215,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["UODO (Poland)","Poland","Article 33(1) GDPR","Article 33(3) GDPR","2021","Polish"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"UODO\_(Poland)\_-\_DKN.5131.7.2020","wgRelevantArticleId":3215,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:UODO_\(Poland\)_-_DKN.5131.7.2020&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=UODO_\(Poland\)_-_DKN.5131.7.2020&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=UODO_\(Poland\)_-_DKN.5131.7.2020&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=UODO+%28Poland%29+-+DKN.5131.7.2020&returntoquery=oldid%3D36433 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# UODO (Poland) - DKN.5131.7.2020
+
+From GDPRhub
+
+Revision as of 10:00, 17 November 2023 by [Ar](/index.php?title=User:Ar&action=edit&redlink=1 "User:Ar (page does not exist)") ([talk](/index.php?title=User_talk:Ar&action=edit&redlink=1 "User talk:Ar (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Ar "Special:Contributions/Ar")) (Ar moved page [UODO - DKN.5131.7.2020](/index.php?title=UODO_-_DKN.5131.7.2020 "UODO - DKN.5131.7.2020") to [UODO (Poland) - DKN.5131.7.2020](/index.php?title=UODO_\(Poland\)_-_DKN.5131.7.2020 "UODO (Poland) - DKN.5131.7.2020"))
+
+([diff](/index.php?title=UODO_\(Poland\)_-_DKN.5131.7.2020&diff=prev&oldid=36433 "UODO (Poland) - DKN.5131.7.2020")) [← Older revision](/index.php?title=UODO_\(Poland\)_-_DKN.5131.7.2020&direction=prev&oldid=36433 "UODO (Poland) - DKN.5131.7.2020") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+UODO - DKN.5131.7.2020
+
+[![LogoPL.png](/images/thumb/7/7b/LogoPL.png/250px-LogoPL.png)](/index.php?title=File:LogoPL.png)
+
+Authority:
+
+[UODO (Poland)](/index.php?title=UODO_\(Poland\) "UODO (Poland)")
+
+Jurisdiction:
+
+[Poland](/index.php?title=Category:Poland "Category:Poland")
+
+Relevant Law:
+
+[Article 33(1) GDPR](/index.php?title=Article_33_GDPR#1 "Article 33 GDPR")  
+[Article 33(3) GDPR](/index.php?title=Article_33_GDPR#3 "Article 33 GDPR")
+
+Type:
+
+Investigation
+
+Outcome:
+
+Violation Found
+
+Started:
+
+Decided:
+
+11.01.2021 Published:
+
+Fine:
+
+30000 EUR
+
+Parties:
+
+n/a
+
+National Case Number/Name:
+
+DKN.5131.7.2020
+
+European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+n/a
+
+Original Language(s):
+
+[Polish](/index.php?title=Category:Polish "Category:Polish")
+
+Original Source:
+
+[Urząd Ochrony Danych Osobowych (in PL)](https://www.uodo.gov.pl/decyzje/DKN.5131.7.2020)
+
+Initial Contributor:
+
+Maciej Niezgoda
+
+The Polish DPA (Urząd Ochrony Danych Osobowych) imposed an administrative fine of over PLN 136,000 (approx. €30,000) on an energy sector company for failing to report a data protection breach.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Dispute](#Dispute)
+    *   [1.3 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+The Polish DPA received information about a personal data breach from a person who became an unauthorized recipient of personal data. The breach involved sending an email with an unencrypted, non-password protected attachment containing personal data of several hundred people. The sender of the e-mail was a co-worker of the sanctioned company. The Polish DPA asked the company to explain the circumstances of the incident, to present an analysis of the incident and to assess whether, in connection with the situation, there was a need to notify the supervisory authority of the breach and the persons affected by it. The penalized entity indicated that an assessment was made in terms of the risk of infringement of rights and freedoms of natural persons, on the basis of which the company concluded that there was no infringement resulting in the need to notify the DPA. Moreover, the company considered that due to the prompt actions taken, such as the declaration of an unauthorized addressee that he/she had permanently destroyed an attachment he/she was not authorized to receive, the possibility of the occurrence of negative consequences of this event for data subjects in the future was eliminated. Due to the failure to report the data protection breach, the DPA initiated administrative proceedings against the company, which in the course of the proceedings maintained its previous positions presented in correspondence with the DPA and still failed to report the breach to the supervisory authority.
+
+### Dispute
+
+Does a declaration of deletion of personal data, issued by a person who has obtained unauthorized access to the personal data of the company's customers, minimize the risk of infringement of the rights and freedoms of data subjects and, consequently, does not require a data protection breach notification?
+
+### Holding
+
+According to the DPA, a declaration by an identifiable person to permanently destroy an attachment with personal data does not eliminate the risk of a data breach at all. The DPA found that the company had a duty to report the data breach and had failed to do so within the timeframe set out in Article 33(1) of the GDPR, meaning that the company had breached this provision. Consequently the DPA imposed an administrative fine of 30 000 EUR on energy sector company for failing to report a data protection breach.
+
+## Comment
+
+When deciding to impose an administrative fine on the company, the DPA - took into account the following circumstances of the case that determine the necessity of applying this type of sanction in the present case and have an aggravating effect on the amount of the imposed fine:
+
+Number of affected data subjects - The breach found in the present case concerns two hundred and fifty-nine persons and involves a risk of violation of their rights or freedoms.
+
+Duration of the infringement - The DPA considers the long duration of the infringement as an aggravating circumstance. From the time the company became aware of the data breach until the date of the decision, the company failed to comply with its obligation under Article 33 of the GDPR.
+
+Intentional nature of the breach - The company made a conscious decision not to notify the DPA of the breach, despite being informed of the incident by an unauthorized recipient and letters sent to it by the DPA indicating that there may be a risk of infringement of the rights or freedoms of the persons affected in this case.
+
+Degree of responsibility of the controller taking into account the technical and organizational measures implemented by the controller under Articles 25 and 32 of the GDPR - The breach found was related to the company's failure to implement or improperly implement organizational and technical measures to ensure data security, i.e., for example, encryption of files containing personal data that are sent in emails.
+
+Degree of cooperation with the supervisory authority in order to remedy the breach and mitigate its possible negative effects - In the case, the DPA found the company's cooperation with it unsatisfactory. This assessment concerns the company's reaction to the DPA's letters indicating a possible risk of infringement of the rights or freedoms of the persons affected by the infringement in the present case. In the opinion of the DPA the company did not take proper action in the form of a notification of a data protection infringement.
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the Polish original. Please refer to the Polish original for more details.
+
+PRESIDENT
+OF THE PERSONAL DATA PROTECTION OFFICE
+
+Warsaw, January 11, 2021
+
+DECISION
+
+DKN.5131.7.2020
+
+Based on Article. 104 § 1 of the Act of 14 June 1960 Code of Administrative Procedure (Journal of Laws of 2020, item 256, as amended), art. 7 sec. 1 and art. 60, art. 101 and art. 103 of the Act of May 10, 2018 on the Protection of Personal Data (Journal of Laws of 2019, item 1781), as well as Art. 57 sec. 1 lit. a), art. 58 sec. 2 lit. i), art. 83 sec. 1 - 3 and art. 83 sec. 4 lit. a) in connection with Art. 33 sec. 1 of the Regulation of the European Parliament and of the EU Council 2016/679 of 27 April 2016 on the protection of individuals with regard to the processing of personal data and                        on the free movement of such data and the repeal of Directive 95/46 / EC (General Data Protection Regulation ) (Journal of Laws UE L 119 of May 4, 2016, p. 1 and Journal of Laws UE L 127 of May 23, 2018, page 2), hereinafter also referred to as "Regulation 2016/679", after conducting administrative proceedings regarding the failure to notify the personal data breach to the President of the Personal Data Protection Office, by ENEA SA with its registered office in Poznań at ul. Górecka 1, President of the Office for Personal Data Protection,         
+
+finding a breach by ENEA SA with its registered office in Poznań at ul. Górecka 1, the provision of Art. 33 paragraph. 1 of Regulation 2016/679, consisting in not reporting a breach of personal data protection to the President of the Personal Data Protection Office without undue delay, no later than 72 hours after finding the breach, imposes on ENEA SA with its registered office in Poznań at ul. Górecka 1, an administrative fine in the amount of PLN 136,437 (in words: one hundred and thirty-six thousand four hundred and thirty-seven zlotys).          
+
+Substantiation
+
+The Office for Personal Data Protection, hereinafter also referred to as "UODO", on \[...\] June 2020, received information about a breach of personal data protection from a person who became an unauthorized addressee of the personal data in question. The breach consisted in sending by a person associated with ENEA SA with its registered office in Poznań at ul. Górecka 1, hereinafter also referred to as the "Company", to an unauthorized addressee an e-mail with an attachment containing the addressee's personal data and two hundred and fifty-nine other persons (customers of the Company) , as a result of which the confidentiality of data was breached in the scope of: names, surnames, e-mail addresses, telephone numbers and information on the date of registration in \[…\]. The person who sent (using an e-mail account other than his business account) the message along with the incorrect, unencrypted file containing personal data was (as follows from the later explanations of the Company) an associate of the company with which the contractor conducts qualitative research for the Company (P . Sp. Z o.o.).             
+
+In connection with the above, on \[...\] June 2020, the President of the Personal Data Protection Office, hereinafter also referred to as the "President of the Personal Data Protection Office", pursuant to Art. 58 sec. 1 lit. a) and e) of Regulation 2016/679, asked the Company to clarify whether, in connection with the sending of the above-mentioned e-mail to an unauthorized recipient, the incident was analyzed in terms of the risk of violating the rights and freedoms of natural persons, necessary to assess whether to breach of data protection resulting in the need to notify the President of the Personal Data Protection Office and the persons concerned by the breach. In the letter, the President of the Personal Data Protection Office indicated to the Company how to report the infringement and called for explanations within 7 days from the date of delivery of the letter.             
+
+In response to the above, the Company, in a letter of \[...\] June 2020, confirmed that a breach of personal data protection consisting in disclosure of personal data to an unauthorized recipient took place. Moreover, the Company indicated that an assessment was made in terms of the risk of violating the rights and freedoms of natural persons. On its basis, the Company concluded that there was no breach resulting in the need to notify the President of the Personal Data Protection Office, because:   
+
+1) the data was not of a special nature,
+
+2) the administrator knows the identity of the person to whom the data has been disclosed and has received a declaration from him that he has permanently destroyed the attachment he was not authorized to receive.  
+
+Moreover, the Company emphasized that "due to the quick actions taken, we have eliminated the possibility that the event could have negative consequences for the data subjects".
+
+In connection with the above-mentioned in the letter, due to the risk assessment of violation of the rights and freedoms of data subjects, the President of the Personal Data Protection Office in a letter of \[...\] July 2020 informed the Company that "in accordance with Art. 33 paragraph. 1 above of the regulation, in the event of a breach of personal data protection, the data controller shall, without undue delay - if possible, no later than 72 hours after finding the breach - notify the competent supervisory authority pursuant to art. 55, unless it is unlikely that the violation would result in a risk of violation of the rights or freedoms of natural persons. The notification submitted to the supervisory authority after 72 hours shall be accompanied by an explanation of the reasons for the delay. " Moreover, in the letter, he indicated to the Company, inter alia, that "When assessing whether the violation results in the risk of violating the rights or freedoms of natural persons, one should take into account, the content of recitals 75 and 85 of the above-mentioned regulation. Moreover, the Article 29 Working Party in the Guidelines on the reporting of personal data breaches in accordance with Regulation 2016/679 (WP250rev.01)                \[ 1\] indicated that the controller, when assessing the risk to individuals resulting from a breach, should take into account “the specific circumstances of the breach, including the severity of the potential impact and the likelihood of its occurrence” and recommended that the assessment should take into account the criteria indicated in these Guidelines. In the above-mentioned The guidelines also explain that “when assessing the risks that may arise from a breach, the controller should collectively consider the importance of the potential impact on the rights and freedoms of individuals and the likelihood of their occurrence. Of course, the risk increases when the consequences of a breach are more severe and also when the likelihood of their occurrence increases. In case of any doubts, the controller should report the breach, even if such caution could turn out to be excessive ” ”. At the same time, the President of the Personal Data Protection Office called the Company pursuant to Art. 58 sec. 1 lit. a) and e) of Regulation 2016/679 to provide information whether, in connection with the incident, the incident was re-analyzed in terms of the risk of violating the rights and freedoms of natural persons, necessary to assess whether there has been a breach of data protection resulting in the need to notify the President of the Data Protection Office Persons and persons affected by the violation, and if so, whether the results of the re-analysis are identical to the results of the previously conducted assessment by the administrator of the above-mentioned the event, and also called for explanations within 7 days from the date of delivery of the letter.                   
+
+In its reply of \[...\] July 2020, the Company explained that it had re-analyzed the risk, which showed a result similar to the result of the analysis carried out by the administrator on \[...\] June 2020, that is, it concluded that there was a low probability of infringement of rights. or the freedom of the data subjects. Annex 1 to this letter was "Analysis of secondary breach of personal data protection" showing the course of the Company's analysis of the risk of violating the rights or freedoms of natural persons. In the letter sent, the company also drew attention to the remedial measures it had taken, stressing that “The remedial actions made it possible to eliminate the possibility that the incident could have negative consequences for the data subjects. Significant for the result of both analyzes is the fact that the incident concerned basic data (i.e. name, surname, e-mail address, telephone number and date of registration), and that the controller knows the identity of the person to whom personal data was disclosed by mistake. The administrator also received on \[...\] .06.2020 a statement from the person to whom the data were disclosed that he had permanently destroyed the attachment with personal data, to which the person was not authorized to receive. These remedies have eliminated the likelihood of a further breach of data protection in the present case. '         
+
+In connection with the above, the President of the Personal Data Protection Office (UODO) addressed the Company in a letter of \[...\] September 2020, in which he indicated, inter alia, that Art. 33 paragraph. 1 sentence 1 of Regulation 2016/679 states that: "In the event of a breach of personal data protection, the controller shall, without undue delay - if possible, no later than 72 hours after finding the breach - notify the competent supervisory authority pursuant to Art. 55, unless it is unlikely that the violation would result in a risk of violating the rights or freedoms of natural persons "and stated that" Contrary to what was contained in the conclusions resulting from the analysis presented in the above-mentioned Annex 1, whether the rights or freedoms of natural persons have been violated is indifferent to the controller, whose obligation is to notify the supervisory authority of a breach of personal data protection "unless it is unlikely that the breach would result in a risk of violation of the rights or freedoms of natural persons" " . Moreover, it was emphasized that "the submission of a declaration by an identifiable person about the permanent destruction of the attachment with personal data does not eliminate the risk of breach of personal data protection - especially considering that the Company did not receive information on possible further disclosure of this data by an unauthorized recipient. In addition, the Company should take into account, for example, the fact that the breach of data protection took place on \[...\] June 2020, and the above statement (regardless of the assessment of its severity and effects) was submitted only on \[...\] June 2020 - if the statement submitted by an unauthorized recipient was to eliminate the risk of breach of personal data protection, this risk existed for five days ”. In this letter, the President of the Personal Data Protection Office asked the Company pursuant to Art. 58 sec. 1 lit. a) and e) of Regulation 2016/679 to submit, within 7 days from the date of delivery of this letter, explanations regarding, inter alia, what possibly "Remedial actions", mentioned in the letter of \[...\] July 2020, not constituting obtaining from an unauthorized recipient e-mail messages of the declaration of permanent destruction of the attachment "made it possible to eliminate the possibility that the incident could have negative consequences for the data subjects".                        
+
+By letter of \[...\] September 2020, the Company provided explanations, which show, inter alia, that "the Company (...) learned about the breach of data protection on \[...\] June 2020. On the same day, the Company's subcontractor contacted the unauthorized the recipient of the data, i.e. the Company immediately took remedial actions that eliminated the risk of data breach from the very first day. In the day \[...\] June 2020. Ineligible receiver in a telephone conversation with an employee of the Company announced that it will permanently delete the data. The unauthorized recipient on \[...\] June 2020 committed to permanent deletion, and only confirmation of this action took place on \[...\] June 2020. So, from the first day after becoming aware of the data breach , the Company took action remedial actions so that the risk of violating the rights and freedoms of natural persons is eliminated. Referring to subsequent remedial actions, the Company carried out an analysis to identify the causes of the data protection incident and updated the documentation on: a) Selection of suppliers (processors) under the tender procedure in force in the Company (e.g. the Company clarified what has already resulted from from the agreement that suppliers contacting customers are required to use the company's e-mail domain). b) Have the supplier instructed the supplier to re-train in the correct addressing and sending of correspondence by its employees. ' In the opinion of the President of the Personal Data Protection Office, the Company did not demonstrate any additional remedial measures reducing the risk of violating the rights or freedoms of data subjects related to the event in question.                       
+
+In the absence of notification of the breach of personal data protection to the President of the Personal Data Protection Office, on \[...\] October 2020, the President of the Personal Data Protection Office initiated administrative proceedings against the Company (letter reference: \[...\]). 
+
+In response to the notification of the initiation of the administrative procedure, the Company, by letter of \[...\] October 2020, informed that:  
+
+1. As a result of the violation, there was no physical damage, property damage or non-material damage to natural persons, such as control over own personal data or limitation of rights, discrimination, theft or falsification of identity, financial loss, unauthorized reversal of pseudonymization , violation of good name, violation confidentiality of personal data protected by professional secrecy or other economic or social damage referred to in recital 85 of the GDPR Preamble. Therefore, bearing in mind the principle of accountability and the basis of risk analysis carried out by the Data Protection Officer of ENEA SA and outside the Firm (specializing in the regulations on the protection of personal data, for which the Company has requested support), the Company concluded that it is unlikely that the breach could cause a risk of violating the rights or freedoms of customers whose personal data was in the database sent by mistake.          
+
+2. In addition to permanent cooperation with the contractor, ie P. Sp. z o.o., in order to clarify the circumstances of the event, including receipt of significant declarations, ENEA SA verified whether the processing entity, ie P. Sp. z o.o. or subcontractors of the processor, to other violations. As part of this verification \[...\] Enea SA contacted the persons whose data was in the possession of P. Sp. z o.o. in order to determine from which e-mail addresses the persons performing the order on the part of P. Sp. z o.o. contacted customers and what was the quality of the services provided. The company has also drawn civil law consequences in relation to the Contractor. It is clear from the above that Enea SA, as the data controller, took, in addition to all necessary actions necessary to clarify the case, also additional actions to reliably and thoroughly explain the event in question and to investigate whether there were any other events that could result in violation of rights and the freedom of individuals.                 
+
+In addition, to the above-mentioned The letter was enclosed by the Company "a second statement on the deletion of personal data, issued by Mr. (...), who obtained unauthorized access to the personal data of ENEA SA customers as a result of an error by Mr. (...), working on the tests on the part of the Contractor ENEA SA, i.e. P. Sp. z o.o. The indicated declaration confirms that the data of ENEA SA customers: a) were immediately removed by Mr. (...), b) were not copied or made available to other persons by Mr. (...) ”.   
+
+Consequently, in the opinion of the Company's data protection officer, in the case in question, there was no need to report the infringement to the President of the Personal Data Protection Office.  
+
+Due to the fact that the above-mentioned letters addressed to the Office for Personal Data Protection were signed by the data protection officer, and not by the representatives of the Company, in accordance with the method of representation disclosed in the Register of Entrepreneurs kept by the National Court Register, on \[...\] December 2020 In the year, the Company was asked, inter alia, to provide the local Office with the missing document: a power of attorney granted to an employee of the Company responding to correspondence addressed to the administrator by the President of the Office for Personal Data Protection. In response, the Company sent the above-mentioned letter to the Office for Personal Data Protection on \[...\] December 2020 (previously sent on \[...\] October 2020 and then signed by the data protection officer), dated on \[...\] December 2020 the signatures of two members of the management board of the Company. The letter of \[...\] December 2020 also contains, inter alia, an explanation that " (... ) all letters sent to the Personal Data Protection Office and signed by IOD Enea SA are previously consulted and approved by the Administrator".              
+
+In response to the notice of gathering evidence sent to the Company at the date \[...\] in January 2021 year on \[...\] January 2021, the Company sent a letter, in which maintained its previous position shown in correspondence with the Office for Personal Data Protection in June 2020, and also referred to, inter alia, to the issue of not reporting the incident to the President of the Personal Data Protection Office. The company indicated that the analyzes of the incident were carried out on the basis of the guidelines of the European Union Agency for Network and Information Security (ENISA), 2013, Recommendations for a methodology of the assessment of severity of personal data breaches and that by applying them, it obtained a risk score at the WN level < 2 that is: "Persons will not be affected by the breach or will cause minor inconvenience." The company also drew attention to the "key components of the risk analysis", pointing to (quoted):           
+
+1. Type and level of data sensitivity - unauthorized disclosure of personal data pertained to the name, surname, email address, telephone number and information on the registration date. The above-mentioned scope of data which was unauthorized disclosure constitutes basic data, not behavioral data (falling within the scope of the so-called behavioral data). We also point out that data on a person's behavior can be obtained by profiling, as referred to in art. 4 pts 4 GDPR. However, as part of our activities, we do not conduct profiling, and the mere information about the date of registration in \[...\] is not a sufficient condition to recognize that we are dealing with information about preferences. Moreover, it should be explicitly stated that customers register with \[…\] as they receive discount coupons, so it cannot be said that there is any specific information about preferences here. It would be different in the case of indicating, for example, the scope of purchases made, which, however, was not covered by the database in question.                 
+
+2. The ability to identify - on the basis of ENISA note that analysis of the facts occurred limited identification - there is a time when the public is small and the data registration unavailable type of social security. We would like to emphasize that the unauthorized recipient immediately deleted the data to which he gained access as a result of a subcontractor's mistake. Moreover, he also submitted a declaration of confidentiality.   
+
+Moreover, in the above-mentioned in a letter of \[...\] January 2021, describing the remedial measures taken, the Company stated, inter alia, that it terminated the contract with P. Sp. z o.o. in connection with the failure to meet safety standards, which meet P. Sp. z o.o. was obliged by an agreement with the Company and "introduced stricter requirements regarding the minimum technical and organizational measures to be met by the Contractor (despite the fact that the existing ones were compliant with the applicable legal standards)". The company also filed for "the non-imposition of a penalty or its extraordinary mitigation" due to its taking the necessary measures to "limit or even eliminate the effects of this violation".           
+
+After reading all the evidence collected in the case, the President of the Office for Personal Data Protection considered the following:  
+
+Pursuant to Art. 4 point 12 of Regulation 2016/679 "breach of personal data protection" means a breach of security leading to accidental or unlawful destruction, loss, modification, unauthorized disclosure or unauthorized access to personal data transmitted, stored or otherwise processed.    
+
+Art. 33 sec. 1 and 3 of Regulation 2016/679 stipulate that in the event of a breach of personal data protection, the data controller shall, without undue delay - if possible, no later than 72 hours after finding the breach - report it to the competent supervisory authority pursuant to Art. 55, unless it is unlikely that the breach would result in a risk of violation of the rights or freedoms of natural persons. The notification submitted to the supervisory authority after 72 hours shall be accompanied by an explanation of the reasons for the delay. The notification referred to in para. 1, must at least: a) describe the nature of the personal data breach, including , if possible, the categories and approximate number of data subjects, as well as the categories and approximate number of entries of personal data affected by the breach; (b) include the name and contact details of the data protection officer or an indication of another contact point from which more information can be obtained; c) describe the possible consequences of the breach of personal data protection; (d) describe the measures taken or proposed by the controller to address the personal data breach, including, where appropriate, measures to minimize its possible negative effects.                  
+
+The content of the above-mentioned provisions of Regulation 2016/679 shows that in the event of a breach of personal data protection on the part of the data controller, there is an obligation to report it to the President of the Personal Data Protection Office, if the breach involves a risk of violating the rights or freedoms of natural persons - regardless of the level of this risk.  
+
+In the case at hand, which clearly results from the findings made, an e-mail with an attachment in the form of an unencrypted file containing personal data of the recipient of the message and two hundred and fifty-nine other persons (names, e-mail addresses, phone numbers) was sent to the unauthorized recipient . phone numbers, as well as information about the date of registration). This means is that there has been a breach of security leading to the accidental disclosure of two hundred fifty-nine people person not entitled to receive the data, and thus a violation of the confidentiality of these people, which determines that the violation of personal data protection.        
+
+Violation of the protection of personal data (data confidentiality), which occurred in this case, contrary to the claims of the Company contained in the correspondence addressed to the President of the Personal Data Protection Office, results in the risk of violating the rights or freedoms of natural persons. As indicated by the Article 29 Working Party in the guidelines on reporting personal data breaches in accordance with Regulation 2016/679, hereinafter also referred to as "guidelines": "When assessing the risk to individuals resulting from the breach, the controller should therefore take into account the specific circumstances of the breach, including the importance of the potential impact and the likelihood of it occurring. The Article 29 Working Party therefore recommends that the assessment takes into account the following criteria: (…) Number of individuals affected by the Breach A Breach may only affect one person, several or several thousand or many more. Typically, the potential impact of a breach increases with the number of people affected. However, depending on the nature of the personal data and the context in which they were disclosed, a breach could have serious consequences for up to one individual. Again, the most important thing is to analyze the likelihood of consequences for those affected by the breach and how severe the consequences will be . ' There is no doubt that in the case at hand, the infringement concerns many people, which significantly increases the seriousness of the infringement and the probability of the risks related to the infringement materializing. Another important factor for such risk assessment is the possibility of easy identification of persons whose data was affected by the breach, based on the disclosed data - the fact that the breach did not reveal, for example, PESEL identification numbers of persons affected by it, does not mean that these persons cannot be identify. As a consequence, this means that there is a risk of violation of the rights or freedoms of the persons covered by the violation, which in turn results in the obligation for the Company, as the data controller, to report the violation of personal data protection to the supervisory authority, in accordance with Art. 33 paragraph. 1 of the Regulation 2016/679, which must contain the information specified in art. 33 paragraph. 3 of the Regulation 2016/679.                          
+
+In the case at hand, as already mentioned, the personal data of two hundred and fifty-nine persons was disclosed in the form of: names, surnames, e-mail addresses, telephone numbers, and information on the registration date. Disclosure of such data is not associated with a high risk of violating the rights or freedoms of natural persons, which is determined by, inter alia, the circumstance raised by the Company that as a result of a breach of personal data protection, no data concerning the behavior of these persons (their preferences) were disclosed (and thus, the Company was not obliged to notify the data subjects of the breach, pursuant to Art. 34 of Regulation 2016/679), however, this risk exists in such a case - hence the need to notify the President of the Personal Data Protection Office of the infringement. The possible risk related to the event that has occurred is, in particular, the loss of data subjects' control over their data. These data may, for example, be used by persons who come into their possession, e.g. unwanted by data subjects, contacts by e-mail or telephone - also those during which attempts will be made to obtain additional data of these persons. Finally, using this data, accounts can be set up in various types of social networking sites and internet portals, which may have a negative impact on the perception of these people in their professional or family environment, and even lead to their discrimination. Therefore, the above means that in the case of the personal data breach in question, there is a risk of violating the rights or freedoms of natural persons.                   
+
+It is worth emphasizing that the possible consequences of the event that took place do not have to materialize - in the content of Art. 33 paragraph. 1 of Regulation 2016/679, it was indicated that the mere occurrence of a breach of personal data protection, which involves the risk of violating the rights or freedoms of natural persons, implies an obligation to notify the breach to the competent supervisory authority. Thus, the circumstance raised by the Company that the following quotation: "as a result of the breach, there was no physical damage, property or non-material damage to natural persons, such as control over own personal data or limitation of rights, discrimination, theft or falsification of identity, financial loss, unauthorized reversal of pseudonymisation , breach of good name, breach of confidentiality of personal data protected by professional secrecy or other economic or social damage referred to in recital 85 of the GDPR Preamble "is not relevant for the determination of the Company's obligation to report the breach of personal data protection to the President of the Personal Data Protection Office, in accordance with Art. 33 paragraph. 1 of Regulation 2016/679.        
+
+For the above assessment of the risk of violation of the rights or freedoms of natural persons related to the event, the fact of requesting an unauthorized recipient to permanently delete the correspondence received, or even submitting a declaration by this person about its permanent removal , does not affect . Even in spite of the declarations made in the case at hand, there is no certainty that before these activities, the person did not e.g. make a photocopy or did not record the personal data contained in the document in another way, e.g. by writing them down. Therefore, the mere performance of activities indicated in the declarations submitted by an unauthorized recipient does not provide any guarantees that the intentions of such a person will not change now or in the future, and the possible consequences of using such data categories may be significant for the persons whose data was affected by the breach. The same applies to a possible declaration of destruction of the correspondence received, as the Company cannot actually verify it. The WP29 guidelines state : “ Whether a controller knows that personal data is in the hands of persons whose intentions are unknown or who may be malicious may be relevant to the level of potential risk. There may be a breach of confidentiality consisting in an accidental disclosure of personal data to a third party, as defined in Art. 4, paragraph 10, or to another recipient. This may occur for example in a situation where personal data is accidentally sent to the wrong department or organization to organization suppliers of the services commonly use. The administrator may request the recipient to return or securely destroy the data received. In both cases - due to the fact that the controller is in a permanent relationship with these entities and may know their procedures, their history and other relevant details concerning them - the recipient can be considered "trusted". In other words, the controller can trust the recipient enough to be able to reasonably expect that the party will not read or access the data sent by mistake, and that it will follow the instruction to send it back ”. In the present case, however , there are no grounds for recognizing an unauthorized recipient and treating it as a "trusted recipient", which determines the existence of a risk of violation of rights or freedoms for persons covered by the violation in question. In order to establish that the Company is obliged to notify the President of the Personal Data Protection Office of the above-mentioned breach of personal data protection, in accordance with art. 33 paragraph. 1 of Regulation 2016/679, it is also irrelevant that the Company has taken actions to minimize the risk of recurrence of the breach, as indicated in the correspondence with the supervisory authority, in particular in response to the notification of the initiation of administrative proceedings and in the letter of \[...\] January 2021. The nature of these activities indicates that they are to prevent the occurrence of such violations in the future; these actions in any way but does not affect the assessment that in connection with the occurrence of the violation of data protection there is a risk of violation of rights and freedoms. Moreover, the Article 29 Working Party makes it clear in the guidelines that " in case of any doubts, the controller should report the breach, even if such caution could turn out to be excessive".                                              
+
+At the same time, it should be emphasized that the Company, while allowing the possibility of using e-mail for communication with the client, should be aware of the risks related to, for example, attaching an incorrect attachment to the message sent. The existence of these risks , in the absence of actions of the data controller aimed at minimizing them by implementing appropriate organizational and technical measures , such as encryption of documents sent in this way, directly leads to the risk of violating the rights or freedoms of natural persons whose data through such communication channel are sent.       
+
+In a situation where, as a result of a breach of personal data protection, there is a risk of violation of the rights or freedoms of natural persons, the controller is obliged to implement all appropriate technical and organizational measures to immediately identify the breach of personal data protection and promptly inform the supervisory authority. The administrator should fulfill this obligation as soon as possible.  
+
+Recital 85 of the preamble to Regulation 2016/679 explains: "In the absence of an adequate and prompt response, a breach of personal data protection may result in physical, property or non-material damage to natural persons, such as loss of control over own personal data or limitation of rights, discrimination, theft and or falsification of identity, financial loss, unauthorized reversal of pseudonymisation , breach of reputation, breach of confidentiality of personal data protected by professional secrecy or any other significant economic or social damage. Therefore, as soon as it becomes aware of a personal data breach, the controller should notify it to the supervisory authority without undue delay, if practicable, no later than 72 hours after the breach has been discovered, unless the controller can demonstrate, in accordance with the accountability principle, that it is unlikely, that the breach could result in a risk of violating the rights or freedoms of natural persons. If the notification cannot be made within 72 hours, the notification should be accompanied by an explanation of the reasons for the delay and the information may be provided gradually without further undue delay. '       
+
+Consequently, it should be stated that the Company did not notify the personal data breach to the supervisory body within the period specified in Art. 33 paragraph. 1 of the Regulation 2016/679, which means the Company's breach of this provision.   
+
+Pursuant to Art. 58 sec. 2 lit. i) of Regulation 2016/679, each supervisory authority has the power to apply, in addition to or instead of other remedial measures provided for in Art. 58 sec. 2 of Regulation 2016/679, an administrative fine under Art. 83 of the Regulation 2016/679, depending on the circumstances of the specific case. The President of the Personal Data Protection Office states that in the case under consideration there are premises justifying the imposition of an administrative fine on the Company pursuant to Art. 83 sec. 4 lit. a) of Regulation 2016/679 stating, inter alia, that the breach of the administrator's obligations referred to in art. 33 of Regulation 2016/679, is subject to an administrative fine of up to EUR 10,000,000, and in the case of a company - up to 2 % of its total annual worldwide turnover from the previous financial year, with the higher amount being applicable.               
+
+Pursuant to art. 83 sec. 2 of Regulation 2016/679, administrative fines shall be imposed, depending on the circumstances of each individual case, in addition to or instead of the measures referred to in Art. 58 sec. 2 lit. a) - h) and lit. j) Regulation 2016/679. When deciding to impose an administrative fine on the Company, the President of the Personal Data Protection Office - pursuant to Art. 83 sec. 2 lit. a) - k) of Regulation 2016/679 - took into account the following circumstances of the case necessitating the application of this type of sanction in the present case and having an aggravating effect on the amount of the fine imposed:          
+
+a) Number of injured data subjects (Article 83 (2 ) (a) of Regulation 2016/679); The violation found in the present case concerns two hundred and fifty-nine persons and involves the risk of violating their rights or freedoms.   
+
+b) Duration of the infringement (Article 83 (2 ) (a) of Regulation 2016/679); The President of the Personal Data Protection Office recognizes the long duration of the infringement as an aggravating circumstance. Since the Company became aware of a breach of personal data protection, that is from \[...\] June 2020 until the date of this decision, the Company has not complied with the obligation under Art. 33 of the Regulation 2016/679.   
+
+c) Intentional nature of the infringement (Article 83 (2 ) (b) of Regulation 2016/679); The company made a conscious decision not to notify the President of the Personal Data Protection Office about the infringement, despite receiving information about the event from an unauthorized recipient and the letters of the President of the Personal Data Protection Office (UODO) addressed to it, indicating a possible risk of infringement of the rights or freedoms of the persons affected by the infringement.   
+
+d) The degree of responsibility of the administrator, taking into account technical and organizational measures implemented by him pursuant to art. 25 and 32 (Article 83 (2 ) (d) of Regulation 2016/679); The breach found was related to the lack of implementation or incorrect implementation by the Company of organizational and technical measures ensuring data security, i.e. e.g. encryption of files containing personal data that are sent in electronic messages.      
+
+e) The degree of cooperation with the supervisory authority in order to remove the breach and mitigate its possible negative effects (Article 83 (2 ) (f) of Regulation 2016/679); In the present case, the President of the Personal Data Protection Office found the Company's cooperation with him unsatisfactory . This assessment concerns the reaction of the Company to the letters of the President of the Personal Data Protection Office pointing to the possible risk of violating the rights or freedoms of the persons affected by the violation in this case. Correct, in the opinion of the President of the Personal Data Protection Office (UODO), the Company did not take any action.     
+
+When determining the amount of the administrative fine, the President of the Personal Data Protection Office also took into account the mitigating circumstances affecting the final penalty, i.e. actions taken by the controller to minimize the damage suffered by data subjects ( Article 83 (2 ) (c) of Regulation 2016 / 679) - the Company turned to an unauthorized recipient with a request to permanently delete the correspondence received. Such activity of the Company deserves recognition and approval, however, it is by no means tantamount to the guarantee of the actual removal of personal data by an unauthorized person and does not exclude possible negative consequences of their use for data subjects.          
+
+The fact that the President of the Office applied a sanction in the form of an administrative fine, as well as its amount, was not affected by other sanctions specified in Art. 83 sec. 2 of Regulation 2016/679, the circumstances, i.e .:   
+
+a) the nature and gravity of the breach - the breach found in the present case is not of a significant and serious nature - the risk of violating the rights or freedoms of data subjects is not high (Article 83 (2 ) (a) of Regulation 2016/679);     
+
+b) relevant previous violations of the provisions of Regulation 2016/679 by the Company (Article 83 (2 ) (e) of Regulation 2016/679);  
+
+c) the categories of personal data concerned by the infringement - personal data made available to an unauthorized person do not belong to specific categories of personal data referred to in art. 9 of the Regulation 2016/679, however, their scope (first and last names, telephone numbers, e-mail addresses and information on the date of registration) is associated with the risk of violating the rights or freedoms of natural persons (Article 83 (2 ) (g) of Regulation 2016 / 679);        
+
+d) the way in which the supervisory authority learned about the breach - about the breach of personal data protection being the subject of this case, i.e. about the disclosure to an unauthorized person of personal data processed by the Company acting as the data controller, the President of the Personal Data Protection Office was not informed in accordance with the provisions for such data the situation with the procedure set out in Art. 33 of the Regulation 2016/679 (Article 83 (2 ) (h) of the Regulation 2016/679);        
+
+e) compliance with previously applied in the same case the measures are laid down in Article. 58 sec. 2 of Regulation 2016/679 (Article 83 (2 ) (i) of Regulation 2016/679);      
+
+(f) adherence to approved codes of conduct pursuant to Art. 40 of the Regulation 2016/679 or approved certification mechanisms pursuant to Art. 42 of Regulation 2016/ 679 ( Art. 83 par. 2 point j Regulation 2016/679);   
+
+g) financial benefits gained directly or indirectly from the infringement or losses avoided (Article 83 (2 ) (k) of Regulation 2016/679).    
+
+In the opinion of the President of the Personal Data Protection Office, the applied administrative fine performs the functions referred to in Art. 83 sec. 1 of Regulation 2016/679, i.e. it is effective, proportionate and dissuasive in this individual case .      
+
+It should be emphasized that the penalty will be effective if its imposition leads to the fact that the Company, which processes personal data professionally and on a mass scale, will in the future fulfill its obligations in the field of personal data protection, in particular with regard to reporting a breach of personal data protection. President of the Personal Data Protection Office and notifying about a breach of personal data protection of persons affected by the breach.      
+
+We are dealing with a breach of data protection both when an event occurs as a result of deliberate action and when it is caused inadvertently - the fact that the breach occurred as a result of a mistake does not release the administrator from the obligations set out in Art. 33 paragraph. 1 of Regulation 2016/679 - hence the application of an administrative fine in this case is justified.      
+
+In the opinion of the President of the Personal Data Protection Office, the administrative fine will fulfill a repressive function, as it will be a response to the Company's breach of the provisions of Regulation 2016/679. It will also fulfill a preventive function; in the opinion of the President of the Personal Data Protection Office, he will indicate to both the Company and other data administrators the reprehensibility of disregarding the obligations of administrators related to the occurrence of a breach of personal data protection, and aimed at preventing its negative and often painful consequences for the persons affected by the breach, as well as removing these effects or at least a limitation.      
+
+Pursuant to art. 103 of the Act of May 10, 2018 on the Protection of Personal Data (Journal of Laws of 2019, item 1781), the equivalent of the amounts expressed in euro referred to in Art. 83 of the Regulation 2016/679, are calculated in PLN according to the average EUR exchange rate announced by the National Bank of Poland in the exchange rate table on January 28 of each year, and if the National Bank of Poland does not announce the average EUR exchange rate on January 28 in a given year - according to the average euro exchange rate announced in the table of exchange rates of the National Bank of Poland that is closest after that date.             
+
+In connection with the above, it should be noted that a fine of PLN 136,437 (in words: one hundred and thirty-six thousand four hundred and thirty-seven zlotys), which is the equivalent of EUR 30,000 (average EUR exchange rate from January 28, 2021 - PLN 4.5479) meets the conditions referred to in Art. 83 sec. 1 of Regulation 2016/679 due to the seriousness of the infringement found in the context of the basic objective of Regulation 2016/679 - protection of fundamental rights and freedoms of natural persons, in particular the right to the protection of personal data.            
+
+In this factual and legal state , the President of the Personal Data Protection Office resolved as in the sentence.  
+
+Retrieved from "[https://gdprhub.eu/index.php?title=UODO\_(Poland)\_-\_DKN.5131.7.2020&oldid=36433](https://gdprhub.eu/index.php?title=UODO_\(Poland\)_-_DKN.5131.7.2020&oldid=36433)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [UODO (Poland)](/index.php?title=Category:UODO_\(Poland\) "Category:UODO (Poland)")
+*   [Poland](/index.php?title=Category:Poland "Category:Poland")
+*   [Article 33(1) GDPR](/index.php?title=Category:Article_33\(1\)_GDPR "Category:Article 33(1) GDPR")
+*   [Article 33(3) GDPR](/index.php?title=Category:Article_33\(3\)_GDPR "Category:Article 33(3) GDPR")
+*   [2021](/index.php?title=Category:2021 "Category:2021")
+*   [Polish](/index.php?title=Category:Polish "Category:Polish")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/UODO_\(Poland\)_-_DKN.5131.7.2020 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/UODO_\(Poland\)_-_DKN.5131.7.2020 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=UODO_\(Poland\)_-_DKN.5131.7.2020&oldid=36433 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=UODO_\(Poland\)_-_DKN.5131.7.2020&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=UODO_%28Poland%29_-_DKN.5131.7.2020&id=36433&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 17 November 2023, at 10:00.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.029","walltime":"0.031","ppvisitednodes":{"value":397,"limit":1000000},"postexpandincludesize":{"value":1307,"limit":2097152},"templateargumentsize":{"value":468,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":45207,"limit":5000000},"timingprofile":\["100.00% 5.370 1 Template:DPAdecisionBOX","100.00% 5.370 1 -total"\]},"cachereport":{"timestamp":"20250829203435","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1363});});

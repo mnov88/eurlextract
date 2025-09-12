@@ -1,0 +1,349 @@
+ Personvernnemnda (Norway) - PVN-2024-04 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"2cefc3811fab536974c35abc","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Personvernnemnda\_(Norway)\_-\_PVN-2024-04","wgTitle":"Personvernnemnda (Norway) - PVN-2024-04","wgCurRevisionId":41897,"wgRevisionId":41897,"wgArticleId":8040,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["Personvernnemnda (Norway)","Norway","Article 6(1)(b) GDPR","Article 6(1)(f) GDPR","Article 58(2)(f) GDPR","Article 61(1) GDPR","Article 66(1) GDPR","2024","Norwegian"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Personvernnemnda\_(Norway)\_-\_PVN-2024-04","wgRelevantArticleId":8040,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:Personvernnemnda_\(Norway\)_-_PVN-2024-04&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=Personvernnemnda_\(Norway\)_-_PVN-2024-04&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=Personvernnemnda_\(Norway\)_-_PVN-2024-04&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=Personvernnemnda+%28Norway%29+-+PVN-2024-04&returntoquery=oldid%3D41897 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# Personvernnemnda (Norway) - PVN-2024-04
+
+From GDPRhub
+
+Revision as of 13:24, 8 July 2024 by [Sfl](/index.php?title=User:Sfl "User:Sfl") ([talk](/index.php?title=User_talk:Sfl&action=edit&redlink=1 "User talk:Sfl (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Sfl "Special:Contributions/Sfl")) (fixed broken link)
+
+([diff](/index.php?title=Personvernnemnda_\(Norway\)_-_PVN-2024-04&diff=prev&oldid=41897 "Personvernnemnda (Norway) - PVN-2024-04")) [← Older revision](/index.php?title=Personvernnemnda_\(Norway\)_-_PVN-2024-04&direction=prev&oldid=41897 "Personvernnemnda (Norway) - PVN-2024-04") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+Personvernnemnda (Norway) - PVN-2024-04
+
+[![Courts logo1.png](/images/thumb/4/4c/Courts_logo1.png/250px-Courts_logo1.png)](/index.php?title=File:Courts_logo1.png)
+
+Court:
+
+[Personvernnemnda (Norway)](/index.php?title=Category:Personvernnemnda_\(Norway\) "Category:Personvernnemnda (Norway)")
+
+Jurisdiction:
+
+[Norway](/index.php?title=Category:Norway "Category:Norway")
+
+Relevant Law:
+
+[Article 6(1)(b) GDPR](/index.php?title=Article_6_GDPR#1b "Article 6 GDPR")  
+[Article 6(1)(f) GDPR](/index.php?title=Article_6_GDPR#1f "Article 6 GDPR")  
+[Article 58(2)(f) GDPR](/index.php?title=Article_58_GDPR#2f "Article 58 GDPR")  
+[Article 61(1) GDPR](/index.php?title=Article_61_GDPR#1 "Article 61 GDPR")  
+[Article 66(1) GDPR](/index.php?title=Article_66_GDPR#1 "Article 66 GDPR")  
+[§22 of the Norwegian Personal Data Act](https://lovdata.no/dokument/NLE/lov/2018-06-15-38)  
+[§29 of the Norwegian Personal Data Act](https://lovdata.no/dokument/NLE/lov/2018-06-15-38)  
+[§34(2) Norwegian Administration Act](https://lovdata.no/dokument/NLE/lov/1967-02-10)  
+[§51 of the Norwegian Administration Act](https://lovdata.no/dokument/NLE/lov/1967-02-10)
+
+Decided:
+
+18.06.2024 Published:
+
+21.06.2024 Parties:
+
+[Meta Ireland](https://about.meta.com/media-gallery/offices-around-the-world/facebook-dublin-office-3/)  
+[Facebook Norway](https://facebook.com)
+
+National Case Number/Name:
+
+PVN-2024-04
+
+European Case Law Identifier:
+
+Appeal from:
+
+[Datatilsynet (Norway)](/index.php?title=Category:Datatilsynet_\(Norway\) "Category:Datatilsynet (Norway)")  
+[21/03530](https://gdprhub.eu/index.php?title=Datatilsynet_\(Norway\)_-_21/03530)
+
+Appeal to:
+
+Unknown
+
+Original Language(s):
+
+[Norwegian](/index.php?title=Category:Norwegian "Category:Norwegian")
+
+Original Source:
+
+[Personvernnemnda (in Norwegian)](https://www.personvernnemnda.no/pvn-2023-31)
+
+Initial Contributor:
+
+ec
+
+The DPA appeal board revoked the daily penalty of €86,992.56 (NOK one million) issued in August 2023 by the DPA against Meta Ireland and Facebook Norway. The board held that a daily penalty can only be issued to enforce orders in non-cross-border cases, and not in cases of an urgency procedure under Article 66(1) GDPR.
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+On 31 December 2022, the Irish DPA (“_DPC_”) prohibited Meta Ireland from using a contract under [Article 6(1)(b) GDPR](/index.php?title=Article_6_GDPR#1b "Article 6 GDPR") as a legal basis for behavioural advertising in connection with the Facebook and Instagram services. Meta Ireland was required to bring its processing activities related to behavioural advertising into compliance with [Article 6(1) GDPR](/index.php?title=Article_6_GDPR#1 "Article 6 GDPR") within three months. Meta Ireland responded by changing its processing basis to legitimate interest under [Article 6(1)(f) GDPR](/index.php?title=Article_6_GDPR#1f "Article 6 GDPR").
+
+On 5 May 2023, the Norwegian DPA (“_Datatilsynet_”) requested under [Article 61(1) GDPR](/index.php?title=Article_61_GDPR#1 "Article 61 GDPR") the DPC to introduce a temporary ban on Meta Ireland’s processing of personal data for purposes related to behavioural advertising. The Datatilsynet held that legitimate interest was not a proper legal basis, either. The DPC did not comply with the request.
+
+On 14 July 2023, the Norwegian DPA issued a temporary ban themselves against the controllers Meta Ireland and Facebook Norway under [Article 66(1) GDPR](/index.php?title=Article_66_GDPR#1 "Article 66 GDPR") in combination with [Article 58(2)(f) GDPR](/index.php?title=Article_58_GDPR#2f "Article 58 GDPR") (see summary of the DPA's decision [here](/index.php?title=Personvernnemnda_\(Norway\)_-_PVN-2023-24 "Personvernnemnda (Norway) - PVN-2023-24")). This only concerned processing activities in Norway. The DPA also stated its intention to request an urgent binding decision from the EDPB under [Article 66(2) GDPR](/index.php?title=Article_66_GDPR#2 "Article 66 GDPR").
+
+On 3 and 4 August 2023, Meta Ireland and Facebook Norway applied for a temporary injunction against the DPA's decision, demanding that the DPA would be prohibited from implementing the decision. The Oslo District Court issued a ruling on 6 September 2023 and concluded that there was no probable cause for temporary injunction and dismissed the cases. The court also found that the conditions had been met under [Article 66(1) GDPR](/index.php?title=Article_66_GDPR#1 "Article 66 GDPR") for making an urgent binding decision.
+
+The deadline for compliance with the ban was 4 August 2023, however, Meta Ireland and Facebook Norway did not comply. Therefore, on 7 August 2023, the DPA issued a penalty of €86,992.56 (NOK one million) per day for failure to comply with the decision of 14 July 2023 based on §29 of the Norwegian Personal Data Act.
+
+On 27 October 2023, the EDPB made a binding decision against Meta Ireland, following a request from the DPA under [Article 66(2) GDPR](/index.php?title=Article_66_GDPR#2 "Article 66 GDPR"). The EDPB held that Meta Ireland's processing of personal data for behavioural advertising based on contract under [Article 6(1)(b) GDPR](/index.php?title=Article_6_GDPR#1b "Article 6 GDPR") and legitimate interest under [Article 6(1)(f) GDPR](/index.php?title=Article_6_GDPR#1f "Article 6 GDPR") was illegal and requested Meta Ireland to stop the illegal processing within one week after being informed of the binding decision.
+
+Meta Ireland and Facebook Norway appealed the DPA's decision about the daily penalty to the Privacy Appeals Board (“_Personvernnemnda_”).
+
+### Holding
+
+Competence of the appeals board
+
+[§22 of the Norwegian Data Protection Act](https://lovdata.no/dokument/NLE/lov/2018-06-15-38) states that: "_The Data Protection Authority's decision pursuant to Article 56 and Chapter VII of the GDPR cannot be appealed to the Privacy Appeals Board_.”
+
+The appeals board therefore held that under [§22 of the Norwegian Data Protection Act](https://lovdata.no/dokument/NLE/lov/2018-06-15-38), urgency decisions of the DPA under [Article 66(1) GDPR](/index.php?title=Article_66_GDPR#1 "Article 66 GDPR") cannot be appealed to the appeals board. With the EDPB decision, the temporary ban by the DPA was made permanent and extended to apply throughout the EU/EEA. Therefore, the appeals board did not have the competence to hear the appeal from the controllers about the DPA’s decision of 14 July 2023.
+
+However, the appeals board found that it did have the competence to hear the appeal of the DPA’s decision on 7 August 2023 regarding the daily penalty for failure to comply with the decision on 14 July 2023 as this was based on [§29 Norwegian Data Protection Act](https://lovdata.no/dokument/NLE/lov/2018-06-15-38) and not on Chapter VII GDPR.
+
+Legal basis for daily compulsory fines
+
+The GDPR in itself does not allow DPAs to issue daily penalties, however, in [§29(1) of the Norwegian Personal Data Act](https://lovdata.no/dokument/NLE/lov/2018-06-15-38), the DPA is given more power by having the instrument to impose daily penalty to ensure compliance with decisions. It states that "_\[i\]n the case of an order under the law here, the Data Protection Authority can determine a penalty that runs for each day that passes after the end of the deadline set for compliance with the order, until the order is fulfilled_."
+
+The appeals board held that the term "_order under the law here_" must be interpreted restrictively, meaning that the DPA cannot impose daily penalties to ensure compliance with an urgent binding decision made pursuant to [Article 66(1) GDPR](/index.php?title=Article_66_GDPR#1 "Article 66 GDPR"). According to the appeals board, the provision only allows for the DPA to impose daily penalties to ensure compliance with orders in non-cross-border cases.
+
+The appeals board also took into account that under the Norwegian Administration Act, the appeal body is given the competence to review “all aspects of the case” and “whether the conditions for imposing the compulsory fine have been met” (see [§34(2) and §51](https://lovdata.no/dokument/NLE/lov/1967-02-10)). The appeals board thus held that a review of the daily penalty decision will also have to involve a full review of the DPA’s decision of 14 July 2023 on the temporary ban on the processing of personal data, which the appeals board is not allowed to do under [§22 of the Norwegian Data Protection Act](https://lovdata.no/dokument/NLE/lov/2018-06-15-38). Therefore, the appeals board held that [§29(1) of the Norwegian Personal Data Act](https://lovdata.no/dokument/NLE/lov/2018-06-15-38) must be restricted to orders in non-cross-border cases.
+
+The appeals board also pointed out that there was no evidence in the preparations for the Norwegian Personal Data Act that the ministry intended to introduce the power for the DPA to impose daily penalties for emergency decisions under Chapter VII of the GDPR. The appeals board held that if the intention was that [§29 of the Norwegian Personal Data Act](https://lovdata.no/dokument/NLE/lov/2018-06-15-38) should provide such power, it would have been reasonable to expect that the ministry would have clarified this in the preparatory work.
+
+Therefore, the appeals board concluded that the daily penalty issued by the DPA against Meta Ireland and Facebook Norway must be revoked because it had no legal basis. As the temporary ban was imposed on the basis of [Article 66(1) GDPR](/index.php?title=Article_66_GDPR#1 "Article 66 GDPR") in relation with [Article 58(2)(f) GDPR](/index.php?title=Article_58_GDPR#2f "Article 58 GDPR"), the DPA could not have issued a penalty on the basis of [§29(1) of the Norwegian Personal Data Act](https://lovdata.no/dokument/NLE/lov/2018-06-15-38).
+
+The appeals board thus upheld the appeal of Meta Ireland and Facebook Norway. However, the underlying decision on the ban on behavioural advertising on Facebook and Instagram remained in place.
+
+## Comment
+
+The Norwegian DPA in their [press release](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2024/personvernnemda-datatilsynet-kan-ikke-ilegge-tvangsmulkt-i-grenseoverskridende-saker/) stated that: “the interpretation by the Norwegian Privacy Appeals Board takes away from us an important instrument in dealing with large international companies. This will also result in daily penalties being imposed on Norwegian businesses, while the large international players go clear. This is unfortunate discrimination, and we hope the legislature will quickly come with a clarification.”
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the Norwegian original. Please refer to the Norwegian original for more details.
+
+The Privacy Board's decision 18 June 2024 (Mari Bø Haugstad, Bjørnar Borvik, Hans Marius Graasvold, Ellen Økland Blinkenberg, Hans Marius Tessem, Morten Goodwin, Eirik Løkke)
+The case concerns a complaint from Meta Platforms Ireland Limited (Meta Ireland) and Facebook Norway AS (Facebook Norway) against the Norwegian Data Protection Authority's decision of 7 August 2023. In the decision, the Norwegian Data Protection Authority imposed a compulsory fine of NOK one million per day, for up to three months, on the companies for non-compliance of a temporary ban on processing personal data for behaviour-based marketing in connection with the companies' offer of Facebook and Instagram services in Norway.
+Background of the case
+It follows from the Personal Protection Regulation Article 56 No. 1 that it is the supervisory authority in the country where the data controller or data processor has its main business, or its only business, which is the responsible supervisory authority for the business's cross-border processing of personal data. According to Article 4 no. 23 and recital 124, "cross-border processing" is processing that significantly affects, or is likely to affect, data subjects in several Member States. Meta Ireland's offer of Facebook and Instagram services involves such cross-border processing of personal data. The data controller, Meta Ireland, has its main European operations in Ireland, so that the responsible supervisory authority ("lead supervisory authority") is consequently the Irish Data Protection Authority. The Norwegian Data Protection Authority qualifies as an "affected supervisory authority", as the data controller is established in Norway, through Facebook Norway, and registered resident in Norway "is significantly affected or likely to be affected by the treatment", cf. article 4 no. 22 letter a and b.
+Chapter VII of the regulation contains detailed rules on how supervisory authorities in the member states must cooperate in matters affecting several countries. It is the leading supervisory authority that initially has the competence in these cross-border matters, but this supervisory authority is, in accordance with Articles 60 – 65, required to cooperate with other supervisory authorities concerned. The purpose of the rules is to ensure harmonized compliance with the regulation, cf. Article 61.
+On 31 December 2022, the Irish supervisory authority made a decision prohibiting Meta Ireland from using Article 6 No. 1 letter b (agreement) as a processing basis for behavioral marketing in connection with the Facebook and Instagram services. The decision was taken in accordance with the procedural rules of the consistency mechanism in the Personal Protection Regulation Chapter VII, with the Irish supervisory authority as the lead supervisory authority. Meta Ireland was required to bring its processing activities related to behavioral marketing into compliance with Article 6(1) within three months.
+In the compliance reports that Meta Ireland subsequently sent to the Irish supervisory authority, it appears that Meta Ireland had changed its processing basis for processing personal data for behavioral marketing to Article 6 No. 1 letter f (legitimate interest).
+On 5 May 2023, the Norwegian Data Protection Authority requested, in line with Article 61 No. 1 on mutual assistance, the Irish supervisory authority to, among other things, introduce a temporary ban on Meta Ireland's processing of personal data for purposes related to behaviour-based marketing. The Irish supervisory authority did not comply with the request.
+On 14 July 2023, the Danish Data Protection Authority then made a decision against Meta Ireland as the data controller and Facebook Norway as a Norwegian establishment of the data controller, with a temporary ban on behaviour-based marketing based on the Personal Data Protection Regulation article 6 first paragraph letter b (agreement) and letter f (legitimate interest) in connection with the companies' offer of Facebook and Instagram services to Norwegian users. The deadline for compliance with the decision was set to 4 August 2023. The decision was made on the basis of the Personal Protection Regulation article 66 no. 1, cf. article 58 no. 2 letter f. Article 66 gives an affected supervisory authority the authority to make urgent decisions with a time-limited duration of up to three months with legal effect on its own territory. This constitutes an exception to the ordinary consistency mechanism that applies to cross-border cases, where it is the leading supervisory authority that initially has the competence to make decisions.
+In the decision, the Norwegian Data Protection Authority notified the parties in advance that the authority, on the basis of Section 29 of the Personal Data Act, would be able to impose a compulsory fine of up to NOK one million per day on the companies during the period of the temporary ban, if the companies did not comply with the ban within the set deadline.
+On 3 and 4 August 2023, Meta Ireland and Facebook Norway applied for a temporary injunction against the Norwegian Data Protection Authority's decision of 14 July 2023, demanding that the Norwegian Data Protection Authority be prohibited from implementing the decision.
+On 7 August 2023, the Norwegian Data Protection Authority adopted a compulsory fine of NOK one million per day for non-compliance with the decision from 14 July 2023, cf. Personal Data Act § 29. The decision was aimed at Meta Ireland and Facebook Norway as jointly and severally liable. The compulsory fine ran from and including 14 August 2023. About Meta Ireland and Facebook Norway's right to appeal the compulsory fine decision, the Norwegian Data Protection Authority writes:
+"As has already been established, the Order on which this Decision is based has been adopted under Chapter VII, Article 66(1) GDPR and the Privacy Appeals Board (in Norwegian: Personvernnemda) does not therefore have competence to assess the validity of the Order, its contents or whether any conditions for fulfillment have been met, pursuant to Section 22(2) of the PDA \[personal data protection law\], as this may prejudice any later decision of the European Data Protection Board.
+You are however able to appeal the size of the coercive fine before the Privacy Appeals Board pursuant to Section 51, fifth paragraph of the PAA \[administration act\]. Any appeal in this regard should be sent to us as the first instance. »
+On 14 August 2023, Meta Ireland and Facebook Norway requested the supervisory authority to postpone implementation of the compulsory fine, but were refused in a letter on 25 August 2023.
+Both Meta Ireland and Facebook Norway complained on 28 August 2023 about the compulsory fine decision.
+In the two cases concerning temporary injunctions, Oslo District Court issued a joint ruling on 6 September 2023 after holding oral negotiations in the case. The Oslo District Court concluded that there was no probable cause for protection and did not accept the petitions. The district court also discussed other allegations and concluded, among other things, that the Norwegian Data Protection Authority had a legal basis for directing the decision also against Facebook Norway, even though this company was not responsible for processing or could independently influence how the relevant processing of personal data took place. The court further concluded that the conditions in Article 66 No. 1 of the Personal Data Protection Regulation for making an urgent decision were met, and did not find that other allegations related to the decision being invalid could be brought forward.
+On 27 October 2023, the European Privacy Council (Privacy Council) made a binding decision in the case against Meta Ireland following a request from the Norwegian Data Protection Authority, cf. GDPR article 66 no. 2. The decision concluded that Meta Ireland's processing of personal data for behavioral marketing based on the GDPR article 6 no. 1 letter b (agreement) and letter f (legitimate interest) is illegal, and that it is possible for Meta Ireland to stop the illegal processing within one week after the company is informed of the binding decision. The Personal Data Protection Council further believed that the conditions for imposing an urgent decision pursuant to Article 66 No. 2 of the Personal Data Protection Ordinance were met. The Norwegian temporary ban on behavior-based marketing on Facebook and Instagram was made permanent by the Personal Data Protection Council and was extended to apply to the entire EU/EEA.
+Meta Ireland and Facebook Norway's complaint about the compulsory fine decision was submitted to preparatory appeal processing at the Data Protection Authority, cf. section 33 of the Administration Act. The Data Protection Authority found that Meta Ireland and Facebook Norway had the right to appeal to the Personal Data Protection Board for parts of the complaint, but lacked the right to appeal for other parts. As a result, the complaint was processed and decided in two different decisions by the supervisory authority.
+For the part of the complaint that the Norwegian Data Protection Authority concluded could be appealed, the Norwegian Data Protection Authority found no reason to change its decision. This part of the case was forwarded to the Personal Protection Board on 10 November 2023 and was assigned case number PVN-2023-31. On the same day, the Norwegian Data Protection Authority decided to reject the remaining part of the complaint. Meta Ireland and Facebook Norway complained on 5 December 2023 about the Norwegian Data Protection Authority's rejection. The Norwegian Data Protection Authority assessed the complaint, but upheld its rejection. This part of the complaint was sent to the tribunal for complaint processing on 21 March 2024 and, upon receipt by the tribunal, was assigned case number PVN-2024-04.
+The tribunal has dealt with the complaints concerning the Norwegian Data Protection Authority's decision on the imposition of compulsory fines collected in this decision.
+Meta Ireland and Facebook Norway were informed by the tribunal about the two complaints, and were given the opportunity to make comments. Meta Ireland and Facebook Norway gave their comments in letters on 14 December 2023 and 9 April 2024.
+On 17 April 2024, the tribunal wrote to the Norwegian Data Protection Authority, Meta Ireland and Facebook Norway and asked for the Norwegian Data Protection Authority's and the parties' views on the interpretation of § 29 of the Personal Data Act. Such statements were given on 3 May 2024. Meta Ireland and Facebook Norway gave further comments on 14 May and 7 . June 2024. The Norwegian Data Protection Authority gave further comments on 27 May and 14 June 2024.
+The case was dealt with in the committee's meetings on 17 April, 28 May and 18 June 2024. The privacy committee had the following composition: Mari Bø Haugstad (chair), Bjørnar Borvik (deputy chair), Hans Marius Graasvold, Ellen Økland Blinkenberg, Hans Marius Tessem, Morten Goodwin and Eirik Løkke. Investigation leader Anette Klem Funderud and first consultant Emilie Winther Løvli were also present.
+The Norwegian Data Protection Authority's assessment in brief
+On 14 July 2023, the Norwegian Data Protection Authority made a decision which entailed a temporary ban on behaviour-based marketing based on the Personal Protection Regulation article 6 no. 1 letter b (agreement) and letter f (legitimate interest) in connection with the companies' offer of Facebook and Instagram services. The decision was aimed at Meta Ireland as the data controller and Facebook Norway as a Norwegian establishment of the data controller. The deadline for compliance with the ban was set at 4 August 2023 (three weeks) and the decision applied from 4 August 2023 to 3 November 2023.
+When Meta Ireland and Facebook Norway did not comply with the decision within the set deadline, on 7 August 2023 the Norwegian Data Protection Authority decided on a compulsory fine under section 29 of the Personal Data Act of NOK one million per day for failure to comply with the decision of 14 July 2023.
+Meta Ireland stated that it would commit to consent-based processing of personal data for behavioral marketing, and accelerate the compliance plan and remedial actions the company is developing to implement this. The Norwegian Data Protection Authority did not consider this to be sufficient remedial measures for the order to be considered fulfilled.
+The ban on the processing of personal data is aimed at Meta Ireland as the data controller and Facebook Norway as the data controller's Norwegian establishment, jointly. The compulsory fine decision must then correctly also be aimed at Facebook Norway.
+Section 29 of the Personal Information Act gives authority to impose compulsory fines. As the Personal Data Act incorporates the Personal Data Protection Ordinance into Norwegian law, any decision issued by the supervisory authority under the Personal Data Protection Ordinance qualifies as a decision also under the Personal Data Act. In the Norwegian Data Protection Authority's opinion, the wording in § 29, cf. Article 58 no. 6, is clear as regards the Norwegian Data Protection Authority's competence. The legislative preparations for section 29 do not mention the interaction between the competence to impose compulsory fines according to section 29 and the cooperation and consistency mechanism according to the regulation's chapter VII. By giving the Norwegian Data Protection Authority competence to make compulsory fine decisions by order under the law "including the privacy regulation (…)", including chapter VII, the ministry must, however, have considered the issue of this type of competence, see Prop. 56 LS (2017-2018) chapter 38, special notes to § 29. The fact that several hearing bodies expressed concerns about the possibility of imposing a compulsory fine indicates that the ministry had a clear call to take a position on this before sending it to the Storting. Section 29 of the Personal Data Act therefore also applies to decisions made pursuant to Chapter VII of the Personal Data Protection Ordinance and authorizes the imposition of a compulsory fine here.
+Article 58 no. 6 does not set barriers to the interpretation of § 29 of the Personal Information Act. The imposition of a compulsory fine in this case is suitable to ensure a more effective application of Chapter VII, precisely by putting greater pressure on compliance with the underlying decision made in accordance with the relevant the provisions of Chapter VII.
+The compulsory fine decision on 7 August 2023 does not intervene in an ongoing process according to the cooperation and consistency mechanism and does not involve double sanctioning. The compulsory fine is only a "threat of an obligation to pay money" to ensure compliance with obligations arising from law, regulations or individual decisions, cf. Prop. 62 L (2015-2016), the special notes to the Administrative Law § 51. The decision on compulsory fines has no independent impact on or significance for any ongoing process at the leading supervisory authority. The Norwegian Data Protection Authority also refers to Rt. 2015 p. 392, where the Supreme Court stated that compulsory fines are not to be regarded as punishment and that previously imposed compulsory fines were therefore not an obstacle to later sanctions in the form of fines or imprisonment.
+The Norwegian Data Protection Authority assumes that the tribunal's competence is limited to the assessment topics that are not linked to or directly affect the underlying decision of 14 July 2023. In the decision, the Data Protection Authority writes that Meta Ireland and Facebook Norway can appeal the amount of the compulsory fine and refers to the Administration Act section 51 fifth paragraph . When it comes to the decision's validity, content or whether any conditions for fulfillment have been met, the Norwegian Data Protection Authority assumes that the law does not provide for a right of appeal and that the Personal Data Protection Board does not have competence, cf. the Personal Data Act § 22 second paragraph.
+In the letter of transmission to the Personal Protection Board on 10 November 2023, the Norwegian Data Protection Authority assumes that Meta Ireland and Facebook Norway have the right to complain about the following issues raised in the complaint:
+1. Whether the Norwegian Data Protection Authority had the authority to adopt a compulsory fine and whether the material conditions for imposing a compulsory fine according to section 29 of the Personal Data Act were met,
+2. Whether the payment obligation has occurred as indicated in the compulsory fine decision, and
+3. The size of the compulsory fine.
+Other grounds for appeal must, in the Data Protection Authority's assessment, be rejected because the Personal Data Protection Board does not have competence, cf. the Personal Data Act § 22 second paragraph.
+Section 22 of the Personal Information Act, second paragraph, second sentence, states that the tribunal cannot review decisions pursuant to Article 56 and Chapter VII. The legal rule is a lex specialis rule and a clear exception to the general rules on the right of appeal in the Personal Data Act and the Public Administration Act. As Norwegian law gives way to provisions that serve to fulfill Norway's EEA legal obligations, cf. EEA Act § 2, Norwegian administrative law rules must be adapted to the privacy regulation, not the other way around. According to the Administrative Law Committee, there are currently opportunities in the administration to cut off administrative appeals with reference to judicial review as a possible alternative review mechanism, see NOU 2019: 5 page 530. Meta Ireland will not be able to achieve a full review of all the grounds for appeal in the compulsory fine decision, but all the grounds will be reviewable in Norwegian courts. Various bodies have the competence to review the Norwegian Data Protection Authority's assessments relating to Facebook Norway's and Meta Ireland's grounds for complaint. Meta Ireland and Facebook Norway therefore have full access to ensure independent review of the underlying decisions, both before national courts and through judicial review at European level. The companies actively use these opportunities in practice.
+The decision on compulsory fines is inextricably linked to the decision on 14 July 2023, which was made according to the regulation chapter VII. A number of Meta Ireland's and Facebook Norway's allegations relate directly to the decision of 14 July 2023. A treatment of these allegations will therefore in reality involve a review of the underlying decision, and of the Personal Protection Council's permanent emergency decision. Although the last paragraph of Section 51 of the Public Administration Act contains a special right of appeal for "matters related to the imposition of a compulsory fine", this right of appeal is limited to being able to assess whether the conditions for a compulsory fine to be imposed have been met.
+Meta Ireland's view on the matter in brief
+The appeal against the compulsory fine decision can be processed and must not be rejected
+The appeal against the compulsory fine decision can be processed by the tribunal, cf. the Administration Act §§ 28 and 51 fifth paragraph. The penalty decision was not issued in accordance with the Personal Protection Ordinance, but in accordance with Section 29 of the Personal Information Act. Section 51 of the Administration Act does not grant the right to appeal not only about the amount of the penalty payment, but also about the underlying decision, including whether the conditions for imposing a penalty payment were met and whether it was appropriate to make a decision on compulsory fines etc., see Prop. 62 L (2015-2016) page 208. Section 34 of the Administration Act gives the appeal body (Personvernmennda) competence to try all sides of the case and, in doing so, take into account new circumstances.
+The Norwegian Data Protection Authority does not dispute that these provisions apply to the compulsory fine complaint and acknowledges that Meta Ireland's right to appeal is not only limited to the amount of the fine. The Norwegian Data Protection Authority incorrectly assumes that there is no right of appeal for two of the grounds for appeal.
+As the competence to impose compulsory fines follows from national law, the Norwegian Privacy Council - which is tasked with resolving conflicts under the cooperation and consistency mechanism - does not have jurisdiction to resolve a conflict about the exercise of compulsory fine authority. The only mechanism for an administrative complaint is a complaint to the Personal Protection Board. If the Norwegian Data Protection Authority was free to impose compulsory fines under Section 29 of the Personal Data Act without the data controller being able to complain administratively about all aspects of such a decision, the right to complain under Sections 28 and 51 fifth paragraph of the Administration Act would be unreasonably and unlawfully restricted.
+If the Norwegian Data Protection Authority's logic in the rejection decision is followed, parties do not have legal remedies against compulsory fines that are imposed on the basis of a decision that is (i) procedurally or materially invalid; or (ii) which is not possible to comply with. The Danish Data Protection Authority is thus free to bind parties with invalid or impossible claims, and then decide on fines for these parties for non-compliance - while prohibiting administrative law appeals against such decisions. This is an unacceptable allocation of uncontrolled administrative authority, in direct conflict with the fundamental principles of justice, proportionality and the right to appeal as enshrined in section 28 of the Public Administration Act.
+The compulsory fine decision is invalid
+The decision of 14 July 2023 is illegal, unjustified, disproportionate and prejudicial to Meta Ireland. The decision is invalid for many reasons. Because the compulsory fine decision on 7 August 2023 is linked to the 14 July decision, the compulsory fine decision is also invalid. It is a mistake for the Norwegian Data Protection Authority to reject this part of the complaint. The Personal Protection Board has the competence to test whether the compulsory fine decision is invalid.
+There is nothing in the preparatory work for the Personal Data Act that indicates that the ministry envisioned that the Norwegian Data Protection Authority would impose a compulsory fine against a data controller in a case about processing activities that are subject to ongoing processing by the leading supervisory authority under the cooperation and consistency mechanism in the regulation chapter VII. This issue has not been discussed by the ministry and may seem to have been overlooked.
+The Personal Protection Regulation Article 58 No. 2 sets out the corrective measures available to the supervisory authority and does not mention compulsory fines as a measure. Article 58 no. 6, however, allows the member states to grant their supervisory authority "more extensive authority", but specifies that "\[t\]he exercise of said authority shall not prevent the effective application of Chapter VII". The Personal Data Act must be interpreted in a way that is consistent with and does not undermine the Personal Data Protection Ordinance, and in the event of a conflict, the Ordinance will take precedence over provisions in other laws that regulate the same matter, see EEA Act § 2. Article 58 No. 6 thus sets barriers to interpretation of the Personal Data Act § 29. The compulsory fine decision is contrary to Article 58 No. 6 because it undermines and prevents the cooperation and consistency mechanism under Chapter VII.
+Meta Ireland has complied with the order in the 14 July decision
+The penalty decision violates Section 29 of the Personal Data Act because it penalizes Meta Ireland, despite the fact that the company has taken steps that meet the conditions of the 14 July decision. Meta has implemented remedial measures that involve satisfactory and sufficient obligations to ensure compliance with Article 6 No. 1 and Article 21.
+The July 14 decision is impossible to comply with
+The compulsory fine decision is in breach of the Administration Act section 51 fifth paragraph because compliance with the 14 July decision is impossible within the set time frames. The supervisory authority is also aware of this and then the compulsory fine decision becomes a sanction, not a means of ensuring compliance.
+It is a mistake for the Norwegian Data Protection Authority to reject this part of the complaint. The Norwegian Personal Protection Board has the competence to try this statement as well.
+The compulsory fine decision is disproportionate and highly unreasonable
+The compulsory fine decision is disproportionate and obviously unreasonable as it in practice involves a new and overlapping fee in addition to the fee that the Irish Data Protection Authority has already imposed on Meta Ireland, in other words a double administrative sanction.
+The compulsory fine decision is a "punishment" according to Art. 6, because the deadline set is so short that it is impossible to comply, cf. Rt. 2015 p. 392 section 29. The GDPR's cooperation and consistency mechanism is intended to protect the parties from being penalized multiple times for the same alleged breach, cf. recital 149 and article 84. Meta Ireland has been fined €390 million under article 83 based on the same data processing on which the compulsory fine decision is based. It is therefore obvious that the compulsory fine represents a double sanction for the same offences.
+Alternatively, if the penalty decision is not repealed, the size of the penalty should be significantly reduced in light of the consent obligation entered into.
+Facebook Norway's view on the matter in brief
+The appeal against the compulsory fine decision can be processed and must not be rejected
+The appeal against the compulsory fine decision can be processed by the tribunal, cf. the Administration Act §§ 28 and 51 fifth paragraph. The penalty decision was not issued in accordance with the Personal Protection Ordinance, but in accordance with Section 29 of the Personal Information Act. Section 51 of the Administration Act does not grant the right to appeal not only about the amount of the penalty payment, but also about the underlying decision, including whether the conditions for imposing a penalty payment were met and whether it was appropriate to make the decision on compulsory fines etc., see Prop. 62 L (2015-2016) page 208. Section 34 of the Administration Act gives the appeal body (Personvernmennda) competence to try all sides of the case and, in doing so, take into account new circumstances.
+The Norwegian Data Protection Authority does not dispute that these provisions apply to the compulsory fine complaint and acknowledges that Facebook Norway's right to complain is not only limited to the amount of the fine. The Norwegian Data Protection Authority incorrectly assumes that there is no right of appeal for two of the grounds for appeal.
+As the competence to impose compulsory fines follows from national law, the Norwegian Privacy Council - which is tasked with resolving conflicts under the cooperation and consistency mechanism - does not have jurisdiction to resolve a conflict about the exercise of compulsory fine authority. The only mechanism for an administrative complaint is a complaint to the Personal Protection Board. If the Norwegian Data Protection Authority was free to impose compulsory fines under Section 29 of the Personal Data Act without the data controller being able to complain administratively about all aspects of such a decision, the right to appeal under Sections 28 and 51 fifth paragraph of the Administration Act would be unreasonably and unjustifiably restricted.
+If the Norwegian Data Protection Authority's logic in the rejection decision is followed, parties do not have legal remedies against compulsory fines imposed on the basis of a decision that is (i) procedurally or materially invalid; or (ii) which is not possible to comply with. The Norwegian Data Protection Authority is thus free to bind parties with invalid or impossible claims, and then decide on fines for these parties for non-compliance - while at the same time prohibiting administrative law appeals against such decisions. This is an unacceptable allocation of uncontrolled administrative authority, in direct conflict with the fundamental principles of justice, proportionality and the right to appeal as enshrined in section 28 of the Public Administration Act.
+The compulsory fine decision is invalid
+The decision from 14 July 2023 is illegal, unjustified, disproportionate and harmful for Facebook Norway. The decision is invalid for many reasons. Because the compulsory fine decision on 7 August 2023 is linked to the 14 July decision, the compulsory fine decision is also invalid. It is a mistake for the Norwegian Data Protection Authority to reject this part of the complaint. The Personal Protection Board has the competence to test whether the compulsory fine decision is invalid.
+There is nothing in the preparatory work for the Personal Data Act that indicates that the ministry envisioned that the Norwegian Data Protection Authority would impose a compulsory fine against a data controller in a case about processing activities that are subject to ongoing processing by the leading supervisory authority under the cooperation and consistency mechanism in the regulation chapter VII. This problem has not been discussed by the ministry and may seem to have been overlooked.
+The Personal Protection Regulation Article 58 No. 2 sets out the corrective measures available to the supervisory authority and does not mention compulsory fines as a measure. Article 58 no. 6, however, allows the member states to grant their supervisory authority "more extensive authority", but specifies that "\[t\]he exercise of said authority shall not prevent the effective application of Chapter VII". The Personal Data Act must be interpreted in a way that is consistent with and does not undermine the Personal Data Protection Ordinance, and in the event of a conflict, the Ordinance will take precedence over provisions in other laws that regulate the same matter, see EEA Act § 2. Article 58 No. 6 thus sets barriers to interpretation of the Personal Data Act § 29. The compulsory fine decision is contrary to Article 58 No. 6 because it undermines and prevents the cooperation and consistency mechanism under Chapter VII.
+The Norwegian Data Protection Authority's imposition of compulsory fines in reality imposed double-acting, disproportionate and punitive fines which are a breach of the regulation's prohibition against double and disproportionate sanctions, cf. recital 149 and article 84.
+The 14 July decision is impossible to comply with and the compulsory fine decision is disproportionate and obviously unreasonable
+Section 29 of the Personal Data Act gives the Norwegian Data Protection Authority authority to impose compulsory fines "until the order is fulfilled". The purpose of a compulsory fine is to ensure compliance with an order, and it must not be used as a sanction.
+In this case, it is impossible for Facebook Norway to comply with the 14 July decision as the company does not offer Facebook or Instagram and is not the relevant data controller for these services. For that reason, the compulsory fine becomes a mere sanction against Facebook Norway, not a means of ensuring compliance. It is therefore clearly disproportionate and manifestly unreasonable.
+The compulsory fine decision is in breach of the Administration Act § 51 first paragraph and the Personal Data Act § 29, and should be repealed.
+The compulsory fine is set too high
+Alternatively, if the compulsory fine decision is not repealed, the daily fine amount should be substantially reduced. The amount of the compulsory fine - one million kroner per day - is obviously unreasonable. It is the highest possible amount after the decision, which is completely unreasonable as Facebook Norway has no opportunity to comply with the 14 July decision. The compulsory fine should therefore be reduced to NOK 0, alternatively set to an insignificant amount.
+The Norwegian Privacy Board's assessment
+The Personal Protection Board has come to the conclusion that the compulsory fine decision aimed at Meta Ireland and Facebook Norway must be revoked because it has no basis in law.
+The tribunal's competence
+The tribunal will first give a more detailed account of its view on the competence to review the Norwegian Data Protection Authority's decision. The tribunal's competence follows from § 22 second paragraph of the Personal Information Act:
+"The Privacy Board decides complaints about the Norwegian Data Protection Authority's decision, unless otherwise specifically stipulated. The Norwegian Data Protection Authority's decision pursuant to Article 56 and Chapter VII of the Personal Data Protection Ordinance cannot be appealed to the Personal Data Protection Board.
+Article 56 and the provisions in Chapter VII provide rules on the processing of cases under the regulation's cooperation and consistency mechanism, and the ministry justified the limitation of the Personal Protection Board's competence with the fact that the regulation contains detailed case processing rules for such cases that cannot be reconciled with a complaint to the board, cf. Prop. 56 LS (2017-2018) page 219.
+It follows from Article 63 that the purpose of the consistency mechanism is "to contribute to a uniform application of this Regulation throughout the Union". Article 60 lays down general principles for the cooperation between the leading supervisory authority and the supervisory authorities concerned, while articles 61 and 62 provide more detailed rules for mutual assistance (in particular the collection of information and the execution of investigations) and for the supervisory authorities' joint activities (in particular joint investigations and joint enforcement measures). .
+It further follows from the regulation article 66 no. 2 that a supervisory authority that has taken an urgent decision based on article 66 no. 1, and "which considers that final measures must be taken immediately, can ... request an urgent statement or a binding urgent decision from the Privacy Council ...». In the present case, on 27 October 2023 - at the request of the Danish Data Protection Authority - the Personal Data Protection Board made a binding decision in the case against Meta Ireland. It was concluded that the company's processing of personal data for behavioral marketing based on Article 6 No. 1 letter b (agreement) and letter f (legitimate interest) is illegal, and that it is possible for Meta Ireland to stop the illegal processing within one week after the company is informed of the binding decision.
+The Norwegian temporary ban on behavior-based marketing on Facebook and Instagram was made permanent with the decision of the Norwegian Data Protection Authority, and it was extended to apply throughout the EU/EEA. There is no doubt that the Data Protection Authority's decision on 14 July 2023 – with the request to the Personal Data Protection Council pursuant to Article 66 no. 2, and the Personal Data Protection Council's binding decision on 27 October 2023 – fall under the regulation's consistency mechanism in Chapter VII. It then follows from the Personal Data Act § 22 second paragraph second sentence that the tribunal does not have competence to process the complaint from Meta Ireland and Facebook Norway about the Data Protection Authority's decision on 14 July 2023.
+However, the decision from the Personal Data Protection Council did not include the Data Protection Authority's decision on 7 August 2023 on compulsory fines of NOK one million per day for failure to comply with the decision on 14 July 2023. The decision on compulsory fines was aimed at Meta Ireland and Facebook Norway as jointly and severally liable. The compulsory fine ran from and including 14 August 2023. The decision was made with reference to Section 29 of the Personal Information Act. A decision to impose a compulsory fine is an independent individual decision and this can therefore basically be appealed according to the law's general rules on appeals and reversals in Chapter VI of the Norwegian Administration Act and the special provision in section 51 fifth paragraph.
+The Norwegian Data Protection Authority, Meta Ireland and Facebook Norway agree that the tribunal has the competence to process the appeal against this decision, cf. the Personal Data Act § 22 second paragraph first sentence. The disagreement between the Norwegian Data Protection Authority and the complainants is linked to which specific framework applies to the tribunal's complaint handling.
+The Norwegian Data Protection Authority asserts that the tribunal cannot review the 14 July decision's validity, content, or whether the conditions for fulfillment have been met. The tribunal can only rule on whether the supervisory authority had the authority to adopt a compulsory fine and whether the substantive conditions for imposing a compulsory fine according to Section 29 of the Personal Data Act were met, whether the obligation to pay has occurred as stated in the decision on 7 August 2023 and the size of the compulsory fine. Meta Ireland and Facebook Norway, for their part, claim that the tribunal's competence follows from the general rules on administrative appeals in chapter VI of the Administration Act and the special provision in section 51, fifth paragraph, on appeals in cases of compulsory fines.
+With the result the tribunal has reached, namely that the penalty decision on 7 August 2023 has no basis in law, it is not necessary for the tribunal to take a final decision on what limitations article 58 no. 6 second sentence places on the tribunal's competence in complaints about penalty payments.
+The question of authorization - the interpretation of the Personal Data Act § 29
+The Personal Protection Ordinance does not authorize the imposition of compulsory fines, either in urgent cases pursuant to Article 66 No. 1 or in other cases. What measures the supervisory authorities concerned can decide on appears from Article 58 No. 2. In the same Article No. 6, however, the Member State is given competence to determine that the national supervisory authority can be given a more extensive authority than that which follows from Article 58 Nos. 1, 2 and 3. It is further specified that this authority must not prevent an effective application of Chapter VII.
+Section 29 first paragraph of the Personal Data Act, which gives the Norwegian Data Protection Authority a more comprehensive authority than that which follows from the regulation (namely to impose compulsory fines to ensure compliance with decisions), reads as follows:
+"In the case of an order according to the Act here, the Norwegian Data Protection Authority can determine a compulsory fine that runs for each day that passes after the end of the deadline set for compliance with the order, until the order is fulfilled."
+According to its wording, the provision authorizes the imposition of compulsory fines to ensure compliance with all types of orders under the law. Combined with the Personal Data Act 2000, the new law meant an extension of the Norwegian Data Protection Authority's competence to use compulsory fines to ensure compliance with decisions. This was intended, cf. Prop. 56 LS (2017-2018) point 24.5. The wording "according to the law here" could mean in isolation that the competence to impose compulsory fines under section 29 should be limited to the provisions of the Personal Data Act, and not include the provisions of the regulation. It follows from Section 1 of the Personal Information Act that the regulation "applies as Norwegian law". It is not in this that the regulation was made an integral part of the Personal Data Act; the regulation was incorporated into Norwegian law as an independent set of legal rules. However, it is specified in the special notes to § 29 that the authority to impose compulsory fines applies "when ordered by law, including the Personal Protection Ordinance", cf. Prop. 56 LS (2017-2018) point 38.1. Section 29 of the Personal Information Act therefore does not prevent the Norwegian Data Protection Authority, in order to ensure compliance with urgent decisions pursuant to the regulation, article 66 no. 1, from also adopting decisions on compulsory fines.
+The legislative preparations do not mention the interaction between the competence to impose compulsory fines under Section 29 and the regulation's consistency mechanism in Chapter VII. The Norwegian Data Protection Authority nevertheless asserts that the ministry must have considered this issue. It is indicated that there were several hearing bodies that expressed concern about the possibility of imposing compulsory fines, and that the ministry therefore had a clear call to take a position on this. In the tribunal's assessment, there is no basis for such a conclusion based on the consultation input, and the tribunal is content here to point out that none of the consultation input raised questions about compulsory fines and the consistency mechanism.
+As already mentioned above, the Norwegian Data Protection Authority, Meta Ireland and Facebook Norway agree that the compulsory fine decision on 7 August 2023 is an independent individual decision that can be appealed to the tribunal, cf. the Personal Data Act § 22 second paragraph. The starting point is that it is the general rules on appeals and reversals in Chapter VI of the Administration Act and the special provision in Section 51, subsection five, on appeals against compulsory fine decisions that set the framework for the tribunal's appeals processing.
+Of central importance in the present case is the provision in section 34 second paragraph of the Public Administration Act, which gives the appeals body competence to try "all aspects of the case". In appeals about compulsory fines, the provisions in Chapter VI of the Public Administration Act are supplemented by Section 51 of the Public Administration Act, which stipulates, among other things, that "\[r\]easions relating to the imposition of compulsory fines can be appealed separately", cf. fifth paragraph. "Conditions connected with the imposition" refers to "the conditions the administration must decide on in order to ascertain whether the conditions for imposing the compulsory fine have been met", cf. Prop. 62 L (2015-2016) page 208. The Administrative Law Committee considers that current law that the right to complain under § 51 first paragraph firstly applies to "questions about how the decision is to be understood, and whether it has actually been complied with", cf. NOU 2019: 5 page 452. Furthermore, in the same place, the committee writes that "\[ since it is a condition for implementation that the underlying decision is valid, the complaint must also be able to apply to the validity of this decision, if the complainant has not already had this tried through a previous complaint against the decision or through a lawsuit".
+As the tribunal sees it, a review of the compulsory fine decision in line with the rules in the Public Administration Act, Chapter VI and Section 51, fifth paragraph, will initially also have to involve a full review of the Norwegian Data Protection Authority's decision of 14 July 2023 on the temporary ban on the processing of personal data. The tribunal must then consider whether it is appropriate to impose a compulsory fine, the size of the fine, whether there is an impossibility (so that the compulsory fine is waived), and whether the order, which is the basis for the compulsory fine, has been complied with. As an example, the tribunal refers to Prop. 62 L (2015-2016) on changes to the Public Administration Act, where the ministry comments on page 207 about the assessment of the impossibility condition:
+"Whether compliance becomes impossible must be assessed based on the deadline for compliance set in the decision on compulsory fines. The requirement of impossibility is designed to emphasize that it should not be routine to plead difficulties in fulfilling. On the other hand, the threshold for impossibility must not be applied so strictly that the compulsory fine entails a sanction against offenses that have already been committed."
+Both the assessment of whether the order has been fulfilled and the assessment of whether the deadline that has been set is sufficient so that the compulsory fine does not in reality entail "a sanction against already committed offences", will, in the tribunal's assessment, be difficult to carry out without it also involving an interpretation and assessment of the authority's decision on 14 July 2023.
+If the Personal Protection Board's competence were to be limited in the case of appeals against compulsory fine decisions that the Norwegian Data Protection Authority makes to ensure compliance with decisions made on the basis of Article 66 no. 1, this would entail a not insignificant limitation of the data controller's right to administrative appeals against such decisions. The Norwegian Data Protection Authority's interpretation of the Personal Data Act § 22, second paragraph, lays down an appeal scheme in cases of compulsory fines which deviates to a significant extent from the general administrative law appeal rules. And the interpretation of Section 29 of the Personal Data Act that the Norwegian Data Protection Authority applies also implies a marked departure from the provision in Section 51 of the Public Administration Act, fifth paragraph, on the right to appeal in cases of compulsory fines.
+The tribunal agrees with the Norwegian Data Protection Authority that the compulsory fine decision can be brought before the courts, but would still like to point out that the examination competence of the courts will be somewhat limited compared to an administrative complaint. The courts are careful to test the administration's free discretion. And as the competence to impose compulsory fines follows from national law, the Personal Data Protection Board also does not have the competence to process complaints about the imposition of compulsory fines. This applies even if the underlying justification for the imposition of a compulsory fine – as here – is non-fulfilment of a decision made on the basis of Article 66 no. 1 of the Personal Protection Regulation, cf. Article 58 no. 2 letter f.
+In other words, this case raises a number of fundamental procedural questions relating to administrative law complaints about such decisions. The tribunal is content here with pointing to the disagreement between the Norwegian Data Protection Authority, Meta Ireland and Facebook Norway about the limitations that apply to the tribunal's processing of the appeal against the decision on compulsory fines. In the tribunal's view, there is no evidence in the preparations for the Personal Data Act that would indicate that the ministry also intended to introduce an option for the supervisory authority to impose compulsory fines for emergency decisions under Chapter VII. If the intention was that Section 29 of the Personal Information Act should provide such authority, it is reasonable to expect that the ministry in the preparatory work for the Personal Information Act would have made in-depth assessments and clarifications of the question of the tribunal's competence in such cases. The principle of legality further dictates that procedural provisions were included in the law which regulated the deviations from the general rules on appeals and reversals in Chapter VI of the Public Administration Act and the special provision in Section 51, fifth paragraph, on appeals against compulsory fine decisions. These are questions which, in the tribunal's assessment, are not suitable for clarification through the administrative bodies' own practice.
+The tribunal has then come to the conclusion that the term "order under the law here" in § 29 of the Personal Data Act must be interpreted restrictively so that the provision does not give authority for the Norwegian Data Protection Authority as the supervisory authority concerned to make a decision on compulsory fines to ensure compliance with an emergency decision made pursuant to article 66 no. 1. The provision only authorizes decisions on compulsory fines to ensure compliance with orders in non-cross-border cases.
+Meta Ireland and Facebook Norway are successful in their appeal.
+Conclusion
+The Norwegian Data Protection Authority's decision to impose compulsory fines on Meta Ireland and Facebook Norway is revoked.
+The decision is unanimous.
+Oslo, 18 June 2024
+Mari Bø Haugstad
+Manager
+
+Retrieved from "[https://gdprhub.eu/index.php?title=Personvernnemnda\_(Norway)\_-\_PVN-2024-04&oldid=41897](https://gdprhub.eu/index.php?title=Personvernnemnda_\(Norway\)_-_PVN-2024-04&oldid=41897)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [Personvernnemnda (Norway)](/index.php?title=Category:Personvernnemnda_\(Norway\) "Category:Personvernnemnda (Norway)")
+*   [Norway](/index.php?title=Category:Norway "Category:Norway")
+*   [Article 6(1)(b) GDPR](/index.php?title=Category:Article_6\(1\)\(b\)_GDPR "Category:Article 6(1)(b) GDPR")
+*   [Article 6(1)(f) GDPR](/index.php?title=Category:Article_6\(1\)\(f\)_GDPR "Category:Article 6(1)(f) GDPR")
+*   [Article 58(2)(f) GDPR](/index.php?title=Category:Article_58\(2\)\(f\)_GDPR "Category:Article 58(2)(f) GDPR")
+*   [Article 61(1) GDPR](/index.php?title=Category:Article_61\(1\)_GDPR "Category:Article 61(1) GDPR")
+*   [Article 66(1) GDPR](/index.php?title=Category:Article_66\(1\)_GDPR "Category:Article 66(1) GDPR")
+*   [2024](/index.php?title=Category:2024 "Category:2024")
+*   [Norwegian](/index.php?title=Category:Norwegian "Category:Norwegian")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/Personvernnemnda_\(Norway\)_-_PVN-2024-04 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/Personvernnemnda_\(Norway\)_-_PVN-2024-04 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=Personvernnemnda_\(Norway\)_-_PVN-2024-04&oldid=41897 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=Personvernnemnda_\(Norway\)_-_PVN-2024-04&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=Personvernnemnda_%28Norway%29_-_PVN-2024-04&id=41897&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 8 July 2024, at 13:24.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.046","walltime":"0.062","ppvisitednodes":{"value":494,"limit":1000000},"postexpandincludesize":{"value":3629,"limit":2097152},"templateargumentsize":{"value":1824,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":49199,"limit":5000000},"timingprofile":\["100.00% 7.375 1 Template:COURTdecisionBOX","100.00% 7.375 1 -total"\]},"cachereport":{"timestamp":"20250829191906","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":827});});

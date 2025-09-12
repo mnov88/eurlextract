@@ -1,0 +1,222 @@
+ ANSPDCP (Romania) - 03.11.2023 - GDPRhub document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy","wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"8ab30cc83cd01a738afd03b2","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ANSPDCP\_(Romania)\_-\_03.11.2023","wgTitle":"ANSPDCP (Romania) - 03.11.2023","wgCurRevisionId":38572,"wgRevisionId":38572,"wgArticleId":6437,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["ANSPDCP (Romania)","Romania","Article 32 GDPR","Article 33 GDPR","Romanian"\],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"ANSPDCP\_(Romania)\_-\_03.11.2023","wgRelevantArticleId":6437,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgEditSubmitButtonLabelPublish":false}; RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.button":"ready","skins.chameleon":"ready","zzz.ext.bootstrap.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready"};RLPAGEMODULES=\["site","mediawiki.page.ready","mediawiki.toc","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.bootstrap.scripts"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});});});                    
+
+[![GDPRhub](/images/gdprhub_v5_150.png)](/index.php?title=Welcome_to_GDPRhub "Visit the main page")
+
+[![Banner2.png](/images/5/57/Banner2.png)](https://gdprhub.eu/index.php?title=GDPRtoday)
+
+[Start Page](/index.php?title=Welcome_to_GDPRhub)
+
+[Advanced Search](/index.php?title=Advanced_Search)
+
+[Get Case Updates!](#)
+
+[Get GDPRtoday!](/index.php?title=GDPRtoday)
+
+[LinkedIn](https://www.linkedin.com/showcase/gdprhub)
+
+[Mastodon](https://mastodon.social/@GDPRhub)
+
+[X / Twitter](https://www.twitter.com/GDPRhub)
+
+[RSS feed](https://gdprhub.eu/index.php?title=Special:NewPages&feed=atom&hideredirs=1&limit=10&render=1)
+
+[Start contributing!](#)
+
+[Add a decision](/index.php?title=How_to_add_a_new_decision)
+
+[Edit a page](/index.php?title=How_to_edit_a_page_on_GDPRhub)
+
+[Style Guide](/index.php?title=GDPRhub_style_guide)
+
+[Country Reporter](https://gdprmgmt.noyb.eu/become_country_reporter)
+
+[Send a hint!](mailto:GDPRhub@noyb.eu?subject=GDPRhub%20-%20hint&body=Thank%20you%20for%20sending%20us%20a%20hint!%0A%0AIf%20you%20want%20to%20send%20us%20details%20about%20a%20case%20that%20is%20not%20on%20GDPRhub%20yet%2C%20please%20fill%20out%20the%20form%20below!%0AIf%20you%20want%20to%20send%20us%20any%20other%20information%2C%20just%20delete%20this%20text.%0A%0A%3D%3D%3D%20General%20Details%20%3D%3D%3D%0A%0ALink%20to%20the%20decision%20\(attach%20document%20if%20not%20public\)%3A%0ADPA%2FCourt%3A%0ACountry%3A%0ADate%3A%0A%0A%3D%3D%3D%20Factual%20Summary%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20happened%20in%20this%20case%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Dispute%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20was%20the%20core%20dispute%20about%3F%0A%0A%3D%3D%3D%20Summary%20of%20the%20Holding%20in%20English%20%3D%3D%3D%0A%0A-%3E%20What%20is%20the%20core%20take%20away%20from%20the%20decision%3F%0A%0A%0AThank%20you%20for%20your%20support!%0Anoyb.eu%20team)
+
+[Sponsorship](/index.php?title=GDPRhub_Sponsorship)
+
+[About GDPRhub](#)
+
+[About us](/index.php?title=About_GDPRhub)
+
+[Visit noyb.eu](https://www.noyb.eu)
+
+[Support us!](https://www.noyb.eu/support)
+
+[](# "Page tools")
+
+[Discussion](/index.php?title=Talk:ANSPDCP_\(Romania\)_-_03.11.2023&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+
+[View source](/index.php?title=ANSPDCP_\(Romania\)_-_03.11.2023&action=edit "This page is protected.
+You can view its source [e]")
+
+[View history](/index.php?title=ANSPDCP_\(Romania\)_-_03.11.2023&action=history "Past revisions of this page [h]")
+
+[](# "You are not logged in.")
+
+[Log in](/index.php?title=Special:UserLogin&returnto=ANSPDCP+%28Romania%29+-+03.11.2023&returntoquery=oldid%3D38572 "You are encouraged to log in; however, it is not mandatory [o]")
+
+# ANSPDCP (Romania) - 03.11.2023
+
+From GDPRhub
+
+Revision as of 15:14, 13 December 2023 by [Ar](/index.php?title=User:Ar&action=edit&redlink=1 "User:Ar (page does not exist)") ([talk](/index.php?title=User_talk:Ar&action=edit&redlink=1 "User talk:Ar (page does not exist)") | [contribs](/index.php?title=Special:Contributions/Ar "Special:Contributions/Ar")) (Ar moved page [ANSPDCP (Romania) - 3.11.2023](/index.php?title=ANSPDCP_\(Romania\)_-_3.11.2023 "ANSPDCP (Romania) - 3.11.2023") to [ANSPDCP (Romania) - 03.11.2023](/index.php?title=ANSPDCP_\(Romania\)_-_03.11.2023 "ANSPDCP (Romania) - 03.11.2023"))
+
+([diff](/index.php?title=ANSPDCP_\(Romania\)_-_03.11.2023&diff=prev&oldid=38572 "ANSPDCP (Romania) - 03.11.2023")) [← Older revision](/index.php?title=ANSPDCP_\(Romania\)_-_03.11.2023&direction=prev&oldid=38572 "ANSPDCP (Romania) - 03.11.2023") | Latest revision (diff) | Newer revision → (diff)
+
+Jump to:[navigation](#mw-navigation), [search](#p-search)
+
+ANSPDCP - 3.11.2023
+
+[![LogoRO.jpg](/images/c/c2/LogoRO.jpg)](/index.php?title=File:LogoRO.jpg)
+
+Authority:
+
+[ANSPDCP (Romania)](/index.php?title=ANSPDCP_\(Romania\) "ANSPDCP (Romania)")
+
+Jurisdiction:
+
+[Romania](/index.php?title=Category:Romania "Category:Romania")
+
+Relevant Law:
+
+[Article 32 GDPR](/index.php?title=Article_32_GDPR "Article 32 GDPR")  
+[Article 33 GDPR](/index.php?title=Article_33_GDPR "Article 33 GDPR")
+
+Type:
+
+Investigation
+
+Outcome:
+
+Violation Found
+
+Started:
+
+Decided:
+
+Published:
+
+Fine:
+
+3000 EUR
+
+Parties:
+
+n/a
+
+National Case Number/Name:
+
+3.11.2023 European Case Law Identifier:
+
+n/a
+
+Appeal:
+
+n/a
+
+Original Language(s):
+
+[Romanian](/index.php?title=Category:Romanian "Category:Romanian")
+
+Original Source:
+
+[Romanian DPA (in RO)](https://www.dataprotection.ro/?page=Comunicat_Presa_03_11_2023&lang=ro)
+
+Initial Contributor:
+
+maxinescu
+
+OTP Bank Romania SA, a Romanian financial institution was sanctioned with a fine of EUR 3,000 for the failure to adopt technical and organizational measures under [Article 32 GDPR](/index.php?title=Article_32_GDPR "Article 32 GDPR") and with a warning for the failure to notify a data breach under [Article 33 GDPR](/index.php?title=Article_33_GDPR "Article 33 GDPR").
+
+## Contents
+
+*   [1 English Summary](#English_Summary)
+    *   [1.1 Facts](#Facts)
+    *   [1.2 Holding](#Holding)
+*   [2 Comment](#Comment)
+*   [3 Further Resources](#Further_Resources)
+*   [4 English Machine Translation of the Decision](#English_Machine_Translation_of_the_Decision)
+
+## English Summary
+
+### Facts
+
+The Romanian DPA initiated an investigation following the receiving of a complaint, investigation which was finalized in October 2023. During the investigation, the DPA found that personal data pertaining to a petitioner were sent by e-mail to another individual. The DPA considered that the controller did not adopt sufficient security measures in accordance with [Article 32 GDPR](/index.php?title=Article_32_GDPR "Article 32 GDPR"), situation which led to the occurrence of a data breach which affected the personal data of the petitioner. Also, the DPA found that the financial institution failed to notify the respective data breach to the DPA, in violation of [Article 33 GDPR](/index.php?title=Article_33_GDPR "Article 33 GDPR").
+
+### Holding
+
+The DPA imposed a fine of EUR 3,0000 for breach of [Article 32 GDPR](/index.php?title=Article_32_GDPR "Article 32 GDPR") and a warning for breach of [Article 33 GDPR](/index.php?title=Article_33_GDPR "Article 33 GDPR"). Also, the DPA imposed corrective measures to the financial institution in order to ensure compliance of data processing operations with GDPR, as follows: (a) to implement technical and organizational security measures appropriate to the specifics of the processing and the risks identified, throughout the data processing cycle, in particular in terms of verifying the accuracy of the processed personal data, establishing appropriate rules related to the drafting and management of files that can be transmitted using electronic means of communication (remote), training of personnel processing personal data on behalf and under the authority of the financial institution, regular verification of compliance with instructions given to said personnel, automation of certain processes to reduce the risks of unlawful or unauthorized processing of personal data; and (b) to adopt internal measures necessary for the rapid detection, management and reporting of personal data breaches (whether or not they require notification to the supervisory authority and/or data subjects), as well as by appropriate and regular training of personnel acting on behalf and under the authority of the controller.
+
+## Comment
+
+Unfortunately, the Romanian DPA does not publish its full decisions.
+
+## Further Resources
+
+_Share blogs or news articles here!_
+
+## English Machine Translation of the Decision
+
+The decision below is a machine translation of the Romanian original. Please refer to the Romanian original for more details.
+
+03.11.2023 Penalty for GDPR violation
+
+In October 2023, the National Supervisory Authority for the Processing of Personal Data completed an investigation at the operator OTP BANK ROMANIA SA and found a violation of the provisions of art. 32 and art. 33 of Regulation (EU) 2016/679.
+
+As such, the operator was penalized:
+
+with a fine of 14,889.3 lei (the equivalent of 3,000 EURO), for violating art. 32 of Regulation (EU) 2016/679; with a warning for violating art. 33 of Regulation (EU) 2016/679.
+
+During the investigation carried out by the Supervisory Authority, an investigation carried out on the basis of a complaint, it was found that the operator did not adopt sufficient security measures according to art. 32 of the RGPD, which led to the security incident, by sending the personal data of the petitioner to another person by e-mail.
+
+At the same time, it was found that OTP Bank România SA did not notify the National Authority for the Supervision of Personal Data Processing of the security incident that affected the petitioner's personal data, thus violating art. 33 of the GDPR.
+
+The National Supervisory Authority for the Processing of Personal Data also applied corrective measures, ordering the operator the following:
+
+to ensure compliance with GDPR of personal data processing operations, by implementing technical and organizational security measures appropriate to the specifics of the processing and identified risks, throughout the data processing cycle, especially in terms of verifying the accuracy of processed personal data, of establishing appropriate rules related to the drafting and management of files that can be transmitted through the use of electronic means of communication (at a distance), of training the persons who process data under his authority, of regularly checking compliance with the instructions sent to them, of automating certain processes through to reduce the risks of illegal or unauthorized processing of personal data; to ensure compliance with GDPR of personal data processing operations, by adopting internal measures necessary for the rapid detection, management and reporting of personal data security breaches, (regardless of whether or not it would require notification to the supervisory authority and/or data subjects) as well as through appropriate and regular training of persons who process data under the authority of the operator.
+
+Legal and Communication Department
+
+A.N.S.P.D.C.P.
+
+Retrieved from "[https://gdprhub.eu/index.php?title=ANSPDCP\_(Romania)\_-\_03.11.2023&oldid=38572](https://gdprhub.eu/index.php?title=ANSPDCP_\(Romania\)_-_03.11.2023&oldid=38572)"
+
+[Categories](/index.php?title=Special:Categories "Special:Categories"):
+
+*   [ANSPDCP (Romania)](/index.php?title=Category:ANSPDCP_\(Romania\) "Category:ANSPDCP (Romania)")
+*   [Romania](/index.php?title=Category:Romania "Category:Romania")
+*   [Article 32 GDPR](/index.php?title=Category:Article_32_GDPR "Category:Article 32 GDPR")
+*   [Article 33 GDPR](/index.php?title=Category:Article_33_GDPR "Category:Article 33 GDPR")
+*   [Romanian](/index.php?title=Category:Romanian "Category:Romanian")
+
+[Tools](#)
+
+[What links here](/index.php?title=Special:WhatLinksHere/ANSPDCP_\(Romania\)_-_03.11.2023 "A list of all wiki pages that link here [j]")
+
+[Related changes](/index.php?title=Special:RecentChangesLinked/ANSPDCP_\(Romania\)_-_03.11.2023 "Recent changes in pages linked from this page [k]")
+
+[Special pages](/index.php?title=Special:SpecialPages "A list of all special pages [q]")
+
+[Printable version](javascript:print\(\); "Printable version of this page [p]")
+
+[Permanent link](/index.php?title=ANSPDCP_\(Romania\)_-_03.11.2023&oldid=38572 "Permanent link to this revision of this page")
+
+[Page information](/index.php?title=ANSPDCP_\(Romania\)_-_03.11.2023&action=info "More information about this page")
+
+[Cite this page](/index.php?title=Special:CiteThisPage&page=ANSPDCP_%28Romania%29_-_03.11.2023&id=38572&wpFormIdentifier=titleform "Information on how to cite this page")
+
+This page was last edited on 13 December 2023, at 15:14.
+
+Content is available under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+
+[Privacy policy](/index.php?title=GDPRhub:Privacy_policy)
+
+[About GDPRhub](/index.php?title=GDPRhub:About)
+
+[Disclaimers](/index.php?title=GDPRhub:General_disclaimer)
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike](/resources/assets/licenses/cc-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.045","walltime":"0.061","ppvisitednodes":{"value":413,"limit":1000000},"postexpandincludesize":{"value":1219,"limit":2097152},"templateargumentsize":{"value":418,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2469,"limit":5000000},"timingprofile":\["100.00% 8.701 1 Template:DPAdecisionBOX","100.00% 8.701 1 -total"\]},"cachereport":{"timestamp":"20250829203002","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":757});});

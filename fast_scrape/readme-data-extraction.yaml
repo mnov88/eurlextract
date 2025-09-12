@@ -1,0 +1,85 @@
+### Quick manual: CSV/JSON enrichment utilities
+
+Location:
+- `fast_scrape/scripts/enrich_with_sector_mapping.py`
+- `fast_scrape/scripts/build_sector_mapping_from_csv.py`
+
+## Enrich CSV from JSON mapping
+Adds sector columns to a CSV by joining on an `id` column.
+
+- Run:
+```bash
+python3 fast_scrape/scripts/enrich_with_sector_mapping.py \
+  --input fast_scrape/authorities_summary.csv \
+  --mapping fast_scrape/organized_mt/sector-mappings.json \
+  --output fast_scrape/authorities_summary_enriched.csv \
+  --fill-unknown
+```
+
+- Arguments:
+  - **--input**: path to input CSV (must contain `id`).
+  - **--mapping**: path to JSON array of objects with `id` and fields.
+  - **--output**: path to write enriched CSV.
+  - **--id-column**: name of ID column in CSV (default: `id`).
+  - **--fields**: fields to copy from JSON (default: `type type_confidence core_activity core_activity_confidence size size_confidence`).
+  - **--prefix**: prefix for new columns (default: `sector_`).
+  - **--fill-unknown**: fill non-matched IDs with `Unknown` (otherwise empty).
+
+- Examples:
+  - Authorities:
+    ```bash
+    python3 fast_scrape/scripts/enrich_with_sector_mapping.py \
+      --input fast_scrape/authorities_summary.csv \
+      --mapping fast_scrape/organized_mt/sector-mappings.json \
+      --output fast_scrape/authorities_summary_enriched.csv \
+      --fill-unknown
+    ```
+  - Courts:
+    ```bash
+    python3 fast_scrape/scripts/enrich_with_sector_mapping.py \
+      --input fast_scrape/courts_summary.csv \
+      --mapping fast_scrape/organized_mt/sector-mappings.json \
+      --output fast_scrape/courts_summary_enriched.csv
+    ```
+
+- Notes:
+  - New columns added: `sector_type`, `sector_type_confidence`, `sector_core_activity`, `sector_core_activity_confidence`, `sector_size`, `sector_size_confidence` (unless you override with `--fields`).
+  - If the JSON updates, just rerun this command to refresh the enriched CSV.
+
+## Build/refresh JSON mapping from enriched CSVs
+Creates or updates a JSON mapping by reading `sector_*` columns from one or more CSVs.
+
+- Run:
+```bash
+python3 fast_scrape/scripts/build_sector_mapping_from_csv.py \
+  --inputs fast_scrape/authorities_summary_enriched.csv fast_scrape/courts_summary_enriched.csv \
+  --output fast_scrape/organized_mt/sector-mappings.json
+```
+
+- Arguments:
+  - **--inputs**: one or more enriched CSVs (must include `id` and `sector_*` columns).
+  - **--output**: JSON file to write (array of objects keyed by `id`).
+  - **--prefix**: sector column prefix in CSVs (default: `sector_`).
+  - **--fields**: field names to extract without prefix (default: `type type_confidence core_activity core_activity_confidence size size_confidence`).
+
+- Behavior:
+  - Merges rows by `id`.
+  - If the same `id` appears in multiple CSVs, values from later CSVs override earlier ones.
+  - Attempts to cast `*_confidence` fields to integers.
+
+## Common workflows
+- JSON changed → refresh enriched CSV:
+  ```bash
+  python3 fast_scrape/scripts/enrich_with_sector_mapping.py --input fast_scrape/authorities_summary.csv --mapping fast_scrape/organized_mt/sector-mappings.json --output fast_scrape/authorities_summary_enriched.csv --fill-unknown
+  ```
+- Update JSON from latest enriched CSVs:
+  ```bash
+  python3 fast_scrape/scripts/build_sector_mapping_from_csv.py --inputs fast_scrape/authorities_summary_enriched.csv fast_scrape/courts_summary_enriched.csv --output fast_scrape/organized_mt/sector-mappings.json
+  ```
+
+## Troubleshooting
+- Missing `id` column: ensure the CSV includes `id` (e.g., `DE_1`).
+- “File not found”: check paths; run from the repo root as shown.
+- Python not found: use `python3`.
+
+Want me to add a makefile or a single wrapper script to run both steps in sequence? 😊

@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EU Case Law XML Extractor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>EU Case Law XML Extractor</h1>
+            <p class="header-subtitle">Extract and parse CELLAR/EurLex case law notices from XML documents</p>
+        </header>
+
+        <main class="main-content">
+            <!-- XML Input Section -->
+            <section class="card input-section">
+                <div class="card__header">
+                    <h2>XML Input</h2>
+                    <div class="tab-navigation">
+                        <button class="btn btn--outline tab-btn active" data-tab="paste-tab">Paste XML</button>
+                        <button class="btn btn--outline tab-btn" data-tab="upload-tab">Upload File</button>
+                    </div>
+                </div>
+                <div class="card__body">
+                    <!-- Paste Tab -->
+                    <div id="paste-tab" class="tab-content active">
+                        <label class="form-label" for="xml-textarea">Paste CELLAR/EurLex case law XML content:</label>
+                        <textarea id="xml-textarea" class="form-control xml-input" placeholder="Paste your case law XML content here..." rows="8"></textarea>
+                    </div>
+                    
+                    <!-- Upload Tab -->
+                    <div id="upload-tab" class="tab-content hidden">
+                        <label class="form-label" for="xml-file">Select XML file:</label>
+                        <input type="file" id="xml-file" class="form-control" accept=".xml,text/xml,application/xml">
+                        <div class="upload-status" id="upload-status"></div>
+                    </div>
+                    
+                    <div class="input-actions">
+                        <button id="extract-btn" class="btn btn--primary">Extract Case Law Data</button>
+                        <button id="clear-btn" class="btn btn--outline">Clear</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Language Selection Panel -->
+            <section class="card language-panel hidden" id="language-panel">
+                <div class="card__header">
+                    <h2>Language Settings</h2>
+                    <div class="language-status" id="language-status">
+                        <span class="status status--info">Languages will be detected after extraction</span>
+                    </div>
+                </div>
+                <div class="card__body">
+                    <div class="language-controls">
+                        <div class="form-group">
+                            <label class="form-label" for="language-selector">Select preferred language:</label>
+                            <select id="language-selector" class="form-control" disabled>
+                                <option value="">Auto-detect from content</option>
+                            </select>
+                        </div>
+                        <div class="available-languages" id="available-languages">
+                            <span class="form-label">Available languages will appear here after extraction</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Search/Filter Section -->
+            <section class="card search-section hidden" id="search-section">
+                <div class="card__body">
+                    <div class="search-controls">
+                        <input type="text" id="search-input" class="form-control" placeholder="Search extracted case law data...">
+                        <button id="search-btn" class="btn btn--secondary">Search</button>
+                        <button id="clear-search-btn" class="btn btn--outline">Clear</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Loading State -->
+            <div id="loading-state" class="loading-state hidden">
+                <div class="loading-spinner"></div>
+                <p>Processing case law XML document...</p>
+            </div>
+
+            <!-- Error State -->
+            <div id="error-state" class="error-state hidden">
+                <div class="status status--error">
+                    <span id="error-message"></span>
+                </div>
+            </div>
+
+            <!-- Navigation Panel -->
+            <nav class="nav-panel hidden" id="nav-panel">
+                <h3>Extracted Sections</h3>
+                <ul class="nav-list">
+                    <li><a href="#identifiers-section" class="nav-link">Identifiers <span class="count-badge" id="nav-identifiers">0</span></a></li>
+                    <li><a href="#title-parties-section" class="nav-link">Title & Parties <span class="count-badge" id="nav-title">0</span></a></li>
+                    <li><a href="#dates-section" class="nav-link">Dates <span class="count-badge" id="nav-dates">0</span></a></li>
+                    <li><a href="#court-section" class="nav-link">Court & Procedure <span class="count-badge" id="nav-court">0</span></a></li>
+                    <li><a href="#judges-section" class="nav-link">Judges & AG <span class="count-badge" id="nav-judges">0</span></a></li>
+                    <li><a href="#legislation-section" class="nav-link">Interpreted Legislation <span class="count-badge" id="nav-legislation">0</span></a></li>
+                    <li><a href="#citations-section" class="nav-link">Citations & Sources <span class="count-badge" id="nav-citations">0</span></a></li>
+                    <li><a href="#subject-section" class="nav-link">Subject Matter <span class="count-badge" id="nav-subject">0</span></a></li>
+                    <li><a href="#academic-section" class="nav-link">Academic Articles <span class="count-badge" id="nav-academic">0</span></a></li>
+                    <li><a href="#metadata-section" class="nav-link">Metadata <span class="count-badge" id="nav-metadata">0</span></a></li>
+                </ul>
+            </nav>
+
+            <!-- Results Section -->
+            <div id="results-section" class="results-section hidden">
+                <div class="results-header">
+                    <h2>Case Law Extraction Results</h2>
+                    <div class="results-actions">
+                        <button id="export-btn" class="btn btn--secondary">Export JSON</button>
+                        <button id="copy-all-btn" class="btn btn--outline">Copy All</button>
+                    </div>
+                </div>
+
+                <!-- Summary Dashboard -->
+                <div class="summary-dashboard">
+                    <div class="summary-card">
+                        <h4>Case Summary</h4>
+                        <div class="summary-item">
+                            <strong>ECLI:</strong> <span id="summary-ecli">Not found</span>
+                        </div>
+                        <div class="summary-item">
+                            <strong>Case Number:</strong> <span id="summary-case-number">Not found</span>
+                        </div>
+                        <div class="summary-item">
+                            <strong>Judgment Date:</strong> <span id="summary-judgment-date">Not found</span>
+                        </div>
+                        <div class="summary-item">
+                            <strong>Court:</strong> <span id="summary-court">Not found</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Identifiers Section -->
+                <div class="card result-card" id="identifiers-section">
+                    <div class="card__header result-header">
+                        <h3>Identifiers <span class="court-badge" id="court-type-badge"></span></h3>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="identifiers-results">
+                        <div class="identifiers-grid">
+                            <div class="result-item">
+                                <strong>ECLI:</strong>
+                                <span id="ecli-value">Not found</span>
+                                <button class="copy-btn btn btn--sm" data-copy-text="">Copy</button>
+                            </div>
+                            <div class="result-item">
+                                <strong>CELEX:</strong>
+                                <span id="celex-value">Not found</span>
+                                <button class="copy-btn btn btn--sm" data-copy-text="">Copy</button>
+                            </div>
+                            <div class="result-item">
+                                <strong>Case Number:</strong>
+                                <span id="case-number-value">Not found</span>
+                                <button class="copy-btn btn btn--sm" data-copy-text="">Copy</button>
+                            </div>
+                            <div class="result-item">
+                                <strong>Court Code/Sector:</strong>
+                                <span id="court-sector-value">Not found</span>
+                                <button class="copy-btn btn btn--sm" data-copy-text="">Copy</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Title & Parties Section -->
+                <div class="card result-card" id="title-parties-section">
+                    <div class="card__header result-header">
+                        <h3>Title & Parties <div class="language-indicators" id="title-languages"></div></h3>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="title-parties-results">
+                        <div class="result-item">
+                            <strong>Case Title:</strong>
+                            <div id="title-values" class="multilingual-values">Not found</div>
+                            <button class="copy-btn btn btn--sm" data-copy="title-values">Copy</button>
+                        </div>
+                        <div class="result-item">
+                            <strong>Parties:</strong>
+                            <div id="parties-values" class="multilingual-values">Not found</div>
+                            <button class="copy-btn btn btn--sm" data-copy="parties-values">Copy</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Dates Section -->
+                <div class="card result-card" id="dates-section">
+                    <div class="card__header result-header">
+                        <h3>Key Dates</h3>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="dates-results">
+                        <div class="dates-grid">
+                            <div class="result-item">
+                                <strong>Judgment Date:</strong>
+                                <span id="judgment-date">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Request Date:</strong>
+                                <span id="request-date">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Creation Date:</strong>
+                                <span id="creation-date">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Last Modified:</strong>
+                                <span id="last-modified">Not found</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Court & Procedure Section -->
+                <div class="card result-card" id="court-section">
+                    <div class="card__header result-header">
+                        <h3>Court & Procedure <span class="procedure-badge" id="procedure-badge"></span></h3>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="court-results">
+                        <div class="court-grid">
+                            <div class="result-item">
+                                <strong>Court:</strong>
+                                <span id="court-name">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Procedure Type:</strong>
+                                <span id="procedure-type">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Procedure Language:</strong>
+                                <span id="procedure-language">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Origin Country:</strong>
+                                <span id="origin-country">Not found</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Judges & AG Section -->
+                <div class="card result-card" id="judges-section">
+                    <div class="card__header result-header">
+                        <h3>Judges & Advocate General <span class="ag-badge" id="ag-badge"></span></h3>
+                        <span class="count-badge" id="judges-count">0 found</span>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="judges-results">
+                        <div class="judges-container">
+                            <div class="judge-category">
+                                <h4>Judges</h4>
+                                <div id="judges-list" class="officials-list">No judges found</div>
+                            </div>
+                            <div class="judge-category">
+                                <h4>Advocate General</h4>
+                                <div id="ag-list" class="officials-list">No AG found</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Interpreted Legislation Section -->
+                <div class="card result-card" id="legislation-section">
+                    <div class="card__header result-header">
+                        <h3>Interpreted Legislation</h3>
+                        <span class="count-badge" id="legislation-count">0 found</span>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="legislation-results">
+                        <div id="legislation-table-container">
+                            <table class="legislation-table">
+                                <thead>
+                                    <tr>
+                                        <th>CELEX ID</th>
+                                        <th>Original Reference</th>
+                                        <th>Parsed Reference</th>
+                                        <th>Type</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="legislation-tbody">
+                                    <tr>
+                                        <td colspan="5" class="no-data">No interpreted legislation found</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Citations & Sources Section -->
+                <div class="card result-card" id="citations-section">
+                    <div class="card__header result-header">
+                        <h3>Citations & Sources</h3>
+                        <span class="count-badge" id="citations-count">0 found</span>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="citations-results">
+                        <div class="citations-categories">
+                            <div class="citation-category">
+                                <h4>Case Law Citations (CELEX)</h4>
+                                <div id="case-citations" class="citation-list">No case citations found</div>
+                            </div>
+                            <div class="citation-category">
+                                <h4>Case Law Citations (ECLI)</h4>
+                                <div id="ecli-citations" class="citation-list">No ECLI citations found</div>
+                            </div>
+                            <div class="citation-category">
+                                <h4>Journal Articles</h4>
+                                <div id="journal-citations" class="citation-list">No journal articles found</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Subject Matter Section -->
+                <div class="card result-card" id="subject-section">
+                    <div class="card__header result-header">
+                        <h3>Subject Matter</h3>
+                        <span class="count-badge" id="subject-count">0 found</span>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="subject-results">
+                        <div class="subject-categories">
+                            <div class="subject-category">
+                                <h4>Primary Subject Matter</h4>
+                                <div id="primary-subject" class="subject-list">No primary subject found</div>
+                            </div>
+                            <div class="subject-category">
+                                <h4>Eurovoc Keywords</h4>
+                                <div id="eurovoc-keywords" class="subject-list">No keywords found</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Academic Articles Section -->
+                <div class="card result-card" id="academic-section">
+                    <div class="card__header result-header">
+                        <h3>Academic Articles</h3>
+                        <span class="count-badge" id="academic-count">0 found</span>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="academic-results">
+                        <div id="academic-articles" class="academic-list">No academic articles found</div>
+                    </div>
+                </div>
+
+                <!-- Additional Metadata Section -->
+                <div class="card result-card" id="metadata-section">
+                    <div class="card__header result-header">
+                        <h3>Additional Metadata</h3>
+                        <button class="toggle-btn" aria-label="Toggle section">−</button>
+                    </div>
+                    <div class="card__body result-content" id="metadata-results">
+                        <div class="metadata-grid">
+                            <div class="result-item">
+                                <strong>Sector:</strong>
+                                <span id="sector-value">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Version:</strong>
+                                <span id="version-value">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Languages:</strong>
+                                <span id="languages-value">Not found</span>
+                            </div>
+                            <div class="result-item">
+                                <strong>Build Info:</strong>
+                                <span id="build-info-value">Not found</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
