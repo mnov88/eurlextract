@@ -1,7 +1,7 @@
 # Processed: MT_Datatilsynet_Norway_-_18_02579.md
 
-**Original file:** D:\aidpas\eurlextract\testingMD\MT_Datatilsynet_Norway_-_18_02579.md
-**Processed at:** 2025-09-12 15:00:09
+**Original file:** D:\aidpas\eurlextract\fast_scrape\organized_mt\authorities\Norway\MT_Datatilsynet_Norway_-_18_02579.md
+**Processed at:** 2025-09-12 15:06:42
 
 ---
 
